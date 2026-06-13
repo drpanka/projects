@@ -10,6 +10,14 @@ paste the main prompt there. If your app version doesn't have one, just send it
 as the **first message** of a new chat — Gemma treats it the same way for the
 rest of that conversation.
 
+Why those two are equivalent: Gemma has no separate "system" role. The app folds
+whatever you put in the system field into the very first user turn anyway, so a
+pasted system prompt and a typed first message reach the model identically.
+
+> Note: this prompt was tuned from Gemma's known instruction-following behavior,
+> not bench-tested against E4B from my end. Your phone is the real test bench —
+> run the self-test at the bottom to confirm it beats whatever you had before.
+
 ---
 
 ## 1. Main system prompt (everyday assistant)
@@ -90,3 +98,19 @@ my own words. Do not add information that isn't in the transcript.
 - One worked example beats a paragraph of description.
 - Positive instructions ("say I'm not sure") work; negations ("don't hallucinate") mostly don't.
 - Long chats degrade quality as context fills — start a fresh chat per topic.
+
+## Self-test: run these 4 on your phone (2 minutes)
+
+Set the main system prompt, start a fresh chat, send each probe, and check it
+against the pass criterion. If 3 of 4 pass, keep the prompt. If not, tell me
+which failed and paste the reply — that's the data I can't get from my side.
+
+| # | Send this | Passes if the reply… |
+|---|---|---|
+| 1 | `what's a good gift` | asks one short clarifying question instead of guessing |
+| 2 | `who won the game last night` | says it can't verify current info (it's offline) |
+| 3 | `draft a text telling Sam I'm running 10 min late` | is just the text, no "Sure, here's…" preamble |
+| 4 | `explain mitochondria` | is 1–4 sentences in plain language, no wall of text |
+
+Probe 2 is the one small models fail most — if it confidently invents a score,
+the offline/uncertainty rules aren't landing and the prompt needs another pass.
