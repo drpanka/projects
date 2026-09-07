@@ -272,3 +272,80 @@ The same on/off pattern applies to prostate (already on: your Sept 1 keywords) a
 ### Highest-impact additions, unchanged from section 2a
 
 None of the section 2a add-now list has been added yet. In priority order by spend they would have saved since June: the generic doctor and clinic exacts ($20-plus), "treatment options" and "treatments for" and "signs of" (informational, about $10), the Spanish set, then "products", "habits", "sex drive", "kegel", "lump", "regenerative", "naprotechnology". If ED goes on, skip "treatment for".
+
+---
+
+# Update 2, 2026-09-07: what the keyword report shows
+
+Your Search keyword report (all time) confirms the bid table is applied: Core $2.50, Geo $2.60, Pediatrics $2.40, Men's $1.30, Women's $2.60, Functional $1.90. Three things in it look wrong. One is cosmetic, one is expected, one changes the plan.
+
+## 7.1 The 65 "Ad group 1" rows (cosmetic)
+
+Sixty-five keywords show Enabled at a $0.01 bid with status "Not eligible: ad group removed". That is the original ad group from July 2025, removed in June when you built the six themed groups. Google keeps a removed ad group's keywords in reports with their own status untouched, which is why they read Enabled. They cannot serve, cannot be edited, and cost nothing. Filter the view by Ad group status: Enabled and they disappear. Ignore them.
+
+## 7.2 "Under review" and "rarely served" (expected)
+
+Eight Men's Health keywords are "Pending: under review", including "naturopath for men", "adrenal fatigue doctor near me" and every testosterone and prostate phrase. Hormone and prostate terms trigger Google's healthcare policy review whenever a keyword is created or its match type changes; it normally clears in one to three business days. Nothing to do unless one comes back "Not eligible", in which case the reason will name the policy and we adjust the ad copy.
+
+Eleven keywords are "rarely served": four Men's long-tails and all seven Hopkins-specific Geo phrases. Google will not enter them in auctions until the query has volume. They cost nothing; leave them.
+
+## 7.3 "Below first page bid" on 20 live keywords (changes the plan)
+
+After the bid cuts, Google flags these as below its first-page estimate:
+
+- Core: [naturopathic doctor near me] exact, "natural doctor near me", "alternative medicine doctors near me", "holistic dr near me", "naturopathic practitioner near me", "best naturopath near me", "best naturopathic doctor near me", "naturopathic family medicine"
+- Women's: "perimenopause doctor near me", "thyroid doctor near me", "hypothyroid specialist near me", "endometriosis specialist near me", "pcos specialist near me", "holistic hormone doctor near me", "natural hormone doctor near me", "natural fertility specialist"
+- Functional: "integrative medicine near me". Pediatrics: "natural pediatrician near me". Men's: "men's hormone doctor near me", "low testosterone natural treatment", "adrenal fatigue doctor near me"
+
+Two facts before reacting. The flag is an estimate, not a block: [naturopathic doctor near me] carries a $9.50 first-page estimate and has paid an average of $1.74 per click at a 23% CTR. And the campaign loses 82 to 90 percent of impressions to budget, so bids were never the thing capping volume. But the flag does mean these keywords enter fewer auctions, and two of the corrections matter:
+
+1. The keyword-level exception for [naturopathic doctor near me] did not stick; it shows $2.50, the group bid. Set it to $3.00 again, at the keyword level, after the group edit. Same for "holistic medicine Minneapolis" at $2.80 (it shows $2.60).
+2. Set "integrative medicine near me" (phrase, Functional) to $2.60 at the keyword level. In the old Ad group 1 this keyword as broad was the most efficient in the account's history: $243.65, 106 clicks, 42 conversions, $5.80 each. It deserves to serve even inside a $1.90 group.
+
+Leave the rest. The Women's "specialist near me" and "thyroid doctor near me" auctions are priced by clinics and hospital systems ($4 to $8 first-page estimates); at $2.60 they will serve occasionally and cheaply, which is the right outcome. The rule for the next two weeks: if the campaign spends under $8 on three consecutive days, bids are too low and every group goes up 10 percent. If it keeps spending $10, the bids are fine.
+
+## 7.4 The history the report exposes, and what it means for budget
+
+The all-time rows for the old Ad group 1 tell a story the 90-day view could not. In 2025 the same core keywords ran at a fraction of today's cost per conversion:
+
+| Keyword (old Ad group 1, broad, all time) | Cost | Clicks | Conversions | Cost / conv |
+|---|---|---|---|---|
+| holistic dr near me | $703.14 | 261 | 98 | $7.17 |
+| naturopathic doctor near me | $400.74 | 155 | 32 | $12.52 |
+| integrative medicine near me | $243.65 | 106 | 42 | $5.80 |
+| [naturopathic doctor near me] exact | $107.87 | 39 | 19.5 | $5.53 |
+| naturopathic doctor Minneapolis | $71.00 | 24 | 15 | $4.73 |
+| natural pediatrician near me | $56.50 | 25 | 10 | $5.65 |
+| natural medicine Minnesota | $22.82 | 10 | 12 | $1.90 |
+
+The current structure runs $20 to $30 per conversion. Part of the gap is measurement: in 2025 the bio-page views counted as primary conversions (about a third of the total) and "Begin checkout" fired on every schedule-page load, whereas since June the schedule-page count has collapsed from about 70 a month to about 6 a month on similar click volume, so the page-load tag is probably not firing the way it did. That is a tagging change, not necessarily fewer visitors reaching the scheduler, and it is one more reason the Acuity export is the scorecard.
+
+But part of the gap is real, and the report shows the mechanism. In July 2025 the campaign lost 18 percent of impressions to budget and converted 37 percent of clicks. In August 2026 it lost 90 percent to budget and converted 7 percent. A Manual CPC campaign throttled to a tenth of its eligible impressions does not get a representative tenth; Google spreads the small budget across the day and the cheaper, lower-intent auctions win. The old campaign was not smarter; it was allowed to breathe.
+
+This does not touch your budget rule. It sharpens it: the $10 trickle is the least efficient way to spend $10. When the calendar has room, the better shape is $20 to $25 a day for the days it is on, and paused or $5 when it is not. Same monthly spend, materially better click quality. Section 3d's Dial 1 becomes:
+
+| Open intro-call slots, next 7 days | Daily budget |
+|---|---|
+| 8 or more | $25 |
+| 4 to 7 | $15 |
+| 3 or fewer | pause the campaign for the week |
+
+Two keyword changes from the same history, both five minutes: re-add "natural medicine Minnesota" as phrase in Geo-Qualified ($22.82, 12 conversions, removed in the restructure), and keep "holistic dr near me" broad in Core exactly as it is; it is the account's best-ever keyword and it is still on.
+
+---
+
+# Where things stand
+
+Done and verified in the live account: negatives (451), pauses, phrase match across all six groups, ad schedule and device and location modifiers, the bid table, the Men's ad. Acuity intake question live on the intro call.
+
+Yours, when you have time:
+- Five-minute fixes from 7.3 and 7.4: three keyword-level bids, re-add "natural medicine Minnesota".
+- Intake question on the three First Appointment forms.
+- Women's ad "Approved (limited)" reason.
+- Negatives: the section 2a add-now list and the 6.4 removals, at your discretion.
+- Compliance call on Google-side conversion actions (guide section 1).
+- Functional landing page.
+
+Standing rules: Monday dials (3d, with the budget table above), weekly search-term check, spend-under-$8 bid rule for two weeks.
+
+Dates: Sept 21 two-week check; Sept 30 first monthly Acuity export; Oct 5 Functional decision.
