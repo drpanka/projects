@@ -7,7 +7,7 @@ Sources: de-identified Acuity Scheduling export (86 appointments, booked 2026-05
 
 Booking activity does rise with ad spend. In the five weeks the campaign spent about $195 a week, self-booked intro calls ran 3.4 a week and new-patient first appointments 1.8 a week. In the eight weeks it spent about $38 a week, those were 1.5 and 0.9. At a $450 first visit that is roughly $210 of ad spend per incremental new patient, positive before any follow-up revenue. This is a weekly correlation over 14 summer weeks with small counts, not proof, but it points the same way as your perception.
 
-The reason Google Ads and GA4 cannot show this directly is a measurement break, not a campaign problem: the moment a visitor enters the Acuity scheduler, GA4 starts a new session attributed to your own site or to direct. Not one booking completed inside the scheduler since June is attributed to paid search. Fixing that is a 30-minute job and is the next step.
+The reason Google Ads and GA4 cannot show this directly is a measurement break, not a campaign problem: the moment a visitor enters the Acuity scheduler, GA4 starts a new session attributed to your own site or to direct. Not one booking completed inside the scheduler since June is attributed to paid search. The compliant way to close that gap keeps the data inside Acuity; see the attribution section.
 
 ## What the Acuity export shows
 
@@ -65,22 +65,37 @@ GA4 logged 117 purchase events for 80 Acuity bookings, so a single booking can f
 
 Of the 4 paid-search purchases GA4 does credit, 3 came from the brand campaign (PNHdefense, paused since late July after $158 spend and 66 clicks) and 1 from Leads-Search-1 (`hormone doctor near me`). The other 24 self-booked intro calls and first appointments in high-spend weeks have no source at all.
 
-Consequence for the Monday guide: step 1.3 (make "PNH2 (web) purchase" primary) is still right, but it will undercount until the handoff is fixed. Do not judge the campaign by that column yet.
+Consequence for the Monday guide: the Google Ads Conversions column cannot be used to judge bookings, and the attribution section below explains why it should not be made to.
 
 Appointment type 41826455: nearly every scheduler-path purchase carries it, and intro calls are the dominant self-booked type, so it is almost certainly the Introductory Phone Call. Confirm in Acuity under Appointment Types; the ID is in the URL.
 
-## Fixing attribution, in order
+## Attribution: what is compliant and what is not
 
-1. GA4 cross-domain, 10 minutes. Admin > Data streams > PNH2 web stream > Configure tag settings > Configure your domains > add `acuityscheduling.com`. This lets the Google tag pass the session across to the scheduler when the visitor arrives by a link.
-2. Send ad traffic through links, not the iframe, 15 minutes. The Google tag decorates links reliably and iframes unreliably. In Acuity, copy the direct scheduling link for the intro call (Appointment Types > the type > direct link; it will contain `appointmentType=41826455`). Point the three sitelinks that currently go to /schedule-an-appointment ("Free 10-Min Intro Call", "Become a New Patient", "MN & WI Telehealth Care") and the intro-call button on the home page at that link. Bookings then start in a session that still knows it came from google / cpc.
-3. Test once, 5 minutes. Open the site with `?utm_source=test&utm_medium=test` appended, click through to the scheduler, book and cancel a test intro call, then check GA4 Realtime for a purchase event whose source is `test`. If it shows `pankanaturalhealth.com / referral`, step 2 is not complete.
-4. Intake question, 5 minutes. Acuity > Intake Forms > add "How did you hear about us?" with options Google ad, Google search, referral from a friend or clinician, social media, other. Make it required on the intro call type. This is the only measure that survives every tracking gap, and it also separates the brand campaign and word of mouth from Leads-Search-1.
-5. GA4 unwanted referrals, 3 minutes. Same screen as step 1, "List unwanted referrals": add `ads.google.com` and `tagassistant.google.com`. Both show up as purchase sources in June and are your own testing.
+The earlier draft of this section proposed cross-domain measurement and direct Acuity links so that GA4 and Google Ads would credit bookings to paid search. That is withdrawn. Every version of it ends with Google receiving a "booking completed" event, including the appointment type, tied to a browser identifier, and Google does not sign a business associate agreement for Analytics or Ads. Whether HIPAA applies to a cash-pay practice is a question for your compliance advisor, but the Minnesota Health Records Act applies to every provider in the state, and the FTC has pursued non-HIPAA health businesses over the same pattern. The conservative reading is: do not send scheduling events to Google at all.
 
-After steps 1 and 2, GA4 purchase becomes a usable booking signal by source, and the Google Ads import of it becomes meaningful. That is when the Conversions column starts telling the truth.
+That reading also describes what is already happening today, before any change:
+
+| What Google currently receives | Where it comes from |
+|---|---|
+| GA4 `purchase` events from inside the scheduler, with `appointmentTypeIds` in the page path | Acuity's Google Analytics integration and the embedded scheduler pages |
+| GA4 `schedule_appointment` and `purchase` imported into Google Ads as conversions | Google Ads > Conversions (PNH2 web schedule_appointment, PNH2 web purchase) |
+| "Begin checkout" on page load of /schedule-an-appointment, page views of the two doctor bios and /whypnh | Google Ads codeless page-load conversion actions |
+| Ads click IDs and page paths for every visit | The Google tag on the site |
+
+None of this names a person, but it does tell Google that a given browser scheduled a specific appointment type with a specific provider. If your advisor says that is a problem, the cleanup is short: turn off the Google Analytics integration inside Acuity, delete or pause the scheduling-page and bio-page conversion actions in Google Ads, and keep only the Google tag on marketing pages. The campaign keeps running on clicks exactly as it does now.
+
+### The compliant way to attribute bookings
+
+Keep the source-of-truth inside Acuity, which is covered by its own agreement with you, and bring it to Google Ads only as aggregate numbers.
+
+1. Intake question, 5 minutes. Acuity > Intake Forms > add "How did you hear about us?" with options: Google ad, Google search, referral from a friend or clinician, social media, other. Required on the Introductory Phone Call type. Self-reported, stored only in Acuity, and it separates Leads-Search-1 from the brand campaign and word of mouth.
+2. Optional, first-party only, about an hour of Squarespace work. A small script on the site reads `utm_campaign` and `utm_term` from the landing URL (add them to the campaign's final URL suffix in Google Ads) and prefills a non-required "Referral code" intake field when the visitor opens the scheduler. The values are campaign and keyword names, not click IDs, so they are not unique to a person and stay out of the de-identified export's identifier list. Nothing is sent to Google. This gives keyword-level attribution without any tracker.
+3. Monthly export, unchanged. The same de-identified appointment report, now with the intake answer (and the referral code if you do step 2). I join it to campaign-level spend and report cost per intro call and per first appointment. Google Ads never receives it.
+
+What you give up: Google Ads will not show bookings in its own Conversions column. Under click-based bidding that changes nothing about delivery, and the monthly Acuity join is a better scorecard anyway.
 
 ## Reporting cadence
 
 Monthly, export the same de-identified appointment report from Acuity and drop it here. I pair it with weekly spend and produce three numbers: intro calls booked per $100 of spend, first appointments booked per $100, and, once the intake question has a month of answers, the share of new patients naming a Google ad. That replaces page-load conversions as the campaign's scorecard without changing anything about how you run it.
 
-Two open items from the GA4 side: the /contact form fired generate_lead for 27 paid-search sessions in 90 days. Check the contact inbox for the same period to see how many were real inquiries versus spam before treating it as a lead count. And the "Intro Call Click" conversion in Google Ads has never fired; once the intro-call CTAs point at the direct Acuity link (step 2), that conversion can be retired or repointed.
+One open item: the /contact form fired generate_lead for 27 paid-search sessions in 90 days. Check the contact inbox for the same period to see how many were real inquiries versus spam before treating it as a lead count. It stays a GA4-only number unless your advisor clears importing it.

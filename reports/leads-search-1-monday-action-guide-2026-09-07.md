@@ -10,25 +10,21 @@ Data: Supermetrics pull on 2026-09-06, last 90 days (2026-06-08 to 2026-09-06) u
 - Everything here is reversible in the Ads interface. Estimated total time: about 75 minutes.
 - Every negative proposed below was checked against the 430 negatives already on the campaign and against every active keyword. None duplicates an existing negative; none blocks an active keyword.
 
-Order of work: 1 monitoring hygiene, 2 negatives, 3 pauses, 4 match types, 5 bid adjustments, 6 ads, 7 columns and cadence, 8 Acuity data.
+Order of work: 1 conversion reporting decision, 2 negatives, 3 pauses, 4 match types, 5 bid adjustments, 6 ads, 7 columns and cadence, 8 Acuity intake question. Sections 2 to 7 involve no patient data of any kind.
 
 ---
 
-## 1. Conversion monitoring hygiene (10 minutes, data only)
+## 1. Conversion reporting: decide before you touch it (5 minutes)
 
-Today the "Conversions" column counts a page load of /schedule-an-appointment twice: once as "Begin checkout (Page load ...)" and once as "PNH2 (web) schedule_appointment". Real bookings ("PNH2 (web) purchase") and contact-form leads (GA4 generate_lead) are barely or not counted.
+Today the "Conversions" column counts a page load of /schedule-an-appointment twice: once as "Begin checkout (Page load ...)" and once as "PNH2 (web) schedule_appointment". Neither is a booking, and the Acuity addendum shows that bookings cannot be attributed in Google Ads without sending scheduling events to Google, which is the compliance question you raised. So this section is now a decision, not a to-do:
 
-Steps in Google Ads, Goals > Conversions > Summary:
+- Option A, hold. Change nothing in Conversions on Monday. Ask your compliance advisor whether the scheduling-page and bio-page conversion actions, and Acuity's Google Analytics integration, should stay. Under click-based bidding none of them affect delivery.
+- Option B, tidy only. If you want the column to read sensibly while you wait: Goals > Conversions > Summary > "Begin checkout (Page load ...)" > Edit settings > Secondary. That removes the double count and sends Google nothing new. Do not import additional GA4 events (the earlier draft suggested importing the contact-form event; that is withdrawn pending the same advice).
+- Option C, cleanup, if the advisor says stop. Acuity > Integrations > Google Analytics > disconnect. Google Ads > Conversions > pause the two "PNH2 (web)" imports, the "Begin checkout" action, and the three "Page view" actions. Keep the Google tag on marketing pages only.
 
-1. Click "Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment)" > Edit settings > Goal and action optimization > **Secondary**. Save. (It duplicates the GA4 event. Removing it entirely is also fine.)
-2. Click "PNH2 (web) schedule_appointment" > Edit settings > **Secondary**. Reason: it is intent, not a lead. Keep it visible in "All conv." for your own tracking.
-3. Click "PNH2 (web) purchase" > confirm it is **Primary**, counting "Every", category Purchase. This is the Acuity booking.
-4. New conversion action > Import > Google Analytics 4 properties > Web > select property PNH2 > pick **generate_lead** > Import. Then edit it: category "Submit lead form", **Primary**, count "One". This is the /contact form. In the last 90 days it fired for 25 paid-search sessions and Ads never saw them.
-5. "Intro Call Click" (ID 7747774028) recorded 0 in 90 days. Either the gtag event snippet is not on the intro-call button, or the button goes to Acuity directly. Not a Monday fix; note it for the Acuity discussion.
+The scorecard that replaces all of this is the monthly Acuity export plus the intake question in section 8.
 
-Two notes: primary/secondary changes are not retroactive, so the Conversions column history keeps the old definition. And with click-based bidding none of this affects delivery.
-
-GA4 hygiene, 3 minutes: Admin > Data streams > PNH2 web stream > Configure tag settings > List unwanted referrals > add `ads.google.com`. Eight of the 90-day "purchases" carry that referrer; they are your own clicks from the Ads interface, not patients.
+GA4 hygiene, 3 minutes, safe under every option: Admin > Data streams > PNH2 web stream > Configure tag settings > List unwanted referrals > add `ads.google.com` and `tagassistant.google.com`. They are your own test clicks showing up as purchase sources.
 
 ---
 
@@ -251,36 +247,23 @@ Set once at Campaigns > Columns > Modify:
 
 Weekly, 15 minutes: Keywords > Search terms > last 7 days > sort by cost. Add exact negatives for anything generic, phrase negatives for anything conventional. Then Keywords > sort by cost, pause anything at $15 with zero conversions over 60 days.
 
-What "better" looks like after 30 days at the same budget: search-term junk share under 15 percent (from 37), click-through rate above 6 percent (from 5.2), and, in All conv., contact-form leads and Acuity purchases visible per ad group.
+What "better" looks like after 30 days at the same budget: search-term junk share under 15 percent (from 37), click-through rate above 6 percent (from 5.2), and, in the monthly Acuity export, more intro calls and first appointments per $100 of spend than the June-to-August baseline (1.7 and 0.9 per $100 in high-spend weeks).
 
 ---
 
-## 8. Acuity data to bring
+## 8. Acuity: intake question and monthly export
 
-This is the piece that turns "I think it is working" into a number. Bring it Monday or shortly after, and I will join it to weekly ad spend.
+The export you sent is joined to spend in `leads-search-1-acuity-addendum-2026-09-07.md`. Two things going forward:
 
-De-identified export from Acuity (Reports > Export, or Appointments > filter and export), from 2026-06-01 to today, one row per appointment:
+1. Acuity > Intake Forms > add "How did you hear about us?" with options Google ad, Google search, referral from a friend or clinician, social media, other. Required on the Introductory Phone Call type. This is the attribution method that keeps every byte inside Acuity.
+2. Monthly, export the same de-identified appointment report (date scheduled, type, calendar, price, paid, scheduled by, plus the intake answer). I report intro calls and first appointments per $100 of spend, and the share of new patients naming a Google ad.
 
-- booking date and time (when it was booked, not just the appointment date, if Acuity exposes it)
-- appointment type name
-- new patient versus returning (or first-appointment flag)
-- paid amount, or free versus paid
-- source, if any intake field captures it
-- no names, emails or notes. For the later Google Ads upload we will need emails, but that step is separate and does not go through me.
-
-Two quick answers from the Acuity admin:
-
-- Which appointment type is ID 41826455? GA4 shows it as the type that paid-search visitors book through /schedule/0081d9d2/. If it is the free 10-minute intro call, that explains why Google Ads shows almost no purchase value.
-- Does the scheduler run embedded on pankanaturalhealth.com (GA4 page paths suggest yes) or does the "Free 10-Min Intro Call" button go to an acuityscheduling.com page? If the latter, cross-domain tracking is the gap.
-
-Also add one intake question in Acuity: "How did you hear about us?" with "Google ad" as an option. Cheapest attribution you can get.
-
-What I will do with it: weekly bookings by type against weekly spend and clicks since July, cost per new-patient booking, and a check of whether the August budget cut moved bookings or only page loads. Then we decide whether the Google Ads offline upload (email-matched enhanced conversions) is worth the setup.
+Confirm appointment type ID 41826455 under Appointment Types; the evidence says it is the Introductory Phone Call.
 
 ---
 
 ## Where things stand (clean stop)
 
-Done: 90-day pull across Google Ads and GA4, review report, this guide, and a reminder scheduled for Monday 9:45 Central.
-Yours Monday: sections 1 to 6 in the Ads interface, section 7 once, section 8 export.
-Mine after: join Acuity to spend, then a second pass on match types and bids with booking data instead of page loads.
+Done: 90-day pull across Google Ads and GA4, review report, this guide, and the Acuity join in the addendum.
+Yours: sections 2 to 6 in the Ads interface, section 7 once, section 8 in Acuity, section 1 after a word with your compliance advisor.
+Mine after: monthly Acuity join, then a second pass on match types and bids with booking data instead of page loads.
