@@ -172,3 +172,103 @@ At the current $70 to $90 a week the campaign should produce roughly 1.5 to 2 in
 | November | With a month of intake answers: decide whether the brand defense campaign is worth $2 to $3 a day, and whether men's health deserves its own budget line to feed Jacob's calendar through the winter. |
 
 Seasonality note: September and October usually run stronger than summer for health searches; late November through the holidays dips. Judge October against September, not against August.
+
+---
+
+# Update, evening of 2026-09-07
+
+Verified after your second pass: the kept Men's keywords are phrase (14 phrase; the 17 broad ones are all paused), the nine exurb targets are gone (10 location targets remain), and the Women's ad still shows "Approved (limited)". Negative keyword report 3 is identical to report 2: 451 campaign negatives, nothing added or removed. Max CPCs are unchanged from Sept 6, so section 6.2 below is the table to apply.
+
+## 6.1 Functional & Integrative: pause it or not
+
+Facts, 90 days to Sept 6:
+
+| Measure | Functional | Campaign | Note |
+|---|---|---|---|
+| Spend | $512 | $1,372 | 37% of the campaign |
+| Avg CPC | $2.08 | $2.07 | Not expensive per click. Women's is $2.46. |
+| Schedule-page sessions per $100 (GA4) | 3.3 | 5.0 | Lowest of the six groups |
+| Lost impression share to rank | 9.7% | 7 to 12% | Middle of the pack |
+| Quality scores | 4 to 7 | 4 to 8 | Ad relevance "below average" on several |
+| Top-of-page CPC on its keywords | $3.05 to $10.57; one at $29.55 (paused) | | The expensive auctions are specific keywords, not the group |
+
+Where its results came from, June 1 to Sept 6 (GA4 schedule-page sessions plus contact-form leads by keyword): "functional medicine" 6 + 1, "functional medicine near me" 3 + 1, "functional medicine doctors near me" 2, "functional integrative medicine near me" 1, "integrative health near me" 1, "integrative medicine near me" 0 + 1. Zero from "best functional doctor near me", "best functional doctors near me", "functional medical doctors", "functional medicine practice near me", "functional medicine practitioner", "functional medicine clinic near me".
+
+Recommendation: do not pause it. Three reasons. It is inefficient per schedule session, not expensive per click, and the two things that fix that (phrase match, a landing page) are one day old and not built yet. It routes to Dr. Jacob, who has calendar room; pausing it at a fixed $10 a day pushes the freed impressions mostly into Women's, which routes to Dr. Haley, who does not. And its three core keywords produced 13 of the group's 15 signals, so the problem is the tail, not the theme.
+
+Do instead: pause the six zero-signal keywords listed above, set the group's max CPC to $1.90, and re-check on Oct 5. If it is still under 4 schedule-page sessions per $100 with the landing page live, pause the group then. If you decide not to build the landing page, pause the six now and treat the group as a $1.90 experiment.
+
+If you pause it anyway, pair it with the Women's cut in 6.2 so the freed budget lands on Core, Geo, Pediatrics and Men's rather than Haley's calendar.
+
+## 6.2 Max CPC table, ready to apply
+
+Current values verified from the live account. Keywords > filter by ad group > select all > Edit > Change max CPC bids > Set new bid.
+
+| Ad group | Now | Set to | Why |
+|---|---|---|---|
+| Naturopath Near Me - Core | $2.20 | $2.50 | 9.8 sessions per $100; either doctor |
+| Geo-Qualified | $2.43 | $2.60 | 8.8 per $100; local |
+| Pediatrics | $2.10 | $2.40 | Best new-patient ratio in Acuity |
+| Men's Health | $1.04 | $1.30 | Now phrase and cleaned; Jacob's calendar |
+| Women's Health & Hormones | $2.91 | $2.60 | Haley at capacity; restore to $2.91 when her next first appointment is under two weeks out |
+| Functional & Integrative | $2.33 | $1.90 | See 6.1 |
+
+Two keyword-level exceptions, set after the group bids so they are not overwritten:
+
+| Keyword | Set to | Why |
+|---|---|---|
+| [naturopathic doctor near me] exact, Core | $3.00 | 23% CTR, quality score 7, only 12% impression share. Google's top-of-page estimate is $19, but its actual average CPC has been $1.74; a $3.00 cap just wins more of the top auctions. |
+| "holistic medicine Minneapolis" phrase, Geo | $2.80 | 13% CTR, 25 clicks and 2 conversions on $47.53 in 90 days. |
+
+## 6.3 Intake question on the new-patient form too
+
+Since May, 9 of 20 first appointments were self-booked without an intro call, and staff-booked ones never see the online intro-call form. Add the same "How did you hear about us?" question to the First Appointment, Pediatric First Appointment and Virtual First Appointment forms, required. Include the answer as a column in the monthly export; it is a category, not an identifier.
+
+## 6.4 Negative keyword audit
+
+The list has 451 entries and, on the search-term evidence since June, it is doing its job: 111 of the 331 clicked queries are blocked. The audit below is about fit with your strategy, which now includes ED, prostate, hormones and primary-care-style care. Principle used throughout: block the plain conventional query with an exact negative, and leave the "holistic / natural / naturopathic + specialty" query open, because that searcher is looking for you and using the wrong noun.
+
+### Remove or convert (bad fit with services you perform)
+
+| Current negative | Problem | Replace with |
+|---|---|---|
+| "endocrinologist", "endocrinologists" (phrase) | Blocks "holistic endocrinologist near me", "naturopathic endocrinologist", exactly the hormone patient you want | [endocrinologist near me], [endocrinologists near me], [endocrinologist] (exact) |
+| "primary physician", "primary physicians" (phrase) | Blocks "naturopathic primary physician" | [primary physician near me], [primary physicians near me], [best primary physicians near me] (exact) |
+| "hormone therapy" (phrase) | Blocks "natural hormone therapy", "bioidentical hormone therapy naturopath". Keep "hrt", "hormone replacement", "estrogen patches", "estrogen replacement"; those are prescription intent. | [hormone therapy], [hormone therapy near me], [female hormone therapy near me] (exact) |
+| "medication", "medications" (phrase) | Blocks "naturopath to get off medications", a real lead phrase. Added Sept 7; the two queries behind it were $5.94. | [natural medication for adhd] (exact), "medication for weight loss" (phrase) |
+| "program", "programs" (phrase) | Your structured snippet advertises a "Heart Health Program". The education intent it was meant to catch is already covered by "degree", "certificate", "course", "school", "training", "residency". | Nothing |
+| "family practice" (phrase) | You run the keyword "naturopathic family medicine"; this blocks "naturopathic family practice near me" | [family practice near me], [family practice physician near me] (exact) |
+| "wellness center" (phrase) | Blocks "naturopathic wellness center hopkins". The competitor names it was covering are all on the list individually. | Nothing |
+| "routine check up" (phrase) | Annual naturopathic visits are a service. One $0.95 query behind it. | Nothing |
+
+Cost of these removals, from the 90-day search terms: about $15 of previously blocked queries would be eligible again, and the exact replacements re-block every specific junk query that was actually seen.
+
+### Watch, keep for now
+
+| Negative | Why it stays | When to revisit |
+|---|---|---|
+| "supplement", "supplements", "vitamins", "vitamins for" | Product and dosage intent dominates; "naturopath supplement consultation" is rare | If you start advertising supplement protocols |
+| "relief", "advice", "remedy", "remedies", "cure", "cures" | Informational | Never, unless "menopause relief" queries appear in search terms with a clinic word attached |
+| "training", "class", "classes" | "naturopath for athletic performance" is a keyword and "training" could clip "athletes in training". Two impressions of exposure. | If the athletic-performance keyword shows impressions but no clicks |
+| "prostate cancer", "stage 4", "instead of chemo", "cancer cure" | Oncology-adjacent; keep off the ad path | Never |
+| "birth control", "iud", "contraception", "contraceptive(s)", "the pill" | Prescriptive | Never |
+| "reviews" | Evaluation intent belongs to the brand campaign | When brand defense is re-enabled |
+| "target", "quest", "aids" | Meant for Target Clinic, Quest Diagnostics, "sleep aids"; each could clip a phrase like "target heart rate" | Only if a search term shows it |
+
+### The ED service line, as a switchable package
+
+You said ED is something you treat. Today four phrase negatives ("ed", "erectile", "erection", "erections") keep every ED query out, and the keyword "naturopath for erectile dysfunction" is blocked by your own list. Before Sept 1, ED queries cost about $25 across 30-plus clicks with no visible booking, but nearly all of that was the generic broad-match family that is now paused.
+
+To turn ED on, in this order:
+
+1. Remove "ed" and "erectile" (phrase). Keep "erection", "erections", "get hard", "hard on", "penis", "pennis", "penile", "girth", "enlarge", "enlargement", "enhancement", "vacuum therapy", "sexual supplements", "pills", "otc", "over the counter", "quick fix", "instant", "one simple trick", "trick", "tricks": that set removes the product and enhancement queries.
+2. Add exact negatives for the generic queries seen: [erectile dysfunction treatment], [erectile dysfunction products], [most effective ed treatment], [best over the counter ed treatment], [ed remedies], [erectile dysfunction age 75], [erectile dysfunction ncbi], [erectile dysfunction uptodate], [ed fix for men], [ed problems], [instant ed cure], [ed].
+3. Do not add "treatment for" from the add-now list if ED is on; it would block "natural treatment for erectile dysfunction". Use "treatment options" and "treatments for" only.
+4. Re-enable "naturopath for erectile dysfunction" as phrase and add "natural erectile dysfunction treatment" and "erectile dysfunction naturopath" as phrase in Men's Health at the group's $1.30.
+5. Weekly, read the Men's search terms. Kill switch: re-add "erectile" (phrase) and the group is back to today's state in one move.
+
+The same on/off pattern applies to prostate (already on: your Sept 1 keywords) and to any specialist noun you want to court: remove the phrase negative, add the plain-query exact negatives, add a "holistic/natural + noun" phrase keyword.
+
+### Highest-impact additions, unchanged from section 2a
+
+None of the section 2a add-now list has been added yet. In priority order by spend they would have saved since June: the generic doctor and clinic exacts ($20-plus), "treatment options" and "treatments for" and "signs of" (informational, about $10), the Spanish set, then "products", "habits", "sex drive", "kegel", "lump", "regenerative", "naprotechnology". If ED goes on, skip "treatment for".
