@@ -349,3 +349,29 @@ Yours, when you have time:
 Standing rules: Monday dials (3d, with the budget table above), weekly search-term check, spend-under-$8 bid rule for two weeks.
 
 Dates: Sept 21 two-week check; Sept 30 first monthly Acuity export; Oct 5 Functional decision.
+
+---
+
+# 8. Reconciliation with the PNH context reference (CLAUDE.md), 2026-09-07
+
+Jacob's reference file (now `CLAUDE.md` at the repo root) records deliberate decisions and a protect list. Where this plan's earlier suggestions conflict, the reference wins. Changes to this plan:
+
+| Earlier suggestion in this plan | Reference decision | Resolution |
+|---|---|---|
+| 6.4 ED service-line package | Men's Health is urinary/hormonal, sleep, cognition, performance; **not ED**. ED terms blocked on purpose. | Withdrawn. The package text stays in 6.4 as an archived option only; it is not on any to-do list. |
+| 6.4 convert "primary physician(s)" to exact | "physician" forms signal conventional-MD intent; keep blocked. "primary care" stays open. | Withdrawn. Keep as is. |
+| 6.4 remove "medication(s)" | Not in the decision log; added Sept 7 by Jacob. | Stays a suggestion for the weekly check, no action. |
+| 6.4 convert "endocrinologist(s)", "hormone therapy"; remove "program(s)", "family practice", "wellness center", "routine check up" | Not covered by the decision log or protect list. | Remain suggestions; Jacob's call. None is urgent. |
+| 2b watch list: specialists, fertility, pediatrician | Specialists deliberately open; plain-pediatrician exact set deferred to Oct 1. | Aligned; no change. |
+| 3d budget dial and 7.4 budget shape | Reference thread 1: restore toward $25 in peak season; best CPA came at $29/day. | Aligned. Dial 1 is the operating rule: $25 / $15 / pause by open intro-call slots. |
+| Protect list | `test`, `testing`, `panel`, `labs`, `dutch`, `testosterone`, `low testosterone`, `adrenal fatigue`, `diabetes`, `cholesterol`, `weight loss`, `fertility`, `adhd`, `anxiety`, `depression`, `insomnia`, `sleep`, `menopause`, `perimenopause`, `pcos`, `hopkins`, bare `treatment`, `telehealth`, `virtual`, `primary care`, `estrogen`, `concierge`, `herbalist` | Checked: nothing in this plan's add-now list (2a) or 6.4 touches any of these. "testosterone test" (already added Sept 7) is a phrase that contains a protected word; it blocks only the two-word lab-shopping query, not "testosterone" alone. Flagged in case you want it off. |
+
+Reference threads resolved or gated by this session:
+
+- Thread 5 (reconcile GA4 purchases against Acuity): done in the Acuity addendum. GA4 logged 117 purchase events for 80 Acuity bookings June 1 to Sept 6; up to three events per booking; 38 of 39 self-booking dates matched. GA4 `purchase` is a reliable booking indicator by date and an overcount by volume.
+- Threads 2, 3, 4 (Intro Call Click verification, repointing the nine CTAs on-domain, promoting `purchase` to primary): these are the attribution path this plan withdrew on the compliance question you raised. They are not wrong technically; they are gated on the advisor decision in the Monday guide section 1. If the advisor clears sending scheduling and click events to Google, the reference's approach is the right one and the addendum's on-domain analysis supports it. If not, the Acuity intake question is the attribution method and these three threads close.
+- Thread 6 (residual leakage): handled with exact negatives rather than a bare "symptoms" phrase, consistent with the "general nouns open" decision. Add: [thyroid symptoms], [menopause symptoms], [preventive screenings for women], [low acth], [holistic], [poop], [chakra tune up]. "signs of" (phrase) covers "signs of early menopause".
+- Thread 7 (un-applied Sept 3 items): all safe under the protect list and now on the add-now list: "psychiatrists", [chronic], "ozempic", "wegovy", "semaglutide", "mounjaro", "tirzepatide", "zepbound" (phrase; only purchase-phrase forms are live today), "walgreens", "cvs", "chiropractors", "acupuncturists", "hospitals".
+- Thread 9 (no monitoring): two check-ins are now scheduled into this session: Sept 21, 9am Central (two-week check: CTR, the spend-under-$8 bid rule, search-term junk share, Women's ad status) and Sept 30, 9am Central (monthly Acuity export request and scorecard). Oct 5 (Functional decision) is a manual date.
+
+One correction to the reference from this session's data: section 3 of the reference lists the Aug 17 ad schedule; the live schedule now carries the per-row modifiers in section 5 of the Monday guide, verified from your Ad schedule export.
