@@ -1,0 +1,5 @@
+Date,Campaignname,CampaignID,Adgroupname,CallStatus,CallSource,CallType,CallDurationSeconds,CallerCountryCallingCode,CallerAreaCode,CallStartTime,CallEndTime
+2025-07-15,Leads-Search-1,22767146837,Ad group 1,Received,Ad,Manually dialed,451,1,952,2025-07-15 16:46:42,2025-07-15 16:54:13
+2026-08-07,Leads-Search-1,22767146837,Functional & Integrative Medicine,Received,Ad,Mobile click-to-call,15,1,952,2026-08-07 10:33:53,2026-08-07 10:34:08
+2026-08-07,Leads-Search-1,22767146837,Functional & Integrative Medicine,Received,Ad,Mobile click-to-call,60,1,952,2026-08-07 09:01:20,2026-08-07 09:02:20
+2026-08-11,Leads-Search-1,22767146837,Pediatrics,Received,Ad,Mobile click-to-call,42,1,619,2026-08-11 10:26:50,2026-08-11 10:27:32

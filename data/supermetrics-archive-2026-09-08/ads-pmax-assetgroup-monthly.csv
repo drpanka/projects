@@ -1,0 +1,3 @@
+Yearmonth,Campaignname,CampaignID,AssetGroupID,AssetGroupName,AssetGroupStatus,AdStrength,Impressions,Clicks,Cost,Conversions,AllConversions,ConversionValue
+2025|06,Campaign #1,22625352639,6582377332,Asset Group 1,Enabled,Average,9011,313,357.264,173,233,173
+2025|07,Campaign #1,22625352639,6582377332,Asset Group 1,Enabled,Average,91432,3073,553.657,1682,1815,1682
