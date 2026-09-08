@@ -1,0 +1,384 @@
+Yearmonth,Campaignname,Adgroupname,AdgroupID,Adgroupstatus,Keyword,KeywordID,Matchtype,Keywordstatus,HistoricalSearchPredictedCtr,HistoricalCreativeQualityScore,HistoricalLandingPageQualityScore,HistoricalQualityScore,HistoricalSearchPredictedCtr_metric,HistoricalCreativeQualityScore_metric,HistoricalLandingPageQualityScore_metric,Impressions,Clicks,Cost,Conversions
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,alternative medicine doctors near me,296836537601,Broad,enabled,,,,0,,,,138,10,20.9919,3
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,holistic dr near me,296740931208,Broad,enabled,,,,0,,,,3583,208,566.9152,82
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2431240508818,Phrase,enabled,Below average,Average,Above average,6,-1,1,2,67,5,12.15,4
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654900388,Phrase,enabled,Below average,Below average,Above average,5,-1,-1,2,11,1,4.24,0
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,men's health naturopath,943798649025,Broad,enabled,,,,0,,,,177,9,17.8525,3
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,301055025575,Phrase,enabled,Below average,Below average,Below average,1,-1,-1,-1,2,0,0,0
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,natural pediatrician near me,352635961367,Broad,enabled,,,,0,,,,348,24,55.2347,4
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Below average,Above average,Above average,7,-1,2,2,89,8,27.28,8.5
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,44833314052,Exact,enabled,Below average,Below average,Above average,5,-1,-1,2,205,13,34.7103,1.5
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic dr near me,295411384059,Broad,enabled,,,,0,,,,107,7,21.2647,0
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic family medicine,357829242134,Phrase,enabled,,,,0,,,,1,0,0,0
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,pediatric naturopath,298624063855,Broad,enabled,,,,0,,,,2,0,0,0
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,pediatric naturopath near me,547692999832,Broad,enabled,Below average,Below average,Average,3,-1,-1,1,2,0,0,0
+2025|07,Leads-Search-1,Ad group 1,183759893484,removed,women's health naturopath,303396160999,Broad,enabled,,,,0,,,,48,5,13.9935,2
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,alternative medicine doctors near me,296836537601,Broad,enabled,,,,0,,,,29,3,4.83,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,best naturopathic doctor near me,296836537841,Broad,enabled,,,,0,,,,3,0,0,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,holistic doctor Hopkins MN,2431677352035,Broad,enabled,,,,0,,,,2,0,0,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,holistic dr near me,296740931208,Broad,enabled,,,,0,,,,780,42,110.1417,16
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2431240508818,Phrase,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2457285927994,Broad,enabled,Below average,Average,Above average,6,-1,1,2,181,19,50.971,4
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,holistic pediatricians near me,352635960607,Broad,enabled,,,,0,,,,19,1,1.28,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654897788,Broad,enabled,Below average,Below average,Above average,5,-1,-1,2,1084,81,185.47,33
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654900388,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,men's health naturopath,943798649025,Broad,enabled,,,,0,,,,27,3,7.6512,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,298794213593,Broad,enabled,Below average,Below average,Below average,,-1,-1,-1,0,0,0,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,301055025575,Phrase,enabled,Below average,Below average,Below average,,-1,-1,-1,0,0,0,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,natural medicine Minnesota,2431240509058,Phrase,enabled,,,,0,,,,1,0,0,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,natural medicine Minnesota,2457285928234,Broad,enabled,,,,0,,,,56,10,22.8206,12
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,natural pediatrician near me,352635961367,Broad,enabled,Average,Below average,Average,5,1,-1,1,2,1,1.27,6
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Below average,Above average,Above average,,-1,2,2,0,0,0,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2457285929674,Broad,enabled,Below average,Above average,Above average,7,-1,2,2,303,21,64.2454,15
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,44833314052,Exact,enabled,Below average,Below average,Above average,5,-1,-1,2,258,20,52.248,6
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,296621012791,Broad,enabled,Below average,Below average,Above average,5,-1,-1,2,877,65,158.6757,17
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic family medicine,302483789996,Broad,enabled,,,,0,,,,48,0,0,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic practitioner near me,381953148433,Broad,enabled,,,,0,,,,1,0,0,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,pediatric naturopath near me,547692999832,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2025|08,Leads-Search-1,Ad group 1,183759893484,removed,women's health naturopath,303396160999,Broad,enabled,,,,0,,,,4,0,0,0
+2025|09,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2431240508818,Phrase,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2025|09,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2457285927994,Broad,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2025|09,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654897788,Broad,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2025|09,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654900388,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2025|09,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,298794213593,Broad,enabled,Below average,Below average,Below average,,-1,-1,-1,0,0,0,0
+2025|09,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,301055025575,Phrase,enabled,Below average,Below average,Below average,,-1,-1,-1,0,0,0,0
+2025|09,Leads-Search-1,Ad group 1,183759893484,removed,natural pediatrician near me,352635961367,Broad,enabled,Average,Below average,Average,,1,-1,1,0,0,0,0
+2025|09,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Below average,Above average,Above average,,-1,2,2,0,0,0,0
+2025|09,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2457285929674,Broad,enabled,Below average,Above average,Above average,,-1,2,2,0,0,0,0
+2025|09,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,44833314052,Exact,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2025|09,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,296621012791,Broad,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2025|09,Leads-Search-1,Ad group 1,183759893484,removed,pediatric naturopath near me,547692999832,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2025|10,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2431240508818,Phrase,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2025|10,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2457285927994,Broad,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2025|10,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654897788,Broad,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2025|10,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654900388,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2025|10,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,298794213593,Broad,enabled,Below average,Below average,Below average,,-1,-1,-1,0,0,0,0
+2025|10,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,301055025575,Phrase,enabled,Below average,Below average,Below average,,-1,-1,-1,0,0,0,0
+2025|10,Leads-Search-1,Ad group 1,183759893484,removed,natural pediatrician near me,352635961367,Broad,enabled,Average,Below average,Average,,1,-1,1,0,0,0,0
+2025|10,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Below average,Above average,Above average,,-1,2,2,0,0,0,0
+2025|10,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2457285929674,Broad,enabled,Below average,Above average,Above average,,-1,2,2,0,0,0,0
+2025|10,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,44833314052,Exact,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2025|10,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,296621012791,Broad,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2025|10,Leads-Search-1,Ad group 1,183759893484,removed,pediatric naturopath near me,547692999832,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2025|11,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2431240508818,Phrase,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2025|11,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2457285927994,Broad,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2025|11,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654897788,Broad,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2025|11,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654900388,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2025|11,Leads-Search-1,Ad group 1,183759893484,removed,natural pediatrician near me,352635961367,Broad,enabled,Average,Below average,Average,,1,-1,1,0,0,0,0
+2025|11,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Below average,Above average,Above average,,-1,2,2,0,0,0,0
+2025|11,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2457285929674,Broad,enabled,Below average,Above average,Above average,,-1,2,2,0,0,0,0
+2025|11,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,44833314052,Exact,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2025|11,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,296621012791,Broad,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|04,Leads-Search-1,Ad group 1,183759893484,removed,holistic dr near me,296740931208,Broad,enabled,,,,0,,,,120,3,5.5,0
+2026|04,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2457285927994,Broad,enabled,,,,0,,,,132,1,2.39,0
+2026|04,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654897788,Broad,enabled,Below average,Below average,Average,3,-1,-1,1,210,13,33.47,0
+2026|04,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654900388,Phrase,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|04,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,298794213593,Broad,enabled,Below average,Below average,Above average,5,-1,-1,2,1,0,0,0
+2026|04,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,301055025575,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|04,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|04,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2457285929674,Broad,enabled,Below average,Below average,Above average,5,-1,-1,2,96,3,6.75,0
+2026|04,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,44833314052,Exact,enabled,Above average,Average,Above average,9,2,1,2,1,1,3.75,8
+2026|04,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,296621012791,Broad,enabled,Above average,Average,Above average,9,2,1,2,600,47,134.3585,8
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,alternative medicine doctors near me,296836537601,Broad,enabled,,,,0,,,,16,1,0.1872,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine,10957761,Broad,enabled,Below average,Below average,Above average,5,-1,-1,2,158,4,6.6408,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine clinic near me,629327041832,Broad,enabled,Below average,Average,Average,4,-1,1,1,7,1,2.73,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine near me,325505212743,Broad,enabled,Below average,Below average,Average,3,-1,-1,1,29,2,4.07,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,holistic dr near me,296740931208,Broad,enabled,,,,0,,,,106,8,20.5782,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2431240508818,Phrase,enabled,,,,0,,,,2,0,0,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2457285927994,Broad,enabled,,,,0,,,,58,2,3.17,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,integrative health near me,807046778385,Broad,enabled,Below average,Below average,Average,3,-1,-1,1,14,3,3.2913,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654897788,Broad,enabled,Below average,Below average,Average,3,-1,-1,1,178,12,24.7071,9
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654900388,Phrase,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,298794213593,Broad,enabled,Below average,Below average,Above average,5,-1,-1,2,3,0,0,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,301055025575,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,natural medicine Minnesota,2457285928234,Broad,enabled,,,,0,,,,41,0,0,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2457285929674,Broad,enabled,Below average,Below average,Above average,5,-1,-1,2,45,0,0,0
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,44833314052,Exact,enabled,Below average,Average,Above average,6,-1,1,2,43,5,17.1632,4
+2026|05,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,296621012791,Broad,enabled,Below average,Average,Above average,6,-1,1,2,417,43,107.706,7
+2026|05,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka health,891630859085,Exact,enabled,,,,0,,,,2,1,0.01,0
+2026|05,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka natural health,700161616745,Phrase,enabled,Above average,Above average,Above average,10,2,2,2,2,0,0,0
+2026|05,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka natural health,817739186789,Exact,removed,Above average,Above average,Above average,10,2,2,2,17,0,0,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,alternative medicine doctors near me,296836537601,Broad,enabled,,,,0,,,,1,0,0,0
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,dr haley panka,2484456293679,Exact,enabled,,,,0,,,,2,1,7.1989,4
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,dr jacob panka,1997189022924,Exact,enabled,,,,0,,,,6,2,5.37,0
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,dr panka,933585970059,Exact,enabled,Average,Below average,Above average,6,1,-1,2,5,2,5.13,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine,10957761,Broad,enabled,Below average,Below average,Average,3,-1,-1,1,28,3,18.8192,0.02
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine clinic near me,629327041832,Broad,enabled,Below average,Average,Average,,-1,1,1,0,0,0,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine near me,325505212743,Broad,enabled,Below average,Below average,Average,3,-1,-1,1,2,0,0,0
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,haley panka,584357309429,Phrase,enabled,Average,Below average,Above average,6,1,-1,2,13,2,5.39,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,holistic dr near me,296740931208,Broad,enabled,,,,0,,,,2,0,0,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,holistic medicine Minneapolis,2457285927994,Broad,enabled,,,,0,,,,7,1,5.24,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,integrative health near me,807046778385,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654897788,Broad,enabled,Below average,Below average,Average,3,-1,-1,1,8,0,0,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654900388,Phrase,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,jacob panka,569752648940,Phrase,enabled,,,,0,,,,3,2,10.501,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,298794213593,Broad,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,301055025575,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2457285929674,Broad,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,44833314052,Exact,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2026|06,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,296621012791,Broad,enabled,Below average,Average,Above average,6,-1,1,2,5,0,0,0
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka health,891630859085,Exact,enabled,Above average,Above average,Above average,10,2,2,2,19,5,14.5492,0
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka natural health,700161616745,Phrase,enabled,Average,Above average,Above average,8,1,2,2,17,4,30.47,0
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka natural health,817739186789,Exact,removed,Average,Above average,Above average,8,1,2,2,182,17,32.3971,17
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,dr haley panka,2484456293679,Exact,enabled,Above average,Average,Above average,9,2,1,2,5,2,2.93,0
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,dr panka,933585970059,Exact,enabled,Average,Below average,Above average,,1,-1,2,0,0,0,0
+2026|07,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine,10957761,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|07,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine clinic near me,629327041832,Broad,enabled,Below average,Average,Average,,-1,1,1,0,0,0,0
+2026|07,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine near me,325505212743,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,haley panka,584357309429,Phrase,enabled,Above average,Average,Above average,9,2,1,2,12,3,12.47,0
+2026|07,Leads-Search-1,Ad group 1,183759893484,removed,integrative health near me,807046778385,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|07,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654897788,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|07,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654900388,Phrase,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,jacob panka,569752648940,Phrase,enabled,,,,0,,,,5,2,2.7,2.01
+2026|07,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,298794213593,Broad,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|07,Leads-Search-1,Ad group 1,183759893484,removed,natural doctor near me,301055025575,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|07,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|07,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2457285929674,Broad,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|07,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,44833314052,Exact,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2026|07,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,296621012791,Broad,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka health,891630859085,Exact,enabled,Above average,Above average,Above average,10,2,2,2,11,4,7.13,1.2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka natural health,700161616745,Phrase,enabled,Above average,Above average,Above average,10,2,2,2,57,17,21.27,2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka natural health,817739186789,Exact,removed,Average,Above average,Above average,8,1,2,2,5,2,0.54,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,best functional doctor near me,596599231098,Broad,removed,,,,0,,,,2,0,0,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,best functional doctors near me,1079104736352,Broad,removed,,,,0,,,,43,2,4.52,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional doctor,6450933240,Broad,removed,Below average,Above average,Above average,7,-1,2,2,184,9,21.1424,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional doctor in my area,322898019488,Broad,paused,,,,0,,,,121,3,3.16,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional holistic medicine,571407136794,Broad,removed,,,,0,,,,30,0,0,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional integrative doctor,321395752246,Broad,paused,,,,0,,,,1,0,0,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional integrative medicine near me,807453047019,Broad,removed,Average,Below average,Above average,6,1,-1,2,179,4,7.26,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medical,298906613248,Broad,removed,Below average,Above average,Above average,7,-1,2,2,100,1,1.21,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medical clinic,302737127452,Broad,removed,,,,0,,,,78,4,13.3323,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medical doctors,298829237476,Broad,removed,,,,0,,,,7,0,0,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medical physician,298906613408,Broad,removed,,,,0,,,,131,6,10.1679,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine,10957761,Broad,removed,Below average,Above average,Above average,7,-1,2,2,430,19,36.6189,5
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine clinic near me,629327041832,Broad,removed,Average,Average,Above average,7,1,1,2,6,0,0,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine doctors in my area,466935651506,Broad,paused,,,,0,,,,139,3,7.23,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine doctors near me,300278964675,Broad,removed,Below average,Below average,Above average,5,-1,-1,2,244,9,19.1873,2
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine near me,325505212743,Broad,removed,Below average,Average,Average,4,-1,1,1,253,11,19.7645,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicines,356292017233,Broad,removed,,,,0,,,,40,3,11.9083,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrated and functional medicine,1567976204040,Broad,removed,,,,0,,,,36,3,9.0968,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrated doctor,298575878765,Broad,removed,,,,0,,,,85,3,7.4,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrative doctor,671679616,Broad,removed,,,,0,,,,95,6,14.6886,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrative health near me,807046778385,Broad,removed,Below average,Below average,Average,3,-1,-1,1,83,2,3.49,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrative medicine doctors in my area,839460690233,Broad,paused,,,,0,,,,41,0,0,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrative medicine near me,312654897788,Broad,removed,Average,Below average,Above average,6,1,-1,2,176,13,31.1383,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrative medicine near me,312654900388,Phrase,enabled,Average,Below average,Above average,6,1,-1,2,15,0,0,0
+2026|07,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,natural functional doctor,1656993030415,Broad,removed,,,,0,,,,38,1,1.87,0
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,functional medicine doctor eden prairie,1416410840771,Broad,removed,,,,0,,,,56,2,4.87,0
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,functional medicine doctor edina,1416410840811,Broad,removed,,,,0,,,,58,1,1.47,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,functional medicine doctor hopkins,1416410841571,Broad,removed,,,,0,,,,46,0,0,0
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,holistic medicine Minneapolis,2431240508818,Phrase,enabled,Below average,Below average,Above average,5,-1,-1,2,109,13,22.6498,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,holistic medicine Minneapolis,2457285927994,Broad,removed,Below average,Below average,Above average,5,-1,-1,2,191,7,11.27,3.5
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,natural medicine Minnesota,2457285928234,Broad,removed,,,,0,,,,244,4,9.4,0
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Average,Above average,Above average,8,1,2,2,46,4,11.3337,0
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,naturopathic doctor Minneapolis,2457285929674,Broad,removed,Average,Above average,Above average,8,1,2,2,86,5,9.29,1
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,adrenal fatigue doctor near me,324534626810,Broad,removed,,,,0,,,,42,4,5.36,1
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,best mens doctor near me,826174075160,Broad,paused,,,,0,,,,1,0,0,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,gents specialist doctor near me,1173141205177,Broad,paused,,,,0,,,,21,4,2.96,2
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,holistic doctor for men near me,2405800260956,Broad,removed,,,,0,,,,16,1,0.22,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,male doctor near me,297520616059,Broad,paused,,,,0,,,,15,1,2.06,1
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,male health doctor near me,387583490878,Broad,paused,,,,0,,,,1,0,0,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,male health doctors near me,417261681746,Broad,paused,,,,0,,,,18,2,2.0243,0.51
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,male medical clinic near me,783507827476,Broad,paused,,,,0,,,,21,2,5.0798,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,male primary care doctors near me,322930161988,Broad,paused,,,,0,,,,12,2,4.68,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,men health clinic near me,809666013740,Broad,paused,,,,0,,,,18,1,0.2865,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,men's clinic near me,300558794055,Broad,paused,,,,0,,,,15,0,0,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,men's doctor near me,418469253323,Broad,paused,,,,0,,,,11,0,0,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,men's health doctor near me,327528920044,Broad,paused,,,,0,,,,34,2,0.47,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,men's health naturopath,943798649025,Broad,removed,,,,0,,,,48,6,2.0977,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,men's hormone doctor near me,809666013980,Broad,removed,,,,0,,,,1,0,0,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,men's specialist doctor near me,1016846386681,Broad,paused,,,,0,,,,13,3,0.9971,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,naturopath for erectile dysfunction,2362109076957,Broad,paused,,,,0,,,,22,5,1.3678,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,naturopath for low testosterone,2374002905935,Broad,removed,,,,0,,,,12,0,0,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,naturopath for men,1188678630711,Broad,removed,,,,0,,,,80,5,4.2233,0
+2026|07,Leads-Search-1,Men's Health,201177674047,enabled,naturopath for prostate,2489305179026,Broad,paused,,,,0,,,,15,1,0.319,0
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,alternative medicine doctors near me,296836537601,Broad,removed,,,,0,,,,95,3,5.07,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,alternative medicine near me,488185819912,Broad,removed,,,,0,,,,1,0,0,0
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,best naturopath near me,346755549738,Broad,enabled,,,,0,,,,23,0,0,0
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,holistic dr near me,296740931208,Broad,enabled,Above average,Average,Average,7,2,1,1,76,1,0.6385,2
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,natural doctor near me,298794213593,Broad,removed,,,,0,,,,90,2,3.13,0
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,natural doctor near me,301055025575,Phrase,enabled,,,,0,,,,54,7,13.5946,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,natural healing doctors near me,311437399568,Broad,paused,,,,0,,,,33,0,0,0
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturalist dr near me,393482794014,Broad,paused,,,,0,,,,27,0,0,0
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopathic doctor near me,44833314052,Exact,enabled,Below average,Average,Above average,6,-1,1,2,18,6,9.21,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopathic doctor near me,296621012791,Broad,removed,Average,Average,Above average,,1,1,2,0,0,0,0
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopathic dr near me,295411384059,Broad,enabled,Below average,Above average,Above average,7,-1,2,2,76,2,2.8781,0
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopathic practitioner near me,381953148433,Broad,enabled,Below average,Above average,Average,5,-1,2,1,72,7,12.0328,4
+2026|07,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopaths in my area,468484996471,Broad,paused,,,,0,,,,119,8,20.71,0
+2026|07,Leads-Search-1,Pediatrics,197488229277,enabled,holistic pediatricians near me,352635960607,Broad,removed,,,,0,,,,245,20,34.5505,3
+2026|07,Leads-Search-1,Pediatrics,197488229277,enabled,natural pediatrician near me,352635961367,Broad,enabled,,,,0,,,,51,0,0,0
+2026|07,Leads-Search-1,Pediatrics,197488229277,enabled,pediatric holistic doctor,307044124532,Broad,removed,,,,0,,,,32,4,6.53,1
+2026|07,Leads-Search-1,Pediatrics,197488229277,enabled,pediatric holistic doctor near me,427407324440,Broad,enabled,,,,0,,,,69,0,0,0
+2026|07,Leads-Search-1,Pediatrics,197488229277,enabled,pediatric naturopath near me,547692999832,Broad,enabled,,,,0,,,,62,1,1.56,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,Hashimoto's naturopath,2370185008978,Broad,removed,,,,0,,,,35,2,3.8096,2
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,Hashimoto's naturopath,2490112250808,Phrase,enabled,,,,0,,,,1,0,0,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,female naturopath near me,838600258955,Broad,removed,,,,0,,,,80,1,2.3396,1
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,fertility naturopath near me,614462052706,Broad,removed,,,,0,,,,77,6,18.0735,1.98
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,functional medicine for hormones,1437762701452,Broad,paused,,,,0,,,,107,3,6.27,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,functional medicine for hormones,1656267935454,Phrase,removed,,,,0,,,,2,0,0,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,functional medicine hormones,422395640608,Broad,paused,,,,0,,,,8,2,1.08,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,holistic hormone doctor near me,616638070031,Broad,removed,Average,Below average,Average,5,1,-1,1,4,0,0,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,holistic hormone doctor near me,825924214050,Phrase,enabled,Average,Below average,Average,5,1,-1,1,2,1,4.43,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,holistic thyroid doctors near me,322522772528,Broad,removed,,,,0,,,,1,0,0,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,hormone doctor near me,297217478090,Broad,removed,Average,Below average,Above average,6,1,-1,2,213,10,27.5684,2.5
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,natural help for menopause,322912570731,Phrase,enabled,,,,0,,,,4,1,2.05,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,natural hormone doctors near me,812915579250,Broad,removed,,,,0,,,,1,0,0,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for PMS,1368219292309,Phrase,enabled,,,,0,,,,1,0,0,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for fertility,344344850530,Phrase,enabled,,,,0,,,,2,0,0,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for fertility,354423724287,Broad,removed,,,,0,,,,28,1,0.17,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for hormone imbalance,348667139225,Broad,removed,,,,0,,,,102,4,10.78,1
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for hormones,361975724615,Broad,paused,,,,0,,,,85,1,2.65,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for menopause,337987763643,Broad,removed,,,,0,,,,41,0,0,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for women's health,820377256937,Broad,removed,,,,0,,,,135,12,49.4844,0.51
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,pcos specialist near me,393086251324,Phrase,enabled,,,,0,,,,2,0,0,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,perimenopause doctor near me,879175999408,Phrase,enabled,,,,0,,,,1,0,0,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,perimenopause naturopath,888598728605,Phrase,enabled,Average,Average,Above average,7,1,1,2,2,0,0,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,women's health naturopath,303396160999,Broad,removed,,,,0,,,,219,19,48.8272,4
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,women's hormone specialist near me,545947326693,Broad,removed,,,,0,,,,66,6,11.9536,0
+2026|07,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,women's naturopath near me,822120435560,Broad,removed,,,,0,,,,79,2,1.2836,0
+2026|08,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,dr haley panka,2484456293679,Exact,enabled,Above average,Average,Above average,,2,1,2,0,0,0,0
+2026|08,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,dr panka,933585970059,Exact,enabled,Average,Below average,Above average,,1,-1,2,0,0,0,0
+2026|08,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine,10957761,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|08,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine clinic near me,629327041832,Broad,enabled,Below average,Average,Average,,-1,1,1,0,0,0,0
+2026|08,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine near me,325505212743,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|08,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,haley panka,584357309429,Phrase,enabled,Above average,Average,Above average,,2,1,2,0,0,0,0
+2026|08,Leads-Search-1,Ad group 1,183759893484,removed,integrative health near me,807046778385,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|08,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654897788,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|08,Leads-Search-1,Ad group 1,183759893484,removed,integrative medicine near me,312654900388,Phrase,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|08,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|08,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor Minneapolis,2457285929674,Broad,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|08,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,44833314052,Exact,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2026|08,Leads-Search-1,Ad group 1,183759893484,removed,naturopathic doctor near me,296621012791,Broad,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2026|08,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka health,891630859085,Exact,enabled,Above average,Above average,Above average,,2,2,2,0,0,0,0
+2026|08,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka natural health,700161616745,Phrase,enabled,Above average,Above average,Above average,,2,2,2,0,0,0,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,best functional doctors near me,1079104736352,Broad,removed,,,,0,,,,16,0,0,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional doctor in my area,322898019488,Broad,paused,,,,0,,,,110,4,7.0909,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional holistic medicine,571407136794,Broad,removed,,,,0,,,,57,5,17.7471,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional integrative doctor,321395752246,Broad,paused,,,,0,,,,211,9,14.44,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional integrative medicine near me,807453047019,Broad,removed,Average,Below average,Above average,6,1,-1,2,145,3,6.28,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medical doctors,298829237476,Broad,removed,,,,0,,,,12,1,2.15,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine,10957761,Broad,removed,Below average,Above average,Above average,7,-1,2,2,442,35,64.589,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine clinic near me,629327041832,Broad,removed,Average,Average,Above average,7,1,1,2,34,3,6.99,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine doctors in my area,466935651506,Broad,paused,Average,Below average,Above average,6,1,-1,2,29,0,0,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine doctors near me,300278964675,Broad,removed,Average,Below average,Above average,6,1,-1,2,213,11,22.3029,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine near me,325505212743,Broad,removed,Below average,Average,Average,4,-1,1,1,396,31,67.7181,2.98
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine practice near me,436847453242,Broad,removed,,,,0,,,,10,0,0,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine practitioner,303254433014,Broad,removed,,,,0,,,,80,4,7.26,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrative health near me,441297710576,Phrase,enabled,,,,0,,,,2,0,0,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrative health near me,807046778385,Broad,removed,Below average,Below average,Average,3,-1,-1,1,137,2,2.94,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrative medicine doctors in my area,839460690233,Broad,paused,,,,0,,,,116,8,16.8097,0.02
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrative medicine near me,312654897788,Broad,removed,Average,Below average,Above average,6,1,-1,2,107,7,16.1305,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrative medicine near me,312654900388,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|08,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,natural functional doctor,1656993030415,Broad,removed,,,,0,,,,96,8,13.9251,0
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,functional medicine doctor eden prairie,1416410840771,Broad,removed,,,,0,,,,22,0,0,0
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,functional medicine doctor edina,1416410840811,Broad,removed,,,,0,,,,56,1,1.29,0
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,functional medicine doctor minnetonka,1416410843211,Broad,removed,,,,0,,,,49,3,7.21,1
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,functional medicine doctor minnetonka,2395103740971,Phrase,enabled,,,,0,,,,1,0,0,0
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,holistic medicine Minneapolis,2431240508818,Phrase,enabled,Below average,Below average,Above average,5,-1,-1,2,70,11,23.08,1
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Average,Above average,Above average,8,1,2,2,26,4,9.22,0
+2026|08,Leads-Search-1,Men's Health,201177674047,enabled,adrenal fatigue doctor near me,324534626810,Broad,removed,,,,0,,,,26,4,4.385,1
+2026|08,Leads-Search-1,Men's Health,201177674047,enabled,gents specialist doctor near me,1173141205177,Broad,paused,,,,0,,,,25,0,0,0
+2026|08,Leads-Search-1,Men's Health,201177674047,enabled,holistic doctor for men near me,2405800260956,Broad,removed,,,,0,,,,26,2,3.3,0
+2026|08,Leads-Search-1,Men's Health,201177674047,enabled,male medical clinic near me,783507827476,Broad,paused,,,,0,,,,15,2,2.15,0
+2026|08,Leads-Search-1,Men's Health,201177674047,enabled,male primary care doctors near me,322930161988,Broad,paused,,,,0,,,,1,0,0,0
+2026|08,Leads-Search-1,Men's Health,201177674047,enabled,men's health naturopath,943798649025,Broad,removed,,,,0,,,,25,2,1.59,0
+2026|08,Leads-Search-1,Men's Health,201177674047,enabled,men's specialist doctor near me,1016846386681,Broad,paused,,,,0,,,,42,1,1.02,0
+2026|08,Leads-Search-1,Men's Health,201177674047,enabled,naturopath for low testosterone,2374002905935,Broad,removed,,,,0,,,,14,2,1.01,0
+2026|08,Leads-Search-1,Men's Health,201177674047,enabled,naturopath for men,1188678630711,Broad,removed,,,,0,,,,82,11,15.781,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,alternative medicine doctors near me,296836537601,Broad,removed,Below average,Above average,Average,5,-1,2,1,26,1,6.8361,0
+2026|08,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,alternative medicine doctors near me,297466350908,Phrase,enabled,,,,0,,,,1,0,0,0
+2026|08,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,alternative medicine near me,488185819912,Broad,removed,,,,0,,,,221,10,22.0174,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,best naturopath near me,346755549738,Broad,enabled,Above average,Below average,Above average,8,2,-1,2,7,0,0,0
+2026|08,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,holistic dr near me,296740931208,Broad,enabled,Above average,Average,Average,7,2,1,1,71,3,4.07,0
+2026|08,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,natural doctor near me,301055025575,Phrase,enabled,,,,0,,,,5,0,0,0
+2026|08,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,natural practitioner near me,449781667092,Broad,enabled,Average,Below average,Above average,6,1,-1,2,2,1,1.35,0
+2026|08,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturalist dr near me,393482794014,Broad,paused,,,,0,,,,125,0,0,0
+2026|08,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopathic doctor near me,44833314052,Exact,enabled,Average,Average,Above average,7,1,1,2,34,6,11.68,0
+2026|08,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopathic dr near me,295411384059,Broad,enabled,Below average,Above average,Above average,7,-1,2,2,5,0,0,0
+2026|08,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopathic practitioner near me,381953148433,Broad,enabled,Below average,Above average,Average,5,-1,2,1,46,0,0,0
+2026|08,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopaths in my area,468484996471,Broad,paused,,,,0,,,,101,2,3.24,0
+2026|08,Leads-Search-1,Pediatrics,197488229277,enabled,holistic pediatricians near me,352635960607,Broad,removed,,,,0,,,,93,1,1.96,0
+2026|08,Leads-Search-1,Pediatrics,197488229277,enabled,pediatric holistic doctor,307044124532,Broad,removed,,,,0,,,,231,15,32.4639,1
+2026|08,Leads-Search-1,Pediatrics,197488229277,enabled,pediatric holistic doctor near me,427407324440,Broad,enabled,Average,Below average,Above average,6,1,-1,2,45,0,0,0
+2026|08,Leads-Search-1,Pediatrics,197488229277,enabled,pediatric naturopath,298624063855,Broad,enabled,Below average,Average,Above average,6,-1,1,2,2,0,0,0
+2026|08,Leads-Search-1,Pediatrics,197488229277,enabled,pediatric naturopath near me,547692999832,Broad,enabled,,,,0,,,,105,4,7.35,2
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,Hashimoto's naturopath,2370185008978,Broad,removed,,,,0,,,,47,1,2.88,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,endometriosis specialist near me,313019455439,Phrase,enabled,Average,Below average,Average,5,1,-1,1,2,1,2.86,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,female naturopath,754004406845,Broad,paused,,,,0,,,,162,9,23.145,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,female naturopath near me,838600258955,Broad,removed,,,,0,,,,171,9,15.5618,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,fertility naturopath near me,614462052706,Broad,removed,,,,0,,,,47,1,0.1732,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,functional medicine for hormones,1437762701452,Broad,paused,,,,0,,,,114,14,32.8538,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,functional medicine hormones,422395640608,Broad,paused,,,,0,,,,37,3,6.51,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,hormone doctor near me,297217478090,Broad,removed,Average,Below average,Above average,6,1,-1,2,81,10,24.8243,1
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,natural help for menopause,298084176236,Broad,removed,,,,0,,,,108,3,8.62,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,natural help for menopause,322912570731,Phrase,enabled,,,,0,,,,16,1,2.77,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for PMS,1368219292309,Phrase,enabled,,,,0,,,,1,0,0,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for endometriosis,359506051186,Phrase,enabled,,,,0,,,,2,2,4,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for fertility,354423724287,Broad,removed,,,,0,,,,10,1,3.11,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for hormone imbalance,348667139225,Broad,removed,,,,0,,,,148,8,14.8227,1
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for hormones,361975724615,Broad,paused,,,,0,,,,73,4,8.6274,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,pcos specialist near me,393086251324,Phrase,enabled,Average,Below average,Average,5,1,-1,1,3,1,2.91,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,perimenopause doctor near me,879175999408,Phrase,enabled,Below average,Below average,Above average,5,-1,-1,2,18,3,6.42,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,perimenopause naturopath,888598728605,Phrase,enabled,Average,Average,Above average,7,1,1,2,5,0,0,0
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,women's health naturopath,303396160999,Broad,removed,,,,0,,,,460,20,48.21,3
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,women's hormone specialist near me,545947326693,Broad,removed,,,,0,,,,194,7,16.1633,2
+2026|08,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,women's naturopath near me,822120435560,Broad,removed,,,,0,,,,22,0,0,0
+2026|09,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,dr haley panka,2484456293679,Exact,enabled,Above average,Average,Above average,,2,1,2,0,0,0,0
+2026|09,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,dr panka,933585970059,Exact,enabled,Average,Below average,Above average,,1,-1,2,0,0,0,0
+2026|09,Leads-Search-1,Ad group 1,183759893484,removed,functional medicine,10957761,Broad,enabled,Below average,Below average,Average,,-1,-1,1,0,0,0,0
+2026|09,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,haley panka,584357309429,Phrase,enabled,Above average,Average,Above average,,2,1,2,0,0,0,0
+2026|09,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka health,891630859085,Exact,enabled,Above average,Above average,Above average,,2,2,2,0,0,0,0
+2026|09,PNHdefense-Website traffic-Search-2,Ad group 1,196283052145,enabled,panka natural health,700161616745,Phrase,enabled,Above average,Above average,Above average,,2,2,2,0,0,0,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional doctor in my area,322898019488,Broad,paused,,,,0,,,,15,0,0,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional integrative doctor,321395752246,Broad,paused,,,,0,,,,28,0,0,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional integrative medicine near me,807453047019,Broad,removed,Average,Below average,Above average,6,1,-1,2,26,0,0,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medical doctors,298829237476,Broad,removed,,,,0,,,,10,1,1.6,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medical doctors,311258286897,Phrase,enabled,,,,0,,,,2,1,1.81,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine,10957761,Broad,removed,Below average,Above average,Above average,7,-1,2,2,117,7,12.78,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine,44794693,Phrase,enabled,Below average,Above average,Above average,7,-1,2,2,14,0,0,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine clinic near me,629327041832,Broad,removed,Average,Average,Above average,7,1,1,2,52,1,1.71,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine doctors in my area,466935651506,Broad,paused,Average,Below average,Above average,,1,-1,2,0,0,0,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine doctors near me,300278964675,Broad,removed,Average,Below average,Above average,6,1,-1,2,13,1,1.73,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine near me,325505212743,Broad,removed,Below average,Average,Average,4,-1,1,1,18,3,4.29,1
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine practice near me,436847453242,Broad,removed,,,,0,,,,5,0,0,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine practitioner,10477182709,Phrase,enabled,,,,0,,,,3,0,0,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,functional medicine practitioner,303254433014,Broad,removed,,,,0,,,,10,0,0,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrative medicine doctors in my area,839460690233,Broad,paused,,,,0,,,,55,0,0,0
+2026|09,Leads-Search-1,Functional & Integrative Medicine,198432290338,enabled,integrative medicine near me,312654900388,Phrase,enabled,Below average,Below average,Above average,,-1,-1,2,0,0,0,0
+2026|09,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,functional medicine doctor minnetonka,2395103740971,Phrase,enabled,,,,0,,,,1,0,0,0
+2026|09,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,holistic medicine Minneapolis,2431240508818,Phrase,enabled,Below average,Below average,Above average,5,-1,-1,2,17,1,1.8,0
+2026|09,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,200485717907,enabled,naturopathic doctor Minneapolis,2431240508378,Phrase,enabled,Average,Above average,Above average,8,1,2,2,5,0,0,0
+2026|09,Leads-Search-1,Men's Health,201177674047,enabled,naturopath for men,1188678630711,Broad,removed,,,,0,,,,8,0,0,0
+2026|09,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,alternative medicine near me,488185819912,Broad,removed,Average,Below average,Above average,6,1,-1,2,54,8,11.5,0
+2026|09,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,best naturopath near me,346755549738,Broad,enabled,Above average,Below average,Above average,,2,-1,2,0,0,0,0
+2026|09,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,holistic dr near me,296740931208,Broad,enabled,Above average,Average,Average,7,2,1,1,16,0,0,0
+2026|09,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,natural practitioner near me,449781667092,Broad,enabled,Average,Below average,Above average,,1,-1,2,0,0,0,0
+2026|09,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturalist dr near me,393482794014,Broad,paused,,,,0,,,,14,0,0,0
+2026|09,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopathic doctor near me,44833314052,Exact,enabled,Average,Average,Above average,7,1,1,2,7,0,0,0
+2026|09,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopathic dr near me,295411384059,Broad,enabled,Below average,Above average,Above average,,-1,2,2,0,0,0,0
+2026|09,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopathic practitioner near me,381953148433,Broad,enabled,Below average,Above average,Average,5,-1,2,1,84,4,9.69,0
+2026|09,Leads-Search-1,Naturopath Near Me — Core,201177654927,enabled,naturopaths in my area,468484996471,Broad,paused,,,,0,,,,19,0,0,0
+2026|09,Leads-Search-1,Pediatrics,197488229277,enabled,holistic pediatricians near me,352635960607,Broad,removed,,,,0,,,,26,0,0,0
+2026|09,Leads-Search-1,Pediatrics,197488229277,enabled,pediatric holistic doctor,307044124532,Broad,removed,,,,0,,,,32,1,2.07,0
+2026|09,Leads-Search-1,Pediatrics,197488229277,enabled,pediatric holistic doctor near me,427407324440,Broad,enabled,Average,Below average,Above average,6,1,-1,2,38,0,0,0
+2026|09,Leads-Search-1,Pediatrics,197488229277,enabled,pediatric naturopath,298624063855,Broad,enabled,Below average,Average,Above average,,-1,1,2,0,0,0,0
+2026|09,Leads-Search-1,Pediatrics,197488229277,enabled,pediatric naturopath near me,547692999832,Broad,enabled,,,,0,,,,165,3,5.6762,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,Hashimoto's naturopath,2370185008978,Broad,removed,,,,0,,,,13,1,2.87,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,endometriosis specialist near me,313019455439,Phrase,enabled,Average,Below average,Average,,1,-1,1,0,0,0,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,female naturopath,754004406845,Broad,paused,,,,0,,,,22,0,0,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,female naturopath near me,838600258955,Broad,removed,,,,0,,,,44,0,0,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,fertility naturopath near me,614462052706,Broad,removed,,,,0,,,,11,0,0,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,functional medicine for hormones,1437762701452,Broad,paused,,,,0,,,,19,1,2.88,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,holistic hormone doctor near me,825924214050,Phrase,enabled,Average,Below average,Average,,1,-1,1,0,0,0,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,hormone doctor near me,64408445366,Phrase,enabled,,,,0,,,,1,0,0,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,hormone doctor near me,297217478090,Broad,removed,Average,Below average,Above average,6,1,-1,2,179,10,24.7,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for hormone imbalance,348667139225,Broad,removed,,,,0,,,,22,1,2.82,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,naturopath for hormones,361975724615,Broad,paused,,,,0,,,,19,0,0,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,pcos specialist near me,393086251324,Phrase,enabled,Average,Below average,Average,,1,-1,1,0,0,0,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,perimenopause doctor near me,879175999408,Phrase,enabled,Below average,Below average,Above average,5,-1,-1,2,5,0,0,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,perimenopause naturopath,888598728605,Phrase,enabled,Average,Average,Above average,,1,1,2,0,0,0,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,women's health naturopath,303396160999,Broad,removed,,,,0,,,,86,4,11.47,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,women's hormone specialist near me,545947326693,Broad,removed,,,,0,,,,56,2,3.07,0
+2026|09,Leads-Search-1,Women's Health & Hormones,192679099330,enabled,women's hormone specialist near me,838763769492,Phrase,enabled,,,,0,,,,2,0,0,0

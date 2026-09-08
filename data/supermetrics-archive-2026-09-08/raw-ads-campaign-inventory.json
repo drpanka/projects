@@ -1,0 +1,9 @@
+{"requested_field_ids":["Campaignname","CampaignID","AdvertisingChannelType","Campaignstatus","CampaignServingStatus","CampaignPrimaryStatus","CampaignPrimaryStatusReasons","startDate","endDate","dailybudget","Impressions","Clicks","Cost","Conversions"],
+"data":[
+["Leads-Search-1","22767146837","Search","enabled","eligible","Limited","Budget constrained, Has ads limited by policy, Unknown","2025-07-08","2037-12-30",15,23950,1383,3215.351,322.02],
+["Campaign #1","22625352639","Performance Max","paused","eligible","Paused","Campaign paused, Has asset groups limited by policy","2025-06-02","2037-12-30",6,100443,3386,910.921,1855],
+["PNHdefense-Website traffic-Search-2","23888858069","Search","paused","eligible","Paused","Campaign paused","2026-05-28","2037-12-30",5,363,66,158.0563,26.21],
+["Leads-PMax-Video-1","24028056923","Performance Max","removed","eligible","Removed","Campaign removed","2026-07-13","2037-12-30",null,0,0,0,0],
+["Leads-PMax-Video-1","24032463085","Performance Max","removed","eligible","Removed","Campaign removed","2026-07-13","2037-12-30",null,0,0,0,0],
+["Leads-PMax-Video-1","24032465476","Performance Max","paused","eligible","Paused","Campaign paused, Has asset groups limited by policy","2026-07-13","2037-12-30",null,0,0,0,0]
+]}

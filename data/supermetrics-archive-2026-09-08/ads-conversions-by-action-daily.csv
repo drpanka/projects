@@ -1,0 +1,590 @@
+Date,Campaignname,CampaignID,Campaignstatus,ConversionTrackerId,ConversionTypeName,ConversionCategory,ExternalConversionSource,Conversions,conversionsByConversionDate,EstimatedTotalConversions,allConversionsByConversionDate,ConversionValue,EstimatedTotalConversionValue,allConversionsValueByConversionDate,Viewthroughconversions,EstimatedCrossDeviceConversions
+2025-06-03,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,4,2,4,2,4,4,2,0,2
+2025-06-03,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,0,1,0,1,1,0,0,0
+2025-06-04,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-04,Campaign #1,22625352639,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2025-06-05,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2025-06-05,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-05,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-05,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-06,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2025-06-06,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-06,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-06,Campaign #1,22625352639,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,3,3,0,3,3,0,0
+2025-06-06,Campaign #1,22625352639,paused,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,4,4,0,4,4,0,0
+2025-06-07,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,5,4,5,4,5,5,4,0,0
+2025-06-07,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,4,4,4,4,4,4,4,0,0
+2025-06-07,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-07,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-09,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-06-11,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,4,4,4,4,4,4,4,0,0
+2025-06-11,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-06-11,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-11,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-11,Campaign #1,22625352639,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,4,3,0,4,3,0,0
+2025-06-11,Campaign #1,22625352639,paused,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,2,2,0,2,2,0,0
+2025-06-12,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2025-06-12,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-12,Campaign #1,22625352639,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,0,1,0,0,1,0,0
+2025-06-12,Campaign #1,22625352639,paused,7169930375,Local actions - Menu views,Page view,Google hosted,0,0,2,2,0,2,2,0,0
+2025-06-13,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-13,Campaign #1,22625352639,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2025-06-13,Campaign #1,22625352639,paused,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,2,2,0,2,2,0,0
+2025-06-14,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-14,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-15,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,4,3,4,3,4,4,3,0,1
+2025-06-15,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-15,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-15,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-06-15,Campaign #1,22625352639,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,2,0,2,2,0,0
+2025-06-15,Campaign #1,22625352639,paused,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,5,5,0,5,5,0,0
+2025-06-16,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2025-06-16,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-16,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-16,Campaign #1,22625352639,paused,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,4,4,0,4,4,0,0
+2025-06-17,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,4,3,4,3,4,4,3,0,0
+2025-06-17,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-06-17,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-06-17,Campaign #1,22625352639,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2025-06-18,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,3,3,3,3,3,3,3,0,0
+2025-06-18,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-18,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-06-18,Campaign #1,22625352639,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2025-06-18,Campaign #1,22625352639,paused,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,2,2,0,2,2,0,0
+2025-06-19,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-06-19,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-19,Campaign #1,22625352639,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,0,0,1,0,0,0
+2025-06-19,Campaign #1,22625352639,paused,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,18,17,0,18,17,0,0
+2025-06-19,Campaign #1,22625352639,paused,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,2,2,0,2,2,0,0
+2025-06-20,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-06-20,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,5,4,5,4,5,5,4,0,0
+2025-06-21,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2025-06-21,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-22,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,1,0,1,0,0,1,0,0
+2025-06-23,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,0,1,0,1,1,0,0,0
+2025-06-23,Campaign #1,22625352639,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,0,1,0,0,1,0,0
+2025-06-24,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-24,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,2,1,2,1,1,2,0,0
+2025-06-26,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-06-26,Campaign #1,22625352639,paused,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,0,1,0,0,1,0,0
+2025-06-27,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2025-06-27,Campaign #1,22625352639,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2025-06-28,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-29,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,5,5,5,5,5,5,5,0,0
+2025-06-29,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-06-29,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-06-29,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,2,1,2,1,2,2,1,0,0
+2025-06-30,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,20,9,20,9,20,20,9,0,0
+2025-06-30,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,4,0,4,0,4,4,0,0,0
+2025-06-30,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,64,28,68,28,64,68,28,0,0
+2025-07-01,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,42,45,42,45,42,42,45,0,0
+2025-07-01,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,4,8,4,8,4,4,8,0,0
+2025-07-01,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-07-01,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,149.02,174,155.02,174,149.02,155.02,174,0,0
+2025-07-02,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,62,56,62,56,62,62,56,0,0
+2025-07-02,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,3,3,3,3,3,3,3,0,0
+2025-07-02,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,4,2,4,2,4,4,2,0,0
+2025-07-02,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,154.02,131,156.02,131,154.02,156.02,131,0,0
+2025-07-03,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,22,30,22,30,22,22,30,0,0
+2025-07-03,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-03,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,3,1,3,1,1,3,0,0
+2025-07-03,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,52.98,75,55.98,75,52.98,55.98,75,0,0
+2025-07-04,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,170.5,110,170.5,110,170.5,170.5,110,0,0
+2025-07-04,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,10,5,10,5,10,10,5,0,0
+2025-07-04,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,5,2,5,2,5,5,2,0,0
+2025-07-04,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,289.25,221,293.25,221,289.25,293.25,221,0,0
+2025-07-05,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,94.5,128,94.5,128,94.5,94.5,128,0,0
+2025-07-05,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,2,7,2,7,2,2,7,0,0
+2025-07-05,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,3,6,3,6,3,3,6,0,0
+2025-07-05,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,145,214,155,214,145,155,214,0,0
+2025-07-06,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,159,120,159,120,159,159,120,0,0
+2025-07-06,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,10,10,14,10,10,14,10,0,0
+2025-07-06,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,4,4,5,4,4,5,4,0,0
+2025-07-06,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,204.73,204,242.73,204,204.73,242.73,204,0,0
+2025-07-07,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,34,64,34,64,34,34,64,0,0
+2025-07-07,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,4,4,4,8,4,4,8,0,0
+2025-07-07,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-07,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,10,23,35,71,10,35,71,0,0
+2025-07-08,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,17,28,17,28,17,17,28,0,0
+2025-07-08,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2025-07-08,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,0,1,0,0,1,0,0
+2025-07-08,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,1,9,18,1,9,18,0,0
+2025-07-08,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-09,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,4,0,4,0,0,4,0,0
+2025-07-09,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,8,0,0,8,0,0
+2025-07-09,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2025-07-10,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,3,0,3,0,0,3,0,0
+2025-07-10,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,4,0,0,4,0,0
+2025-07-10,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-10,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2025-07-11,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-07-11,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,1,4,0,1,4,0,0
+2025-07-11,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,3,2,3,2,3,3,2,0,0
+2025-07-11,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2025-07-11,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,1,0,1,1,0,0
+2025-07-12,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,20,18,20,18,20,20,18,0,0
+2025-07-12,Campaign #1,22625352639,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2025-07-12,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2025-07-12,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,27,25,0,27,25,0,0
+2025-07-12,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,5,5,5,5,5,5,5,0,0
+2025-07-12,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,1,0,1,1,0,0
+2025-07-13,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,7,1,7,1,1,7,0,0
+2025-07-13,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,5,0,0,5,0,0
+2025-07-13,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,3,3,3,3,3,3,3,0,0
+2025-07-13,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-13,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-13,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2025-07-13,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,4,4,0,4,4,0,0
+2025-07-14,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,4,0,4,0,0,4,0,0
+2025-07-14,Campaign #1,22625352639,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,1,0,1,0,0,1,0,0
+2025-07-14,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,3,3,3,3,3,3,3,0,0
+2025-07-14,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-07-14,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-14,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-14,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,3,3,0,3,3,0,0
+2025-07-14,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,1,0,1,1,0,0
+2025-07-15,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,3,0,3,0,0,3,0,0
+2025-07-15,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,2,0,0,2,0,0
+2025-07-15,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,12,9,12,9,12,12,9,0,0
+2025-07-15,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-07-15,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-15,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,2,0,2,2,0,0
+2025-07-15,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,11,2,0,11,2,0,0
+2025-07-15,Leads-Search-1,22767146837,enabled,7217291006,Calls from ads,Phone call lead,Calls from ads,0,0,1,1,0,1,1,0,0
+2025-07-16,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,3,0,0,3,0,0
+2025-07-16,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,4,6,4,6,4,4,6,0,0
+2025-07-16,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-07-16,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-16,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,1,0,2,1,0,0
+2025-07-16,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,2,11,0,2,11,0,0
+2025-07-17,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,1,0,0,1,0,0
+2025-07-17,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-07-17,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-07-17,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-07-17,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,3,4,0,3,4,0,0
+2025-07-18,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,2,0,0,2,0,0
+2025-07-18,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,18,12,18,12,18,18,12,0,3
+2025-07-18,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,3,3,3,3,3,3,3,0,0
+2025-07-18,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,5,5,5,5,5,5,5,0,0
+2025-07-18,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-18,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,3,2,0,3,2,0,0
+2025-07-18,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,16,16,0,16,16,0,0
+2025-07-19,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,3,0,3,0,0,3,0,0
+2025-07-19,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,2,5,2,5,2,2,5,0,0
+2025-07-19,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-19,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2025-07-20,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,2,0,0,2,0,0
+2025-07-20,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,8,6,8,6,8,8,6,0,0
+2025-07-20,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,3,3,3,3,3,3,3,0,0
+2025-07-20,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-20,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,3,3,0,3,3,0,0
+2025-07-20,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,19,19,0,19,19,0,0
+2025-07-20,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,3,0,0,3,0,0,0
+2025-07-21,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,2,0,2,0,0,2,0,0
+2025-07-21,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,7,6,7,6,7,7,6,0,0
+2025-07-21,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-21,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-07-21,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,2,0,2,2,0,0
+2025-07-21,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,0,0,1,0,0,0
+2025-07-22,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,2,0,2,0,0,2,0,0
+2025-07-22,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,4,8,4,8,4,4,8,0,0
+2025-07-22,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,3,2,3,2,3,3,2,0,0
+2025-07-22,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,0,1,0,1,1,0,0,0
+2025-07-22,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,1,0,2,1,0,0
+2025-07-22,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,2,0,1,2,0,0
+2025-07-23,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,2,0,2,0,0,2,0,0
+2025-07-23,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,1,0,1,0,0,1,0,0
+2025-07-23,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,1,0,1,0,0,1,0,0
+2025-07-23,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,0,1,0,0,1,0,0
+2025-07-24,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,1,0,0,1,0,0
+2025-07-25,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-07-27,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-07-28,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,0,1,0,0,1,0,0
+2025-07-29,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,1,0,0,1,0,0
+2025-07-31,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,1,0,0,1,0,0
+2025-08-01,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-08-01,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,2,0,0,2,0,0
+2025-08-04,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-08-04,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,1,0,0,1,0,0
+2025-08-04,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,6,3,6,3,6,6,3,0,0
+2025-08-04,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,6,5,6,5,6,6,5,0,0
+2025-08-04,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-08-04,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,5,3,0,5,3,0,0
+2025-08-05,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,3,6,3,6,3,3,6,0,0
+2025-08-05,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,2,1,2,1,1,2,0,0
+2025-08-05,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,1,0,2,1,0,0
+2025-08-05,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,6,8,0,6,8,0,0
+2025-08-06,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-08-06,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-08-06,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-08-06,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,3,3,0,3,3,0,0
+2025-08-06,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,3,3,0,3,3,0,0
+2025-08-06,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,1,1,0,1,1,0,0
+2025-08-07,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,10,9,10,9,10,10,9,0,0
+2025-08-07,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,3,3,3,3,3,3,3,0,0
+2025-08-07,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,3,3,3,3,3,3,3,0,0
+2025-08-07,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-08-07,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,3,3,0,3,3,0,0
+2025-08-07,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,1,0,1,1,0,0
+2025-08-07,Leads-Search-1,22767146837,enabled,7254459499,Clicks to call,Contact,Google hosted,0,0,1,1,0,1,1,0,0
+2025-08-08,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,4,3,4,3,4,4,3,0,0
+2025-08-08,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,4,4,4,4,4,4,4,0,0
+2025-08-08,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-08-08,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,5,3,0,5,3,0,0
+2025-08-08,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,2,2,0,2,2,0,0
+2025-08-09,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,7,4,7,4,7,7,4,0,0
+2025-08-09,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,4,4,4,4,4,4,4,0,0
+2025-08-09,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-08-10,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2025-08-10,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-08-10,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2025-08-10,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,1,1,0,1,1,0,0
+2025-08-11,Campaign #1,22625352639,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,1,0,0,1,0,0
+2025-08-11,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,9,10,9,10,9,9,10,0,2
+2025-08-11,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,5,3,5,3,5,5,3,0,0
+2025-08-11,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-08-11,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2025-08-11,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,7,7,0,7,7,0,0
+2025-08-12,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,2,1,2,1,1,2,0,0
+2025-08-12,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-08-12,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,2,0,2,2,0,0
+2025-08-12,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,3,3,0,3,3,0,0
+2025-08-13,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,2,0,2,0,0,2,0,0
+2025-08-15,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,0,1,0,0,1,0,0
+2025-08-18,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,0,1,0,0,1,0,0
+2025-08-18,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,0,1,0,0,1,0,0
+2025-08-19,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,0,2,0,0,2,0,0
+2025-08-23,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2025-08-23,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-08-23,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,2,0,2,2,0,0
+2025-08-23,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,1,0,1,1,0,0
+2025-08-23,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,1,1,0,1,1,0,0
+2025-08-24,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,4,4,4,4,4,4,4,0,0
+2025-08-24,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-08-24,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,2,0,2,2,0,0
+2025-08-24,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,5,5,0,5,5,0,0
+2025-08-25,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,3,2,3,2,3,3,2,0,1
+2025-08-25,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,7,7,7,7,7,7,7,0,0
+2025-08-25,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,4,4,4,4,4,4,4,0,0
+2025-08-25,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,1,1,1,1,1,1,1,0,0
+2025-08-25,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,3,3,0,3,3,0,0
+2025-08-25,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,5,5,0,5,5,0,0
+2025-08-26,Campaign #1,22625352639,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-08-26,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,5,3,5,3,5,5,3,0,0
+2025-08-26,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,2,2,2,2,2,2,2,0,0
+2025-08-27,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,2,0,2,0,0,2,0,0
+2025-08-27,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2025-08-27,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,1,0,1,1,0,0
+2025-08-29,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,0,1,0,0,1,0,0
+2025-09-02,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-09-09,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-09-10,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-09-15,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2025-09-18,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2026-04-27,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-04-28,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,12,7,12,7,12,12,7,0,0
+2026-04-28,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,4,3,0,4,3,0,0
+2026-04-28,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,3,2,0,3,2,0,0
+2026-04-28,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-04-28,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,1,0,1,1,0,0
+2026-04-28,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,3,3,0,3,3,0,0
+2026-04-29,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2026-04-29,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,1,0,2,1,0,0
+2026-04-29,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,1,0,2,1,0,0
+2026-04-29,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,2,2,0,2,2,0,0
+2026-04-29,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,2,2,0,2,2,0,0
+2026-04-30,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,3,4,3,4,3,3,4,0,0
+2026-04-30,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,3,0,1,3,0,0
+2026-04-30,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,0,1,0,0,1,0,0
+2026-04-30,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-04-30,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,1,0,1,1,0,0
+2026-05-01,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,2,1,2,1,1,2,0,0
+2026-05-01,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-05-02,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,5,6,5,6,5,5,6,0,0
+2026-05-02,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-05-02,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-05-02,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-05-03,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,2,1,2,1,2,2,1,0,0
+2026-05-03,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-05-03,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,2,0,2,2,0,0
+2026-05-03,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,5,5,0,5,5,0,0
+2026-05-04,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,2,1,2,1,1,2,0,0
+2026-05-04,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-05-04,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,0,1,0,0,1,0,0
+2026-05-04,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,1,0,1,1,0,0
+2026-05-08,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,2,0,2,0,0,2,0,0
+2026-05-12,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,2,1,2,1,2,2,1,0,0
+2026-05-12,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-05-12,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,1,0,2,1,0,0
+2026-05-12,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,7,7,0,7,7,0,0
+2026-05-12,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,1,1,0,1,1,0,0
+2026-05-13,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,7,7,7,7,7,7,7,0,0
+2026-05-13,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-05-13,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,3,2,0,3,2,0,0
+2026-05-13,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-05-13,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,2,0,1,2,0,0
+2026-05-13,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,5,1,0,5,1,0,0
+2026-05-19,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2026-05-19,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,0,1,0,0,1,0,0
+2026-05-19,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,0,4,0,0,4,0,0
+2026-05-30,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,2,2,2,2,2,2,2,0,0
+2026-05-30,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-05-30,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-05-30,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-06-02,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-06-02,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,2,1,0,2,1,0,0
+2026-06-03,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,0,1,0,0,1,0,0
+2026-06-04,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-06-08,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2026-06-08,PNHdefense-Website traffic-Search-2,23888858069,paused,7196843730,PNH2 (web) purchase,Purchase/Sale,Other,0,0,1,1,0,630,630,0,0
+2026-06-08,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,2,1,0,2,1,0,0
+2026-06-10,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,0,0,0,0,0,0,0
+2026-06-10,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0.02,0,0.02,0,1.06,1.06,0,0,0
+2026-06-10,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,3,3,3,3,3,3,3,0,0
+2026-06-10,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,3,2,0,3,2,0,0
+2026-06-10,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-06-10,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,2,3,0,2,3,0,0
+2026-06-12,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,4,0,4,0,4,4,0,0,0
+2026-06-12,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,3,0,0,3,0,0,0
+2026-06-13,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2026-06-13,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,0,1,0,0,1,0,0
+2026-06-15,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,2,1,2,1,1,2,0,0
+2026-06-15,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,1,2,0,1,2,0,0
+2026-06-18,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,5,2,21,2,5,21,2,0,0
+2026-06-18,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,1,0,0,1,0,0,0
+2026-06-18,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,2,0,5.01,2,66,69.01,2,0,0
+2026-06-19,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-06-19,PNHdefense-Website traffic-Search-2,23888858069,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,0,0,1,0,0,0
+2026-06-25,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,2,0,2,0,2,2,0,0,0
+2026-06-25,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-06-25,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,3,0,0,3,0,0,0
+2026-06-26,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,2,2,2,2,2,2,2,0,0
+2026-06-26,PNHdefense-Website traffic-Search-2,23888858069,paused,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,0,1,0,0,1,0,0
+2026-06-26,PNHdefense-Website traffic-Search-2,23888858069,paused,7196843730,PNH2 (web) purchase,Purchase/Sale,Other,1,1,1,1,225,225,225,0,0
+2026-06-26,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,2,2,0,2,2,0,0
+2026-06-28,PNHdefense-Website traffic-Search-2,23888858069,paused,7254459499,Clicks to call,Contact,Google hosted,0,0,1,0,0,1,0,0,0
+2026-07-01,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2026-07-01,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,0,1,0,0,1,0,0
+2026-07-03,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2026-07-03,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-03,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,1,1,0,1,1,0,0
+2026-07-03,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,1,0,1,0,0,1,0,0
+2026-07-03,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-03,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,0,1,0,0,1,0,0
+2026-07-04,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-04,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-07-04,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-05,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,1,1,1,1,0,0
+2026-07-05,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,1,1,0,1,1,0,0
+2026-07-05,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,2.01,1,2.01,1,2.01,2.01,1,0,0
+2026-07-05,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,1,1,0,1,1,0,0
+2026-07-06,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,2,0,2,0,0,2,0,0
+2026-07-06,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,0,3,0,0,3,0,0
+2026-07-07,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,5,5,6,5,5,6,5,0,0
+2026-07-07,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-07,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-07,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-07-07,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,2,0,0,2,0,0,0
+2026-07-07,Leads-Search-1,22767146837,enabled,7196843730,PNH2 (web) purchase,Purchase/Sale,Other,1,1,1,1,1,1,1,0,0
+2026-07-07,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,4,4,0,4,4,0,0
+2026-07-07,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,2,2,2,2,2,2,2,0,0
+2026-07-07,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,1.49,1.4877,0,1.49,1.4877,0,0
+2026-07-08,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,2,2,2,2,2,2,2,0,0
+2026-07-08,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-08,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,2,1.9976,0,2,1.9976,0,0
+2026-07-08,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0.99,2,0.99,2,0.99,0.99,2,0,0
+2026-07-08,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,0,1,0,0,1,0,0
+2026-07-08,PNHdefense-Website traffic-Search-2,23888858069,paused,7196843730,PNH2 (web) purchase,Purchase/Sale,Other,0.21,0.2057,0.21,0.2057,46.28,46.28,46.2825,0,0
+2026-07-08,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,0.43,0.4333,0,0.43,0.4333,0,0
+2026-07-09,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,2,2,2,2,2,2,2,0,0
+2026-07-09,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-09,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-09,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-09,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-07-09,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,1,0,1,1,0,0
+2026-07-09,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,2,2,0,2,2,0,0
+2026-07-09,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,3,0,3,0,0,3,0,0
+2026-07-09,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,0,0.0072,0,0,0.0072,0,0
+2026-07-10,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,1,1,1,2,1,1,2,0,0
+2026-07-10,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-07-10,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-10,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-07-10,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,1,1,0,1,1,0,0
+2026-07-11,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,6,6,6,6,6,6,6,0,0
+2026-07-11,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,6,6,0,6,6,0,0
+2026-07-11,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-11,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-07-12,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,3,3,0,3,3,0,0
+2026-07-12,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-07-12,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,0,0,1,0,0,1,0,0
+2026-07-13,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,1,1,0,1,1,0,0
+2026-07-13,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-07-13,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-13,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-07-13,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,4,4,0,4,4,0,0
+2026-07-13,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,1,1,1,0,0
+2026-07-13,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-14,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,4,4,0,4,4,0,0
+2026-07-14,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,2,0,2,2,0,0
+2026-07-14,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,3,3,0,3,3,0,0
+2026-07-14,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,2.02,2.0196,2.02,2.0196,2.02,2.02,2.0196,0,0
+2026-07-14,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,0,1,0,0,1,0,0
+2026-07-14,PNHdefense-Website traffic-Search-2,23888858069,paused,7254459499,Clicks to call,Contact,Google hosted,0,0,0,1,0,0,1,0,0
+2026-07-14,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,1,0,1,0,0,1,0,0
+2026-07-15,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,16,16,0,16,16,0,0
+2026-07-15,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,1,1,0,1,1,0,0
+2026-07-15,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-07-15,PNHdefense-Website traffic-Search-2,23888858069,paused,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-16,PNHdefense-Website traffic-Search-2,23888858069,paused,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,1,1,0,1,1,0,0
+2026-07-17,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,1,1,0,1,1,0,0
+2026-07-17,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-07-17,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-07-18,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,9,8,0,9,8,0,0
+2026-07-18,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,4,2,0,4,2,0,0
+2026-07-18,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,3,3,3,3,195,195,195,0,0
+2026-07-19,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,2,2,0,2,2,0,0
+2026-07-19,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,2,0,1,2,0,0
+2026-07-19,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-07-19,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,65,65,65,0,0
+2026-07-20,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,4,5,0,4,5,0,0
+2026-07-20,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-07-20,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,65,65,65,0,0
+2026-07-20,PNHdefense-Website traffic-Search-2,23888858069,paused,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,1,1,0,1,1,0,0
+2026-07-21,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,2,2,0,2,2,0,0
+2026-07-21,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-21,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-21,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1.98,2,1.98,2,128.94,128.94,130,0,0
+2026-07-22,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-23,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-24,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,5,2,0,5,2,0,0
+2026-07-24,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,3,3,0,3,3,0,0
+2026-07-24,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-07-24,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-24,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,0,2,0,0,2,0,0
+2026-07-24,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,65,65,65,0,0
+2026-07-25,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,5,4,0,5,4,0,0
+2026-07-25,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,3,3,0,3,3,0,0
+2026-07-25,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,3,3,0,3,3,0,0
+2026-07-25,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-07-25,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,5,5,5,5,325,325,325,0,0
+2026-07-26,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-26,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,0,0,1,0,0,0
+2026-07-26,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,0,0,1,0,0,0
+2026-07-27,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,3,2,0,3,2,0,0
+2026-07-27,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,3,0,2,3,0,0
+2026-07-27,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-07-27,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,2,0,2,2,0,0
+2026-07-27,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,1,0,1,1,0,0
+2026-07-27,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,2,2,2,2,130,130,130,0,0
+2026-07-28,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,1,2,0,1,2,0,0
+2026-07-28,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-07-28,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,65,65,65,0,0
+2026-07-29,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,8,10,0,8,10,0,0
+2026-07-29,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,4,3,0,4,3,0,0
+2026-07-29,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-29,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-07-29,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,10,10,0,10,10,0,0
+2026-07-29,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,6,6,6,6,390,390,390,0,0
+2026-07-29,PNHdefense-Website traffic-Search-2,23888858069,paused,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,0,15,0,0,15,0,0
+2026-07-29,PNHdefense-Website traffic-Search-2,23888858069,paused,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0,1,0,1,0,0,65,0,0
+2026-07-30,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,3,4,0,3,4,0,0
+2026-07-30,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-30,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,2,2,0,2,2,0,0
+2026-07-30,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,2,2,0,2,2,0,0
+2026-07-30,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,2,2,2,2,130,130,130,0,0
+2026-07-31,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,2,0,1,2,0,0
+2026-07-31,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-31,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-07-31,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,4,4,0,4,4,0,0
+2026-08-01,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,1,1,0,1,1,0,0
+2026-08-01,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,65,65,65,0,0
+2026-08-02,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,6,5,0,6,5,0,0
+2026-08-02,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,4,3,0,4,3,0,0
+2026-08-02,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,0,0,1,0,0,0
+2026-08-02,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,1,0,0,1,0,0,0
+2026-08-02,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,4,4,4,4,260,260,260,0,0
+2026-08-03,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,0.02,0,0,0.02,0,0,0
+2026-08-03,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-03,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,0,1,0,0,1,0,0
+2026-08-03,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,0,1,0,0,1,0,0
+2026-08-03,Leads-Search-1,22767146837,enabled,7254459499,Clicks to call,Contact,Google hosted,0,0,1,1,0,1,1,0,0
+2026-08-03,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0.02,0,0.02,0,1.57,1.57,0,0,0
+2026-08-04,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,0.98,2,0,0.98,2,0,0
+2026-08-04,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,2,0,1,2,0,0
+2026-08-04,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-08-04,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,0,1,0,0,1,0,0
+2026-08-04,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,0,1,0,0,1,0,0
+2026-08-04,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,2,2,0,2,2,0,0
+2026-08-04,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,0.98,1,0.98,1,63.43,63.43,65,0,0
+2026-08-05,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,2,2,0,2,2,0,0
+2026-08-05,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,6,6,0,6,6,0,0
+2026-08-05,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-05,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-05,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,3,2,0,3,2,0,0
+2026-08-05,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,2,2,2,2,130,130,130,0,0
+2026-08-06,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,2,2,0,2,2,0,0
+2026-08-06,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-08-06,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,3,3,0,3,3,0,0
+2026-08-06,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,2,2,2,2,130,130,130,0,0
+2026-08-07,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-07,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-07,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,0,1,0,0,1,0,0
+2026-08-07,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,2,2,0,2,2,0,0
+2026-08-07,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,3,3,0,3,3,0,0
+2026-08-07,Leads-Search-1,22767146837,enabled,7217291006,Calls from ads,Phone call lead,Calls from ads,0,0,1,1,0,50,50,0,0
+2026-08-08,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,1,2,0,1,2,0,0
+2026-08-08,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,65,65,65,0,0
+2026-08-09,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-08-09,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-08-10,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,2,1,0,2,1,0,0
+2026-08-10,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-08-10,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-10,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,2,1,2,1,65,65,65,0,0
+2026-08-11,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,2,2,0,2,2,0,0
+2026-08-11,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,3,3,0,3,3,0,0
+2026-08-11,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,3,3,0,3,3,0,0
+2026-08-11,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-08-11,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,2,2,0,2,2,0,0
+2026-08-11,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,65,65,65,0,0
+2026-08-12,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,5,6,0,5,6,0,0
+2026-08-12,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-08-12,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-12,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,2,3,2,3,65,65,65,0,0
+2026-08-13,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,2,2,0,2,2,0,0
+2026-08-13,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-13,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-13,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-08-13,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,2,2,2,2,0,0,0,0,0
+2026-08-14,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,1,1,0,1,1,0,0
+2026-08-17,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,1,1,0,1,1,0,0
+2026-08-17,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-17,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-17,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,2,2,0,2,2,0,0
+2026-08-17,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,0,0,0,0,0
+2026-08-19,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,1,1,0,1,1,0,0
+2026-08-19,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,3,3,0,3,3,0,0
+2026-08-19,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,0,0,0,0,0
+2026-08-20,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-20,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,2,2,0,2,2,0,0
+2026-08-20,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,6,6,0,6,6,0,0
+2026-08-20,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,1,1,0,1,1,0,0
+2026-08-21,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,1,1,0,1,1,0,0
+2026-08-21,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,0,0,0,0,0
+2026-08-23,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-23,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-24,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,1,1,0,1,1,0,0
+2026-08-24,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-08-24,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,0,0,0,0,0
+2026-08-26,Leads-Search-1,22767146837,enabled,7157480846,Local actions - Website visits,Page view,Google hosted,0,0,1,1,0,1,1,0,0
+2026-08-26,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,5,5,0,5,5,0,0
+2026-08-29,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,1,1,0,1,1,0,0
+2026-09-01,Leads-Search-1,22767146837,enabled,7160506736,Local actions - Other engagements,Engagement,Google hosted,0,0,4,4,0,4,4,0,0
+2026-09-01,Leads-Search-1,22767146837,enabled,7180867432,Local actions - Directions,Get directions,Google hosted,0,0,1,1,0,1,1,0,0
+2026-09-02,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,1,1,0,1,1,0,0
+2026-09-02,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,2,2,0,2,2,0,0
+2026-09-02,Leads-Search-1,22767146837,enabled,7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-09-02,Leads-Search-1,22767146837,enabled,7635668327,PNH2 (web) schedule_appointment,Begin checkout,Other,1,1,1,1,0,0,0,0,0
+2026-09-03,Leads-Search-1,22767146837,enabled,7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-09-06,Leads-Search-1,22767146837,enabled,7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),Page view,Website,0,0,1,1,0,1,1,0,0
+2026-09-07,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,2,2,0,2,2,0,0
+2026-09-08,Leads-Search-1,22767146837,enabled,7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),Begin checkout,Website,0,0,1,1,0,1,1,0,0

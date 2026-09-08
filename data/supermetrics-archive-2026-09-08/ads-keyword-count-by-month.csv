@@ -1,0 +1,17 @@
+Yearmonth,active_keywords_served,active_keywords_served_LeadsSearch1,distinct_keyword_text_matchtype_served,keywords_reported_any,served_in_currently_live_adgroups,ad_groups_serving,Impressions,Clicks,Cost,Conversions,note
+2025|06,0,0,0,0,0,0,0,0,0.0,0.0,"NO DATA - account dark, zero delivery"
+2025|07,14,14,14,15,0,1,4780,290,774.6328,108.0,"pre-rebuild; ALL delivery came from ""Ad group 1"" (183759893484), which is REMOVED today"
+2025|08,17,17,17,19,0,1,3675,266,659.6036,109.0,"pre-rebuild; ALL delivery came from ""Ad group 1"" (183759893484), which is REMOVED today"
+2025|09,0,0,0,0,0,0,0,0,0.0,0.0,"NO DATA - account dark, zero delivery"
+2025|10,0,0,0,0,0,0,0,0,0.0,0.0,"NO DATA - account dark, zero delivery"
+2025|11,0,0,0,0,0,0,0,0,0.0,0.0,"NO DATA - account dark, zero delivery"
+2025|12,0,0,0,0,0,0,0,0,0.0,0.0,"NO DATA - account dark, zero delivery"
+2026|01,0,0,0,0,0,0,0,0,0.0,0.0,"NO DATA - account dark, zero delivery"
+2026|02,0,0,0,0,0,0,0,0,0.0,0.0,"NO DATA - account dark, zero delivery"
+2026|03,0,0,0,0,0,0,0,0,0.0,0.0,"NO DATA - account dark, zero delivery"
+2026|04,7,7,7,7,0,1,1160,68,186.2185,16.0,
+2026|05,17,14,17,20,3,1,1138,82,190.2538,20.0,
+2026|06,15,7,15,15,8,1,300,39,135.0654,21.02,
+2026|07,102,96,102,115,102,7,6345,339,673.3287,51.21,
+2026|08,71,71,71,74,71,6,5534,315,651.8382,22.0,
+2026|09,41,41,41,45,41,6,1331,50,102.4662,1.0,partial month: 2026-09-01 through 2026-09-08 only

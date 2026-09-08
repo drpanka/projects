@@ -1,0 +1,576 @@
+Date,Campaignname,CampaignID,Location,LocationType,Impressions,Clicks,Cost,Ctr,Conversions,CostPerConversion
+2025-06-20,Campaign #1,22625352639,Minnesota,State,174,6,0.7006,0.0345,3,0.2335
+2025-06-21,Campaign #1,22625352639,Minnesota,State,167,3,0.7952,0.018,1,0.7952
+2025-06-22,Campaign #1,22625352639,Minnesota,State,23,0,0.0088,0,0,
+2025-06-23,Campaign #1,22625352639,Minnesota,State,98,2,0.0952,0.0204,1,0.0952
+2025-06-24,Campaign #1,22625352639,Minnesota,State,128,4,0.9302,0.0313,2,0.4651
+2025-06-25,Campaign #1,22625352639,Minnesota,State,113,0,0.1504,0,0,
+2025-06-26,Campaign #1,22625352639,Minnesota,State,75,0,0.0268,0,0,
+2025-06-27,Campaign #1,22625352639,Minnesota,State,37,0,0.0072,0,0,
+2025-06-27,Campaign #1,22625352639,Unknown location: 2483514420367,,53,1,0.1047,0.0189,1,0.1047
+2025-06-28,Campaign #1,22625352639,Unknown location: 2483514420367,,124,5,0.4845,0.0403,1,0.4845
+2025-06-29,Campaign #1,22625352639,Unknown location: 2483514420367,,96,3,0.2802,0.0313,10,0.028
+2025-06-30,Campaign #1,22625352639,Unknown location: 2483514420367,,3273,98,14.4206,0.0299,88,0.1639
+2025-07-01,Campaign #1,22625352639,Unknown location: 2483514420367,,12222,431,58.7273,0.0353,197.02,0.2981
+2025-07-02,Campaign #1,22625352639,Unknown location: 2483514420367,,8582,297,41.2741,0.0346,223.02,0.1851
+2025-07-03,Campaign #1,22625352639,Unknown location: 2483514420367,,6821,199,33.7492,0.0292,76.99,0.4384
+2025-07-04,Campaign #1,22625352639,Unknown location: 2483514420367,,18368,614,117.7417,0.0334,474.75,0.248
+2025-07-05,Campaign #1,22625352639,Unknown location: 2483514420367,,17989,531,125.41,0.0295,244.5,0.5129
+2025-07-06,Campaign #1,22625352639,Unknown location: 2483514420367,,12087,474,67.0579,0.0392,377.73,0.1775
+2025-07-07,Campaign #1,22625352639,Unknown location: 2483514420367,,8389,269,55.3267,0.0321,49,1.1291
+2025-07-08,Campaign #1,22625352639,Unknown location: 2483514420367,,3747,179,29.164,0.0478,18,1.6202
+2025-07-08,Leads-Search-1,22767146837,Minneapolis,City,1,1,0.6,1,1,0.6
+2025-07-09,Campaign #1,22625352639,Unknown location: 2483514420367,,1,0,0,0,0,
+2025-07-09,Leads-Search-1,22767146837,Eden Prairie,City,1,0,0,0,0,
+2025-07-09,Leads-Search-1,22767146837,Edina,City,11,2,2.92,0.1818,1,2.92
+2025-07-09,Leads-Search-1,22767146837,Hopkins,City,4,0,0,0,0,
+2025-07-09,Leads-Search-1,22767146837,Minneapolis,City,15,0,0,0,0,
+2025-07-09,Leads-Search-1,22767146837,Plymouth,City,3,0,0,0,0,
+2025-07-10,Campaign #1,22625352639,Unknown location: 2483514420367,,17,0,0.0165,0,0,
+2025-07-10,Leads-Search-1,22767146837,Eden Prairie,City,10,1,1.81,0.1,0,
+2025-07-10,Leads-Search-1,22767146837,Edina,City,8,0,0,0,0,
+2025-07-10,Leads-Search-1,22767146837,Hopkins,City,5,3,3.8129,0.6,0,
+2025-07-10,Leads-Search-1,22767146837,Minneapolis,City,43,3,4.4318,0.0698,0,
+2025-07-10,Leads-Search-1,22767146837,Plymouth,City,8,2,3.1,0.25,1,3.1
+2025-07-11,Campaign #1,22625352639,Unknown location: 2483514420367,,78,1,0.1621,0.0128,0,
+2025-07-11,Leads-Search-1,22767146837,Eden Prairie,City,9,0,0,0,0,
+2025-07-11,Leads-Search-1,22767146837,Edina,City,35,2,5.06,0.0571,0,
+2025-07-11,Leads-Search-1,22767146837,Hopkins,City,16,2,4.55,0.125,1,4.55
+2025-07-11,Leads-Search-1,22767146837,Minneapolis,City,113,8,16.3625,0.0708,2,8.1813
+2025-07-11,Leads-Search-1,22767146837,Plymouth,City,5,1,1.39,0.2,0,
+2025-07-12,Campaign #1,22625352639,Unknown location: 2483514420367,,2979,76,23.9313,0.0255,20,1.1966
+2025-07-12,Leads-Search-1,22767146837,Chanhassen,City,2,1,3.6847,0.5,0,
+2025-07-12,Leads-Search-1,22767146837,Eden Prairie,City,12,2,5.1,0.1667,2,2.55
+2025-07-12,Leads-Search-1,22767146837,Edina,City,35,3,9.8,0.0857,1,9.8
+2025-07-12,Leads-Search-1,22767146837,Golden Valley,City,23,1,4.71,0.0435,0,
+2025-07-12,Leads-Search-1,22767146837,Hopkins,City,19,1,5.9,0.0526,0,
+2025-07-12,Leads-Search-1,22767146837,Minneapolis,City,186,8,26.57,0.043,2,13.285
+2025-07-12,Leads-Search-1,22767146837,Minnetonka,City,7,1,4.48,0.1429,0,
+2025-07-12,Leads-Search-1,22767146837,Plymouth,City,16,0,0,0,0,
+2025-07-12,Leads-Search-1,22767146837,St. Louis Park,City,1,0,0,0,0,
+2025-07-13,Campaign #1,22625352639,Unknown location: 2483514420367,,152,2,1.0961,0.0132,1,1.0961
+2025-07-13,Leads-Search-1,22767146837,Chanhassen,City,6,1,2.54,0.1667,0,
+2025-07-13,Leads-Search-1,22767146837,Eden Prairie,City,33,2,9.2787,0.0606,0,
+2025-07-13,Leads-Search-1,22767146837,Edina,City,19,0,0,0,0,
+2025-07-13,Leads-Search-1,22767146837,Golden Valley,City,36,2,8.24,0.0556,0,
+2025-07-13,Leads-Search-1,22767146837,Hopkins,City,20,2,9.64,0.1,1,9.64
+2025-07-13,Leads-Search-1,22767146837,Minneapolis,City,239,12,45.72,0.0502,3,15.24
+2025-07-13,Leads-Search-1,22767146837,Minnetonka,City,1,0,0,0,0,
+2025-07-13,Leads-Search-1,22767146837,Plymouth,City,21,3,9.92,0.1429,0,
+2025-07-13,Leads-Search-1,22767146837,St. Louis Park,City,14,1,4.93,0.0714,1,4.93
+2025-07-14,Leads-Search-1,22767146837,Chanhassen,City,11,0,0,0,0,
+2025-07-14,Leads-Search-1,22767146837,Eden Prairie,City,23,3,11.52,0.1304,1,11.52
+2025-07-14,Leads-Search-1,22767146837,Edina,City,55,0,0,0,0,
+2025-07-14,Leads-Search-1,22767146837,Golden Valley,City,25,0,0,0,0,
+2025-07-14,Leads-Search-1,22767146837,Hopkins,City,28,0,0,0,0,
+2025-07-14,Leads-Search-1,22767146837,Minneapolis,City,298,16,53.956,0.0537,6,8.9927
+2025-07-14,Leads-Search-1,22767146837,Minnetonka,City,6,0,0,0,0,
+2025-07-14,Leads-Search-1,22767146837,Plymouth,City,25,4,11.24,0.16,0,
+2025-07-14,Leads-Search-1,22767146837,St. Louis Park,City,6,0,0,0,0,
+2025-07-15,Leads-Search-1,22767146837,Chanhassen,City,19,0,0,0,0,
+2025-07-15,Leads-Search-1,22767146837,Eden Prairie,City,24,1,1.93,0.0417,0,
+2025-07-15,Leads-Search-1,22767146837,Edina,City,32,1,3.1944,0.0313,0,
+2025-07-15,Leads-Search-1,22767146837,Golden Valley,City,51,3,8.7,0.0588,2,4.35
+2025-07-15,Leads-Search-1,22767146837,Hopkins,City,49,5,19.58,0.102,6,3.2633
+2025-07-15,Leads-Search-1,22767146837,Minneapolis,City,251,15,36.2497,0.0598,7,5.1785
+2025-07-15,Leads-Search-1,22767146837,Minnetonka,City,3,0,0,0,0,
+2025-07-15,Leads-Search-1,22767146837,Plymouth,City,14,0,0,0,0,
+2025-07-15,Leads-Search-1,22767146837,St. Louis Park,City,2,0,0,0,0,
+2025-07-16,Leads-Search-1,22767146837,Chanhassen,City,13,2,4.64,0.1538,0,
+2025-07-16,Leads-Search-1,22767146837,Eden Prairie,City,23,0,0,0,0,
+2025-07-16,Leads-Search-1,22767146837,Edina,City,23,2,4.36,0.087,0,
+2025-07-16,Leads-Search-1,22767146837,Golden Valley,City,24,1,4.37,0.0417,2,2.185
+2025-07-16,Leads-Search-1,22767146837,Hopkins,City,57,8,18.28,0.1404,0,
+2025-07-16,Leads-Search-1,22767146837,Minneapolis,City,268,13,27.8324,0.0485,4,6.9581
+2025-07-16,Leads-Search-1,22767146837,Minnetonka,City,7,0,0,0,0,
+2025-07-16,Leads-Search-1,22767146837,Plymouth,City,25,5,9.026,0.2,1,9.026
+2025-07-16,Leads-Search-1,22767146837,St. Louis Park,City,3,0,0,0,0,
+2025-07-17,Leads-Search-1,22767146837,Chanhassen,City,26,2,6.01,0.0769,0,
+2025-07-17,Leads-Search-1,22767146837,Eden Prairie,City,42,1,2.62,0.0238,0,
+2025-07-17,Leads-Search-1,22767146837,Edina,City,35,1,2.35,0.0286,0,
+2025-07-17,Leads-Search-1,22767146837,Golden Valley,City,61,2,5.5964,0.0328,0,
+2025-07-17,Leads-Search-1,22767146837,Hopkins,City,21,2,5.1839,0.0952,0,
+2025-07-17,Leads-Search-1,22767146837,Minneapolis,City,302,18,32.284,0.0596,4,8.071
+2025-07-17,Leads-Search-1,22767146837,Minnetonka,City,3,0,0,0,0,
+2025-07-17,Leads-Search-1,22767146837,Plymouth,City,17,1,4.61,0.0588,0,
+2025-07-17,Leads-Search-1,22767146837,St. Louis Park,City,7,0,0,0,0,
+2025-07-18,Leads-Search-1,22767146837,Chanhassen,City,4,0,0,0,0,
+2025-07-18,Leads-Search-1,22767146837,Eden Prairie,City,25,4,12.5824,0.16,1,12.5824
+2025-07-18,Leads-Search-1,22767146837,Edina,City,32,1,3.3227,0.0313,0,
+2025-07-18,Leads-Search-1,22767146837,Golden Valley,City,31,3,6.63,0.0968,2,3.315
+2025-07-18,Leads-Search-1,22767146837,Hopkins,City,31,3,5.41,0.0968,2,2.705
+2025-07-18,Leads-Search-1,22767146837,Minneapolis,City,169,11,31.8232,0.0651,19,1.6749
+2025-07-18,Leads-Search-1,22767146837,Plymouth,City,43,2,3.85,0.0465,3,1.2833
+2025-07-18,Leads-Search-1,22767146837,St. Louis Park,City,6,0,0,0,0,
+2025-07-19,Leads-Search-1,22767146837,Chanhassen,City,14,0,0,0,0,
+2025-07-19,Leads-Search-1,22767146837,Eden Prairie,City,14,0,0,0,0,
+2025-07-19,Leads-Search-1,22767146837,Edina,City,17,1,7.76,0.0588,0,
+2025-07-19,Leads-Search-1,22767146837,Golden Valley,City,17,0,0,0,0,
+2025-07-19,Leads-Search-1,22767146837,Hopkins,City,33,3,12.36,0.0909,0,
+2025-07-19,Leads-Search-1,22767146837,Minneapolis,City,243,19,38.0165,0.0782,3,12.6722
+2025-07-19,Leads-Search-1,22767146837,Minnetonka,City,2,0,0,0,0,
+2025-07-19,Leads-Search-1,22767146837,Plymouth,City,23,1,2.3662,0.0435,0,
+2025-07-20,Leads-Search-1,22767146837,Chanhassen,City,6,0,0,0,0,
+2025-07-20,Leads-Search-1,22767146837,Eden Prairie,City,28,2,2.5973,0.0714,0,
+2025-07-20,Leads-Search-1,22767146837,Edina,City,27,3,8.0474,0.1111,0,
+2025-07-20,Leads-Search-1,22767146837,Golden Valley,City,29,3,7.19,0.1034,0,
+2025-07-20,Leads-Search-1,22767146837,Hopkins,City,15,0,0,0,0,
+2025-07-20,Leads-Search-1,22767146837,Minneapolis,City,220,14,29.3999,0.0636,11,2.6727
+2025-07-20,Leads-Search-1,22767146837,Minnetonka,City,6,0,0,0,0,
+2025-07-20,Leads-Search-1,22767146837,Plymouth,City,13,1,2.49,0.0769,0,
+2025-07-20,Leads-Search-1,22767146837,St. Louis Park,City,12,1,2.6478,0.0833,1,2.6478
+2025-07-21,Leads-Search-1,22767146837,Chanhassen,City,13,1,2.29,0.0769,0,
+2025-07-21,Leads-Search-1,22767146837,Eden Prairie,City,34,3,10.7973,0.0882,1,10.7973
+2025-07-21,Leads-Search-1,22767146837,Edina,City,16,0,0,0,0,
+2025-07-21,Leads-Search-1,22767146837,Golden Valley,City,44,2,6.73,0.0455,0,
+2025-07-21,Leads-Search-1,22767146837,Hopkins,City,24,1,2.5239,0.0417,2,1.2619
+2025-07-21,Leads-Search-1,22767146837,Minneapolis,City,223,10,32.5537,0.0448,5,6.5107
+2025-07-21,Leads-Search-1,22767146837,Minnetonka,City,6,0,0,0,0,
+2025-07-21,Leads-Search-1,22767146837,Plymouth,City,20,2,7,0.1,0,
+2025-07-21,Leads-Search-1,22767146837,St. Louis Park,City,13,2,6.4751,0.1538,1,6.4751
+2025-07-22,Leads-Search-1,22767146837,Chanhassen,City,5,0,0,0,0,
+2025-07-22,Leads-Search-1,22767146837,Eden Prairie,City,33,4,7.8549,0.1212,0,
+2025-07-22,Leads-Search-1,22767146837,Edina,City,27,3,11.53,0.1111,4,2.8825
+2025-07-22,Leads-Search-1,22767146837,Golden Valley,City,34,2,4.7,0.0588,3,1.5667
+2025-07-22,Leads-Search-1,22767146837,Hopkins,City,30,1,1.5928,0.0333,1,1.5928
+2025-07-22,Leads-Search-1,22767146837,Minneapolis,City,238,9,17.9983,0.0378,0,
+2025-07-22,Leads-Search-1,22767146837,Minnetonka,City,2,0,0,0,0,
+2025-07-22,Leads-Search-1,22767146837,Plymouth,City,34,3,9.36,0.0882,0,
+2025-07-22,Leads-Search-1,22767146837,St. Louis Park,City,21,0,0,0,0,
+2025-07-23,Leads-Search-1,22767146837,Eden Prairie,City,8,0,0,0,0,
+2025-07-23,Leads-Search-1,22767146837,Edina,City,4,1,1.43,0.25,0,
+2025-07-23,Leads-Search-1,22767146837,Golden Valley,City,6,0,0,0,0,
+2025-07-23,Leads-Search-1,22767146837,Hopkins,City,1,1,2.83,1,0,
+2025-07-23,Leads-Search-1,22767146837,Minneapolis,City,26,2,4.39,0.0769,0,
+2025-07-23,Leads-Search-1,22767146837,Plymouth,City,2,0,0,0,0,
+2025-08-04,Leads-Search-1,22767146837,Chanhassen,City,3,0,0,0,0,
+2025-08-04,Leads-Search-1,22767146837,Eden Prairie,City,5,0,0,0,0,
+2025-08-04,Leads-Search-1,22767146837,Edina,City,11,0,0,0,0,
+2025-08-04,Leads-Search-1,22767146837,Golden Valley,City,18,4,8.84,0.2222,0,
+2025-08-04,Leads-Search-1,22767146837,Hopkins,City,11,0,0,0,0,
+2025-08-04,Leads-Search-1,22767146837,Minneapolis,City,79,10,28.4235,0.1266,12,2.3686
+2025-08-04,Leads-Search-1,22767146837,Plymouth,City,8,1,2.5,0.125,1,2.5
+2025-08-04,Leads-Search-1,22767146837,St. Louis Park,City,2,0,0,0,0,
+2025-08-05,Leads-Search-1,22767146837,Chanhassen,City,5,1,6.85,0.2,0,
+2025-08-05,Leads-Search-1,22767146837,Eden Prairie,City,15,0,0,0,0,
+2025-08-05,Leads-Search-1,22767146837,Edina,City,30,4,13.7439,0.1333,0,
+2025-08-05,Leads-Search-1,22767146837,Golden Valley,City,35,1,5.004,0.0286,0,
+2025-08-05,Leads-Search-1,22767146837,Hopkins,City,27,1,2.87,0.037,0,
+2025-08-05,Leads-Search-1,22767146837,Minneapolis,City,132,11,31.9265,0.0833,4,7.9816
+2025-08-05,Leads-Search-1,22767146837,Plymouth,City,15,1,3.59,0.0667,0,
+2025-08-05,Leads-Search-1,22767146837,St. Louis Park,City,4,0,0,0,0,
+2025-08-06,Leads-Search-1,22767146837,Chanhassen,City,9,0,0,0,0,
+2025-08-06,Leads-Search-1,22767146837,Eden Prairie,City,20,0,0,0,0,
+2025-08-06,Leads-Search-1,22767146837,Edina,City,34,0,0,0,0,
+2025-08-06,Leads-Search-1,22767146837,Golden Valley,City,23,1,1.44,0.0435,0,
+2025-08-06,Leads-Search-1,22767146837,Hopkins,City,15,2,4.5659,0.1333,0,
+2025-08-06,Leads-Search-1,22767146837,Minneapolis,City,253,15,41.143,0.0593,2,20.5715
+2025-08-06,Leads-Search-1,22767146837,Plymouth,City,49,2,5.91,0.0408,0,
+2025-08-06,Leads-Search-1,22767146837,St. Louis Park,City,5,0,0,0,0,
+2025-08-07,Leads-Search-1,22767146837,Chanhassen,City,1,0,0,0,0,
+2025-08-07,Leads-Search-1,22767146837,Eden Prairie,City,19,1,2.58,0.0526,4,0.645
+2025-08-07,Leads-Search-1,22767146837,Edina,City,24,1,2.24,0.0417,5,0.448
+2025-08-07,Leads-Search-1,22767146837,Golden Valley,City,28,3,6.7505,0.1071,2,3.3753
+2025-08-07,Leads-Search-1,22767146837,Hopkins,City,26,2,5.51,0.0769,1,5.51
+2025-08-07,Leads-Search-1,22767146837,Minneapolis,City,163,11,29.1412,0.0675,3,9.7137
+2025-08-07,Leads-Search-1,22767146837,Minnetonka,City,2,1,1.84,0.5,1,1.84
+2025-08-07,Leads-Search-1,22767146837,Plymouth,City,29,3,4.0273,0.1034,1,4.0273
+2025-08-07,Leads-Search-1,22767146837,St. Louis Park,City,7,0,0,0,0,
+2025-08-08,Leads-Search-1,22767146837,Chanhassen,City,13,0,0,0,0,
+2025-08-08,Leads-Search-1,22767146837,Eden Prairie,City,21,4,16.1812,0.1905,5,3.2362
+2025-08-08,Leads-Search-1,22767146837,Edina,City,9,0,0,0,0,
+2025-08-08,Leads-Search-1,22767146837,Golden Valley,City,23,2,9.41,0.087,0,
+2025-08-08,Leads-Search-1,22767146837,Hopkins,City,9,0,0,0,0,
+2025-08-08,Leads-Search-1,22767146837,Minneapolis,City,98,5,17.6228,0.051,5,3.5246
+2025-08-08,Leads-Search-1,22767146837,Plymouth,City,8,0,0,0,0,
+2025-08-08,Leads-Search-1,22767146837,St. Louis Park,City,1,0,0,0,0,
+2025-08-09,Leads-Search-1,22767146837,Chanhassen,City,10,1,2.73,0.1,0,
+2025-08-09,Leads-Search-1,22767146837,Eden Prairie,City,22,3,7.8046,0.1364,0,
+2025-08-09,Leads-Search-1,22767146837,Edina,City,32,0,0,0,0,
+2025-08-09,Leads-Search-1,22767146837,Golden Valley,City,17,2,3.16,0.1176,0,
+2025-08-09,Leads-Search-1,22767146837,Hopkins,City,27,3,6.2408,0.1111,0,
+2025-08-09,Leads-Search-1,22767146837,Minneapolis,City,153,12,25.7901,0.0784,5,5.158
+2025-08-09,Leads-Search-1,22767146837,Minnetonka,City,2,0,0,0,0,
+2025-08-09,Leads-Search-1,22767146837,Plymouth,City,19,2,2.85,0.1053,6,0.475
+2025-08-09,Leads-Search-1,22767146837,St. Louis Park,City,21,1,3.29,0.0476,1,3.29
+2025-08-10,Leads-Search-1,22767146837,Chanhassen,City,7,1,1.5,0.1429,0,
+2025-08-10,Leads-Search-1,22767146837,Eden Prairie,City,15,1,1.3709,0.0667,0,
+2025-08-10,Leads-Search-1,22767146837,Edina,City,20,2,6.67,0.1,0,
+2025-08-10,Leads-Search-1,22767146837,Golden Valley,City,21,2,3.73,0.0952,0,
+2025-08-10,Leads-Search-1,22767146837,Hopkins,City,19,4,9.0273,0.2105,1,9.0273
+2025-08-10,Leads-Search-1,22767146837,Minneapolis,City,154,14,28.986,0.0909,2,14.493
+2025-08-10,Leads-Search-1,22767146837,Minnetonka,City,8,0,0,0,0,
+2025-08-10,Leads-Search-1,22767146837,Plymouth,City,25,1,3.93,0.04,0,
+2025-08-10,Leads-Search-1,22767146837,St. Louis Park,City,5,0,0,0,0,
+2025-08-11,Leads-Search-1,22767146837,Chanhassen,City,11,0,0,0,0,
+2025-08-11,Leads-Search-1,22767146837,Eden Prairie,City,31,3,5.37,0.0968,0,
+2025-08-11,Leads-Search-1,22767146837,Edina,City,32,0,0,0,0,
+2025-08-11,Leads-Search-1,22767146837,Golden Valley,City,19,2,4.269,0.1053,1,4.269
+2025-08-11,Leads-Search-1,22767146837,Hopkins,City,51,4,7.7022,0.0784,7,1.1003
+2025-08-11,Leads-Search-1,22767146837,Minneapolis,City,174,10,21.0077,0.0575,5,4.2015
+2025-08-11,Leads-Search-1,22767146837,Minnetonka,City,3,1,2.49,0.3333,3,0.83
+2025-08-11,Leads-Search-1,22767146837,Plymouth,City,22,4,7.12,0.1818,0,
+2025-08-11,Leads-Search-1,22767146837,St. Louis Park,City,11,0,0,0,0,
+2025-08-12,Leads-Search-1,22767146837,Chanhassen,City,9,3,7.64,0.3333,0,
+2025-08-12,Leads-Search-1,22767146837,Eden Prairie,City,8,2,3.01,0.25,0,
+2025-08-12,Leads-Search-1,22767146837,Edina,City,6,2,3.7428,0.3333,0,
+2025-08-12,Leads-Search-1,22767146837,Golden Valley,City,24,1,1.57,0.0417,0,
+2025-08-12,Leads-Search-1,22767146837,Hopkins,City,13,2,4.36,0.1538,0,
+2025-08-12,Leads-Search-1,22767146837,Minneapolis,City,114,7,15.2118,0.0614,1,15.2118
+2025-08-12,Leads-Search-1,22767146837,Minnetonka,City,1,0,0,0,0,
+2025-08-12,Leads-Search-1,22767146837,Plymouth,City,10,2,4.89,0.2,1,4.89
+2025-08-12,Leads-Search-1,22767146837,St. Louis Park,City,4,0,0,0,0,
+2025-08-22,Leads-Search-1,22767146837,Minneapolis,City,7,0,0,0,0,
+2025-08-23,Leads-Search-1,22767146837,Chanhassen,City,9,0,0,0,0,
+2025-08-23,Leads-Search-1,22767146837,Eden Prairie,City,9,0,0,0,0,
+2025-08-23,Leads-Search-1,22767146837,Edina,City,10,1,1.43,0.1,0,
+2025-08-23,Leads-Search-1,22767146837,Golden Valley,City,10,0,0,0,0,
+2025-08-23,Leads-Search-1,22767146837,Hopkins,City,36,6,15.6078,0.1667,2,7.8039
+2025-08-23,Leads-Search-1,22767146837,Minneapolis,City,143,11,20.6514,0.0769,0,
+2025-08-23,Leads-Search-1,22767146837,Minnetonka,City,12,0,0,0,0,
+2025-08-23,Leads-Search-1,22767146837,Plymouth,City,17,0,0,0,0,
+2025-08-23,Leads-Search-1,22767146837,St. Louis Park,City,5,0,0,0,0,
+2025-08-24,Leads-Search-1,22767146837,Chanhassen,City,7,1,7.1358,0.1429,3,2.3786
+2025-08-24,Leads-Search-1,22767146837,Eden Prairie,City,13,0,0,0,0,
+2025-08-24,Leads-Search-1,22767146837,Edina,City,52,6,21.461,0.1154,0,
+2025-08-24,Leads-Search-1,22767146837,Golden Valley,City,26,1,0.48,0.0385,0,
+2025-08-24,Leads-Search-1,22767146837,Hopkins,City,23,2,3.82,0.087,0,
+2025-08-24,Leads-Search-1,22767146837,Minneapolis,City,324,18,49.6886,0.0556,3,16.5629
+2025-08-24,Leads-Search-1,22767146837,Minnetonka,City,5,0,0,0,0,
+2025-08-24,Leads-Search-1,22767146837,Plymouth,City,42,3,6.1705,0.0714,0,
+2025-08-24,Leads-Search-1,22767146837,St. Louis Park,City,7,0,0,0,0,
+2025-08-25,Leads-Search-1,22767146837,Chanhassen,City,4,0,0,0,0,
+2025-08-25,Leads-Search-1,22767146837,Eden Prairie,City,22,2,5.72,0.0909,2,2.86
+2025-08-25,Leads-Search-1,22767146837,Edina,City,22,1,5.6619,0.0455,0,
+2025-08-25,Leads-Search-1,22767146837,Golden Valley,City,20,0,0,0,0,
+2025-08-25,Leads-Search-1,22767146837,Hopkins,City,26,3,3.37,0.1154,0,
+2025-08-25,Leads-Search-1,22767146837,Minneapolis,City,176,10,18.4419,0.0568,11,1.6765
+2025-08-25,Leads-Search-1,22767146837,Minnetonka,City,2,1,1.76,0.5,1,1.76
+2025-08-25,Leads-Search-1,22767146837,Plymouth,City,28,1,6.4358,0.0357,1,6.4358
+2025-08-25,Leads-Search-1,22767146837,St. Louis Park,City,4,0,0,0,0,
+2025-08-26,Leads-Search-1,22767146837,Chanhassen,City,2,1,3.72,0.5,0,
+2025-08-26,Leads-Search-1,22767146837,Eden Prairie,City,10,0,0,0,0,
+2025-08-26,Leads-Search-1,22767146837,Edina,City,6,1,2.4109,0.1667,0,
+2025-08-26,Leads-Search-1,22767146837,Golden Valley,City,22,3,7.8567,0.1364,3,2.6189
+2025-08-26,Leads-Search-1,22767146837,Hopkins,City,13,0,0,0,0,
+2025-08-26,Leads-Search-1,22767146837,Minneapolis,City,103,8,15.9313,0.0777,4,3.9828
+2025-08-26,Leads-Search-1,22767146837,Minnetonka,City,5,1,1.9,0.2,0,
+2025-08-26,Leads-Search-1,22767146837,Plymouth,City,15,1,3.21,0.0667,0,
+2025-08-26,Leads-Search-1,22767146837,St. Louis Park,City,6,2,2.2469,0.3333,0,
+2025-08-27,Leads-Search-1,22767146837,Eden Prairie,City,1,0,0,0,0,
+2025-08-27,Leads-Search-1,22767146837,Edina,City,5,2,5.92,0.4,0,
+2025-08-27,Leads-Search-1,22767146837,Golden Valley,City,4,0,0,0,0,
+2025-08-27,Leads-Search-1,22767146837,Hopkins,City,1,0,0,0,0,
+2025-08-27,Leads-Search-1,22767146837,Minneapolis,City,10,0,0,0,0,
+2025-08-27,Leads-Search-1,22767146837,Plymouth,City,2,1,1,0.5,0,
+2026-04-27,Leads-Search-1,22767146837,Chanhassen,City,3,0,0,0,0,
+2026-04-27,Leads-Search-1,22767146837,Eden Prairie,City,2,1,2.3,0.5,0,
+2026-04-27,Leads-Search-1,22767146837,Edina,City,25,2,5.62,0.08,0,
+2026-04-27,Leads-Search-1,22767146837,Hopkins,City,1,0,0,0,0,
+2026-04-27,Leads-Search-1,22767146837,Maple Grove,City,7,0,0,0,0,
+2026-04-27,Leads-Search-1,22767146837,Minneapolis,City,39,5,12.2402,0.1282,0,
+2026-04-27,Leads-Search-1,22767146837,Plymouth,City,2,0,0,0,0,
+2026-04-27,Leads-Search-1,22767146837,St. Louis Park,City,1,0,0,0,0,
+2026-04-27,Leads-Search-1,22767146837,Wayzata,City,3,0,0,0,0,
+2026-04-28,Leads-Search-1,22767146837,Chanhassen,City,4,0,0,0,0,
+2026-04-28,Leads-Search-1,22767146837,Eden Prairie,City,18,2,8.1,0.1111,0,
+2026-04-28,Leads-Search-1,22767146837,Edina,City,31,2,6.69,0.0645,0,
+2026-04-28,Leads-Search-1,22767146837,Golden Valley,City,21,2,8.03,0.0952,2,4.015
+2026-04-28,Leads-Search-1,22767146837,Hopkins,City,5,3,9.93,0.6,1,9.93
+2026-04-28,Leads-Search-1,22767146837,Maple Grove,City,11,1,2.23,0.0909,0,
+2026-04-28,Leads-Search-1,22767146837,Minneapolis,City,155,13,43.1372,0.0839,9,4.793
+2026-04-28,Leads-Search-1,22767146837,Plymouth,City,11,0,0,0,0,
+2026-04-28,Leads-Search-1,22767146837,St. Louis Park,City,1,0,0,0,0,
+2026-04-28,Leads-Search-1,22767146837,Wayzata,City,2,0,0,0,0,
+2026-04-29,Leads-Search-1,22767146837,Chanhassen,City,7,1,2.39,0.1429,0,
+2026-04-29,Leads-Search-1,22767146837,Eden Prairie,City,20,0,0,0,0,
+2026-04-29,Leads-Search-1,22767146837,Edina,City,35,1,3.74,0.0286,0,
+2026-04-29,Leads-Search-1,22767146837,Golden Valley,City,21,1,1.6689,0.0476,0,
+2026-04-29,Leads-Search-1,22767146837,Hopkins,City,24,3,7.8,0.125,0,
+2026-04-29,Leads-Search-1,22767146837,Maple Grove,City,20,0,0,0,0,
+2026-04-29,Leads-Search-1,22767146837,Minneapolis,City,268,15,37.1024,0.056,1,37.1024
+2026-04-29,Leads-Search-1,22767146837,Minnetonka,City,6,0,0,0,0,
+2026-04-29,Leads-Search-1,22767146837,Plymouth,City,15,0,0,0,0,
+2026-04-29,Leads-Search-1,22767146837,St. Louis Park,City,6,1,3.44,0.1667,0,
+2026-04-29,Leads-Search-1,22767146837,Wayzata,City,5,0,0,0,0,
+2026-04-30,Leads-Search-1,22767146837,Chanhassen,City,6,1,2.03,0.1667,0,
+2026-04-30,Leads-Search-1,22767146837,Deephaven,City,1,0,0,0,0,
+2026-04-30,Leads-Search-1,22767146837,Eden Prairie,City,19,0,0,0,0,
+2026-04-30,Leads-Search-1,22767146837,Edina,City,27,0,0,0,0,
+2026-04-30,Leads-Search-1,22767146837,Golden Valley,City,23,2,5.7,0.087,1,5.7
+2026-04-30,Leads-Search-1,22767146837,Hopkins,City,42,1,1.47,0.0238,0,
+2026-04-30,Leads-Search-1,22767146837,Maple Grove,City,16,1,2.07,0.0625,0,
+2026-04-30,Leads-Search-1,22767146837,Minneapolis,City,214,9,18.76,0.0421,2,9.38
+2026-04-30,Leads-Search-1,22767146837,Minnetonka,City,3,0,0,0,0,
+2026-04-30,Leads-Search-1,22767146837,Plymouth,City,25,1,1.77,0.04,0,
+2026-04-30,Leads-Search-1,22767146837,St. Louis Park,City,13,0,0,0,0,
+2026-04-30,Leads-Search-1,22767146837,Wayzata,City,2,0,0,0,0,
+2026-05-01,Leads-Search-1,22767146837,Chanhassen,City,7,1,2.05,0.1429,0,
+2026-05-01,Leads-Search-1,22767146837,Deephaven,City,1,0,0,0,0,
+2026-05-01,Leads-Search-1,22767146837,Eden Prairie,City,5,0,0,0,0,
+2026-05-01,Leads-Search-1,22767146837,Edina,City,21,0,0,0,0,
+2026-05-01,Leads-Search-1,22767146837,Golden Valley,City,17,2,5.52,0.1176,0,
+2026-05-01,Leads-Search-1,22767146837,Hopkins,City,20,0,0,0,0,
+2026-05-01,Leads-Search-1,22767146837,Maple Grove,City,10,2,4.43,0.2,0,
+2026-05-01,Leads-Search-1,22767146837,Minneapolis,City,102,7,20.08,0.0686,1,20.08
+2026-05-01,Leads-Search-1,22767146837,Minnetonka,City,7,1,2.45,0.1429,0,
+2026-05-01,Leads-Search-1,22767146837,Plymouth,City,14,0,0,0,0,
+2026-05-01,Leads-Search-1,22767146837,St. Louis Park,City,1,0,0,0,0,
+2026-05-02,Leads-Search-1,22767146837,Chanhassen,City,2,0,0,0,0,
+2026-05-02,Leads-Search-1,22767146837,Eden Prairie,City,7,0,0,0,0,
+2026-05-02,Leads-Search-1,22767146837,Edina,City,9,1,2.9271,0.1111,0,
+2026-05-02,Leads-Search-1,22767146837,Golden Valley,City,3,0,0,0,0,
+2026-05-02,Leads-Search-1,22767146837,Hopkins,City,26,2,2.4872,0.0769,4,0.6218
+2026-05-02,Leads-Search-1,22767146837,Maple Grove,City,14,3,4.768,0.2143,0,
+2026-05-02,Leads-Search-1,22767146837,Minneapolis,City,71,11,15.3088,0.1549,1,15.3088
+2026-05-02,Leads-Search-1,22767146837,Minnetonka,City,1,0,0,0,0,
+2026-05-02,Leads-Search-1,22767146837,Plymouth,City,10,0,0,0,0,
+2026-05-02,Leads-Search-1,22767146837,St. Louis Park,City,1,0,0,0,0,
+2026-05-02,Leads-Search-1,22767146837,Wayzata,City,2,1,2.41,0.5,0,
+2026-05-03,Leads-Search-1,22767146837,Chanhassen,City,1,0,0,0,0,
+2026-05-03,Leads-Search-1,22767146837,Eden Prairie,City,6,0,0,0,0,
+2026-05-03,Leads-Search-1,22767146837,Edina,City,5,0,0,0,0,
+2026-05-03,Leads-Search-1,22767146837,Golden Valley,City,8,0,0,0,0,
+2026-05-03,Leads-Search-1,22767146837,Hopkins,City,17,3,11.1014,0.1765,0,
+2026-05-03,Leads-Search-1,22767146837,Maple Grove,City,1,0,0,0,0,
+2026-05-03,Leads-Search-1,22767146837,Minneapolis,City,121,6,14.63,0.0496,2,7.315
+2026-05-03,Leads-Search-1,22767146837,Plymouth,City,4,0,0,0,0,
+2026-05-03,Leads-Search-1,22767146837,St. Louis Park,City,6,2,4.5782,0.3333,0,
+2026-05-03,Leads-Search-1,22767146837,Wayzata,City,7,0,0,0,0,
+2026-05-04,Leads-Search-1,22767146837,Chanhassen,City,3,0,0,0,0,
+2026-05-04,Leads-Search-1,22767146837,Eden Prairie,City,8,2,6.5,0.25,0,
+2026-05-04,Leads-Search-1,22767146837,Edina,City,8,1,3.89,0.125,0,
+2026-05-04,Leads-Search-1,22767146837,Golden Valley,City,15,1,1.95,0.0667,1,1.95
+2026-05-04,Leads-Search-1,22767146837,Hopkins,City,21,2,1.77,0.0952,0,
+2026-05-04,Leads-Search-1,22767146837,Maple Grove,City,2,0,0,0,0,
+2026-05-04,Leads-Search-1,22767146837,Minneapolis,City,90,4,8.16,0.0444,0,
+2026-05-04,Leads-Search-1,22767146837,Minnetonka,City,4,0,0,0,0,
+2026-05-04,Leads-Search-1,22767146837,Plymouth,City,14,1,5.65,0.0714,0,
+2026-05-04,Leads-Search-1,22767146837,St. Louis Park,City,1,0,0,0,0,
+2026-05-04,Leads-Search-1,22767146837,Wayzata,City,5,0,0,0,0,
+2026-05-12,Leads-Search-1,22767146837,Chanhassen,City,3,0,0,0,0,
+2026-05-12,Leads-Search-1,22767146837,Eden Prairie,City,5,0,0,0,0,
+2026-05-12,Leads-Search-1,22767146837,Edina,City,7,1,1.08,0.1429,1,1.08
+2026-05-12,Leads-Search-1,22767146837,Golden Valley,City,13,2,4.07,0.1538,0,
+2026-05-12,Leads-Search-1,22767146837,Hopkins,City,3,0,0,0,0,
+2026-05-12,Leads-Search-1,22767146837,Maple Grove,City,12,1,1.4,0.0833,0,
+2026-05-12,Leads-Search-1,22767146837,Minneapolis,City,74,5,10.8608,0.0676,0,
+2026-05-12,Leads-Search-1,22767146837,Minnetonka,City,1,0,0,0,0,
+2026-05-12,Leads-Search-1,22767146837,Plymouth,City,7,1,2.03,0.1429,1,2.03
+2026-05-13,Leads-Search-1,22767146837,Chanhassen,City,23,0,0,0,0,
+2026-05-13,Leads-Search-1,22767146837,Deephaven,City,2,1,6.23,0.5,0,
+2026-05-13,Leads-Search-1,22767146837,Eden Prairie,City,9,0,0,0,0,
+2026-05-13,Leads-Search-1,22767146837,Edina,City,8,0,0,0,0,
+2026-05-13,Leads-Search-1,22767146837,Golden Valley,City,24,2,2.5,0.0833,0,
+2026-05-13,Leads-Search-1,22767146837,Hopkins,City,23,3,4.8913,0.1304,4,1.2228
+2026-05-13,Leads-Search-1,22767146837,Maple Grove,City,5,1,2.67,0.2,0,
+2026-05-13,Leads-Search-1,22767146837,Minneapolis,City,136,6,19.8,0.0441,1,19.8
+2026-05-13,Leads-Search-1,22767146837,Minnetonka,City,7,0,0,0,0,
+2026-05-13,Leads-Search-1,22767146837,Plymouth,City,29,3,4.82,0.1034,2,2.41
+2026-05-13,Leads-Search-1,22767146837,St. Louis Park,City,11,0,0,0,0,
+2026-05-13,Leads-Search-1,22767146837,Wayzata,City,8,1,4.93,0.125,0,
+2026-05-29,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,7,0,0,0,0,
+2026-05-30,Leads-Search-1,22767146837,Edina,City,2,1,4.301,0.5,2,2.1505
+2026-05-30,Leads-Search-1,22767146837,Minneapolis,City,7,0,0,0,0,
+2026-05-30,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,8,0,0,0,0,
+2026-05-31,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,6,1,0.01,0.1667,0,
+2026-06-01,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,6,0,0,0,0,
+2026-06-02,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,8,0,0,0,0,
+2026-06-02,PNHdefense-Website traffic-Search-2,23888858069,Wisconsin,State,1,2,10.501,2,0,
+2026-06-03,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,20,0,0,0,0,
+2026-06-04,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,10,1,5.38,0.1,0,
+2026-06-05,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,4,0,0,0,0,
+2026-06-06,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,6,2,3.85,0.3333,0,
+2026-06-07,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,4,0,0,0,0,
+2026-06-08,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,10,3,4.8416,0.3,1,4.8416
+2026-06-09,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,2,0,0,0,0,
+2026-06-10,Leads-Search-1,22767146837,Chanhassen,City,1,0,0,0,0,
+2026-06-10,Leads-Search-1,22767146837,Eden Prairie,City,2,0,0,0,0,
+2026-06-10,Leads-Search-1,22767146837,Edina,City,1,0,0,0,0,
+2026-06-10,Leads-Search-1,22767146837,Golden Valley,City,4,0,0,0,0,
+2026-06-10,Leads-Search-1,22767146837,Hopkins,City,1,0,0,0,0,
+2026-06-10,Leads-Search-1,22767146837,Maple Grove,City,14,0,0,0,0,
+2026-06-10,Leads-Search-1,22767146837,Minneapolis,City,29,4,24.0592,0.1379,0.02,1202.9602
+2026-06-10,Leads-Search-1,22767146837,Plymouth,City,1,0,0,0,0,
+2026-06-10,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,22,3,15.6555,0.1364,3,5.2185
+2026-06-11,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,2,1,1.895,0.5,0,
+2026-06-12,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,11,1,7.1989,0.0909,4,1.7997
+2026-06-13,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,5,1,7.3041,0.2,0,
+2026-06-14,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,2,0,0,0,0,
+2026-06-15,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,20,2,4,0.1,1,4
+2026-06-16,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,11,1,2.69,0.0909,0,
+2026-06-17,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,6,1,2.25,0.1667,0,
+2026-06-18,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,27,1,0.77,0.037,6,0.1283
+2026-06-19,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,9,3,5.56,0.3333,0,
+2026-06-20,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,3,2,4.87,0.6667,0,
+2026-06-21,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,4,0,0,0,0,
+2026-06-22,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,4,2,5.45,0.5,0,
+2026-06-23,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,3,0,0,0,0,
+2026-06-24,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,6,1,2.53,0.1667,0,
+2026-06-25,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,6,1,0.66,0.1667,2,0.33
+2026-06-25,PNHdefense-Website traffic-Search-2,23888858069,Wisconsin,State,2,1,0.01,0.5,0,
+2026-06-26,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,14,2,2.01,0.1429,3,0.67
+2026-06-28,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,6,2,12,0.3333,0,
+2026-06-29,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,6,2,11.58,0.3333,0,
+2026-06-30,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,3,0,0,0,0,
+2026-06-30,PNHdefense-Website traffic-Search-2,23888858069,Wisconsin,State,4,0,0,0,0,
+2026-07-01,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,2,0,0,0,0,
+2026-07-02,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,4,1,1.91,0.25,0,
+2026-07-03,Leads-Search-1,22767146837,Unknown location: 2490837516419,,110,5,13.38,0.0455,1,13.38
+2026-07-03,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,4,2,8.75,0.5,0,
+2026-07-04,Leads-Search-1,22767146837,Unknown location: 2490837516419,,145,5,13.39,0.0345,0,
+2026-07-04,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,2,1,2.32,0.5,0,
+2026-07-05,Leads-Search-1,22767146837,Unknown location: 2490837516419,,115,7,12.4965,0.0609,1,12.4965
+2026-07-05,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,11,2,3.45,0.1818,2.01,1.7164
+2026-07-06,Leads-Search-1,22767146837,Unknown location: 2490837516419,,200,7,10.06,0.035,0,
+2026-07-07,Leads-Search-1,22767146837,Unknown location: 2490837516419,,89,9,9.7603,0.1011,6,1.6267
+2026-07-07,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,6,2,7.43,0.3333,2,3.715
+2026-07-08,Leads-Search-1,22767146837,Unknown location: 2490837516419,,319,8,13.3779,0.0251,2,6.689
+2026-07-08,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,9,3,4.23,0.3333,1.2,3.525
+2026-07-09,Leads-Search-1,22767146837,Unknown location: 2490837516419,,424,7,14.22,0.0165,2,7.11
+2026-07-10,Leads-Search-1,22767146837,Unknown location: 2490837516419,,332,10,15.56,0.0301,1,15.56
+2026-07-10,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,5,1,0.59,0.2,0,
+2026-07-11,Leads-Search-1,22767146837,Unknown location: 2490837516419,,232,7,11.56,0.0302,6,1.9267
+2026-07-11,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,2,1,1.3,0.5,0,
+2026-07-12,Leads-Search-1,22767146837,Unknown location: 2490837516419,,303,13,14.715,0.0429,0,
+2026-07-12,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,4,1,1.02,0.25,0,
+2026-07-13,Leads-Search-1,22767146837,Unknown location: 2490837516419,,338,14,21.1382,0.0414,1,21.1382
+2026-07-13,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,4,2,5,0.5,0,
+2026-07-13,PNHdefense-Website traffic-Search-2,23888858069,Wisconsin,State,2,1,4.66,0.5,0,
+2026-07-14,Leads-Search-1,22767146837,Unknown location: 2490837516419,,284,15,21.2335,0.0528,2.02,10.5116
+2026-07-14,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,5,0,0,0,0,
+2026-07-15,Leads-Search-1,22767146837,Unknown location: 2490837516419,,135,7,7.9515,0.0519,0,
+2026-07-15,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,4,2,0.62,0.5,0,
+2026-07-15,PNHdefense-Website traffic-Search-2,23888858069,Wisconsin,State,2,0,0,0,0,
+2026-07-16,Leads-Search-1,22767146837,Unknown location: 2490837516419,,259,13,15.5055,0.0502,0,
+2026-07-16,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,4,2,2.4,0.5,0,
+2026-07-17,Leads-Search-1,22767146837,Unknown location: 2490837516419,,91,12,37.7589,0.1319,0,
+2026-07-17,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,3,1,0.11,0.3333,0,
+2026-07-18,Leads-Search-1,22767146837,Unknown location: 2490837516419,,198,13,30.3218,0.0657,3,10.1073
+2026-07-18,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,2,2,0.54,1,0,
+2026-07-19,Leads-Search-1,22767146837,Unknown location: 2490837516419,,89,9,32.1711,0.1011,1,32.1711
+2026-07-19,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,16,4,2.18,0.25,0,
+2026-07-20,Leads-Search-1,22767146837,Unknown location: 2490837516419,,187,13,23.5601,0.0695,1,23.5601
+2026-07-20,PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,4,2,0.53,0.5,0,
+2026-07-21,Leads-Search-1,22767146837,Unknown location: 2490837516419,,237,12,22.3126,0.0506,1.98,11.269
+2026-07-22,Leads-Search-1,22767146837,Unknown location: 2490837516419,,112,12,23.6955,0.1071,0,
+2026-07-23,Leads-Search-1,22767146837,Unknown location: 2490837516419,,55,5,26.1341,0.0909,0,
+2026-07-24,Leads-Search-1,22767146837,Unknown location: 2490837516419,,119,12,25.49,0.1008,1,25.49
+2026-07-25,Leads-Search-1,22767146837,Unknown location: 2490837516419,,223,11,29.7047,0.0493,5,5.9409
+2026-07-26,Leads-Search-1,22767146837,Unknown location: 2490837516419,,188,8,31.1947,0.0426,0,
+2026-07-27,Leads-Search-1,22767146837,Unknown location: 2490837516419,,183,11,20.8665,0.0601,2,10.4333
+2026-07-28,Leads-Search-1,22767146837,Unknown location: 2490837516419,,190,15,21.8061,0.0789,1,21.8061
+2026-07-29,Leads-Search-1,22767146837,Unknown location: 2490837516419,,354,19,39.1203,0.0537,6,6.5201
+2026-07-30,Leads-Search-1,22767146837,Unknown location: 2490837516419,,479,17,38.1737,0.0355,2,19.0869
+2026-07-31,Leads-Search-1,22767146837,Unknown location: 2490837516419,,306,13,29.63,0.0425,0,
+2026-08-01,Leads-Search-1,22767146837,Unknown location: 2490837516419,,336,18,36.275,0.0536,1,36.275
+2026-08-02,Leads-Search-1,22767146837,Unknown location: 2490837516419,,224,17,37.04,0.0759,4,9.26
+2026-08-03,Leads-Search-1,22767146837,Unknown location: 2490837516419,,359,18,37.6148,0.0501,0.02,1880.7407
+2026-08-04,Leads-Search-1,22767146837,Unknown location: 2490837516419,,320,20,36.1987,0.0625,0.98,36.9374
+2026-08-05,Leads-Search-1,22767146837,Unknown location: 2490837516419,,347,17,36.2816,0.049,2,18.1408
+2026-08-06,Leads-Search-1,22767146837,Unknown location: 2490837516419,,439,16,37.529,0.0364,2,18.7645
+2026-08-07,Leads-Search-1,22767146837,Unknown location: 2490837516419,,189,18,36.3896,0.0952,0,
+2026-08-08,Leads-Search-1,22767146837,Unknown location: 2490837516419,,250,15,29.0433,0.06,1,29.0433
+2026-08-09,Leads-Search-1,22767146837,Unknown location: 2490837516419,,72,9,27.5829,0.125,0,
+2026-08-10,Leads-Search-1,22767146837,Unknown location: 2490837516419,,129,10,25.2492,0.0775,2,12.6246
+2026-08-11,Leads-Search-1,22767146837,Unknown location: 2490837516419,,118,16,26.0985,0.1356,1,26.0985
+2026-08-12,Leads-Search-1,22767146837,Unknown location: 2490837516419,,200,13,24.44,0.065,2,12.22
+2026-08-13,Leads-Search-1,22767146837,Unknown location: 2490837516419,,234,14,27.6245,0.0598,2,13.8123
+2026-08-14,Leads-Search-1,22767146837,Unknown location: 2490837516419,,274,11,22.9389,0.0401,0,
+2026-08-15,Leads-Search-1,22767146837,Unknown location: 2490837516419,,254,10,18.03,0.0394,0,
+2026-08-16,Leads-Search-1,22767146837,Unknown location: 2490837516419,,133,8,17.41,0.0602,0,
+2026-08-17,Leads-Search-1,22767146837,Unknown location: 2490837516419,,103,12,24.4097,0.1165,1,24.4097
+2026-08-18,Leads-Search-1,22767146837,Unknown location: 2490837516419,,94,9,14.9827,0.0957,0,
+2026-08-19,Leads-Search-1,22767146837,Unknown location: 2490837516419,,138,8,16.65,0.058,1,16.65
+2026-08-20,Leads-Search-1,22767146837,Otsego,City,2,1,1.73,0.5,0,
+2026-08-20,Leads-Search-1,22767146837,Unknown location: 2490837516419,,100,4,9.57,0.04,0,
+2026-08-21,Leads-Search-1,22767146837,Dayton,City,3,2,5.82,0.6667,0,
+2026-08-21,Leads-Search-1,22767146837,Otsego,City,11,0,0,0,0,
+2026-08-21,Leads-Search-1,22767146837,Ramsey,City,4,0,0,0,0,
+2026-08-21,Leads-Search-1,22767146837,Saint Michael,City,1,0,0,0,0,
+2026-08-21,Leads-Search-1,22767146837,Unknown location: 2490837516419,,160,3,6.46,0.0188,1,6.46
+2026-08-22,Leads-Search-1,22767146837,Otsego,City,2,0,0,0,0,
+2026-08-22,Leads-Search-1,22767146837,Unknown location: 2490837516419,,50,4,10.34,0.08,0,
+2026-08-23,Leads-Search-1,22767146837,Otsego,City,7,2,3.986,0.2857,0,
+2026-08-23,Leads-Search-1,22767146837,Ramsey,City,4,0,0,0,0,
+2026-08-23,Leads-Search-1,22767146837,Unknown location: 2490837516419,,56,3,7.42,0.0536,0,
+2026-08-24,Leads-Search-1,22767146837,Dayton,City,1,0,0,0,0,
+2026-08-24,Leads-Search-1,22767146837,Otsego,City,3,0,0,0,0,
+2026-08-24,Leads-Search-1,22767146837,Ramsey,City,1,0,0,0,0,
+2026-08-24,Leads-Search-1,22767146837,Saint Michael,City,2,1,1.9664,0.5,0,
+2026-08-24,Leads-Search-1,22767146837,Unknown location: 2490837516419,,87,5,9.94,0.0575,1,9.94
+2026-08-25,Leads-Search-1,22767146837,Albertville,City,2,0,0,0,0,
+2026-08-25,Leads-Search-1,22767146837,Otsego,City,2,0,0,0,0,
+2026-08-25,Leads-Search-1,22767146837,Ramsey,City,2,0,0,0,0,
+2026-08-25,Leads-Search-1,22767146837,Unknown location: 2490837516419,,84,5,10.3674,0.0595,0,
+2026-08-26,Leads-Search-1,22767146837,Dayton,City,1,0,0,0,0,
+2026-08-26,Leads-Search-1,22767146837,Otsego,City,7,1,1.07,0.1429,0,
+2026-08-26,Leads-Search-1,22767146837,Ramsey,City,3,0,0,0,0,
+2026-08-26,Leads-Search-1,22767146837,Saint Michael,City,1,0,0,0,0,
+2026-08-26,Leads-Search-1,22767146837,Unknown location: 2490837516419,,185,6,10.06,0.0324,0,
+2026-08-27,Leads-Search-1,22767146837,Albertville,City,1,0,0,0,0,
+2026-08-27,Leads-Search-1,22767146837,Otsego,City,12,0,0,0,0,
+2026-08-27,Leads-Search-1,22767146837,Ramsey,City,2,0,0,0,0,
+2026-08-27,Leads-Search-1,22767146837,Saint Michael,City,1,0,0,0,0,
+2026-08-27,Leads-Search-1,22767146837,Unknown location: 2490837516419,,216,4,8.27,0.0185,0,
+2026-08-28,Leads-Search-1,22767146837,Dayton,City,2,0,0,0,0,
+2026-08-28,Leads-Search-1,22767146837,Otsego,City,1,0,0,0,0,
+2026-08-28,Leads-Search-1,22767146837,Ramsey,City,4,1,1.74,0.25,0,
+2026-08-28,Leads-Search-1,22767146837,Unknown location: 2490837516419,,76,4,7.19,0.0526,0,
+2026-08-29,Leads-Search-1,22767146837,Dayton,City,1,0,0,0,0,
+2026-08-29,Leads-Search-1,22767146837,Otsego,City,3,0,0,0,0,
+2026-08-29,Leads-Search-1,22767146837,Ramsey,City,2,0,0,0,0,
+2026-08-29,Leads-Search-1,22767146837,Saint Michael,City,1,0,0,0,0,
+2026-08-29,Leads-Search-1,22767146837,Unknown location: 2490837516419,,78,4,8.98,0.0513,0,
+2026-08-30,Leads-Search-1,22767146837,Albertville,City,1,0,0,0,0,
+2026-08-30,Leads-Search-1,22767146837,Otsego,City,3,0,0,0,0,
+2026-08-30,Leads-Search-1,22767146837,Ramsey,City,3,1,2.33,0.3333,0,
+2026-08-30,Leads-Search-1,22767146837,Saint Michael,City,3,0,0,0,0,
+2026-08-30,Leads-Search-1,22767146837,Unknown location: 2490837516419,,53,2,5.24,0.0377,0,
+2026-08-31,Leads-Search-1,22767146837,Otsego,City,2,0,0,0,0,
+2026-08-31,Leads-Search-1,22767146837,Unknown location: 2490837516419,,75,3,7.57,0.04,0,
+2026-09-01,Leads-Search-1,22767146837,Otsego,City,5,0,0,0,0,
+2026-09-01,Leads-Search-1,22767146837,Ramsey,City,3,0,0,0,0,
+2026-09-01,Leads-Search-1,22767146837,Saint Michael,City,3,0,0,0,0,
+2026-09-01,Leads-Search-1,22767146837,Unknown location: 2490837516419,,245,8,13.67,0.0327,0,
+2026-09-02,Leads-Search-1,22767146837,Albertville,City,3,0,0,0,0,
+2026-09-02,Leads-Search-1,22767146837,Otsego,City,6,0,0,0,0,
+2026-09-02,Leads-Search-1,22767146837,Saint Michael,City,3,1,1.69,0.3333,1,1.69
+2026-09-02,Leads-Search-1,22767146837,Unknown location: 2490837516419,,166,5,12.17,0.0301,0,
+2026-09-03,Leads-Search-1,22767146837,Albertville,City,1,0,0,0,0,
+2026-09-03,Leads-Search-1,22767146837,Dayton,City,2,0,0,0,0,
+2026-09-03,Leads-Search-1,22767146837,Otsego,City,5,0,0,0,0,
+2026-09-03,Leads-Search-1,22767146837,Ramsey,City,3,0,0,0,0,
+2026-09-03,Leads-Search-1,22767146837,Saint Michael,City,2,0,0,0,0,
+2026-09-03,Leads-Search-1,22767146837,Unknown location: 2490837516419,,171,7,13.4,0.0409,0,
+2026-09-04,Leads-Search-1,22767146837,Albertville,City,3,0,0,0,0,
+2026-09-04,Leads-Search-1,22767146837,Dayton,City,3,0,0,0,0,
+2026-09-04,Leads-Search-1,22767146837,Otsego,City,9,0,0,0,0,
+2026-09-04,Leads-Search-1,22767146837,Ramsey,City,6,0,0,0,0,
+2026-09-04,Leads-Search-1,22767146837,Saint Michael,City,3,0,0,0,0,
+2026-09-04,Leads-Search-1,22767146837,Unknown location: 2490837516419,,267,9,17.78,0.0337,0,
+2026-09-05,Leads-Search-1,22767146837,Otsego,City,4,0,0,0,0,
+2026-09-05,Leads-Search-1,22767146837,Ramsey,City,1,0,0,0,0,
+2026-09-05,Leads-Search-1,22767146837,Saint Michael,City,1,0,0,0,0,
+2026-09-05,Leads-Search-1,22767146837,Unknown location: 2490837516419,,73,5,10.91,0.0685,0,
+2026-09-06,Leads-Search-1,22767146837,Albertville,City,1,0,0,0,0,
+2026-09-06,Leads-Search-1,22767146837,Otsego,City,3,0,0,0,0,
+2026-09-06,Leads-Search-1,22767146837,Ramsey,City,5,0,0,0,0,
+2026-09-06,Leads-Search-1,22767146837,Saint Michael,City,1,0,0,0,0,
+2026-09-06,Leads-Search-1,22767146837,Unknown location: 2490837516419,,100,5,10.49,0.05,0,
+2026-09-07,Leads-Search-1,22767146837,Bloomington,City,6,0,0,0,0,
+2026-09-07,Leads-Search-1,22767146837,Eden Prairie,City,9,0,0,0,0,
+2026-09-07,Leads-Search-1,22767146837,Hopkins,City,3,0,0,0,0,
+2026-09-07,Leads-Search-1,22767146837,Maple Grove,City,5,0,0,0,0,
+2026-09-07,Leads-Search-1,22767146837,Otsego,City,1,1,2.8,1,0,
+2026-09-07,Leads-Search-1,22767146837,Plymouth,City,8,0,0,0,0,
+2026-09-07,Leads-Search-1,22767146837,Saint Michael,City,2,0,0,0,0,
+2026-09-07,Leads-Search-1,22767146837,Shakopee,City,3,0,0,0,0,
+2026-09-07,Leads-Search-1,22767146837,Unknown location: 2490837516419,,153,4,8.0562,0.0261,0,
+2026-09-08,Leads-Search-1,22767146837,Bloomington,City,1,0,0,0,0,
+2026-09-08,Leads-Search-1,22767146837,Eden Prairie,City,2,0,0,0,0,
+2026-09-08,Leads-Search-1,22767146837,Hopkins,City,4,0,0,0,0,
+2026-09-08,Leads-Search-1,22767146837,Maple Grove,City,1,0,0,0,0,
+2026-09-08,Leads-Search-1,22767146837,Plymouth,City,3,0,0,0,0,
+2026-09-08,Leads-Search-1,22767146837,Shakopee,City,4,0,0,0,0,
+2026-09-08,Leads-Search-1,22767146837,Unknown location: 2490837516419,,33,5,11.5,0.1515,0,

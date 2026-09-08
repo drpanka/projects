@@ -1,0 +1,13 @@
+bucket,distinct_keywords,keyword_month_rows,pct_of_rows,estimated_impressions,pct_of_estimated_impressions,reported_impressions_total
+geo/discovery,73,177,64.6,1536,66.4,216
+brand,6,24,8.8,192,8.3,0
+modality/other-service,15,22,8.0,176,7.6,0
+Functional Lab Testing,5,12,4.4,96,4.2,0
+other/irrelevant,6,9,3.3,72,3.1,0
+Women's Health & Hormones,8,8,2.9,64,2.8,0
+Pediatrics,7,8,2.9,64,2.8,0
+competitor/practitioner-name,7,7,2.6,56,2.4,0
+Gut Health,4,4,1.5,32,1.4,0
+Metabolic/Diabetes,2,2,0.7,16,0.7,0
+Men's Health,1,1,0.4,8,0.3,0
+TOTAL,134,274,100.0,2312,100.0,216

@@ -1,0 +1,49 @@
+{
+  "_archive_meta": {
+    "pulled_at": "2026-09-08",
+    "account_id": "7473953248",
+    "account_name": "Panka Natural Health",
+    "google_ads_tag": "AW-17146544733",
+    "sources": [
+      "campaign_and_resource_get(ds_id=AW, account_id=7473953248, resource_type=conversion_types) -> resource_definitions",
+      "data_query(ds_id=AW, report_type=ConversionAction, date_range 2024-01-01..2026-09-08) -> report_settings"
+    ],
+    "note": "resource_definitions returned 15 actions (ENABLED/visible only). The ConversionAction report returned 17, adding 7151555473 (REMOVED) and 7196843733 (HIDDEN). Both are preserved below. PrimaryForGoal / IncludeInConversionsMetric / AttributionModel reflect CURRENT settings as of 2026-09-08, NOT historical settings; historical treatment must be inferred from the Conversions vs All-conversions divergence in the daily data."
+  },
+  "resource_definitions": [
+    {"id":"7151526666","name":"Lead form - Submit","type":"LEAD_FORM_SUBMIT","status":"ENABLED","category":"SUBMIT_LEAD_FORM","counting":"ONE_PER_CLICK"},
+    {"id":"7152843979","name":"Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment)","type":"WEBPAGE_CODELESS","status":"ENABLED","category":"BEGIN_CHECKOUT","counting":"MANY_PER_CLICK"},
+    {"id":"7154049482","name":"Page view (Page load www.pankanaturalhealth.com/meet-dr-haley)","type":"WEBPAGE_CODELESS","status":"ENABLED","category":"PAGE_VIEW","counting":"MANY_PER_CLICK"},
+    {"id":"7154049485","name":"Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob)","type":"WEBPAGE_CODELESS","status":"ENABLED","category":"PAGE_VIEW","counting":"MANY_PER_CLICK"},
+    {"id":"7154049488","name":"Page view (Page load www.pankanaturalhealth.com/whypnh)","type":"WEBPAGE_CODELESS","status":"ENABLED","category":"PAGE_VIEW","counting":"MANY_PER_CLICK"},
+    {"id":"7157480846","name":"Local actions - Website visits","type":"GOOGLE_HOSTED","status":"ENABLED","category":"PAGE_VIEW","counting":"MANY_PER_CLICK"},
+    {"id":"7160506736","name":"Local actions - Other engagements","type":"GOOGLE_HOSTED","status":"ENABLED","category":"ENGAGEMENT","counting":"MANY_PER_CLICK"},
+    {"id":"7169930375","name":"Local actions - Menu views","type":"GOOGLE_HOSTED","status":"ENABLED","category":"PAGE_VIEW","counting":"MANY_PER_CLICK"},
+    {"id":"7180867432","name":"Local actions - Directions","type":"GOOGLE_HOSTED","status":"ENABLED","category":"GET_DIRECTIONS","counting":"MANY_PER_CLICK"},
+    {"id":"7163356268","name":"Purchase","type":"WEBPAGE","status":"ENABLED","category":"PURCHASE","counting":"MANY_PER_CLICK","google_tag_id":"AW-7473953248/7163356268","send_to":"AW-17146544733/l3KmCOzI4NcaEN2EjvA_","event_snippet_value":1.0,"event_snippet_currency":"USD"},
+    {"id":"7196843730","name":"PNH2 (web) purchase","type":"GOOGLE_ANALYTICS_4_PURCHASE","status":"ENABLED","category":"PURCHASE","counting":"MANY_PER_CLICK"},
+    {"id":"7217291006","name":"Calls from ads","type":"AD_CALL","status":"ENABLED","category":"PHONE_CALL_LEAD","counting":"ONE_PER_CLICK"},
+    {"id":"7254459499","name":"Clicks to call","type":"GOOGLE_HOSTED","status":"ENABLED","category":"CONTACT","counting":"MANY_PER_CLICK"},
+    {"id":"7635668327","name":"PNH2 (web) schedule_appointment","type":"GOOGLE_ANALYTICS_4_CUSTOM","status":"ENABLED","category":"BEGIN_CHECKOUT","counting":"ONE_PER_CLICK"},
+    {"id":"7747774028","name":"Intro Call Click","type":"WEBPAGE","status":"ENABLED","category":"BOOK_APPOINTMENT","counting":"ONE_PER_CLICK","google_tag_id":"AW-7473953248/7747774028","send_to":"AW-17146544733/WT76CMzMtu4cEN2EjvA_"}
+  ],
+  "report_settings_2026_09_08": [
+    {"id":"7154049488","name":"Page view (Page load www.pankanaturalhealth.com/whypnh)","category":"Page view","status":"Enabled","counting":"Many per click","primary_for_goal":false,"include_in_conversions":false,"attribution_model":"Data-driven","all_conversions_lifetime":1241,"all_conversion_value_lifetime":1241},
+    {"id":"7152843979","name":"Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment)","category":"Begin checkout","status":"Enabled","counting":"Many per click","primary_for_goal":false,"include_in_conversions":false,"attribution_model":"Data-driven","all_conversions_lifetime":976,"all_conversion_value_lifetime":976},
+    {"id":"7154049482","name":"Page view (Page load www.pankanaturalhealth.com/meet-dr-haley)","category":"Page view","status":"Enabled","counting":"Many per click","primary_for_goal":false,"include_in_conversions":false,"attribution_model":"Data-driven","all_conversions_lifetime":218,"all_conversion_value_lifetime":218},
+    {"id":"7160506736","name":"Local actions - Other engagements","category":"Engagement","status":"Enabled","counting":"Many per click","primary_for_goal":true,"include_in_conversions":false,"attribution_model":"Last click","all_conversions_lifetime":213,"all_conversion_value_lifetime":213},
+    {"id":"7154049485","name":"Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob)","category":"Page view","status":"Enabled","counting":"Many per click","primary_for_goal":false,"include_in_conversions":false,"attribution_model":"Data-driven","all_conversions_lifetime":116,"all_conversion_value_lifetime":116},
+    {"id":"7157480846","name":"Local actions - Website visits","category":"Page view","status":"Enabled","counting":"Many per click","primary_for_goal":true,"include_in_conversions":false,"attribution_model":"Last click","all_conversions_lifetime":96,"all_conversion_value_lifetime":96},
+    {"id":"7635668327","name":"PNH2 (web) schedule_appointment","category":"Begin checkout","status":"Enabled","counting":"One per click","primary_for_goal":true,"include_in_conversions":true,"attribution_model":"Data-driven","all_conversions_lifetime":87.95,"all_conversion_value_lifetime":2574.95},
+    {"id":"7180867432","name":"Local actions - Directions","category":"Get directions","status":"Enabled","counting":"Many per click","primary_for_goal":true,"include_in_conversions":false,"attribution_model":"Last click","all_conversions_lifetime":35,"all_conversion_value_lifetime":35},
+    {"id":"7196843730","name":"PNH2 (web) purchase","category":"Purchase/Sale","status":"Enabled","counting":"Many per click","primary_for_goal":true,"include_in_conversions":true,"attribution_model":"Data-driven","all_conversions_lifetime":3.21,"all_conversion_value_lifetime":902.28},
+    {"id":"7254459499","name":"Clicks to call","category":"Contact","status":"Enabled","counting":"Many per click","primary_for_goal":true,"include_in_conversions":false,"attribution_model":"Last click","all_conversions_lifetime":3,"all_conversion_value_lifetime":3},
+    {"id":"7169930375","name":"Local actions - Menu views","category":"Page view","status":"Enabled","counting":"Many per click","primary_for_goal":true,"include_in_conversions":false,"attribution_model":"Last click","all_conversions_lifetime":2,"all_conversion_value_lifetime":2},
+    {"id":"7217291006","name":"Calls from ads","category":"Phone call lead","status":"Enabled","counting":"One per click","primary_for_goal":false,"include_in_conversions":false,"attribution_model":"Data-driven","all_conversions_lifetime":2,"all_conversion_value_lifetime":51},
+    {"id":"7151526666","name":"Lead form - Submit","category":"Submit lead form","status":"Enabled","counting":"One per click","primary_for_goal":true,"include_in_conversions":true,"attribution_model":"Last click","all_conversions_lifetime":0,"all_conversion_value_lifetime":0},
+    {"id":"7151555473","name":"Submit lead form","category":"Submit lead form","status":"Removed","counting":"Many per click","primary_for_goal":true,"include_in_conversions":true,"attribution_model":"Data-driven","all_conversions_lifetime":0,"all_conversion_value_lifetime":0},
+    {"id":"7163356268","name":"Purchase","category":"Purchase/Sale","status":"Enabled","counting":"Many per click","primary_for_goal":false,"include_in_conversions":false,"attribution_model":"Data-driven","all_conversions_lifetime":0,"all_conversion_value_lifetime":0},
+    {"id":"7196843733","name":"PNH2 (web) generate_lead","category":"Page view","status":"Hidden","counting":"Many per click","primary_for_goal":false,"include_in_conversions":false,"attribution_model":"Data-driven","all_conversions_lifetime":0,"all_conversion_value_lifetime":0},
+    {"id":"7747774028","name":"Intro Call Click","category":"Book appointment","status":"Enabled","counting":"One per click","primary_for_goal":true,"include_in_conversions":true,"attribution_model":"Data-driven","all_conversions_lifetime":0,"all_conversion_value_lifetime":0}
+  ]
+}

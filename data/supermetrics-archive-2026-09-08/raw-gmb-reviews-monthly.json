@@ -1,0 +1,46 @@
+{
+ "requested_field_ids": [
+  "yearMonth",
+  "location_name",
+  "review_total_count",
+  "review_avg_star_rating",
+  "review_reply_response_time"
+ ],
+ "data": [
+  [
+   "Year & month",
+   "Location name",
+   "Reviews",
+   "Avg. review star rating",
+   "Review time to respond (minutes)"
+  ],
+  [
+   "2025|04",
+   "Panka Natural Health",
+   1,
+   5,
+   1260
+  ],
+  [
+   "2025|06",
+   "Panka Natural Health",
+   1,
+   5,
+   97
+  ],
+  [
+   "2025|12",
+   "Panka Natural Health",
+   1,
+   5,
+   1147
+  ],
+  [
+   "2026|07",
+   "Panka Natural Health",
+   1,
+   5,
+   1668770
+  ]
+ ]
+}

@@ -1,0 +1,126 @@
+SUPERMETRICS GOOGLE MY BUSINESS (ds_id = "GMB") — COMPLETE FIELD LIST
+Captured 2026-09-08 via field_discovery(ds_id="GMB", compress=true), no filter.
+Supermetrics MCP tool_version 1.14.15. Total fields reported: 126 (24 metrics, 102 dimensions).
+
+SOURCE CONFIG
+  id: GMB
+  name: Google My Business
+  has_account_list: true      (account_labels: singular "Location", plural "Locations")
+  has_fields: true
+  has_report_type_selection: false   <-- report type is INFERRED from the fields you request;
+                                         you cannot (and must not) pass report_type in settings.
+  is_date_range_required: true
+  common_settings: exclude_invalid_accounts (checkbox)  -- the ONLY valid setting key.
+                   NOTE: "include_zero_impressions" is NOT valid for GMB (that is a Google Ads
+                   setting); passing it returns SETTING_KEY_INVALID.
+  categories: Analytics, Search
+  authentication_status: AUTHENTICATED (connected via pankanaturalhealth@gmail.com,
+                   Supermetrics team "Team pankanaturalhealth", team ID 1054989)
+
+REPORT TYPE LEGEND (index -> name). Fields listing no report_types support ALL report types.
+  0 = CustomerMedia
+  1 = Default
+  2 = Media
+  3 = Performance      <-- all views_* and actions_* metrics live here
+  4 = Post
+  5 = Reviews
+  6 = ReviewsTotals
+  7 = searchKeyword    <-- search terms + monthly search impressions
+
+DATE-RANGE LIMITS OBSERVED (2026-09-08)
+  Performance / Default / Media / Post / Reviews: earliest supported start = 2025-03-08
+      (a rolling ~18-month window; requesting 2024-01-01 returns
+       "[START_DATE_HISTORICAL] Earliest supported historical start date for Google My Business
+        is 2025-03-08.")
+  searchKeyword: additionally requires start_date = first day of a month and
+      end_date = last day of a month, else
+      "Start date and end date should be first day and last day of the selected month(s)."
+      Daily granularity is NOT available for searchKeyword.
+
+================================================================================
+METRICS (24)
+================================================================================
+id                              name                              report_type
+------------------------------  --------------------------------  -----------
+search_impressions              Monthly search impressions        7 searchKeyword
+views_total                     Total views                       3 Performance
+views_maps                      Views on Maps                     3 Performance
+views_search                    Views on Search                   3 Performance
+views_maps_desktop              Views on maps (Desktop)           3 Performance
+views_maps_mobile               Views on maps (Mobile)            3 Performance
+views_search_desktop            Views on Search (Desktop)         3 Performance
+views_search_mobile             Views on Search (Mobile)          3 Performance
+actions_total                   Total actions                     3 Performance
+actions_website                 Website visits                    3 Performance
+actions_phone                   Phone calls                       3 Performance
+actions_driving_directions      Directions requests               3 Performance
+actions_messages                Messages                          3 Performance
+actions_bookings                Bookings                          3 Performance
+actions_food_menu_clicks        Menu clicks                       3 Performance
+actions_food_orders             Food orders                       3 Performance
+post_count                      Posts                             4 Post
+review_total_count              Reviews (in selected period)      5 Reviews
+review_avg_star_rating          Avg. review star rating           5 Reviews
+review_reply_response_time      Review time to respond (minutes)  5 Reviews
+total_review_count              Total review count (lifetime)     6 ReviewsTotals
+total_review_star_rating        Avg. overall star rating          6 ReviewsTotals
+media_total_count               Media items                       2 Media
+customer_media_total_count      Contributed media items           0 CustomerMedia
+
+*** METRICS THAT DO NOT EXIST IN THIS CONNECTOR (checked explicitly) ***
+  There is NO photo-views / image-views metric of any kind. The old GBP
+  PHOTOS_VIEWS_MERCHANT / PHOTOS_VIEWS_CUSTOMER series is not exposed. media_total_count and
+  customer_media_total_count count ITEMS, not views.
+  There is also no "searches" / discovery-vs-direct-vs-branded breakdown, and no
+  BUSINESS_CONVERSATIONS beyond actions_messages.
+
+================================================================================
+DIMENSIONS (102)
+================================================================================
+-- Date / time (report types 0,2,3,4,5,7) --
+year, yearOfWeek, yearOfWeekIso, yearMonth, month, yearWeek, yearWeekIso, week, weekIso,
+dayOfMonth, dayOfWeekName, dayOfWeekNameIso, date
+-- Universal --
+dataSourceName, today
+-- Location / account (all report types) --
+location_account_id, location_account_name, location_id, location_name, location_name_id,
+location_description, location_language_code, location_store_code, location_primary_phone,
+location_additional_phones, location_regular_hours, location_special_hours,
+location_website_url, location_adwords_ad_phone, location_labels, location_coordinates,
+location_latitude, location_longitude, location_attributes, location_price_lists,
+location_status, location_opening_year, location_opening_month, location_opening_day,
+location_address_region_code, location_address_language_code, location_address_postal_code,
+location_address_sorting_code, location_address_administrative_area, location_address_locality,
+location_address_sublocality, location_address_lines, location_address_recipients,
+location_address_organization, location_category_id, location_category_name,
+location_additional_categories, location_service_area_business_type, location_place_id,
+location_maps_url
+-- Post (report type 4) --
+post_id, post_language_code, post_create_time, post_update_time, post_summary,
+post_call_to_action_type, post_call_to_action_url, post_state, post_search_url,
+post_topic_type, post_media_id, post_media_format, post_media_google_url, post_event_title,
+post_event_schedule_start_time, post_event_schedule_end_time, post_offer_coupon_code,
+post_offer_redeem_online_url, post_offer_terms_conditions
+-- Reviews (report type 5) --
+review_id, review_star_rating, review_reviewer_name, review_comment, review_reply_comment,
+review_create_time, review_create_date, review_update_time, review_update_date,
+review_reply_update_time
+-- Media, business-uploaded (report type 2) --
+media_id, media_format, media_category, media_google_url, media_thumbnail_url,
+media_width, media_height
+-- Customer media (report type 0) --
+customer_media_id, customer_media_format, customer_media_google_url,
+customer_media_thumbnail_url, customer_media_width, customer_media_height,
+customer_media_attribution_profile_name, customer_media_attribution_profile_photo_url,
+customer_media_attribution_takedown_url, customer_media_attribution_profile_url
+-- Search keyword (report type 7) --
+search_keywords
+
+================================================================================
+ACCOUNTS AVAILABLE (accounts_discovery ds_id="GMB")
+================================================================================
+  accounts/100272753749399584663            "All locations of Panka Natural Health"
+  100272753749399584663_3326559683279742636 "Panka Natural Health (02856059060526079777)"
+                                            group: Panka Natural Health   <-- THE LIVE LISTING
+  100272753749399584663_10418367222074184209 "Panka Natural Health (, : )"
+                                            group: Panka Natural Health   <-- DUPLICATE, no data

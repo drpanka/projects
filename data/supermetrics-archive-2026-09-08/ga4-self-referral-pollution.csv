@@ -1,0 +1,75 @@
+detection_field,polluted_value,yearMonth,eventName,eventCount,sessions,conversions,totalRevenue
+pageReferrer,https://tagassistant.google.com/,2025|06,page_view,6,4,0,0
+pageReferrer,https://tagassistant.google.com/,2025|06,schedule_appointment,4,3,0,0
+pageReferrer,https://tagassistant.google.com/,2025|06,scroll,4,3,0,0
+pageReferrer,https://tagassistant.google.com/,2025|06,session_start,2,2,0,0
+pageReferrer,https://tagassistant.google.com/,2025|06,user_engagement,4,2,0,0
+pageReferrer,https://tagassistant.google.com/,2026|04,page_view,4,2,0,0
+pageReferrer,https://tagassistant.google.com/,2026|04,purchase,2,1,2,0
+pageReferrer,https://tagassistant.google.com/,2026|04,schedule_appointment,1,1,0,0
+pageReferrer,https://tagassistant.google.com/,2026|04,scroll,1,1,0,0
+pageReferrer,https://tagassistant.google.com/,2026|04,session_start,1,1,0,0
+pageReferrer,https://tagassistant.google.com/,2026|04,user_engagement,1,1,0,0
+pageReferrer,https://ads.google.com/,2026|06,page_view,2,1,0,0
+pageReferrer,https://ads.google.com/,2026|06,session_start,1,1,0,0
+pageReferrer,https://ads.google.com/,2026|06,user_engagement,2,1,0,0
+pageReferrer,https://tagassistant.google.com/,2026|06,page_view,2,1,0,0
+pageReferrer,https://tagassistant.google.com/,2026|06,purchase,2,1,2,0
+pageReferrer,https://tagassistant.google.com/,2026|06,schedule_appointment,2,1,0,0
+pageReferrer,https://tagassistant.google.com/,2026|06,scroll,2,1,0,0
+pageReferrer,https://tagassistant.google.com/,2026|06,session_start,1,1,0,0
+sessionSourceMedium,tagassistant.google.com / referral,2025|06,meet_dr__haley,1,1,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2025|06,meet_dr__jacob,1,1,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2025|06,page_view,25,11,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2025|06,schedule_appointment,9,6,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2025|06,scroll,12,9,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2025|06,session_start,15,15,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2025|06,user_engagement,20,9,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2025|06,why_pnh,1,1,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|04,meet_dr__haley,1,1,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|04,meet_dr__jacob,1,1,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|04,page_view,25,3,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|04,purchase,4,2,4,4.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|04,schedule_appointment,10,2,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|04,scroll,8,3,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|04,session_start,3,3,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|04,user_engagement,17,3,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|04,why_pnh,1,1,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|05,generate_lead,3,2,3,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|05,meet_dr__haley,3,3,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|05,meet_dr__jacob,2,2,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|05,page_view,56,20,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|05,schedule_appointment,7,6,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|05,scroll,6,5,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|05,session_start,25,25,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|05,user_engagement,44,19,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|06,click,2,2,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|06,file_download,1,1,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|06,generate_lead,7,5,7,0.0
+sessionSourceMedium,ads.google.com / referral,2026|06,meet_dr__haley,1,1,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|06,meet_dr__jacob,1,1,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|06,page_view,123,33,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|06,purchase,7,3,7,7.0
+sessionSourceMedium,ads.google.com / referral,2026|06,schedule_appointment,23,15,23,0.0
+sessionSourceMedium,ads.google.com / referral,2026|06,scroll,28,15,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|06,session_start,37,37,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|06,user_engagement,68,29,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|06,why_pnh,1,1,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|06,page_view,2,1,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|06,purchase,2,1,2,2.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|06,schedule_appointment,2,1,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|06,scroll,2,1,0,0.0
+sessionSourceMedium,tagassistant.google.com / referral,2026|06,session_start,1,1,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|07,page_view,51,18,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|07,purchase,1,1,1,1.0
+sessionSourceMedium,ads.google.com / referral,2026|07,schedule_appointment,7,7,7,0.0
+sessionSourceMedium,ads.google.com / referral,2026|07,scroll,7,7,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|07,session_start,28,28,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|07,user_engagement,22,16,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|07,why_pnh,1,1,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|08,click,1,1,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|08,page_view,53,13,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|08,schedule_appointment,13,6,13,0.0
+sessionSourceMedium,ads.google.com / referral,2026|08,scroll,3,2,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|08,session_start,18,18,0,0.0
+sessionSourceMedium,ads.google.com / referral,2026|08,user_engagement,29,15,0,0.0

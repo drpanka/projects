@@ -1,0 +1,18 @@
+conversion_action_id,name,type,category_api,category_report,status,counting,primary_for_goal,include_in_conversions_metric,attribution_model,all_conversions_lifetime_2025_06_to_2026_09_08,all_conversion_value_lifetime,google_tag_id,send_to_label
+7154049488,Page view (Page load www.pankanaturalhealth.com/whypnh),WEBPAGE_CODELESS,PAGE_VIEW,Page view,ENABLED,MANY_PER_CLICK,False,False,Data-driven,1241,1241,,
+7152843979,Begin checkout (Page load www.pankanaturalhealth.com/schedule-an-appointment),WEBPAGE_CODELESS,BEGIN_CHECKOUT,Begin checkout,ENABLED,MANY_PER_CLICK,False,False,Data-driven,976,976,,
+7154049482,Page view (Page load www.pankanaturalhealth.com/meet-dr-haley),WEBPAGE_CODELESS,PAGE_VIEW,Page view,ENABLED,MANY_PER_CLICK,False,False,Data-driven,218,218,,
+7160506736,Local actions - Other engagements,GOOGLE_HOSTED,ENGAGEMENT,Engagement,ENABLED,MANY_PER_CLICK,True,False,Last click,213,213,,
+7154049485,Page view (Page load www.pankanaturalhealth.com/meet-dr-jacob),WEBPAGE_CODELESS,PAGE_VIEW,Page view,ENABLED,MANY_PER_CLICK,False,False,Data-driven,116,116,,
+7157480846,Local actions - Website visits,GOOGLE_HOSTED,PAGE_VIEW,Page view,ENABLED,MANY_PER_CLICK,True,False,Last click,96,96,,
+7635668327,PNH2 (web) schedule_appointment,GOOGLE_ANALYTICS_4_CUSTOM,BEGIN_CHECKOUT,Begin checkout,ENABLED,ONE_PER_CLICK,True,True,Data-driven,87.95,2574.95,,
+7180867432,Local actions - Directions,GOOGLE_HOSTED,GET_DIRECTIONS,Get directions,ENABLED,MANY_PER_CLICK,True,False,Last click,35,35,,
+7196843730,PNH2 (web) purchase,GOOGLE_ANALYTICS_4_PURCHASE,PURCHASE,Purchase/Sale,ENABLED,MANY_PER_CLICK,True,True,Data-driven,3.21,902.28,,
+7254459499,Clicks to call,GOOGLE_HOSTED,CONTACT,Contact,ENABLED,MANY_PER_CLICK,True,False,Last click,3,3,,
+7169930375,Local actions - Menu views,GOOGLE_HOSTED,PAGE_VIEW,Page view,ENABLED,MANY_PER_CLICK,True,False,Last click,2,2,,
+7217291006,Calls from ads,AD_CALL,PHONE_CALL_LEAD,Phone call lead,ENABLED,ONE_PER_CLICK,False,False,Data-driven,2,51,,
+7151526666,Lead form - Submit,LEAD_FORM_SUBMIT,SUBMIT_LEAD_FORM,Submit lead form,ENABLED,ONE_PER_CLICK,True,True,Last click,0,0,,
+7151555473,Submit lead form,NOT_RETURNED_BY_RESOURCE_API,,Submit lead form,REMOVED,Many per click,True,True,Data-driven,0,0,,
+7163356268,Purchase,WEBPAGE,PURCHASE,Purchase/Sale,ENABLED,MANY_PER_CLICK,False,False,Data-driven,0,0,AW-7473953248/7163356268,AW-17146544733/l3KmCOzI4NcaEN2EjvA_
+7196843733,PNH2 (web) generate_lead,NOT_RETURNED_BY_RESOURCE_API,,Page view,HIDDEN,Many per click,False,False,Data-driven,0,0,,
+7747774028,Intro Call Click,WEBPAGE,BOOK_APPOINTMENT,Book appointment,ENABLED,ONE_PER_CLICK,True,True,Data-driven,0,0,AW-7473953248/7747774028,AW-17146544733/WT76CMzMtu4cEN2EjvA_

@@ -1,0 +1,10 @@
+basis,year_month,review_count,avg_star_rating,avg_reply_response_minutes,note
+create_date,2023-05,1,5.0,,from individually retrievable reviews only (4 of 15 lifetime)
+create_date,2025-04,1,5.0,,from individually retrievable reviews only (4 of 15 lifetime)
+create_date,2025-06,1,5.0,,from individually retrievable reviews only (4 of 15 lifetime)
+create_date,2025-12,1,5.0,,from individually retrievable reviews only (4 of 15 lifetime)
+supermetrics_update_date,2025-04,1,5,1260,"Supermetrics buckets a review by reply/update month, not creation month"
+supermetrics_update_date,2025-06,1,5,97,"Supermetrics buckets a review by reply/update month, not creation month"
+supermetrics_update_date,2025-12,1,5,1147,"Supermetrics buckets a review by reply/update month, not creation month"
+supermetrics_update_date,2026-07,1,5,1668770,"Supermetrics buckets a review by reply/update month, not creation month"
+lifetime_total,ALL_TIME,15,5,,ReviewsTotals report; includes the 11 reviews that predate the 2025-03-08 API floor

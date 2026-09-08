@@ -1,0 +1,28 @@
+{
+ "requested_field_ids": [
+  "location_name",
+  "location_id",
+  "total_review_count",
+  "total_review_star_rating"
+ ],
+ "data": [
+  [
+   "Location name",
+   "Location ID",
+   "Total review count",
+   "Avg. overall star rating"
+  ],
+  [
+   "Panka Natural Health",
+   "3326559683279742636",
+   15,
+   5
+  ],
+  [
+   "Panka Natural Health",
+   "10418367222074184209",
+   null,
+   null
+  ]
+ ]
+}

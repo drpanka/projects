@@ -1,0 +1,25 @@
+Campaignname,CampaignID,Location,LocationType,Impressions,Clicks,Cost,Ctr,Conversions,CostPerConversion
+Campaign #1,22625352639,Unknown location: 2483514420367,,94978,3180,568.9469,0.033481,1782.01,0.3193
+Campaign #1,22625352639,Minnesota,State,815,15,2.7144,0.018405,7.0,0.3878
+Leads-Search-1,22767146837,Unknown location: 2490837516419,,12937,663,1357.4605,0.051248,68.0,19.9627
+Leads-Search-1,22767146837,Minneapolis,City,6224,386,966.2924,0.062018,141.02,6.8522
+Leads-Search-1,22767146837,Hopkins,City,840,78,194.1874,0.092857,33.0,5.8845
+Leads-Search-1,22767146837,Edina,City,848,49,151.3031,0.057783,14.0,10.8074
+Leads-Search-1,22767146837,Golden Valley,City,820,53,138.8155,0.064634,19.0,7.3061
+Leads-Search-1,22767146837,Plymouth,City,701,53,130.2558,0.075606,18.0,7.2364
+Leads-Search-1,22767146837,Eden Prairie,City,642,44,125.0273,0.068536,16.0,7.8142
+Leads-Search-1,22767146837,Chanhassen,City,269,18,55.2105,0.066914,3.0,18.4035
+Leads-Search-1,22767146837,St. Louis Park,City,208,10,27.608,0.048077,4.0,6.902
+Leads-Search-1,22767146837,Maple Grove,City,118,9,17.568,0.076271,0.0,
+Leads-Search-1,22767146837,Minnetonka,City,112,6,14.92,0.053571,5.0,2.984
+Leads-Search-1,22767146837,Otsego,City,88,5,9.586,0.056818,0.0,
+Leads-Search-1,22767146837,Wayzata,City,34,2,7.34,0.058824,0.0,
+Leads-Search-1,22767146837,Deephaven,City,4,1,6.23,0.25,0.0,
+Leads-Search-1,22767146837,Dayton,City,13,2,5.82,0.153846,0.0,
+Leads-Search-1,22767146837,Ramsey,City,43,2,4.07,0.046512,0.0,
+Leads-Search-1,22767146837,Saint Michael,City,24,2,3.6564,0.083333,1.0,3.6564
+Leads-Search-1,22767146837,Albertville,City,12,0,0.0,0.0,0.0,
+Leads-Search-1,22767146837,Bloomington,City,7,0,0.0,0.0,0.0,
+Leads-Search-1,22767146837,Shakopee,City,7,0,0.0,0.0,0.0,
+PNHdefense-Website traffic-Search-2,23888858069,Minnesota,State,352,62,142.8851,0.176136,25.21,5.6678
+PNHdefense-Website traffic-Search-2,23888858069,Wisconsin,State,11,4,15.171,0.363636,0.0,

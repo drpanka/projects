@@ -1,0 +1,1631 @@
+yearMonth,sessionGoogleAdsCampaignName,sessionGoogleAdsAdGroupName,sessionGoogleAdsKeyword,eventName,eventCount,sessions,conversions,totalUsers
+2023|02,(not set),(not set),(not set),click,9,9,0,9
+2023|02,(not set),(not set),(not set),first_visit,189,189,0,189
+2023|02,(not set),(not set),(not set),form_start,2,2,0,1
+2023|02,(not set),(not set),(not set),page_view,571,244,0,189
+2023|02,(not set),(not set),(not set),scroll,114,50,0,32
+2023|02,(not set),(not set),(not set),session_start,263,263,0,189
+2023|02,(not set),(not set),(not set),user_engagement,277,105,0,57
+2023|03,(not set),(not set),(not set),click,39,22,0,17
+2023|03,(not set),(not set),(not set),file_download,1,1,0,1
+2023|03,(not set),(not set),(not set),first_visit,780,776,0,777
+2023|03,(not set),(not set),(not set),form_start,11,9,0,8
+2023|03,(not set),(not set),(not set),page_view,1692,955,0,786
+2023|03,(not set),(not set),(not set),scroll,304,197,0,168
+2023|03,(not set),(not set),(not set),session_start,1006,1003,0,787
+2023|03,(not set),(not set),(not set),user_engagement,1035,473,0,392
+2023|04,(not set),(not set),(not set),click,24,21,0,15
+2023|04,(not set),(not set),(not set),first_visit,650,650,0,650
+2023|04,(not set),(not set),(not set),form_start,9,9,0,9
+2023|04,(not set),(not set),(not set),page_view,1251,803,0,665
+2023|04,(not set),(not set),(not set),scroll,219,148,0,131
+2023|04,(not set),(not set),(not set),session_start,828,828,0,665
+2023|04,(not set),(not set),(not set),user_engagement,710,363,0,326
+2023|05,(not set),(not set),(not set),click,26,24,0,24
+2023|05,(not set),(not set),(not set),file_download,1,1,0,1
+2023|05,(not set),(not set),(not set),first_visit,985,986,0,984
+2023|05,(not set),(not set),(not set),form_start,10,10,0,10
+2023|05,(not set),(not set),(not set),meet_dr__haley,42,34,0,23
+2023|05,(not set),(not set),(not set),meet_dr__jacob,8,7,0,7
+2023|05,(not set),(not set),(not set),naturopathic_doctors,1,1,0,1
+2023|05,(not set),(not set),(not set),page_view,1761,1164,0,999
+2023|05,(not set),(not set),(not set),schedule_appointment,77,57,0,46
+2023|05,(not set),(not set),(not set),scroll,259,180,0,161
+2023|05,(not set),(not set),(not set),session_start,1195,1197,0,1001
+2023|05,(not set),(not set),(not set),user_engagement,872,448,0,405
+2023|05,(not set),(not set),(not set),why_pnh,2,2,0,2
+2023|06,(not set),(not set),(not set),click,21,17,0,16
+2023|06,(not set),(not set),(not set),first_visit,516,517,0,516
+2023|06,(not set),(not set),(not set),form_start,7,7,0,7
+2023|06,(not set),(not set),(not set),meet_dr__haley,54,47,0,40
+2023|06,(not set),(not set),(not set),meet_dr__jacob,24,22,0,20
+2023|06,(not set),(not set),(not set),naturopathic_doctors,1,1,0,1
+2023|06,(not set),(not set),(not set),page_view,1057,635,0,533
+2023|06,(not set),(not set),(not set),schedule_appointment,77,56,0,43
+2023|06,(not set),(not set),(not set),scroll,183,135,0,117
+2023|06,(not set),(not set),(not set),session_start,657,656,0,533
+2023|06,(not set),(not set),(not set),user_engagement,654,308,0,270
+2023|06,(not set),(not set),(not set),why_pnh,6,5,0,4
+2023|07,(not set),(not set),(not set),click,25,21,0,17
+2023|07,(not set),(not set),(not set),first_visit,565,566,0,565
+2023|07,(not set),(not set),(not set),form_start,5,5,0,5
+2023|07,(not set),(not set),(not set),meet_dr__haley,54,44,0,41
+2023|07,(not set),(not set),(not set),meet_dr__jacob,24,22,0,22
+2023|07,(not set),(not set),(not set),page_view,1081,669,0,583
+2023|07,(not set),(not set),(not set),schedule_appointment,77,59,0,48
+2023|07,(not set),(not set),(not set),scroll,183,117,0,110
+2023|07,(not set),(not set),(not set),session_start,689,691,0,584
+2023|07,(not set),(not set),(not set),user_engagement,655,331,0,294
+2023|07,(not set),(not set),(not set),why_pnh,11,10,0,10
+2023|08,(not set),(not set),(not set),click,15,15,0,12
+2023|08,(not set),(not set),(not set),file_download,2,2,0,2
+2023|08,(not set),(not set),(not set),first_visit,298,298,0,298
+2023|08,(not set),(not set),(not set),form_start,6,6,0,6
+2023|08,(not set),(not set),(not set),meet_dr__haley,44,39,0,36
+2023|08,(not set),(not set),(not set),meet_dr__jacob,17,16,0,16
+2023|08,(not set),(not set),(not set),page_view,930,423,0,312
+2023|08,(not set),(not set),(not set),schedule_appointment,59,48,0,32
+2023|08,(not set),(not set),(not set),scroll,170,102,0,81
+2023|08,(not set),(not set),(not set),session_start,443,443,0,312
+2023|08,(not set),(not set),(not set),user_engagement,516,217,0,166
+2023|08,(not set),(not set),(not set),why_pnh,3,3,0,3
+2023|09,(not set),(not set),(not set),click,17,14,0,12
+2023|09,(not set),(not set),(not set),file_download,1,1,0,1
+2023|09,(not set),(not set),(not set),first_visit,183,183,0,183
+2023|09,(not set),(not set),(not set),form_start,6,6,0,6
+2023|09,(not set),(not set),(not set),meet_dr__haley,49,36,0,32
+2023|09,(not set),(not set),(not set),meet_dr__jacob,30,24,0,22
+2023|09,(not set),(not set),(not set),page_view,722,308,0,195
+2023|09,(not set),(not set),(not set),schedule_appointment,82,67,0,44
+2023|09,(not set),(not set),(not set),scroll,132,85,0,68
+2023|09,(not set),(not set),(not set),session_start,323,323,0,195
+2023|09,(not set),(not set),(not set),user_engagement,450,160,0,113
+2023|09,(not set),(not set),(not set),why_pnh,2,2,0,2
+2023|10,(not set),(not set),(not set),click,32,24,0,20
+2023|10,(not set),(not set),(not set),first_visit,184,184,0,184
+2023|10,(not set),(not set),(not set),form_start,4,4,0,4
+2023|10,(not set),(not set),(not set),meet_dr__haley,41,36,0,32
+2023|10,(not set),(not set),(not set),meet_dr__jacob,22,20,0,19
+2023|10,(not set),(not set),(not set),page_view,566,268,0,192
+2023|10,(not set),(not set),(not set),schedule_appointment,62,53,0,37
+2023|10,(not set),(not set),(not set),scroll,116,86,0,73
+2023|10,(not set),(not set),(not set),session_start,289,288,0,192
+2023|10,(not set),(not set),(not set),user_engagement,410,167,0,122
+2023|10,(not set),(not set),(not set),why_pnh,6,6,0,6
+2023|11,(not set),(not set),(not set),click,17,17,0,14
+2023|11,(not set),(not set),(not set),first_visit,139,139,0,139
+2023|11,(not set),(not set),(not set),form_start,4,4,0,4
+2023|11,(not set),(not set),(not set),form_submit,1,1,0,1
+2023|11,(not set),(not set),(not set),meet_dr__haley,40,36,0,34
+2023|11,(not set),(not set),(not set),meet_dr__jacob,25,23,0,23
+2023|11,(not set),(not set),(not set),page_view,510,197,0,143
+2023|11,(not set),(not set),(not set),schedule_appointment,41,34,0,28
+2023|11,(not set),(not set),(not set),scroll,105,61,0,52
+2023|11,(not set),(not set),(not set),session_start,209,209,0,144
+2023|11,(not set),(not set),(not set),user_engagement,389,127,0,97
+2023|11,(not set),(not set),(not set),why_pnh,3,3,0,3
+2023|12,(not set),(not set),(not set),click,14,12,0,10
+2023|12,(not set),(not set),(not set),first_visit,152,152,0,152
+2023|12,(not set),(not set),(not set),form_start,8,8,0,8
+2023|12,(not set),(not set),(not set),meet_dr__haley,35,24,0,22
+2023|12,(not set),(not set),(not set),meet_dr__jacob,26,24,0,22
+2023|12,(not set),(not set),(not set),page_view,556,222,0,162
+2023|12,(not set),(not set),(not set),purchase,3,3,3,3
+2023|12,(not set),(not set),(not set),schedule_appointment,49,39,0,30
+2023|12,(not set),(not set),(not set),scroll,98,61,0,52
+2023|12,(not set),(not set),(not set),session_start,233,233,0,163
+2023|12,(not set),(not set),(not set),user_engagement,410,131,0,98
+2023|12,(not set),(not set),(not set),why_pnh,2,2,0,2
+2024|01,(not set),(not set),(not set),click,42,34,0,22
+2024|01,(not set),(not set),(not set),file_download,2,2,0,2
+2024|01,(not set),(not set),(not set),first_visit,212,212,0,212
+2024|01,(not set),(not set),(not set),form_start,7,7,0,7
+2024|01,(not set),(not set),(not set),form_submit,3,3,0,3
+2024|01,(not set),(not set),(not set),meet_dr__haley,43,38,0,36
+2024|01,(not set),(not set),(not set),meet_dr__jacob,28,26,0,24
+2024|01,(not set),(not set),(not set),page_view,809,348,0,223
+2024|01,(not set),(not set),(not set),purchase,8,0,8,1
+2024|01,(not set),(not set),(not set),schedule_appointment,75,61,0,41
+2024|01,(not set),(not set),(not set),scroll,172,107,0,84
+2024|01,(not set),(not set),(not set),session_start,385,384,0,223
+2024|01,(not set),(not set),(not set),user_engagement,577,250,0,146
+2024|01,(not set),(not set),(not set),view,1,1,0,1
+2024|01,(not set),(not set),(not set),why_pnh,9,8,0,7
+2024|02,(not set),(not set),(not set),click,48,40,0,32
+2024|02,(not set),(not set),(not set),file_download,5,5,0,5
+2024|02,(not set),(not set),(not set),first_visit,1552,1547,0,1552
+2024|02,(not set),(not set),(not set),form_start,10,10,0,9
+2024|02,(not set),(not set),(not set),form_submit,2,2,0,2
+2024|02,(not set),(not set),(not set),meet_dr__haley,65,57,0,53
+2024|02,(not set),(not set),(not set),meet_dr__jacob,28,23,0,21
+2024|02,(not set),(not set),(not set),page_view,2461,1737,0,1571
+2024|02,(not set),(not set),(not set),purchase,23,1,23,2
+2024|02,(not set),(not set),(not set),schedule_appointment,103,83,0,55
+2024|02,(not set),(not set),(not set),scroll,1101,1007,0,975
+2024|02,(not set),(not set),(not set),session_start,1771,1765,0,1571
+2024|02,(not set),(not set),(not set),user_engagement,1000,462,0,378
+2024|02,(not set),(not set),(not set),view,3,2,0,1
+2024|02,(not set),(not set),(not set),why_pnh,15,15,0,15
+2024|03,(not set),(not set),(not set),click,55,47,0,28
+2024|03,(not set),(not set),(not set),file_download,2,2,0,2
+2024|03,(not set),(not set),(not set),first_visit,793,793,0,793
+2024|03,(not set),(not set),(not set),form_start,12,11,0,11
+2024|03,(not set),(not set),(not set),form_submit,4,3,0,3
+2024|03,(not set),(not set),(not set),meet_dr__haley,90,77,0,60
+2024|03,(not set),(not set),(not set),meet_dr__jacob,83,77,0,59
+2024|03,(not set),(not set),(not set),page_view,1841,1013,0,815
+2024|03,(not set),(not set),(not set),purchase,24,0,24,1
+2024|03,(not set),(not set),(not set),schedule_appointment,128,101,0,81
+2024|03,(not set),(not set),(not set),scroll,429,261,0,228
+2024|03,(not set),(not set),(not set),session_start,1048,1048,0,814
+2024|03,(not set),(not set),(not set),user_engagement,1060,474,0,378
+2024|03,(not set),(not set),(not set),view,1,1,0,1
+2024|03,(not set),(not set),(not set),why_pnh,20,19,0,19
+2024|04,(not set),(not set),(not set),click,41,34,0,27
+2024|04,(not set),(not set),(not set),file_download,2,2,0,2
+2024|04,(not set),(not set),(not set),first_visit,481,482,0,481
+2024|04,(not set),(not set),(not set),form_start,8,8,0,8
+2024|04,(not set),(not set),(not set),form_submit,2,2,0,2
+2024|04,(not set),(not set),(not set),meet_dr__haley,65,57,0,56
+2024|04,(not set),(not set),(not set),meet_dr__jacob,92,83,0,76
+2024|04,(not set),(not set),(not set),page_view,1127,647,0,503
+2024|04,(not set),(not set),(not set),purchase,12,0,12,2
+2024|04,(not set),(not set),(not set),schedule_appointment,100,79,0,60
+2024|04,(not set),(not set),(not set),scroll,214,141,0,115
+2024|04,(not set),(not set),(not set),session_start,672,673,0,504
+2024|04,(not set),(not set),(not set),user_engagement,731,341,0,283
+2024|04,(not set),(not set),(not set),view,1,1,0,1
+2024|04,(not set),(not set),(not set),why_pnh,5,5,0,5
+2024|05,(not set),(not set),(not set),click,27,23,0,20
+2024|05,(not set),(not set),(not set),file_download,2,2,0,2
+2024|05,(not set),(not set),(not set),first_visit,376,376,0,376
+2024|05,(not set),(not set),(not set),form_start,10,10,0,10
+2024|05,(not set),(not set),(not set),form_submit,3,3,0,3
+2024|05,(not set),(not set),(not set),meet_dr__haley,51,45,0,41
+2024|05,(not set),(not set),(not set),meet_dr__jacob,34,29,0,26
+2024|05,(not set),(not set),(not set),page_view,1058,519,0,394
+2024|05,(not set),(not set),(not set),purchase,17,1,17,2
+2024|05,(not set),(not set),(not set),schedule_appointment,78,61,0,48
+2024|05,(not set),(not set),(not set),scroll,171,111,0,86
+2024|05,(not set),(not set),(not set),session_start,548,546,0,395
+2024|05,(not set),(not set),(not set),user_engagement,726,308,0,226
+2024|05,(not set),(not set),(not set),why_pnh,12,12,0,11
+2024|06,(not set),(not set),(not set),click,36,31,0,23
+2024|06,(not set),(not set),(not set),file_download,1,1,0,1
+2024|06,(not set),(not set),(not set),first_visit,480,480,0,480
+2024|06,(not set),(not set),(not set),form_start,17,17,0,17
+2024|06,(not set),(not set),(not set),form_submit,1,1,0,1
+2024|06,(not set),(not set),(not set),meet_dr__haley,69,57,0,52
+2024|06,(not set),(not set),(not set),meet_dr__jacob,30,28,0,26
+2024|06,(not set),(not set),(not set),page_view,1279,645,0,496
+2024|06,(not set),(not set),(not set),purchase,21,0,21,1
+2024|06,(not set),(not set),(not set),schedule_appointment,82,61,0,41
+2024|06,(not set),(not set),(not set),scroll,249,140,0,112
+2024|06,(not set),(not set),(not set),session_start,679,680,0,499
+2024|06,(not set),(not set),(not set),user_engagement,832,368,0,289
+2024|06,(not set),(not set),(not set),view,1,1,0,1
+2024|06,(not set),(not set),(not set),why_pnh,18,17,0,15
+2024|07,(not set),(not set),(not set),click,34,30,0,21
+2024|07,(not set),(not set),(not set),file_download,1,1,0,1
+2024|07,(not set),(not set),(not set),first_visit,309,309,0,309
+2024|07,(not set),(not set),(not set),form_start,10,9,0,9
+2024|07,(not set),(not set),(not set),meet_dr__haley,51,47,0,42
+2024|07,(not set),(not set),(not set),meet_dr__jacob,26,26,0,24
+2024|07,(not set),(not set),(not set),page_view,816,449,0,328
+2024|07,(not set),(not set),(not set),purchase,23,1,23,2
+2024|07,(not set),(not set),(not set),schedule_appointment,73,66,0,46
+2024|07,(not set),(not set),(not set),scroll,188,127,0,97
+2024|07,(not set),(not set),(not set),session_start,473,473,0,328
+2024|07,(not set),(not set),(not set),user_engagement,522,254,0,190
+2024|07,(not set),(not set),(not set),why_pnh,15,12,0,12
+2024|08,(not set),(not set),(not set),click,20,18,0,16
+2024|08,(not set),(not set),(not set),first_visit,164,164,0,164
+2024|08,(not set),(not set),(not set),form_start,6,5,0,5
+2024|08,(not set),(not set),(not set),meet_dr__haley,40,32,0,31
+2024|08,(not set),(not set),(not set),meet_dr__jacob,28,24,0,21
+2024|08,(not set),(not set),(not set),page_view,658,288,0,187
+2024|08,(not set),(not set),(not set),purchase,10,0,10,1
+2024|08,(not set),(not set),(not set),schedule_appointment,65,46,0,30
+2024|08,(not set),(not set),(not set),scroll,143,88,0,67
+2024|08,(not set),(not set),(not set),session_start,314,314,0,187
+2024|08,(not set),(not set),(not set),user_engagement,470,184,0,121
+2024|08,(not set),(not set),(not set),video_complete,1,1,0,1
+2024|08,(not set),(not set),(not set),video_progress,10,3,0,3
+2024|08,(not set),(not set),(not set),video_start,3,3,0,3
+2024|08,(not set),(not set),(not set),why_pnh,7,5,0,4
+2024|09,(not set),(not set),(not set),click,33,30,0,25
+2024|09,(not set),(not set),(not set),file_download,1,1,0,1
+2024|09,(not set),(not set),(not set),first_visit,530,531,0,528
+2024|09,(not set),(not set),(not set),form_start,14,12,0,11
+2024|09,(not set),(not set),(not set),form_submit,3,3,0,2
+2024|09,(not set),(not set),(not set),meet_dr__haley,75,65,0,55
+2024|09,(not set),(not set),(not set),meet_dr__jacob,28,25,0,24
+2024|09,(not set),(not set),(not set),page_view,1209,688,0,547
+2024|09,(not set),(not set),(not set),purchase,15,2,15,3
+2024|09,(not set),(not set),(not set),schedule_appointment,90,75,0,46
+2024|09,(not set),(not set),(not set),scroll,193,144,0,126
+2024|09,(not set),(not set),(not set),session_start,720,722,0,548
+2024|09,(not set),(not set),(not set),user_engagement,755,342,0,260
+2024|09,(not set),(not set),(not set),view,4,3,0,3
+2024|09,(not set),(not set),(not set),why_pnh,20,16,0,16
+2024|10,(not set),(not set),(not set),click,35,32,0,21
+2024|10,(not set),(not set),(not set),file_download,3,3,0,3
+2024|10,(not set),(not set),(not set),first_visit,473,473,0,472
+2024|10,(not set),(not set),(not set),form_start,15,13,0,13
+2024|10,(not set),(not set),(not set),form_submit,3,3,0,3
+2024|10,(not set),(not set),(not set),meet_dr__haley,51,47,0,39
+2024|10,(not set),(not set),(not set),meet_dr__jacob,38,32,0,24
+2024|10,(not set),(not set),(not set),page_view,1404,672,0,500
+2024|10,(not set),(not set),(not set),purchase,21,1,21,2
+2024|10,(not set),(not set),(not set),schedule_appointment,89,72,0,50
+2024|10,(not set),(not set),(not set),scroll,238,137,0,103
+2024|10,(not set),(not set),(not set),session_start,699,700,0,503
+2024|10,(not set),(not set),(not set),user_engagement,834,324,0,230
+2024|10,(not set),(not set),(not set),view,1,1,0,1
+2024|10,(not set),(not set),(not set),why_pnh,26,19,0,15
+2024|11,(not set),(not set),(not set),click,40,30,0,24
+2024|11,(not set),(not set),(not set),first_visit,487,485,0,486
+2024|11,(not set),(not set),(not set),form_start,17,10,0,10
+2024|11,(not set),(not set),(not set),form_submit,4,2,0,2
+2024|11,(not set),(not set),(not set),generate_lead,3,3,3,3
+2024|11,(not set),(not set),(not set),meet_dr__haley,49,43,0,34
+2024|11,(not set),(not set),(not set),meet_dr__jacob,26,21,0,19
+2024|11,(not set),(not set),(not set),page_view,1335,664,0,504
+2024|11,(not set),(not set),(not set),purchase,12,0,12,1
+2024|11,(not set),(not set),(not set),schedule_appointment,85,72,0,46
+2024|11,(not set),(not set),(not set),scroll,238,138,0,98
+2024|11,(not set),(not set),(not set),session_start,692,691,0,504
+2024|11,(not set),(not set),(not set),user_engagement,769,338,0,246
+2024|11,(not set),(not set),(not set),why_pnh,24,18,0,9
+2024|12,(not set),(not set),(not set),click,27,25,0,18
+2024|12,(not set),(not set),(not set),first_visit,348,347,0,348
+2024|12,(not set),(not set),(not set),form_start,16,13,0,12
+2024|12,(not set),(not set),(not set),form_submit,1,1,0,1
+2024|12,(not set),(not set),(not set),generate_lead,23,21,23,19
+2024|12,(not set),(not set),(not set),meet_dr__haley,45,41,0,37
+2024|12,(not set),(not set),(not set),meet_dr__jacob,17,14,0,14
+2024|12,(not set),(not set),(not set),page_view,807,463,0,361
+2024|12,(not set),(not set),(not set),purchase,2,2,2,2
+2024|12,(not set),(not set),(not set),schedule_appointment,57,48,0,36
+2024|12,(not set),(not set),(not set),scroll,129,98,0,85
+2024|12,(not set),(not set),(not set),session_start,498,497,0,364
+2024|12,(not set),(not set),(not set),user_engagement,470,260,0,212
+2024|12,(not set),(not set),(not set),view,3,3,0,3
+2024|12,(not set),(not set),(not set),why_pnh,5,5,0,5
+2025|01,(not set),(not set),(not set),click,20,18,0,17
+2025|01,(not set),(not set),(not set),file_download,1,1,0,1
+2025|01,(not set),(not set),(not set),first_visit,331,331,0,331
+2025|01,(not set),(not set),(not set),form_start,8,7,0,7
+2025|01,(not set),(not set),(not set),generate_lead,17,17,17,16
+2025|01,(not set),(not set),(not set),meet_dr__haley,68,57,0,52
+2025|01,(not set),(not set),(not set),meet_dr__jacob,34,32,0,28
+2025|01,(not set),(not set),(not set),page_view,972,502,0,351
+2025|01,(not set),(not set),(not set),purchase,2,2,2,2
+2025|01,(not set),(not set),(not set),schedule_appointment,136,116,0,84
+2025|01,(not set),(not set),(not set),scroll,195,129,0,92
+2025|01,(not set),(not set),(not set),session_start,526,526,0,354
+2025|01,(not set),(not set),(not set),user_engagement,571,270,0,209
+2025|01,(not set),(not set),(not set),view,1,1,0,1
+2025|01,(not set),(not set),(not set),why_pnh,13,12,0,12
+2025|02,(not set),(not set),(not set),click,33,23,0,19
+2025|02,(not set),(not set),(not set),file_download,1,1,0,1
+2025|02,(not set),(not set),(not set),first_visit,285,285,0,285
+2025|02,(not set),(not set),(not set),form_start,19,16,0,15
+2025|02,(not set),(not set),(not set),generate_lead,30,26,30,21
+2025|02,(not set),(not set),(not set),meet_dr__haley,63,53,0,39
+2025|02,(not set),(not set),(not set),meet_dr__jacob,40,33,0,29
+2025|02,(not set),(not set),(not set),page_view,1052,492,0,315
+2025|02,(not set),(not set),(not set),schedule_appointment,75,58,0,41
+2025|02,(not set),(not set),(not set),scroll,220,147,0,107
+2025|02,(not set),(not set),(not set),session_start,522,523,0,312
+2025|02,(not set),(not set),(not set),user_engagement,636,293,0,195
+2025|02,(not set),(not set),(not set),video_start,2,2,0,2
+2025|02,(not set),(not set),(not set),why_pnh,8,7,0,5
+2025|03,(not set),(not set),(not set),click,36,32,0,24
+2025|03,(not set),(not set),(not set),file_download,2,2,0,1
+2025|03,(not set),(not set),(not set),first_visit,259,259,0,259
+2025|03,(not set),(not set),(not set),form_start,9,9,0,9
+2025|03,(not set),(not set),(not set),generate_lead,22,21,22,20
+2025|03,(not set),(not set),(not set),meet_dr__haley,32,31,0,29
+2025|03,(not set),(not set),(not set),meet_dr__jacob,24,20,0,17
+2025|03,(not set),(not set),(not set),page_view,1056,486,0,291
+2025|03,(not set),(not set),(not set),purchase,1,1,1,1
+2025|03,(not set),(not set),(not set),schedule_appointment,106,81,0,43
+2025|03,(not set),(not set),(not set),scroll,217,151,0,101
+2025|03,(not set),(not set),(not set),session_start,531,530,0,287
+2025|03,(not set),(not set),(not set),user_engagement,664,299,0,178
+2025|03,(not set),(not set),(not set),view,1,1,0,1
+2025|03,(not set),(not set),(not set),why_pnh,10,9,0,6
+2025|04,(not set),(not set),(not set),click,28,22,0,15
+2025|04,(not set),(not set),(not set),first_visit,213,213,0,213
+2025|04,(not set),(not set),(not set),form_start,18,14,0,14
+2025|04,(not set),(not set),(not set),form_submit,4,2,0,2
+2025|04,(not set),(not set),(not set),generate_lead,18,16,18,16
+2025|04,(not set),(not set),(not set),meet_dr__haley,50,41,0,37
+2025|04,(not set),(not set),(not set),meet_dr__jacob,11,9,0,8
+2025|04,(not set),(not set),(not set),page_view,988,412,0,244
+2025|04,(not set),(not set),(not set),purchase,3,3,3,3
+2025|04,(not set),(not set),(not set),schedule_appointment,108,79,0,46
+2025|04,(not set),(not set),(not set),scroll,237,132,0,91
+2025|04,(not set),(not set),(not set),session_start,442,443,0,243
+2025|04,(not set),(not set),(not set),user_engagement,558,259,0,156
+2025|04,(not set),(not set),(not set),video_progress,6,1,0,1
+2025|04,(not set),(not set),(not set),video_start,2,1,0,1
+2025|04,(not set),(not set),(not set),view,5,3,0,3
+2025|04,(not set),(not set),(not set),why_pnh,2,2,0,2
+2025|05,(not set),(not set),(not set),click,15,15,0,13
+2025|05,(not set),(not set),(not set),file_download,3,3,0,3
+2025|05,(not set),(not set),(not set),first_visit,265,265,0,265
+2025|05,(not set),(not set),(not set),form_start,8,8,0,5
+2025|05,(not set),(not set),(not set),generate_lead,16,14,16,13
+2025|05,(not set),(not set),(not set),meet_dr__haley,48,41,0,40
+2025|05,(not set),(not set),(not set),meet_dr__jacob,19,18,0,18
+2025|05,(not set),(not set),(not set),page_view,717,402,0,290
+2025|05,(not set),(not set),(not set),purchase,1,1,1,1
+2025|05,(not set),(not set),(not set),schedule_appointment,66,57,0,37
+2025|05,(not set),(not set),(not set),scroll,123,87,0,64
+2025|05,(not set),(not set),(not set),session_start,434,434,0,292
+2025|05,(not set),(not set),(not set),user_engagement,432,237,0,192
+2025|05,(not set),(not set),(not set),view,3,2,0,2
+2025|05,(not set),(not set),(not set),why_pnh,4,4,0,4
+2025|06,(not set),(not set),(not set),click,20,20,0,15
+2025|06,(not set),(not set),(not set),file_download,1,1,0,1
+2025|06,(not set),(not set),(not set),first_visit,603,588,0,590
+2025|06,(not set),(not set),(not set),form_start,15,14,0,8
+2025|06,(not set),(not set),(not set),generate_lead,28,27,28,25
+2025|06,(not set),(not set),(not set),meet_dr__haley,58,52,0,46
+2025|06,(not set),(not set),(not set),meet_dr__jacob,30,24,0,22
+2025|06,(not set),(not set),(not set),page_view,1591,803,0,611
+2025|06,(not set),(not set),(not set),purchase,10,8,10,3
+2025|06,(not set),(not set),(not set),schedule_appointment,136,95,0,64
+2025|06,(not set),(not set),(not set),scroll,263,168,0,121
+2025|06,(not set),(not set),(not set),session_start,853,839,0,613
+2025|06,(not set),(not set),(not set),user_engagement,799,373,0,281
+2025|06,(not set),(not set),(not set),video_progress,3,1,0,1
+2025|06,(not set),(not set),(not set),video_start,1,1,0,1
+2025|06,(not set),(not set),(not set),view,12,7,0,1
+2025|06,(not set),(not set),(not set),why_pnh,48,46,0,44
+2025|07,(direct),(not set),(not set),meet_dr__jacob,2,1,0,1
+2025|07,(direct),(not set),(not set),page_view,2,1,0,1
+2025|07,(direct),(not set),(not set),why_pnh,3,3,0,3
+2025|07,(not set),(not set),(not set),click,21,21,0,15
+2025|07,(not set),(not set),(not set),first_visit,2548,2536,0,2524
+2025|07,(not set),(not set),(not set),form_start,14,13,0,13
+2025|07,(not set),(not set),(not set),generate_lead,30,30,30,28
+2025|07,(not set),(not set),(not set),meet_dr__haley,66,62,0,57
+2025|07,(not set),(not set),(not set),meet_dr__jacob,37,35,0,34
+2025|07,(not set),(not set),(not set),page_view,3515,2914,0,2573
+2025|07,(not set),(not set),(not set),purchase,3,2,3,2
+2025|07,(not set),(not set),(not set),schedule_appointment,426,404,0,363
+2025|07,(not set),(not set),(not set),scroll,173,127,0,114
+2025|07,(not set),(not set),(not set),session_start,2944,2977,0,2571
+2025|07,(not set),(not set),(not set),user_engagement,747,456,0,396
+2025|07,(not set),(not set),(not set),view,5,4,0,3
+2025|07,(not set),(not set),(not set),why_pnh,638,583,0,540
+2025|07,(referral),(not set),(not set),first_visit,15,15,0,15
+2025|07,(referral),(not set),(not set),page_view,17,15,0,15
+2025|07,(referral),(not set),(not set),schedule_appointment,4,4,0,4
+2025|07,(referral),(not set),(not set),session_start,17,17,0,15
+2025|07,(referral),(not set),(not set),user_engagement,10,10,0,10
+2025|07,(referral),(not set),(not set),why_pnh,4,4,0,4
+2025|07,Campaign #1,(not set),(not set),first_visit,279,279,0,279
+2025|07,Campaign #1,(not set),(not set),meet_dr__haley,4,4,0,3
+2025|07,Campaign #1,(not set),(not set),meet_dr__jacob,5,5,0,5
+2025|07,Campaign #1,(not set),(not set),page_view,328,301,0,281
+2025|07,Campaign #1,(not set),(not set),schedule_appointment,31,31,0,30
+2025|07,Campaign #1,(not set),(not set),scroll,5,5,0,5
+2025|07,Campaign #1,(not set),(not set),session_start,311,311,0,281
+2025|07,Campaign #1,(not set),(not set),user_engagement,88,79,0,77
+2025|07,Campaign #1,(not set),(not set),why_pnh,91,86,0,79
+2025|07,Leads-Search-1,Ad group 1,alternative medicine doctors near me,first_visit,8,7,0,7
+2025|07,Leads-Search-1,Ad group 1,alternative medicine doctors near me,meet_dr__haley,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,alternative medicine doctors near me,meet_dr__jacob,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,alternative medicine doctors near me,page_view,15,7,0,7
+2025|07,Leads-Search-1,Ad group 1,alternative medicine doctors near me,schedule_appointment,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,alternative medicine doctors near me,scroll,2,2,0,2
+2025|07,Leads-Search-1,Ad group 1,alternative medicine doctors near me,session_start,8,7,0,7
+2025|07,Leads-Search-1,Ad group 1,alternative medicine doctors near me,user_engagement,14,6,0,6
+2025|07,Leads-Search-1,Ad group 1,holistic dr near me,click,2,2,0,2
+2025|07,Leads-Search-1,Ad group 1,holistic dr near me,first_visit,168,168,0,168
+2025|07,Leads-Search-1,Ad group 1,holistic dr near me,generate_lead,3,3,3,2
+2025|07,Leads-Search-1,Ad group 1,holistic dr near me,meet_dr__haley,15,14,0,14
+2025|07,Leads-Search-1,Ad group 1,holistic dr near me,meet_dr__jacob,10,7,0,7
+2025|07,Leads-Search-1,Ad group 1,holistic dr near me,page_view,391,197,0,169
+2025|07,Leads-Search-1,Ad group 1,holistic dr near me,schedule_appointment,42,36,0,26
+2025|07,Leads-Search-1,Ad group 1,holistic dr near me,scroll,71,48,0,45
+2025|07,Leads-Search-1,Ad group 1,holistic dr near me,session_start,200,200,0,169
+2025|07,Leads-Search-1,Ad group 1,holistic dr near me,user_engagement,323,152,0,145
+2025|07,Leads-Search-1,Ad group 1,holistic dr near me,why_pnh,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,click,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,first_visit,3,3,0,3
+2025|07,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,page_view,10,5,0,3
+2025|07,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,schedule_appointment,2,2,0,1
+2025|07,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,scroll,3,2,0,1
+2025|07,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,session_start,5,5,0,3
+2025|07,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,user_engagement,9,5,0,3
+2025|07,Leads-Search-1,Ad group 1,integrative medicine near me,first_visit,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,integrative medicine near me,page_view,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,integrative medicine near me,session_start,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,integrative medicine near me,user_engagement,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,men's health naturopath,first_visit,7,7,0,7
+2025|07,Leads-Search-1,Ad group 1,men's health naturopath,page_view,24,8,0,7
+2025|07,Leads-Search-1,Ad group 1,men's health naturopath,schedule_appointment,2,2,0,2
+2025|07,Leads-Search-1,Ad group 1,men's health naturopath,scroll,8,4,0,4
+2025|07,Leads-Search-1,Ad group 1,men's health naturopath,session_start,8,8,0,7
+2025|07,Leads-Search-1,Ad group 1,men's health naturopath,user_engagement,20,7,0,6
+2025|07,Leads-Search-1,Ad group 1,men's health naturopath,why_pnh,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,natural pediatrician near me,first_visit,16,16,0,16
+2025|07,Leads-Search-1,Ad group 1,natural pediatrician near me,generate_lead,1,1,1,1
+2025|07,Leads-Search-1,Ad group 1,natural pediatrician near me,meet_dr__haley,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,natural pediatrician near me,page_view,35,19,0,18
+2025|07,Leads-Search-1,Ad group 1,natural pediatrician near me,schedule_appointment,2,2,0,2
+2025|07,Leads-Search-1,Ad group 1,natural pediatrician near me,scroll,11,7,0,7
+2025|07,Leads-Search-1,Ad group 1,natural pediatrician near me,session_start,20,20,0,18
+2025|07,Leads-Search-1,Ad group 1,natural pediatrician near me,user_engagement,32,18,0,17
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,first_visit,6,6,0,6
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,meet_dr__haley,2,2,0,2
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,page_view,24,9,0,6
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,schedule_appointment,4,4,0,3
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,scroll,4,3,0,3
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,session_start,10,10,0,6
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,user_engagement,19,8,0,6
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor near me,first_visit,6,6,0,6
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor near me,meet_dr__jacob,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor near me,page_view,11,6,0,6
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor near me,scroll,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor near me,session_start,7,7,0,6
+2025|07,Leads-Search-1,Ad group 1,naturopathic doctor near me,user_engagement,9,7,0,6
+2025|07,Leads-Search-1,Ad group 1,naturopathic dr near me,first_visit,3,3,0,3
+2025|07,Leads-Search-1,Ad group 1,naturopathic dr near me,page_view,4,3,0,3
+2025|07,Leads-Search-1,Ad group 1,naturopathic dr near me,scroll,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,naturopathic dr near me,session_start,3,3,0,3
+2025|07,Leads-Search-1,Ad group 1,naturopathic dr near me,user_engagement,5,3,0,3
+2025|07,Leads-Search-1,Ad group 1,women's health naturopath,click,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,women's health naturopath,first_visit,5,5,0,5
+2025|07,Leads-Search-1,Ad group 1,women's health naturopath,meet_dr__haley,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,women's health naturopath,page_view,15,6,0,5
+2025|07,Leads-Search-1,Ad group 1,women's health naturopath,schedule_appointment,1,1,0,1
+2025|07,Leads-Search-1,Ad group 1,women's health naturopath,scroll,2,2,0,2
+2025|07,Leads-Search-1,Ad group 1,women's health naturopath,session_start,6,6,0,5
+2025|07,Leads-Search-1,Ad group 1,women's health naturopath,user_engagement,16,6,0,5
+2025|08,(not set),(not set),(not set),click,30,20,0,14
+2025|08,(not set),(not set),(not set),file_download,1,1,0,1
+2025|08,(not set),(not set),(not set),first_visit,280,279,0,280
+2025|08,(not set),(not set),(not set),form_start,9,9,0,9
+2025|08,(not set),(not set),(not set),generate_lead,15,15,15,15
+2025|08,(not set),(not set),(not set),meet_dr__haley,40,35,0,33
+2025|08,(not set),(not set),(not set),meet_dr__jacob,17,17,0,15
+2025|08,(not set),(not set),(not set),page_view,878,424,0,315
+2025|08,(not set),(not set),(not set),schedule_appointment,96,65,0,49
+2025|08,(not set),(not set),(not set),scroll,145,105,0,96
+2025|08,(not set),(not set),(not set),session_start,458,457,0,321
+2025|08,(not set),(not set),(not set),user_engagement,537,258,0,213
+2025|08,(not set),(not set),(not set),why_pnh,5,5,0,5
+2025|08,Campaign #1,(not set),(not set),first_visit,4,4,0,4
+2025|08,Campaign #1,(not set),(not set),page_view,5,5,0,5
+2025|08,Campaign #1,(not set),(not set),schedule_appointment,2,2,0,2
+2025|08,Campaign #1,(not set),(not set),session_start,5,5,0,5
+2025|08,Campaign #1,(not set),(not set),why_pnh,2,2,0,2
+2025|08,Leads-Search-1,Ad group 1,alternative medicine doctors near me,first_visit,3,3,0,3
+2025|08,Leads-Search-1,Ad group 1,alternative medicine doctors near me,page_view,5,3,0,3
+2025|08,Leads-Search-1,Ad group 1,alternative medicine doctors near me,session_start,3,3,0,3
+2025|08,Leads-Search-1,Ad group 1,alternative medicine doctors near me,user_engagement,7,3,0,3
+2025|08,Leads-Search-1,Ad group 1,holistic dr near me,click,3,2,0,1
+2025|08,Leads-Search-1,Ad group 1,holistic dr near me,file_download,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,holistic dr near me,first_visit,31,31,0,31
+2025|08,Leads-Search-1,Ad group 1,holistic dr near me,generate_lead,3,3,3,2
+2025|08,Leads-Search-1,Ad group 1,holistic dr near me,meet_dr__haley,4,4,0,4
+2025|08,Leads-Search-1,Ad group 1,holistic dr near me,meet_dr__jacob,3,3,0,3
+2025|08,Leads-Search-1,Ad group 1,holistic dr near me,page_view,88,44,0,31
+2025|08,Leads-Search-1,Ad group 1,holistic dr near me,schedule_appointment,7,6,0,4
+2025|08,Leads-Search-1,Ad group 1,holistic dr near me,scroll,19,15,0,11
+2025|08,Leads-Search-1,Ad group 1,holistic dr near me,session_start,44,44,0,31
+2025|08,Leads-Search-1,Ad group 1,holistic dr near me,user_engagement,77,30,0,28
+2025|08,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,first_visit,12,12,0,12
+2025|08,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,meet_dr__haley,2,2,0,2
+2025|08,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,page_view,24,12,0,12
+2025|08,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,schedule_appointment,2,2,0,2
+2025|08,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,scroll,5,3,0,3
+2025|08,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,session_start,12,12,0,12
+2025|08,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,user_engagement,24,11,0,11
+2025|08,Leads-Search-1,Ad group 1,holistic pediatricians near me,first_visit,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,holistic pediatricians near me,page_view,2,1,0,1
+2025|08,Leads-Search-1,Ad group 1,holistic pediatricians near me,scroll,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,holistic pediatricians near me,session_start,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,holistic pediatricians near me,user_engagement,2,1,0,1
+2025|08,Leads-Search-1,Ad group 1,integrative medicine near me,first_visit,60,60,0,60
+2025|08,Leads-Search-1,Ad group 1,integrative medicine near me,form_start,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,integrative medicine near me,generate_lead,1,1,1,1
+2025|08,Leads-Search-1,Ad group 1,integrative medicine near me,meet_dr__haley,9,8,0,8
+2025|08,Leads-Search-1,Ad group 1,integrative medicine near me,meet_dr__jacob,6,5,0,5
+2025|08,Leads-Search-1,Ad group 1,integrative medicine near me,page_view,120,64,0,60
+2025|08,Leads-Search-1,Ad group 1,integrative medicine near me,schedule_appointment,10,8,0,6
+2025|08,Leads-Search-1,Ad group 1,integrative medicine near me,scroll,20,15,0,15
+2025|08,Leads-Search-1,Ad group 1,integrative medicine near me,session_start,66,66,0,60
+2025|08,Leads-Search-1,Ad group 1,integrative medicine near me,user_engagement,112,54,0,52
+2025|08,Leads-Search-1,Ad group 1,men's health naturopath,first_visit,2,2,0,2
+2025|08,Leads-Search-1,Ad group 1,men's health naturopath,page_view,5,2,0,2
+2025|08,Leads-Search-1,Ad group 1,men's health naturopath,session_start,2,2,0,2
+2025|08,Leads-Search-1,Ad group 1,men's health naturopath,user_engagement,3,1,0,1
+2025|08,Leads-Search-1,Ad group 1,natural medicine Minnesota,first_visit,7,7,0,7
+2025|08,Leads-Search-1,Ad group 1,natural medicine Minnesota,meet_dr__haley,5,3,0,3
+2025|08,Leads-Search-1,Ad group 1,natural medicine Minnesota,meet_dr__jacob,3,2,0,2
+2025|08,Leads-Search-1,Ad group 1,natural medicine Minnesota,page_view,30,7,0,7
+2025|08,Leads-Search-1,Ad group 1,natural medicine Minnesota,schedule_appointment,2,2,0,2
+2025|08,Leads-Search-1,Ad group 1,natural medicine Minnesota,scroll,10,5,0,5
+2025|08,Leads-Search-1,Ad group 1,natural medicine Minnesota,session_start,8,8,0,7
+2025|08,Leads-Search-1,Ad group 1,natural medicine Minnesota,user_engagement,28,7,0,6
+2025|08,Leads-Search-1,Ad group 1,natural medicine Minnesota,why_pnh,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,natural pediatrician near me,first_visit,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,natural pediatrician near me,meet_dr__haley,3,1,0,1
+2025|08,Leads-Search-1,Ad group 1,natural pediatrician near me,meet_dr__jacob,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,natural pediatrician near me,page_view,12,1,0,1
+2025|08,Leads-Search-1,Ad group 1,natural pediatrician near me,schedule_appointment,2,1,0,1
+2025|08,Leads-Search-1,Ad group 1,natural pediatrician near me,scroll,5,1,0,1
+2025|08,Leads-Search-1,Ad group 1,natural pediatrician near me,session_start,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,natural pediatrician near me,user_engagement,11,1,0,1
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,first_visit,19,19,0,19
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,meet_dr__haley,7,7,0,4
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,page_view,44,24,0,19
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,schedule_appointment,5,5,0,4
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,scroll,8,7,0,6
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,session_start,26,26,0,19
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,user_engagement,41,21,0,18
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,click,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,file_download,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,first_visit,65,65,0,65
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,form_start,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,generate_lead,3,3,3,3
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,meet_dr__haley,7,7,0,7
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,meet_dr__jacob,1,1,0,1
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,page_view,142,69,0,66
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,schedule_appointment,12,9,0,8
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,scroll,27,20,0,19
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,session_start,70,70,0,66
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,user_engagement,115,56,0,53
+2025|08,Leads-Search-1,Ad group 1,naturopathic doctor near me,why_pnh,1,1,0,1
+2025|09,(not set),(not set),(not set),click,38,28,0,17
+2025|09,(not set),(not set),(not set),first_visit,252,252,0,252
+2025|09,(not set),(not set),(not set),form_start,10,10,0,9
+2025|09,(not set),(not set),(not set),generate_lead,26,24,26,23
+2025|09,(not set),(not set),(not set),meet_dr__haley,61,55,0,53
+2025|09,(not set),(not set),(not set),meet_dr__jacob,23,21,0,18
+2025|09,(not set),(not set),(not set),page_view,926,406,0,284
+2025|09,(not set),(not set),(not set),purchase,3,3,3,3
+2025|09,(not set),(not set),(not set),schedule_appointment,115,92,0,60
+2025|09,(not set),(not set),(not set),scroll,249,150,0,127
+2025|09,(not set),(not set),(not set),session_start,447,447,0,285
+2025|09,(not set),(not set),(not set),user_engagement,578,277,0,204
+2025|09,(not set),(not set),(not set),video_complete,2,1,0,1
+2025|09,(not set),(not set),(not set),video_progress,9,1,0,1
+2025|09,(not set),(not set),(not set),video_start,4,1,0,1
+2025|09,(not set),(not set),(not set),view,5,4,0,4
+2025|09,(not set),(not set),(not set),why_pnh,6,6,0,6
+2025|10,(not set),(not set),(not set),click,35,27,0,14
+2025|10,(not set),(not set),(not set),file_download,1,1,0,1
+2025|10,(not set),(not set),(not set),first_visit,837,834,0,837
+2025|10,(not set),(not set),(not set),form_start,6,6,0,6
+2025|10,(not set),(not set),(not set),generate_lead,27,27,27,22
+2025|10,(not set),(not set),(not set),meet_dr__haley,42,38,0,31
+2025|10,(not set),(not set),(not set),meet_dr__jacob,26,25,0,18
+2025|10,(not set),(not set),(not set),page_view,2035,1048,0,877
+2025|10,(not set),(not set),(not set),schedule_appointment,114,86,0,51
+2025|10,(not set),(not set),(not set),scroll,370,241,0,219
+2025|10,(not set),(not set),(not set),session_start,1089,1084,0,878
+2025|10,(not set),(not set),(not set),user_engagement,1593,845,0,755
+2025|10,(not set),(not set),(not set),video_progress,4,1,0,1
+2025|10,(not set),(not set),(not set),video_start,1,1,0,1
+2025|10,(not set),(not set),(not set),why_pnh,3,3,0,2
+2025|11,(not set),(not set),(not set),click,22,21,0,19
+2025|11,(not set),(not set),(not set),first_visit,327,326,0,326
+2025|11,(not set),(not set),(not set),form_start,16,13,0,12
+2025|11,(not set),(not set),(not set),form_submit,2,1,0,1
+2025|11,(not set),(not set),(not set),generate_lead,30,28,30,24
+2025|11,(not set),(not set),(not set),meet_dr__haley,71,46,0,37
+2025|11,(not set),(not set),(not set),meet_dr__jacob,37,27,0,22
+2025|11,(not set),(not set),(not set),page_view,1347,564,0,363
+2025|11,(not set),(not set),(not set),purchase,7,6,7,5
+2025|11,(not set),(not set),(not set),schedule_appointment,144,110,0,58
+2025|11,(not set),(not set),(not set),scroll,299,182,0,136
+2025|11,(not set),(not set),(not set),session_start,599,598,0,362
+2025|11,(not set),(not set),(not set),user_engagement,702,324,0,218
+2025|11,(not set),(not set),(not set),view,8,7,0,6
+2025|11,(not set),(not set),(not set),why_pnh,31,18,0,10
+2025|12,(not set),(not set),(not set),click,17,17,0,14
+2025|12,(not set),(not set),(not set),first_visit,247,247,0,247
+2025|12,(not set),(not set),(not set),form_start,3,3,0,3
+2025|12,(not set),(not set),(not set),generate_lead,14,14,14,14
+2025|12,(not set),(not set),(not set),meet_dr__haley,19,19,0,17
+2025|12,(not set),(not set),(not set),meet_dr__jacob,15,13,0,9
+2025|12,(not set),(not set),(not set),page_view,651,364,0,275
+2025|12,(not set),(not set),(not set),purchase,1,1,1,1
+2025|12,(not set),(not set),(not set),schedule_appointment,84,74,0,50
+2025|12,(not set),(not set),(not set),scroll,158,111,0,96
+2025|12,(not set),(not set),(not set),session_start,386,387,0,277
+2025|12,(not set),(not set),(not set),user_engagement,378,202,0,159
+2025|12,(not set),(not set),(not set),video_progress,2,1,0,1
+2025|12,(not set),(not set),(not set),video_start,1,1,0,1
+2025|12,(not set),(not set),(not set),why_pnh,7,7,0,7
+2026|01,(not set),(not set),(not set),click,33,30,0,13
+2026|01,(not set),(not set),(not set),first_visit,439,440,0,439
+2026|01,(not set),(not set),(not set),form_start,13,11,0,11
+2026|01,(not set),(not set),(not set),form_submit,2,1,0,1
+2026|01,(not set),(not set),(not set),generate_lead,35,30,35,27
+2026|01,(not set),(not set),(not set),meet_dr__haley,32,28,0,25
+2026|01,(not set),(not set),(not set),meet_dr__jacob,20,19,0,17
+2026|01,(not set),(not set),(not set),page_view,1001,596,0,460
+2026|01,(not set),(not set),(not set),purchase,2,2,2,2
+2026|01,(not set),(not set),(not set),schedule_appointment,122,108,0,66
+2026|01,(not set),(not set),(not set),scroll,199,139,0,118
+2026|01,(not set),(not set),(not set),session_start,637,638,0,462
+2026|01,(not set),(not set),(not set),user_engagement,514,281,0,209
+2026|01,(not set),(not set),(not set),video_progress,1,1,0,1
+2026|01,(not set),(not set),(not set),video_start,1,1,0,1
+2026|01,(not set),(not set),(not set),view,2,2,0,2
+2026|01,(not set),(not set),(not set),why_pnh,4,4,0,4
+2026|02,(not set),(not set),(not set),click,31,21,0,12
+2026|02,(not set),(not set),(not set),first_visit,373,374,0,373
+2026|02,(not set),(not set),(not set),form_start,11,10,0,10
+2026|02,(not set),(not set),(not set),form_submit,1,1,0,1
+2026|02,(not set),(not set),(not set),generate_lead,33,32,33,32
+2026|02,(not set),(not set),(not set),meet_dr__haley,48,42,0,38
+2026|02,(not set),(not set),(not set),meet_dr__jacob,26,24,0,23
+2026|02,(not set),(not set),(not set),page_view,946,491,0,396
+2026|02,(not set),(not set),(not set),purchase,1,1,1,1
+2026|02,(not set),(not set),(not set),schedule_appointment,72,61,0,44
+2026|02,(not set),(not set),(not set),scroll,183,127,0,113
+2026|02,(not set),(not set),(not set),session_start,519,519,0,396
+2026|02,(not set),(not set),(not set),user_engagement,537,263,0,214
+2026|02,(not set),(not set),(not set),video_progress,1,1,0,1
+2026|02,(not set),(not set),(not set),video_start,1,1,0,1
+2026|02,(not set),(not set),(not set),view,1,1,0,1
+2026|02,(not set),(not set),(not set),why_pnh,11,10,0,9
+2026|03,(not set),(not set),(not set),click,29,25,0,16
+2026|03,(not set),(not set),(not set),file_download,1,1,0,1
+2026|03,(not set),(not set),(not set),first_visit,441,442,0,441
+2026|03,(not set),(not set),(not set),form_start,6,6,0,6
+2026|03,(not set),(not set),(not set),generate_lead,25,19,25,19
+2026|03,(not set),(not set),(not set),meet_dr__haley,43,38,0,34
+2026|03,(not set),(not set),(not set),meet_dr__jacob,24,23,0,19
+2026|03,(not set),(not set),(not set),page_view,1131,607,0,468
+2026|03,(not set),(not set),(not set),purchase,6,2,6,6
+2026|03,(not set),(not set),(not set),schedule_appointment,95,72,0,54
+2026|03,(not set),(not set),(not set),scroll,244,148,0,127
+2026|03,(not set),(not set),(not set),session_start,633,633,0,468
+2026|03,(not set),(not set),(not set),user_engagement,639,292,0,235
+2026|03,(not set),(not set),(not set),view,9,2,0,8
+2026|03,(not set),(not set),(not set),why_pnh,11,11,0,11
+2026|04,(not set),(not set),(not set),click,49,41,0,25
+2026|04,(not set),(not set),(not set),first_visit,361,361,0,361
+2026|04,(not set),(not set),(not set),form_start,9,9,0,9
+2026|04,(not set),(not set),(not set),generate_lead,30,29,30,26
+2026|04,(not set),(not set),(not set),meet_dr__haley,35,27,0,26
+2026|04,(not set),(not set),(not set),meet_dr__jacob,29,23,0,19
+2026|04,(not set),(not set),(not set),page_view,1027,485,0,387
+2026|04,(not set),(not set),(not set),purchase,54,16,54,42
+2026|04,(not set),(not set),(not set),schedule_appointment,104,66,0,49
+2026|04,(not set),(not set),(not set),scroll,214,133,0,106
+2026|04,(not set),(not set),(not set),session_start,523,523,0,389
+2026|04,(not set),(not set),(not set),user_engagement,570,258,0,200
+2026|04,(not set),(not set),(not set),view,56,4,0,39
+2026|04,(not set),(not set),(not set),why_pnh,8,5,0,5
+2026|04,Leads-Search-1,Ad group 1,holistic dr near me,first_visit,3,3,0,3
+2026|04,Leads-Search-1,Ad group 1,holistic dr near me,page_view,3,3,0,3
+2026|04,Leads-Search-1,Ad group 1,holistic dr near me,session_start,3,3,0,3
+2026|04,Leads-Search-1,Ad group 1,holistic dr near me,user_engagement,2,2,0,2
+2026|04,Leads-Search-1,Ad group 1,integrative medicine near me,first_visit,11,11,0,11
+2026|04,Leads-Search-1,Ad group 1,integrative medicine near me,generate_lead,1,1,1,1
+2026|04,Leads-Search-1,Ad group 1,integrative medicine near me,meet_dr__haley,3,3,0,3
+2026|04,Leads-Search-1,Ad group 1,integrative medicine near me,page_view,21,11,0,11
+2026|04,Leads-Search-1,Ad group 1,integrative medicine near me,scroll,4,3,0,3
+2026|04,Leads-Search-1,Ad group 1,integrative medicine near me,session_start,11,11,0,11
+2026|04,Leads-Search-1,Ad group 1,integrative medicine near me,user_engagement,22,10,0,10
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,first_visit,3,3,0,3
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,generate_lead,2,1,2,1
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,page_view,8,3,0,3
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,scroll,2,2,0,2
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,session_start,3,3,0,3
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor Minneapolis,user_engagement,8,2,0,2
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor near me,first_visit,37,36,0,36
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor near me,form_start,1,1,0,1
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor near me,generate_lead,1,1,1,1
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor near me,meet_dr__haley,3,3,0,3
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor near me,meet_dr__jacob,2,2,0,2
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor near me,page_view,93,43,0,36
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor near me,schedule_appointment,12,11,0,7
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor near me,scroll,19,11,0,10
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor near me,session_start,44,43,0,36
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor near me,user_engagement,66,29,0,27
+2026|04,Leads-Search-1,Ad group 1,naturopathic doctor near me,why_pnh,1,1,0,1
+2026|05,(not set),(not set),(not set),click,40,29,0,20
+2026|05,(not set),(not set),(not set),first_visit,425,424,0,424
+2026|05,(not set),(not set),(not set),form_start,9,8,0,8
+2026|05,(not set),(not set),(not set),form_submit,1,1,0,1
+2026|05,(not set),(not set),(not set),generate_lead,43,40,43,39
+2026|05,(not set),(not set),(not set),meet_dr__haley,79,53,0,40
+2026|05,(not set),(not set),(not set),meet_dr__jacob,58,34,0,28
+2026|05,(not set),(not set),(not set),page_view,1510,658,0,450
+2026|05,(not set),(not set),(not set),purchase,23,9,23,21
+2026|05,(not set),(not set),(not set),schedule_appointment,136,109,0,64
+2026|05,(not set),(not set),(not set),scroll,343,188,0,134
+2026|05,(not set),(not set),(not set),session_start,701,699,0,451
+2026|05,(not set),(not set),(not set),user_engagement,726,325,0,224
+2026|05,(not set),(not set),(not set),view,34,2,0,31
+2026|05,(not set),(not set),(not set),why_pnh,16,10,0,7
+2026|05,Leads-Search-1,Ad group 1,functional medicine,first_visit,2,2,0,2
+2026|05,Leads-Search-1,Ad group 1,functional medicine,page_view,6,2,0,2
+2026|05,Leads-Search-1,Ad group 1,functional medicine,session_start,2,2,0,2
+2026|05,Leads-Search-1,Ad group 1,functional medicine,user_engagement,3,1,0,1
+2026|05,Leads-Search-1,Ad group 1,functional medicine clinic near me,first_visit,1,1,0,1
+2026|05,Leads-Search-1,Ad group 1,functional medicine clinic near me,page_view,1,1,0,1
+2026|05,Leads-Search-1,Ad group 1,functional medicine clinic near me,session_start,1,1,0,1
+2026|05,Leads-Search-1,Ad group 1,functional medicine clinic near me,user_engagement,1,1,0,1
+2026|05,Leads-Search-1,Ad group 1,functional medicine near me,first_visit,1,1,0,1
+2026|05,Leads-Search-1,Ad group 1,functional medicine near me,page_view,2,1,0,1
+2026|05,Leads-Search-1,Ad group 1,functional medicine near me,scroll,1,1,0,1
+2026|05,Leads-Search-1,Ad group 1,functional medicine near me,session_start,1,1,0,1
+2026|05,Leads-Search-1,Ad group 1,functional medicine near me,user_engagement,2,1,0,1
+2026|05,Leads-Search-1,Ad group 1,holistic dr near me,first_visit,7,7,0,7
+2026|05,Leads-Search-1,Ad group 1,holistic dr near me,page_view,17,7,0,7
+2026|05,Leads-Search-1,Ad group 1,holistic dr near me,scroll,3,3,0,3
+2026|05,Leads-Search-1,Ad group 1,holistic dr near me,session_start,7,7,0,7
+2026|05,Leads-Search-1,Ad group 1,holistic dr near me,user_engagement,18,7,0,7
+2026|05,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,first_visit,2,2,0,2
+2026|05,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,page_view,2,2,0,2
+2026|05,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,session_start,2,2,0,2
+2026|05,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,user_engagement,2,2,0,2
+2026|05,Leads-Search-1,Ad group 1,integrative health near me,first_visit,2,2,0,2
+2026|05,Leads-Search-1,Ad group 1,integrative health near me,meet_dr__haley,1,1,0,1
+2026|05,Leads-Search-1,Ad group 1,integrative health near me,page_view,3,2,0,2
+2026|05,Leads-Search-1,Ad group 1,integrative health near me,session_start,2,2,0,2
+2026|05,Leads-Search-1,Ad group 1,integrative health near me,user_engagement,2,2,0,2
+2026|05,Leads-Search-1,Ad group 1,integrative medicine near me,first_visit,11,11,0,11
+2026|05,Leads-Search-1,Ad group 1,integrative medicine near me,generate_lead,2,1,2,1
+2026|05,Leads-Search-1,Ad group 1,integrative medicine near me,meet_dr__haley,1,1,0,1
+2026|05,Leads-Search-1,Ad group 1,integrative medicine near me,meet_dr__jacob,1,1,0,1
+2026|05,Leads-Search-1,Ad group 1,integrative medicine near me,page_view,37,15,0,11
+2026|05,Leads-Search-1,Ad group 1,integrative medicine near me,purchase,1,1,1,1
+2026|05,Leads-Search-1,Ad group 1,integrative medicine near me,schedule_appointment,8,6,0,5
+2026|05,Leads-Search-1,Ad group 1,integrative medicine near me,scroll,11,8,0,7
+2026|05,Leads-Search-1,Ad group 1,integrative medicine near me,session_start,17,17,0,11
+2026|05,Leads-Search-1,Ad group 1,integrative medicine near me,user_engagement,32,16,0,10
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,click,1,1,0,1
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,first_visit,40,40,0,40
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,form_start,1,1,0,1
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,generate_lead,5,5,5,3
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,meet_dr__haley,6,6,0,6
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,meet_dr__jacob,3,3,0,3
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,page_view,132,57,0,43
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,purchase,1,1,1,1
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,schedule_appointment,14,11,0,7
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,scroll,40,25,0,20
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,session_start,61,61,0,43
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,user_engagement,112,42,0,39
+2026|05,Leads-Search-1,Ad group 1,naturopathic doctor near me,why_pnh,2,2,0,2
+2026|05,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,click,1,1,0,1
+2026|05,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,first_visit,1,1,0,1
+2026|05,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,page_view,2,1,0,1
+2026|05,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,session_start,1,1,0,1
+2026|06,(not set),(not set),(not set),click,37,30,0,21
+2026|06,(not set),(not set),(not set),file_download,4,3,0,2
+2026|06,(not set),(not set),(not set),first_visit,549,549,0,548
+2026|06,(not set),(not set),(not set),form_start,17,13,0,11
+2026|06,(not set),(not set),(not set),form_submit,1,1,0,1
+2026|06,(not set),(not set),(not set),generate_lead,38,28,38,18
+2026|06,(not set),(not set),(not set),meet_dr__haley,40,28,0,21
+2026|06,(not set),(not set),(not set),meet_dr__jacob,33,24,0,17
+2026|06,(not set),(not set),(not set),page_view,1588,749,0,572
+2026|06,(not set),(not set),(not set),purchase,42,16,42,24
+2026|06,(not set),(not set),(not set),schedule_appointment,137,103,120,65
+2026|06,(not set),(not set),(not set),scroll,314,165,0,104
+2026|06,(not set),(not set),(not set),session_start,796,796,0,575
+2026|06,(not set),(not set),(not set),user_engagement,651,331,0,210
+2026|06,(not set),(not set),(not set),view,42,9,0,26
+2026|06,(not set),(not set),(not set),why_pnh,33,20,0,12
+2026|06,Leads-Search-1,Ad group 1,functional medicine,first_visit,3,3,0,3
+2026|06,Leads-Search-1,Ad group 1,functional medicine,page_view,5,4,0,3
+2026|06,Leads-Search-1,Ad group 1,functional medicine,scroll,3,2,0,1
+2026|06,Leads-Search-1,Ad group 1,functional medicine,session_start,4,4,0,3
+2026|06,Leads-Search-1,Ad group 1,functional medicine,user_engagement,3,3,0,3
+2026|06,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,first_visit,1,1,0,1
+2026|06,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,page_view,1,1,0,1
+2026|06,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,session_start,1,1,0,1
+2026|06,Leads-Search-1,Ad group 1,holistic medicine Minneapolis,user_engagement,1,1,0,1
+2026|06,Leads-Search-1,Ad group 1,naturopathic doctor near me,page_view,1,1,0,1
+2026|06,Leads-Search-1,Ad group 1,naturopathic doctor near me,session_start,1,1,0,1
+2026|06,Leads-Search-1,Ad group 1,naturopathic doctor near me,user_engagement,1,1,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,dr haley panka,first_visit,1,1,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,dr haley panka,page_view,13,6,0,2
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,dr haley panka,schedule_appointment,3,2,3,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,dr haley panka,scroll,6,4,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,dr haley panka,session_start,6,6,0,2
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,dr haley panka,user_engagement,6,5,0,2
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,dr jacob panka,first_visit,4,4,0,4
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,dr jacob panka,page_view,5,5,0,4
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,dr jacob panka,session_start,6,6,0,4
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,dr jacob panka,user_engagement,2,2,0,2
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,haley panka,first_visit,1,1,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,haley panka,meet_dr__haley,1,1,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,haley panka,page_view,4,3,0,2
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,haley panka,scroll,3,2,0,2
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,haley panka,session_start,3,3,0,2
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,haley panka,user_engagement,4,1,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,jacob panka,first_visit,1,1,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,jacob panka,meet_dr__haley,1,1,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,jacob panka,meet_dr__jacob,2,2,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,jacob panka,page_view,5,2,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,jacob panka,scroll,1,1,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,jacob panka,session_start,2,2,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,jacob panka,user_engagement,4,1,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,first_visit,1,1,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,page_view,3,3,0,2
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,session_start,3,3,0,2
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,user_engagement,1,1,0,1
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,click,4,4,0,4
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,first_visit,17,17,0,17
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,meet_dr__haley,3,3,0,3
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,meet_dr__jacob,2,2,0,2
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,page_view,49,22,0,20
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,purchase,2,2,2,2
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,schedule_appointment,7,4,7,3
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,scroll,9,8,0,7
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,session_start,22,22,0,20
+2026|06,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,user_engagement,33,16,0,15
+2026|07,(not set),(not set),(not set),click,60,45,0,28
+2026|07,(not set),(not set),(not set),file_download,1,1,0,1
+2026|07,(not set),(not set),(not set),first_visit,645,645,0,644
+2026|07,(not set),(not set),(not set),form_start,17,17,0,17
+2026|07,(not set),(not set),(not set),form_submit,1,1,0,1
+2026|07,(not set),(not set),(not set),generate_lead,41,38,41,33
+2026|07,(not set),(not set),(not set),meet_dr__haley,33,31,0,29
+2026|07,(not set),(not set),(not set),meet_dr__jacob,23,21,0,16
+2026|07,(not set),(not set),(not set),page_view,1406,849,0,674
+2026|07,(not set),(not set),(not set),purchase,37,19,37,33
+2026|07,(not set),(not set),(not set),schedule_appointment,144,124,144,88
+2026|07,(not set),(not set),(not set),scroll,235,185,0,151
+2026|07,(not set),(not set),(not set),session_start,894,888,0,675
+2026|07,(not set),(not set),(not set),user_engagement,672,355,0,264
+2026|07,(not set),(not set),(not set),view,39,12,0,29
+2026|07,(not set),(not set),(not set),why_pnh,11,11,0,11
+2026|07,Leads-Search-1,(not set),(not set),first_visit,2,2,0,2
+2026|07,Leads-Search-1,(not set),(not set),page_view,2,2,0,2
+2026|07,Leads-Search-1,(not set),(not set),session_start,2,2,0,2
+2026|07,Leads-Search-1,Functional & Integrative Medicine,best functional doctors near me,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,best functional doctors near me,page_view,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,best functional doctors near me,session_start,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional doctor,first_visit,8,8,0,8
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional doctor,meet_dr__haley,5,4,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional doctor,meet_dr__jacob,2,2,0,2
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional doctor,page_view,20,9,0,8
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional doctor,scroll,3,2,0,2
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional doctor,session_start,9,9,0,8
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional doctor,user_engagement,21,7,0,6
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional integrative medicine near me,first_visit,3,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional integrative medicine near me,page_view,5,4,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional integrative medicine near me,session_start,4,4,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional integrative medicine near me,user_engagement,3,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical,generate_lead,1,1,1,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical,page_view,5,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical,session_start,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical,user_engagement,5,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical clinic,first_visit,3,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical clinic,meet_dr__haley,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical clinic,page_view,10,5,0,4
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical clinic,scroll,4,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical clinic,session_start,5,5,0,4
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical clinic,user_engagement,5,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical physician,click,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical physician,first_visit,4,4,0,4
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical physician,meet_dr__haley,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical physician,meet_dr__jacob,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical physician,page_view,25,4,0,4
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical physician,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical physician,scroll,7,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical physician,session_start,6,6,0,4
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medical physician,user_engagement,24,4,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine,click,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine,first_visit,16,16,0,16
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine,generate_lead,1,1,1,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine,meet_dr__haley,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine,meet_dr__jacob,2,2,0,2
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine,page_view,30,17,0,16
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine,schedule_appointment,4,4,4,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine,scroll,3,2,0,2
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine,session_start,17,17,0,16
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine,user_engagement,24,13,0,13
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors in my area,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors in my area,generate_lead,1,1,1,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors in my area,page_view,4,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors in my area,scroll,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors in my area,session_start,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors in my area,user_engagement,4,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,first_visit,7,7,0,7
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,meet_dr__haley,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,meet_dr__jacob,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,page_view,18,7,0,7
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,schedule_appointment,2,2,2,2
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,scroll,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,session_start,8,8,0,7
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,user_engagement,19,8,0,7
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,first_visit,7,7,0,7
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,meet_dr__jacob,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,page_view,11,9,0,8
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,scroll,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,session_start,9,9,0,8
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,user_engagement,8,6,0,6
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicines,first_visit,3,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicines,form_start,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicines,page_view,4,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicines,session_start,3,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,functional medicines,user_engagement,4,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated and functional medicine,first_visit,3,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated and functional medicine,page_view,8,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated and functional medicine,scroll,3,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated and functional medicine,session_start,3,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated and functional medicine,user_engagement,8,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated doctor,first_visit,3,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated doctor,meet_dr__haley,2,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated doctor,meet_dr__jacob,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated doctor,page_view,13,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated doctor,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated doctor,scroll,5,2,0,2
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated doctor,session_start,3,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated doctor,user_engagement,13,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrated doctor,why_pnh,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative doctor,first_visit,5,5,0,5
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative doctor,page_view,6,5,0,5
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative doctor,scroll,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative doctor,session_start,5,5,0,5
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative doctor,user_engagement,4,3,0,3
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative health near me,first_visit,2,2,0,2
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative health near me,page_view,5,2,0,2
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative health near me,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative health near me,session_start,2,2,0,2
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative health near me,user_engagement,6,2,0,2
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative medicine near me,first_visit,11,11,0,11
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative medicine near me,generate_lead,1,1,1,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative medicine near me,page_view,15,12,0,11
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative medicine near me,scroll,2,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative medicine near me,session_start,12,12,0,11
+2026|07,Leads-Search-1,Functional & Integrative Medicine,integrative medicine near me,user_engagement,12,8,0,8
+2026|07,Leads-Search-1,Functional & Integrative Medicine,natural functional doctor,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,natural functional doctor,page_view,2,2,0,1
+2026|07,Leads-Search-1,Functional & Integrative Medicine,natural functional doctor,session_start,2,2,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor eden prairie,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor eden prairie,page_view,3,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor eden prairie,scroll,1,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor eden prairie,session_start,1,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor eden prairie,user_engagement,2,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor edina,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor edina,page_view,13,3,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor edina,schedule_appointment,5,2,5,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor edina,scroll,5,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor edina,session_start,3,3,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor edina,user_engagement,9,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,click,1,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,first_visit,19,19,0,19
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,generate_lead,2,1,2,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,meet_dr__haley,2,2,0,2
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,meet_dr__jacob,1,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,page_view,48,21,0,19
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,schedule_appointment,2,2,2,2
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,scroll,7,5,0,5
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,session_start,23,23,0,19
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,user_engagement,45,19,0,17
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,natural medicine Minnesota,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,natural medicine Minnesota,meet_dr__jacob,1,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,natural medicine Minnesota,page_view,1,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,natural medicine Minnesota,session_start,1,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,click,1,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,first_visit,10,10,0,10
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,generate_lead,1,1,1,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,meet_dr__haley,5,5,0,5
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,meet_dr__jacob,1,1,0,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,page_view,24,12,0,10
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,scroll,4,4,0,3
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,session_start,12,12,0,10
+2026|07,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,user_engagement,18,7,0,6
+2026|07,Leads-Search-1,Men's Health,adrenal fatigue doctor near me,first_visit,3,3,0,3
+2026|07,Leads-Search-1,Men's Health,adrenal fatigue doctor near me,meet_dr__haley,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,adrenal fatigue doctor near me,page_view,11,3,0,3
+2026|07,Leads-Search-1,Men's Health,adrenal fatigue doctor near me,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Men's Health,adrenal fatigue doctor near me,session_start,3,3,0,3
+2026|07,Leads-Search-1,Men's Health,adrenal fatigue doctor near me,user_engagement,9,3,0,3
+2026|07,Leads-Search-1,Men's Health,adrenal fatigue doctor near me,why_pnh,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,gents specialist doctor near me,first_visit,3,3,0,3
+2026|07,Leads-Search-1,Men's Health,gents specialist doctor near me,page_view,4,3,0,3
+2026|07,Leads-Search-1,Men's Health,gents specialist doctor near me,schedule_appointment,2,2,2,2
+2026|07,Leads-Search-1,Men's Health,gents specialist doctor near me,scroll,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,gents specialist doctor near me,session_start,3,3,0,3
+2026|07,Leads-Search-1,Men's Health,gents specialist doctor near me,user_engagement,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,holistic doctor for men near me,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,holistic doctor for men near me,page_view,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,holistic doctor for men near me,scroll,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,holistic doctor for men near me,session_start,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,holistic doctor for men near me,user_engagement,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,male doctor near me,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,male doctor near me,page_view,2,1,0,1
+2026|07,Leads-Search-1,Men's Health,male doctor near me,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Men's Health,male doctor near me,session_start,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,male doctor near me,user_engagement,2,1,0,1
+2026|07,Leads-Search-1,Men's Health,male health doctors near me,first_visit,2,2,0,2
+2026|07,Leads-Search-1,Men's Health,male health doctors near me,page_view,3,2,0,2
+2026|07,Leads-Search-1,Men's Health,male health doctors near me,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Men's Health,male health doctors near me,scroll,2,1,0,1
+2026|07,Leads-Search-1,Men's Health,male health doctors near me,session_start,2,2,0,2
+2026|07,Leads-Search-1,Men's Health,male medical clinic near me,first_visit,2,2,0,2
+2026|07,Leads-Search-1,Men's Health,male medical clinic near me,page_view,3,2,0,2
+2026|07,Leads-Search-1,Men's Health,male medical clinic near me,session_start,2,2,0,2
+2026|07,Leads-Search-1,Men's Health,male medical clinic near me,user_engagement,2,1,0,1
+2026|07,Leads-Search-1,Men's Health,male primary care doctors near me,first_visit,2,2,0,2
+2026|07,Leads-Search-1,Men's Health,male primary care doctors near me,page_view,3,2,0,2
+2026|07,Leads-Search-1,Men's Health,male primary care doctors near me,session_start,2,2,0,2
+2026|07,Leads-Search-1,Men's Health,male primary care doctors near me,user_engagement,4,2,0,2
+2026|07,Leads-Search-1,Men's Health,men health clinic near me,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,men health clinic near me,page_view,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,men health clinic near me,session_start,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,men's health doctor near me,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,men's health doctor near me,page_view,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,men's health doctor near me,scroll,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,men's health doctor near me,session_start,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,men's health doctor near me,user_engagement,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,men's health naturopath,first_visit,6,6,0,6
+2026|07,Leads-Search-1,Men's Health,men's health naturopath,page_view,6,6,0,6
+2026|07,Leads-Search-1,Men's Health,men's health naturopath,scroll,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,men's health naturopath,session_start,6,6,0,6
+2026|07,Leads-Search-1,Men's Health,men's specialist doctor near me,first_visit,3,3,0,3
+2026|07,Leads-Search-1,Men's Health,men's specialist doctor near me,page_view,3,3,0,3
+2026|07,Leads-Search-1,Men's Health,men's specialist doctor near me,scroll,2,2,0,2
+2026|07,Leads-Search-1,Men's Health,men's specialist doctor near me,session_start,3,3,0,3
+2026|07,Leads-Search-1,Men's Health,naturopath for erectile dysfunction,first_visit,4,4,0,4
+2026|07,Leads-Search-1,Men's Health,naturopath for erectile dysfunction,page_view,4,4,0,4
+2026|07,Leads-Search-1,Men's Health,naturopath for erectile dysfunction,session_start,4,4,0,4
+2026|07,Leads-Search-1,Men's Health,naturopath for erectile dysfunction,user_engagement,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,naturopath for men,first_visit,4,4,0,4
+2026|07,Leads-Search-1,Men's Health,naturopath for men,page_view,7,4,0,4
+2026|07,Leads-Search-1,Men's Health,naturopath for men,scroll,2,1,0,1
+2026|07,Leads-Search-1,Men's Health,naturopath for men,session_start,4,4,0,4
+2026|07,Leads-Search-1,Men's Health,naturopath for men,user_engagement,7,2,0,2
+2026|07,Leads-Search-1,Men's Health,naturopath for prostate,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,naturopath for prostate,page_view,1,1,0,1
+2026|07,Leads-Search-1,Men's Health,naturopath for prostate,session_start,1,1,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,alternative medicine doctors near me,first_visit,3,3,0,3
+2026|07,Leads-Search-1,Naturopath Near Me — Core,alternative medicine doctors near me,generate_lead,3,3,3,2
+2026|07,Leads-Search-1,Naturopath Near Me — Core,alternative medicine doctors near me,page_view,18,6,0,3
+2026|07,Leads-Search-1,Naturopath Near Me — Core,alternative medicine doctors near me,schedule_appointment,3,3,3,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,alternative medicine doctors near me,scroll,2,2,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,alternative medicine doctors near me,session_start,6,6,0,3
+2026|07,Leads-Search-1,Naturopath Near Me — Core,alternative medicine doctors near me,user_engagement,16,6,0,3
+2026|07,Leads-Search-1,Naturopath Near Me — Core,holistic dr near me,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,holistic dr near me,page_view,6,2,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,holistic dr near me,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,holistic dr near me,scroll,1,1,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,holistic dr near me,session_start,2,2,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,holistic dr near me,user_engagement,3,1,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,natural doctor near me,first_visit,9,9,0,9
+2026|07,Leads-Search-1,Naturopath Near Me — Core,natural doctor near me,meet_dr__haley,1,1,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,natural doctor near me,page_view,25,10,0,9
+2026|07,Leads-Search-1,Naturopath Near Me — Core,natural doctor near me,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,natural doctor near me,scroll,1,1,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,natural doctor near me,session_start,10,10,0,9
+2026|07,Leads-Search-1,Naturopath Near Me — Core,natural doctor near me,user_engagement,23,7,0,7
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,first_visit,4,4,0,4
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,form_start,1,1,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,meet_dr__haley,1,1,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,meet_dr__jacob,1,1,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,page_view,15,5,0,4
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,scroll,4,3,0,3
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,session_start,5,5,0,4
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,user_engagement,12,3,0,3
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,why_pnh,1,1,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic dr near me,first_visit,2,2,0,2
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic dr near me,page_view,2,2,0,2
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic dr near me,session_start,2,2,0,2
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic dr near me,user_engagement,2,2,0,2
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,first_visit,7,7,0,7
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,generate_lead,2,2,2,2
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,page_view,30,13,0,7
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,schedule_appointment,4,4,4,3
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,scroll,4,3,0,3
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,session_start,13,13,0,7
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,user_engagement,19,6,0,6
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,why_pnh,1,1,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopaths in my area,first_visit,7,7,0,7
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopaths in my area,page_view,13,7,0,7
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopaths in my area,scroll,1,1,0,1
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopaths in my area,session_start,7,7,0,7
+2026|07,Leads-Search-1,Naturopath Near Me — Core,naturopaths in my area,user_engagement,15,7,0,7
+2026|07,Leads-Search-1,Pediatrics,holistic pediatricians near me,first_visit,15,15,0,15
+2026|07,Leads-Search-1,Pediatrics,holistic pediatricians near me,generate_lead,1,1,1,1
+2026|07,Leads-Search-1,Pediatrics,holistic pediatricians near me,meet_dr__haley,3,2,0,2
+2026|07,Leads-Search-1,Pediatrics,holistic pediatricians near me,meet_dr__jacob,2,2,0,2
+2026|07,Leads-Search-1,Pediatrics,holistic pediatricians near me,page_view,35,16,0,15
+2026|07,Leads-Search-1,Pediatrics,holistic pediatricians near me,schedule_appointment,3,3,3,3
+2026|07,Leads-Search-1,Pediatrics,holistic pediatricians near me,scroll,10,10,0,9
+2026|07,Leads-Search-1,Pediatrics,holistic pediatricians near me,session_start,16,16,0,15
+2026|07,Leads-Search-1,Pediatrics,holistic pediatricians near me,user_engagement,22,11,0,11
+2026|07,Leads-Search-1,Pediatrics,pediatric holistic doctor,first_visit,2,2,0,2
+2026|07,Leads-Search-1,Pediatrics,pediatric holistic doctor,page_view,10,6,0,3
+2026|07,Leads-Search-1,Pediatrics,pediatric holistic doctor,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Pediatrics,pediatric holistic doctor,scroll,1,1,0,1
+2026|07,Leads-Search-1,Pediatrics,pediatric holistic doctor,session_start,6,6,0,3
+2026|07,Leads-Search-1,Pediatrics,pediatric holistic doctor,user_engagement,4,2,0,2
+2026|07,Leads-Search-1,Pediatrics,pediatric holistic doctor,why_pnh,1,1,0,1
+2026|07,Leads-Search-1,Pediatrics,pediatric naturopath near me,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Pediatrics,pediatric naturopath near me,meet_dr__haley,1,1,0,1
+2026|07,Leads-Search-1,Pediatrics,pediatric naturopath near me,meet_dr__jacob,1,1,0,1
+2026|07,Leads-Search-1,Pediatrics,pediatric naturopath near me,page_view,5,1,0,1
+2026|07,Leads-Search-1,Pediatrics,pediatric naturopath near me,scroll,2,1,0,1
+2026|07,Leads-Search-1,Pediatrics,pediatric naturopath near me,session_start,1,1,0,1
+2026|07,Leads-Search-1,Pediatrics,pediatric naturopath near me,user_engagement,5,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,Hashimoto's naturopath,first_visit,2,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,Hashimoto's naturopath,meet_dr__haley,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,Hashimoto's naturopath,page_view,4,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,Hashimoto's naturopath,schedule_appointment,2,2,2,2
+2026|07,Leads-Search-1,Women's Health & Hormones,Hashimoto's naturopath,scroll,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,Hashimoto's naturopath,session_start,2,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,Hashimoto's naturopath,user_engagement,4,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,female naturopath near me,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,female naturopath near me,page_view,8,2,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,female naturopath near me,schedule_appointment,2,2,2,1
+2026|07,Leads-Search-1,Women's Health & Hormones,female naturopath near me,scroll,2,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,female naturopath near me,session_start,2,2,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,female naturopath near me,user_engagement,6,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,click,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,first_visit,5,5,0,5
+2026|07,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,meet_dr__haley,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,meet_dr__jacob,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,page_view,15,6,0,6
+2026|07,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,schedule_appointment,2,2,2,2
+2026|07,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,scroll,5,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,session_start,6,6,0,6
+2026|07,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,user_engagement,11,3,0,3
+2026|07,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,why_pnh,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,first_visit,4,4,0,4
+2026|07,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,generate_lead,1,1,1,1
+2026|07,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,page_view,7,4,0,4
+2026|07,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,scroll,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,session_start,4,4,0,4
+2026|07,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,user_engagement,7,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,why_pnh,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,holistic hormone doctor near me,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,holistic hormone doctor near me,page_view,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,holistic hormone doctor near me,session_start,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,click,3,3,0,3
+2026|07,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,first_visit,9,9,0,9
+2026|07,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,generate_lead,2,1,2,1
+2026|07,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,meet_dr__haley,2,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,page_view,30,11,0,10
+2026|07,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,purchase,1,1,1,1
+2026|07,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,schedule_appointment,3,3,3,2
+2026|07,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,scroll,10,6,0,5
+2026|07,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,session_start,11,11,0,10
+2026|07,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,user_engagement,23,7,0,7
+2026|07,Leads-Search-1,Women's Health & Hormones,natural help for menopause,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,natural help for menopause,page_view,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,natural help for menopause,session_start,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,natural help for menopause,user_engagement,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for fertility,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for fertility,page_view,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for fertility,session_start,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for fertility,user_engagement,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for hormone imbalance,first_visit,3,3,0,3
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for hormone imbalance,page_view,5,3,0,3
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for hormone imbalance,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for hormone imbalance,session_start,3,3,0,3
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for hormone imbalance,user_engagement,4,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,first_visit,8,8,0,8
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,meet_dr__haley,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,meet_dr__jacob,2,2,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,page_view,20,10,0,9
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,schedule_appointment,1,1,1,1
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,scroll,5,5,0,5
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,session_start,11,11,0,9
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,user_engagement,18,6,0,6
+2026|07,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,why_pnh,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,women's health naturopath,click,2,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,women's health naturopath,first_visit,18,18,0,18
+2026|07,Leads-Search-1,Women's Health & Hormones,women's health naturopath,meet_dr__haley,2,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,women's health naturopath,meet_dr__jacob,2,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,women's health naturopath,page_view,42,20,0,19
+2026|07,Leads-Search-1,Women's Health & Hormones,women's health naturopath,schedule_appointment,4,4,4,4
+2026|07,Leads-Search-1,Women's Health & Hormones,women's health naturopath,scroll,7,4,0,4
+2026|07,Leads-Search-1,Women's Health & Hormones,women's health naturopath,session_start,20,20,0,19
+2026|07,Leads-Search-1,Women's Health & Hormones,women's health naturopath,user_engagement,38,15,0,15
+2026|07,Leads-Search-1,Women's Health & Hormones,women's health naturopath,why_pnh,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,women's hormone specialist near me,first_visit,2,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,women's hormone specialist near me,page_view,3,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,women's hormone specialist near me,session_start,2,2,0,2
+2026|07,Leads-Search-1,Women's Health & Hormones,women's naturopath near me,first_visit,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,women's naturopath near me,page_view,1,1,0,1
+2026|07,Leads-Search-1,Women's Health & Hormones,women's naturopath near me,session_start,1,1,0,1
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,dr haley panka,first_visit,1,1,0,1
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,dr haley panka,meet_dr__haley,2,2,0,2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,dr haley panka,page_view,6,2,0,2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,dr haley panka,schedule_appointment,1,1,1,1
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,dr haley panka,session_start,2,2,0,2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,dr haley panka,user_engagement,6,2,0,2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,haley panka,first_visit,1,1,0,1
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,haley panka,meet_dr__haley,1,1,0,1
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,haley panka,page_view,4,2,0,2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,haley panka,session_start,2,2,0,2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,haley panka,user_engagement,3,2,0,2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,jacob panka,first_visit,2,2,0,2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,jacob panka,page_view,4,3,0,3
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,jacob panka,schedule_appointment,1,1,1,1
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,jacob panka,session_start,4,4,0,3
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,jacob panka,user_engagement,1,1,0,1
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,first_visit,2,2,0,2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,page_view,4,3,0,3
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,purchase,1,1,1,1
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,schedule_appointment,1,1,1,1
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,session_start,3,3,0,3
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka health,user_engagement,1,1,0,1
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,click,4,4,0,4
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,first_visit,16,16,0,16
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,form_start,1,1,0,1
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,generate_lead,1,1,1,1
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,meet_dr__haley,2,2,0,2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,meet_dr__jacob,3,2,0,2
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,page_view,52,22,0,18
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,schedule_appointment,7,5,7,4
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,scroll,11,7,0,7
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,session_start,25,25,0,19
+2026|07,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,user_engagement,40,19,0,15
+2026|08,(not set),(not set),(not set),click,42,36,0,27
+2026|08,(not set),(not set),(not set),first_visit,533,532,0,531
+2026|08,(not set),(not set),(not set),form_start,12,12,0,12
+2026|08,(not set),(not set),(not set),generate_lead,29,28,29,26
+2026|08,(not set),(not set),(not set),meet_dr__haley,42,37,0,32
+2026|08,(not set),(not set),(not set),meet_dr__jacob,29,28,0,20
+2026|08,(not set),(not set),(not set),page_view,1277,708,0,564
+2026|08,(not set),(not set),(not set),purchase,30,8,30,24
+2026|08,(not set),(not set),(not set),schedule_appointment,158,131,158,92
+2026|08,(not set),(not set),(not set),scroll,210,155,0,125
+2026|08,(not set),(not set),(not set),session_start,735,735,0,566
+2026|08,(not set),(not set),(not set),user_engagement,675,383,0,312
+2026|08,(not set),(not set),(not set),view,40,10,0,33
+2026|08,(not set),(not set),(not set),why_pnh,15,13,0,11
+2026|08,Leads-Search-1,(not set),(not set),first_visit,6,6,0,6
+2026|08,Leads-Search-1,(not set),(not set),page_view,6,6,0,6
+2026|08,Leads-Search-1,(not set),(not set),session_start,6,6,0,6
+2026|08,Leads-Search-1,(not set),(not set),user_engagement,2,2,0,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional doctor in my area,first_visit,3,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional doctor in my area,page_view,4,4,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional doctor in my area,schedule_appointment,1,1,1,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional doctor in my area,session_start,4,4,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional doctor in my area,user_engagement,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional holistic medicine,first_visit,3,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional holistic medicine,generate_lead,1,1,1,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional holistic medicine,meet_dr__haley,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional holistic medicine,meet_dr__jacob,2,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional holistic medicine,page_view,11,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional holistic medicine,scroll,2,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional holistic medicine,session_start,3,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional holistic medicine,user_engagement,14,2,0,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional integrative doctor,first_visit,8,8,0,8
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional integrative doctor,meet_dr__haley,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional integrative doctor,page_view,11,8,0,8
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional integrative doctor,scroll,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional integrative doctor,session_start,8,8,0,8
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional integrative doctor,user_engagement,6,4,0,4
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional integrative medicine near me,first_visit,2,2,0,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional integrative medicine near me,page_view,4,2,0,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional integrative medicine near me,schedule_appointment,1,1,1,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional integrative medicine near me,scroll,2,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional integrative medicine near me,session_start,2,2,0,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional integrative medicine near me,user_engagement,3,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medical doctors,first_visit,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medical doctors,page_view,2,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medical doctors,session_start,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medical doctors,user_engagement,2,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine,first_visit,29,29,0,29
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine,meet_dr__haley,5,4,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine,page_view,55,32,0,30
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine,schedule_appointment,2,2,2,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine,scroll,11,7,0,7
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine,session_start,33,33,0,30
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine,user_engagement,41,22,0,19
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine,why_pnh,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine clinic near me,first_visit,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine clinic near me,page_view,4,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine clinic near me,session_start,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine clinic near me,user_engagement,3,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,first_visit,7,7,0,7
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,page_view,11,7,0,7
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,session_start,8,8,0,7
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,user_engagement,10,6,0,5
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,first_visit,23,22,0,22
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,meet_dr__haley,7,4,0,4
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,meet_dr__jacob,4,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,page_view,57,25,0,23
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,schedule_appointment,3,2,3,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,scroll,9,7,0,7
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,session_start,27,26,0,23
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,user_engagement,43,17,0,17
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine practitioner,first_visit,3,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine practitioner,page_view,3,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine practitioner,session_start,3,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,functional medicine practitioner,user_engagement,2,2,0,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrated doctor,first_visit,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrated doctor,page_view,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrated doctor,session_start,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative health near me,first_visit,2,2,0,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative health near me,page_view,2,2,0,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative health near me,session_start,2,2,0,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative health near me,user_engagement,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine doctors in my area,first_visit,6,6,0,6
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine doctors in my area,meet_dr__haley,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine doctors in my area,meet_dr__jacob,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine doctors in my area,page_view,13,8,0,6
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine doctors in my area,scroll,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine doctors in my area,session_start,8,8,0,6
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine doctors in my area,user_engagement,5,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine near me,first_visit,5,5,0,5
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine near me,meet_dr__haley,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine near me,meet_dr__jacob,2,2,0,2
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine near me,page_view,7,5,0,5
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine near me,session_start,5,5,0,5
+2026|08,Leads-Search-1,Functional & Integrative Medicine,integrative medicine near me,user_engagement,7,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,natural functional doctor,first_visit,3,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,natural functional doctor,page_view,5,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,natural functional doctor,scroll,1,1,0,1
+2026|08,Leads-Search-1,Functional & Integrative Medicine,natural functional doctor,session_start,3,3,0,3
+2026|08,Leads-Search-1,Functional & Integrative Medicine,natural functional doctor,user_engagement,2,2,0,2
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor eden prairie,session_start,1,1,0,1
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor eden prairie,user_engagement,1,1,0,1
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor minnetonka,first_visit,2,2,0,2
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor minnetonka,page_view,9,2,0,2
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor minnetonka,schedule_appointment,1,1,1,1
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor minnetonka,scroll,2,1,0,1
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor minnetonka,session_start,2,2,0,2
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,functional medicine doctor minnetonka,user_engagement,14,2,0,2
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,first_visit,6,6,0,6
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,generate_lead,1,1,1,1
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,meet_dr__haley,2,2,0,2
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,page_view,20,7,0,7
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,schedule_appointment,1,1,1,1
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,scroll,5,3,0,3
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,session_start,7,7,0,7
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,user_engagement,20,7,0,7
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,why_pnh,1,1,0,1
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,first_visit,2,2,0,2
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,meet_dr__haley,1,1,0,1
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,page_view,5,2,0,2
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,scroll,2,2,0,2
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,session_start,2,2,0,2
+2026|08,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,naturopathic doctor Minneapolis,user_engagement,7,2,0,2
+2026|08,Leads-Search-1,Men's Health,adrenal fatigue doctor near me,first_visit,4,4,0,4
+2026|08,Leads-Search-1,Men's Health,adrenal fatigue doctor near me,page_view,5,5,0,4
+2026|08,Leads-Search-1,Men's Health,adrenal fatigue doctor near me,schedule_appointment,1,1,1,1
+2026|08,Leads-Search-1,Men's Health,adrenal fatigue doctor near me,session_start,5,5,0,4
+2026|08,Leads-Search-1,Men's Health,holistic doctor for men near me,first_visit,1,1,0,1
+2026|08,Leads-Search-1,Men's Health,holistic doctor for men near me,page_view,1,1,0,1
+2026|08,Leads-Search-1,Men's Health,holistic doctor for men near me,session_start,1,1,0,1
+2026|08,Leads-Search-1,Men's Health,male medical clinic near me,first_visit,2,2,0,2
+2026|08,Leads-Search-1,Men's Health,male medical clinic near me,page_view,2,2,0,2
+2026|08,Leads-Search-1,Men's Health,male medical clinic near me,session_start,2,2,0,2
+2026|08,Leads-Search-1,Men's Health,men's health naturopath,first_visit,2,2,0,2
+2026|08,Leads-Search-1,Men's Health,men's health naturopath,page_view,2,2,0,2
+2026|08,Leads-Search-1,Men's Health,men's health naturopath,session_start,2,2,0,2
+2026|08,Leads-Search-1,Men's Health,men's health naturopath,user_engagement,1,1,0,1
+2026|08,Leads-Search-1,Men's Health,naturopath for low testosterone,first_visit,2,2,0,2
+2026|08,Leads-Search-1,Men's Health,naturopath for low testosterone,page_view,2,2,0,2
+2026|08,Leads-Search-1,Men's Health,naturopath for low testosterone,scroll,1,1,0,1
+2026|08,Leads-Search-1,Men's Health,naturopath for low testosterone,session_start,2,2,0,2
+2026|08,Leads-Search-1,Men's Health,naturopath for men,first_visit,11,11,0,11
+2026|08,Leads-Search-1,Men's Health,naturopath for men,meet_dr__haley,1,1,0,1
+2026|08,Leads-Search-1,Men's Health,naturopath for men,page_view,12,11,0,11
+2026|08,Leads-Search-1,Men's Health,naturopath for men,schedule_appointment,1,1,1,1
+2026|08,Leads-Search-1,Men's Health,naturopath for men,scroll,1,1,0,1
+2026|08,Leads-Search-1,Men's Health,naturopath for men,session_start,11,11,0,11
+2026|08,Leads-Search-1,Men's Health,naturopath for men,user_engagement,4,2,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,alternative medicine doctors near me,first_visit,1,1,0,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,alternative medicine doctors near me,page_view,1,1,0,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,alternative medicine doctors near me,session_start,1,1,0,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,first_visit,8,8,0,8
+2026|08,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,page_view,11,8,0,8
+2026|08,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,schedule_appointment,1,1,1,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,scroll,2,2,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,session_start,8,8,0,8
+2026|08,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,user_engagement,9,6,0,6
+2026|08,Leads-Search-1,Naturopath Near Me — Core,holistic dr near me,first_visit,2,2,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,holistic dr near me,page_view,3,2,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,holistic dr near me,session_start,2,2,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,holistic dr near me,user_engagement,1,1,0,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,natural practitioner near me,first_visit,2,2,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,natural practitioner near me,page_view,6,2,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,natural practitioner near me,scroll,1,1,0,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,natural practitioner near me,session_start,2,2,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,natural practitioner near me,user_engagement,6,1,0,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,first_visit,4,4,0,4
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,page_view,7,5,0,5
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,session_start,5,5,0,5
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,user_engagement,5,4,0,4
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,page_view,11,4,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,schedule_appointment,1,1,1,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,scroll,2,2,0,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,session_start,4,4,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,user_engagement,9,2,0,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopathic practitioner near me,why_pnh,2,1,0,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopaths in my area,first_visit,2,2,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopaths in my area,meet_dr__haley,1,1,0,1
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopaths in my area,page_view,5,3,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopaths in my area,scroll,2,2,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopaths in my area,session_start,4,4,0,2
+2026|08,Leads-Search-1,Naturopath Near Me — Core,naturopaths in my area,user_engagement,5,4,0,2
+2026|08,Leads-Search-1,Pediatrics,pediatric holistic doctor,click,1,1,0,1
+2026|08,Leads-Search-1,Pediatrics,pediatric holistic doctor,first_visit,11,11,0,11
+2026|08,Leads-Search-1,Pediatrics,pediatric holistic doctor,generate_lead,1,1,1,1
+2026|08,Leads-Search-1,Pediatrics,pediatric holistic doctor,meet_dr__jacob,1,1,0,1
+2026|08,Leads-Search-1,Pediatrics,pediatric holistic doctor,page_view,22,11,0,11
+2026|08,Leads-Search-1,Pediatrics,pediatric holistic doctor,scroll,8,5,0,5
+2026|08,Leads-Search-1,Pediatrics,pediatric holistic doctor,session_start,11,11,0,11
+2026|08,Leads-Search-1,Pediatrics,pediatric holistic doctor,user_engagement,18,9,0,9
+2026|08,Leads-Search-1,Pediatrics,pediatric holistic doctor,why_pnh,1,1,0,1
+2026|08,Leads-Search-1,Pediatrics,pediatric naturopath near me,first_visit,3,3,0,3
+2026|08,Leads-Search-1,Pediatrics,pediatric naturopath near me,page_view,6,3,0,3
+2026|08,Leads-Search-1,Pediatrics,pediatric naturopath near me,schedule_appointment,2,2,2,2
+2026|08,Leads-Search-1,Pediatrics,pediatric naturopath near me,scroll,2,1,0,1
+2026|08,Leads-Search-1,Pediatrics,pediatric naturopath near me,session_start,3,3,0,3
+2026|08,Leads-Search-1,Pediatrics,pediatric naturopath near me,user_engagement,6,3,0,3
+2026|08,Leads-Search-1,Women's Health & Hormones,endometriosis specialist near me,first_visit,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,endometriosis specialist near me,page_view,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,endometriosis specialist near me,session_start,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,endometriosis specialist near me,user_engagement,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,female naturopath,first_visit,5,5,0,5
+2026|08,Leads-Search-1,Women's Health & Hormones,female naturopath,page_view,6,6,0,5
+2026|08,Leads-Search-1,Women's Health & Hormones,female naturopath,scroll,2,2,0,2
+2026|08,Leads-Search-1,Women's Health & Hormones,female naturopath,session_start,6,6,0,5
+2026|08,Leads-Search-1,Women's Health & Hormones,female naturopath,user_engagement,2,2,0,2
+2026|08,Leads-Search-1,Women's Health & Hormones,female naturopath near me,first_visit,6,6,0,6
+2026|08,Leads-Search-1,Women's Health & Hormones,female naturopath near me,meet_dr__jacob,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,female naturopath near me,page_view,8,6,0,6
+2026|08,Leads-Search-1,Women's Health & Hormones,female naturopath near me,scroll,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,female naturopath near me,session_start,6,6,0,6
+2026|08,Leads-Search-1,Women's Health & Hormones,female naturopath near me,user_engagement,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,first_visit,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,page_view,2,2,0,2
+2026|08,Leads-Search-1,Women's Health & Hormones,fertility naturopath near me,session_start,2,2,0,2
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,first_visit,14,14,0,13
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,meet_dr__haley,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,meet_dr__jacob,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,page_view,25,16,0,13
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,scroll,5,4,0,3
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,session_start,16,16,0,13
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,user_engagement,14,8,0,8
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine hormones,first_visit,3,3,0,3
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine hormones,meet_dr__haley,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine hormones,meet_dr__jacob,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine hormones,page_view,6,4,0,3
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine hormones,scroll,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine hormones,session_start,4,4,0,3
+2026|08,Leads-Search-1,Women's Health & Hormones,functional medicine hormones,user_engagement,4,2,0,2
+2026|08,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,first_visit,10,10,0,10
+2026|08,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,generate_lead,1,1,1,1
+2026|08,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,page_view,13,11,0,10
+2026|08,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,schedule_appointment,1,1,1,1
+2026|08,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,scroll,2,2,0,2
+2026|08,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,session_start,12,12,0,10
+2026|08,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,user_engagement,7,6,0,6
+2026|08,Leads-Search-1,Women's Health & Hormones,natural help for menopause,first_visit,3,3,0,3
+2026|08,Leads-Search-1,Women's Health & Hormones,natural help for menopause,page_view,3,3,0,3
+2026|08,Leads-Search-1,Women's Health & Hormones,natural help for menopause,session_start,3,3,0,3
+2026|08,Leads-Search-1,Women's Health & Hormones,natural help for menopause,user_engagement,3,3,0,3
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for endometriosis,page_view,3,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for endometriosis,scroll,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for endometriosis,session_start,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for endometriosis,user_engagement,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for fertility,first_visit,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for fertility,page_view,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for fertility,session_start,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for hormone imbalance,first_visit,8,8,0,8
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for hormone imbalance,meet_dr__haley,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for hormone imbalance,meet_dr__jacob,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for hormone imbalance,page_view,12,8,0,8
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for hormone imbalance,schedule_appointment,1,1,1,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for hormone imbalance,session_start,8,8,0,8
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for hormone imbalance,user_engagement,11,6,0,6
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for hormones,first_visit,4,4,0,4
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for hormones,page_view,4,4,0,4
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for hormones,session_start,4,4,0,4
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for hormones,user_engagement,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,first_visit,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,generate_lead,2,2,2,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,page_view,3,2,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,session_start,2,2,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,naturopath for women's health,user_engagement,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,pcos specialist near me,first_visit,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,pcos specialist near me,meet_dr__haley,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,pcos specialist near me,page_view,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,pcos specialist near me,session_start,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,pcos specialist near me,user_engagement,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,perimenopause doctor near me,first_visit,2,2,0,2
+2026|08,Leads-Search-1,Women's Health & Hormones,perimenopause doctor near me,page_view,3,2,0,2
+2026|08,Leads-Search-1,Women's Health & Hormones,perimenopause doctor near me,session_start,2,2,0,2
+2026|08,Leads-Search-1,Women's Health & Hormones,perimenopause doctor near me,user_engagement,3,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,women's health naturopath,click,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,women's health naturopath,first_visit,16,16,0,16
+2026|08,Leads-Search-1,Women's Health & Hormones,women's health naturopath,generate_lead,1,1,1,1
+2026|08,Leads-Search-1,Women's Health & Hormones,women's health naturopath,meet_dr__haley,4,3,0,3
+2026|08,Leads-Search-1,Women's Health & Hormones,women's health naturopath,page_view,26,16,0,16
+2026|08,Leads-Search-1,Women's Health & Hormones,women's health naturopath,schedule_appointment,2,2,2,2
+2026|08,Leads-Search-1,Women's Health & Hormones,women's health naturopath,scroll,3,3,0,3
+2026|08,Leads-Search-1,Women's Health & Hormones,women's health naturopath,session_start,16,16,0,16
+2026|08,Leads-Search-1,Women's Health & Hormones,women's health naturopath,user_engagement,25,12,0,12
+2026|08,Leads-Search-1,Women's Health & Hormones,women's hormone specialist near me,first_visit,8,8,0,8
+2026|08,Leads-Search-1,Women's Health & Hormones,women's hormone specialist near me,meet_dr__jacob,1,1,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,women's hormone specialist near me,page_view,17,9,0,8
+2026|08,Leads-Search-1,Women's Health & Hormones,women's hormone specialist near me,schedule_appointment,4,2,4,2
+2026|08,Leads-Search-1,Women's Health & Hormones,women's hormone specialist near me,scroll,2,2,0,1
+2026|08,Leads-Search-1,Women's Health & Hormones,women's hormone specialist near me,session_start,9,9,0,8
+2026|08,Leads-Search-1,Women's Health & Hormones,women's hormone specialist near me,user_engagement,13,6,0,5
+2026|08,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,first_visit,1,1,0,1
+2026|08,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,page_view,1,1,0,1
+2026|08,PNHdefense-Website traffic-Search-2,Ad group 1,panka natural health,session_start,1,1,0,1
+2026|09,(not set),(not set),(not set),click,2,2,0,2
+2026|09,(not set),(not set),(not set),first_visit,90,90,0,90
+2026|09,(not set),(not set),(not set),form_start,2,2,0,2
+2026|09,(not set),(not set),(not set),generate_lead,10,6,10,6
+2026|09,(not set),(not set),(not set),meet_dr__haley,12,10,0,9
+2026|09,(not set),(not set),(not set),meet_dr__jacob,7,5,0,5
+2026|09,(not set),(not set),(not set),page_view,227,126,0,99
+2026|09,(not set),(not set),(not set),purchase,6,1,6,6
+2026|09,(not set),(not set),(not set),schedule_appointment,20,19,20,17
+2026|09,(not set),(not set),(not set),scroll,16,13,0,12
+2026|09,(not set),(not set),(not set),session_start,133,132,0,100
+2026|09,(not set),(not set),(not set),user_engagement,139,67,0,59
+2026|09,(not set),(not set),(not set),view,8,1,0,7
+2026|09,(not set),(not set),(not set),why_pnh,7,6,0,3
+2026|09,Leads-Search-1,(not set),(not set),first_visit,16,16,0,16
+2026|09,Leads-Search-1,(not set),(not set),meet_dr__haley,1,1,0,1
+2026|09,Leads-Search-1,(not set),(not set),page_view,25,16,0,16
+2026|09,Leads-Search-1,(not set),(not set),schedule_appointment,1,1,1,1
+2026|09,Leads-Search-1,(not set),(not set),scroll,1,1,0,1
+2026|09,Leads-Search-1,(not set),(not set),session_start,16,16,0,16
+2026|09,Leads-Search-1,(not set),(not set),user_engagement,19,9,0,9
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine,first_visit,5,5,0,5
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine,page_view,8,5,0,5
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine,scroll,1,1,0,1
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine,session_start,5,5,0,5
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine,user_engagement,5,3,0,3
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,first_visit,1,1,0,1
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,page_view,2,2,0,1
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine doctors near me,session_start,2,2,0,1
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,first_visit,2,2,0,2
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,generate_lead,1,1,1,1
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,meet_dr__haley,1,1,0,1
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,page_view,10,2,0,2
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,schedule_appointment,1,1,1,1
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,session_start,2,2,0,2
+2026|09,Leads-Search-1,Functional & Integrative Medicine,functional medicine near me,user_engagement,9,2,0,2
+2026|09,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,first_visit,1,1,0,1
+2026|09,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,page_view,1,1,0,1
+2026|09,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,session_start,1,1,0,1
+2026|09,Leads-Search-1,Geo-Qualified — Hopkins & West Metro,holistic medicine Minneapolis,user_engagement,1,1,0,1
+2026|09,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,first_visit,1,1,0,1
+2026|09,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,meet_dr__haley,1,1,0,1
+2026|09,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,meet_dr__jacob,1,1,0,1
+2026|09,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,page_view,5,1,0,1
+2026|09,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,scroll,3,1,0,1
+2026|09,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,session_start,1,1,0,1
+2026|09,Leads-Search-1,Naturopath Near Me — Core,alternative medicine near me,user_engagement,5,1,0,1
+2026|09,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,first_visit,1,1,0,1
+2026|09,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,page_view,1,1,0,1
+2026|09,Leads-Search-1,Naturopath Near Me — Core,naturopathic doctor near me,session_start,1,1,0,1
+2026|09,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,first_visit,1,1,0,1
+2026|09,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,page_view,1,1,0,1
+2026|09,Leads-Search-1,Women's Health & Hormones,functional medicine for hormones,session_start,1,1,0,1
+2026|09,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,first_visit,3,3,0,3
+2026|09,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,page_view,3,3,0,3
+2026|09,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,session_start,3,3,0,3
+2026|09,Leads-Search-1,Women's Health & Hormones,hormone doctor near me,user_engagement,1,1,0,1
+2026|09,Leads-Search-1,Women's Health & Hormones,women's health naturopath,first_visit,2,2,0,2
+2026|09,Leads-Search-1,Women's Health & Hormones,women's health naturopath,page_view,3,2,0,2
+2026|09,Leads-Search-1,Women's Health & Hormones,women's health naturopath,scroll,1,1,0,1
+2026|09,Leads-Search-1,Women's Health & Hormones,women's health naturopath,session_start,2,2,0,2
+2026|09,Leads-Search-1,Women's Health & Hormones,women's health naturopath,user_engagement,4,2,0,2
+2026|09,Leads-Search-1,Women's Health & Hormones,women's health naturopath,why_pnh,1,1,0,1

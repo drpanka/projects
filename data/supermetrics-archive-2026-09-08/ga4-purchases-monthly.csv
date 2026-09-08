@@ -1,0 +1,75 @@
+yearMonth,sessionSourceMedium,sessionDefaultChannelGrouping,eventCount,purchaseRevenue,totalRevenue,transactions,ecommercePurchases
+2023|12,(direct) / (none),Direct,3,0.0,0.0,0,3
+2024|01,(not set),Unassigned,8,975.0,975.0,8,8
+2024|02,(direct) / (none),Direct,1,0.0,0.0,0,1
+2024|02,(not set),Unassigned,22,3785.0,3785.0,22,22
+2024|03,(not set),Unassigned,24,4340.0,4340.0,24,24
+2024|04,(not set),Unassigned,12,1435.0,1435.0,12,12
+2024|05,(direct) / (none),Direct,1,0.0,0.0,0,1
+2024|05,(not set),Unassigned,16,3030.0,3030.0,16,16
+2024|06,(not set),Unassigned,21,2565.0,2565.0,21,21
+2024|07,(direct) / (none),Direct,1,0.0,0.0,0,1
+2024|07,(not set),Unassigned,22,3060.0,3060.0,22,22
+2024|08,(not set),Unassigned,10,1180.0,1180.0,10,10
+2024|09,(direct) / (none),Direct,1,0.0,0.0,0,1
+2024|09,(not set),Unassigned,13,2445.0,2445.0,13,13
+2024|09,google / organic,Organic Search,1,0.0,0.0,0,1
+2024|10,(direct) / (none),Direct,1,0.0,0.0,0,1
+2024|10,(not set),Unassigned,20,3490.0,3490.0,20,20
+2024|11,(not set),Unassigned,12,1590.0,1590.0,12,12
+2024|12,(direct) / (none),Direct,1,205.0,205.0,1,1
+2024|12,pankanaturalhealth.com / referral,Referral,1,0.0,0.0,1,1
+2025|01,google / organic,Organic Search,1,0.0,0.0,0,1
+2025|01,pankanaturalhealth.com / referral,Referral,1,0.0,0.0,1,1
+2025|03,pankanaturalhealth.com / referral,Referral,1,210.0,210.0,1,1
+2025|04,(direct) / (none),Direct,1,0.0,0.0,1,1
+2025|04,pankanaturalhealth.com / referral,Referral,2,420.0,420.0,2,2
+2025|05,pankanaturalhealth.com / referral,Referral,1,0.0,0.0,1,1
+2025|06,(direct) / (none),Direct,1,0.0,0.0,0,1
+2025|06,google / organic,Organic Search,1,0.0,0.0,0,1
+2025|06,pankanaturalhealth.com / referral,Referral,8,0.0,0.0,8,8
+2025|07,google / organic,Organic Search,1,0.0,0.0,0,1
+2025|07,pankanaturalhealth.com / referral,Referral,2,0.0,0.0,2,2
+2025|09,(direct) / (none),Direct,2,0.0,0.0,2,2
+2025|09,pankanaturalhealth.com / referral,Referral,1,0.0,0.0,1,1
+2025|11,(direct) / (none),Direct,2,0.0,0.0,2,2
+2025|11,app.acuityscheduling.com / referral,Referral,2,0.0,0.0,2,2
+2025|11,pankanaturalhealth.com / referral,Referral,3,210.0,210.0,3,3
+2025|12,ig / social,Organic Social,1,0.0,0.0,0,1
+2026|01,(direct) / (none),Direct,1,0.0,0.0,0,1
+2026|01,pankanaturalhealth.com / referral,Referral,1,225.0,225.0,1,1
+2026|02,pankanaturalhealth.com / referral,Referral,1,225.0,225.0,1,1
+2026|03,(direct) / (none),Direct,1,0.0,0.0,1,1
+2026|03,(not set),Unassigned,4,400.0,400.0,4,4
+2026|03,pankanaturalhealth.com / referral,Referral,1,0.0,0.0,1,1
+2026|04,(direct) / (none),Direct,2,2.0,2.0,2,2
+2026|04,(not set),Unassigned,36,3478.0,3478.0,34,36
+2026|04,app.acuityscheduling.com / referral,Referral,1,0.0,0.0,1,1
+2026|04,chatgpt.com / referral,Referral,1,1.0,1.0,1,1
+2026|04,google / organic,Organic Search,7,629.0,629.0,6,7
+2026|04,pankanaturalhealth.com / referral,Referral,3,630.0,630.0,3,3
+2026|04,tagassistant.google.com / referral,Referral,4,4.0,4.0,4,4
+2026|05,(direct) / (none),Direct,2,226.0,226.0,2,2
+2026|05,(not set),Unassigned,12,1925.0,1925.0,12,12
+2026|05,google / cpc,Paid Search,2,2.0,2.0,2,2
+2026|05,google / organic,Organic Search,8,1652.0,1652.0,7,8
+2026|05,phr2.charmtracker.com / referral,Referral,1,225.0,225.0,1,1
+2026|06,(direct) / (none),Direct,3,226.0,226.0,3,3
+2026|06,(not set),Unassigned,21,2608.0,2608.0,21,21
+2026|06,ads.google.com / referral,Referral,7,7.0,7.0,7,7
+2026|06,bing / organic,Organic Search,1,300.0,300.0,1,1
+2026|06,duckduckgo / organic,Organic Search,2,450.0,450.0,2,2
+2026|06,google / cpc,Paid Search,2,855.0,855.0,2,2
+2026|06,pankanaturalhealth.com / referral,Referral,6,225.0,225.0,6,6
+2026|06,tagassistant.google.com / referral,Referral,2,2.0,2.0,2,2
+2026|07,(direct) / (none),Direct,6,451.0,451.0,6,6
+2026|07,(not set),Unassigned,16,2325.0,2325.0,16,16
+2026|07,ads.google.com / referral,Referral,1,1.0,1.0,1,1
+2026|07,google / cpc,Paid Search,2,226.0,226.0,2,2
+2026|07,google / organic,Organic Search,6,679.0,679.0,6,6
+2026|07,pankanaturalhealth.com / referral,Referral,8,0.0,0.0,8,8
+2026|08,(direct) / (none),Direct,2,0.0,0.0,2,2
+2026|08,(not set),Unassigned,22,4071.0,4071.0,18,22
+2026|08,pankanaturalhealth.com / referral,Referral,6,0.0,0.0,6,6
+2026|09,(direct) / (none),Direct,1,0.0,0.0,1,1
+2026|09,(not set),Unassigned,5,900.0,900.0,5,5

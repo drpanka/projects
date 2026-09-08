@@ -1,0 +1,22 @@
+Yearmonth,Campaignname,CampaignID,Network,Networkwithsearchpartners,Impressions,Clicks,Cost,Ctr,Conversions,CostPerConversion
+2025|06,Campaign #1,22625352639,Cross-network,Cross-network,9011,313,357.2639,0.034735,173.0,2.0651
+2025|07,Campaign #1,22625352639,Cross-network,Cross-network,91432,3073,553.657,0.03361,1682.01,0.3292
+2025|07,Leads-Search-1,22767146837,Search Network,Google search,4364,272,757.8229,0.062328,108.0,7.0169
+2025|07,Leads-Search-1,22767146837,Search Network,Search partners,416,18,16.81,0.043269,0.0,
+2025|08,Leads-Search-1,22767146837,Search Network,Google search,3402,257,651.1135,0.075544,108.0,6.0288
+2025|08,Leads-Search-1,22767146837,Search Network,Search partners,273,9,8.49,0.032967,1.0,8.49
+2026|04,Leads-Search-1,22767146837,Search Network,Google search,1086,65,183.4987,0.059853,16.0,11.4687
+2026|04,Leads-Search-1,22767146837,Search Network,Search partners,74,3,2.72,0.040541,0.0,
+2026|05,Leads-Search-1,22767146837,Search Network,Google search,1011,76,187.9106,0.075173,20.0,9.3955
+2026|05,Leads-Search-1,22767146837,Search Network,Search partners,106,5,2.3332,0.04717,0.0,
+2026|05,PNHdefense-Website traffic-Search-2,23888858069,Search Network,Google search,21,1,0.01,0.047619,0.0,
+2026|06,Leads-Search-1,22767146837,Search Network,Google search,53,4,24.0592,0.075472,0.02,1202.96
+2026|06,PNHdefense-Website traffic-Search-2,23888858069,Search Network,Google search,247,35,111.0061,0.1417,21.0,5.286
+2026|07,Leads-Search-1,22767146837,Display Network,Display Network,46,0,0.0,0.0,0.0,
+2026|07,Leads-Search-1,22767146837,Search Network,Google search,5520,256,594.9819,0.046377,36.0,16.5273
+2026|07,Leads-Search-1,22767146837,Search Network,Search partners,730,53,31.3065,0.072603,10.0,3.1306
+2026|07,PNHdefense-Website traffic-Search-2,23888858069,Search Network,Google search,95,30,47.04,0.315789,5.21,9.0288
+2026|08,Leads-Search-1,22767146837,Search Network,Google search,4428,229,530.6359,0.051716,16.0,33.1647
+2026|08,Leads-Search-1,22767146837,Search Network,Search partners,1106,86,121.2022,0.077758,6.0,20.2004
+2026|09,Leads-Search-1,22767146837,Search Network,Google search,1143,40,92.9362,0.034996,1.0,92.9362
+2026|09,Leads-Search-1,22767146837,Search Network,Search partners,192,10,9.53,0.052083,0.0,

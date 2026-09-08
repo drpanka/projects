@@ -1,0 +1,340 @@
+date,sessionSourceMedium,sessionDefaultChannelGrouping,pagePath,transactionId,currencyCode,eventCount,purchaseRevenue,totalRevenue,transactions,ecommercePurchases,detail_grain
+2023-12-18,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2023-12-21,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2023-12-22,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2024-01-16,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,195.0,195.0,1,1,date x sessionSourceMedium only
+2024-01-21,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,195.0,195.0,1,1,date x sessionSourceMedium only
+2024-01-24,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),3,390.0,390.0,3,3,date x sessionSourceMedium only
+2024-01-29,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,195.0,195.0,1,1,date x sessionSourceMedium only
+2024-01-30,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,0.0,0.0,2,2,date x sessionSourceMedium only
+2024-02-02,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,195.0,195.0,1,1,date x sessionSourceMedium only
+2024-02-03,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,350.0,350.0,1,1,date x sessionSourceMedium only
+2024-02-06,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2024-02-06,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,350.0,350.0,2,2,date x sessionSourceMedium only
+2024-02-07,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,250.0,250.0,1,1,date x sessionSourceMedium only
+2024-02-08,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),3,585.0,585.0,3,3,date x sessionSourceMedium only
+2024-02-11,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-02-12,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-02-13,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-02-14,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-02-17,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-02-18,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,360.0,360.0,1,1,date x sessionSourceMedium only
+2024-02-19,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-02-23,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),4,720.0,720.0,4,4,date x sessionSourceMedium only
+2024-02-26,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,0.0,0.0,2,2,date x sessionSourceMedium only
+2024-02-28,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,360.0,360.0,1,1,date x sessionSourceMedium only
+2024-03-01,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-03-03,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-03-06,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,410.0,410.0,2,2,date x sessionSourceMedium only
+2024-03-09,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-03-10,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-03-12,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-03-13,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,135.0,135.0,1,1,date x sessionSourceMedium only
+2024-03-15,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,205.0,205.0,2,2,date x sessionSourceMedium only
+2024-03-18,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,360.0,360.0,2,2,date x sessionSourceMedium only
+2024-03-19,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-03-20,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,410.0,410.0,2,2,date x sessionSourceMedium only
+2024-03-21,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,410.0,410.0,2,2,date x sessionSourceMedium only
+2024-03-23,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-03-24,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-03-25,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,360.0,360.0,1,1,date x sessionSourceMedium only
+2024-03-26,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-03-27,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-03-28,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-03-31,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-04-01,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,205.0,205.0,2,2,date x sessionSourceMedium only
+2024-04-05,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,410.0,410.0,2,2,date x sessionSourceMedium only
+2024-04-11,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-04-16,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,0.0,0.0,2,2,date x sessionSourceMedium only
+2024-04-17,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-04-21,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-04-24,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-04-29,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,205.0,205.0,2,2,date x sessionSourceMedium only
+2024-05-02,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,360.0,360.0,1,1,date x sessionSourceMedium only
+2024-05-03,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-05-05,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-05-07,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,360.0,360.0,1,1,date x sessionSourceMedium only
+2024-05-08,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-05-11,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2024-05-15,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-05-20,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,360.0,360.0,1,1,date x sessionSourceMedium only
+2024-05-21,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-05-23,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),3,205.0,205.0,3,3,date x sessionSourceMedium only
+2024-05-27,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-05-28,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-05-29,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,720.0,720.0,2,2,date x sessionSourceMedium only
+2024-05-31,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-06-01,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-06-03,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-06-05,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-06-06,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,565.0,565.0,2,2,date x sessionSourceMedium only
+2024-06-11,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,410.0,410.0,2,2,date x sessionSourceMedium only
+2024-06-16,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-06-17,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,205.0,205.0,2,2,date x sessionSourceMedium only
+2024-06-18,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-06-19,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-06-21,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-06-24,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,205.0,205.0,2,2,date x sessionSourceMedium only
+2024-06-25,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,205.0,205.0,2,2,date x sessionSourceMedium only
+2024-06-26,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-06-27,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,360.0,360.0,1,1,date x sessionSourceMedium only
+2024-06-28,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-06-29,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-07-01,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,720.0,720.0,2,2,date x sessionSourceMedium only
+2024-07-02,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-07-03,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,410.0,410.0,2,2,date x sessionSourceMedium only
+2024-07-04,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-07-08,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,340.0,340.0,2,2,date x sessionSourceMedium only
+2024-07-09,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),3,0.0,0.0,3,3,date x sessionSourceMedium only
+2024-07-10,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),3,410.0,410.0,3,3,date x sessionSourceMedium only
+2024-07-15,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,565.0,565.0,2,2,date x sessionSourceMedium only
+2024-07-16,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-07-17,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2024-07-19,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-07-25,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-07-29,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-07-31,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,205.0,205.0,2,2,date x sessionSourceMedium only
+2024-08-02,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-08-05,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-08-09,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-08-10,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-08-13,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,565.0,565.0,2,2,date x sessionSourceMedium only
+2024-08-15,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-08-19,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-08-20,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-08-30,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-09-08,google / organic,Organic Search,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2024-09-09,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-09-10,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-09-11,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2024-09-11,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-09-13,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,360.0,360.0,1,1,date x sessionSourceMedium only
+2024-09-19,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,205.0,205.0,2,2,date x sessionSourceMedium only
+2024-09-23,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,135.0,135.0,1,1,date x sessionSourceMedium only
+2024-09-24,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-09-25,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,360.0,360.0,2,2,date x sessionSourceMedium only
+2024-09-28,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-09-30,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,565.0,565.0,2,2,date x sessionSourceMedium only
+2024-10-01,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),4,975.0,975.0,4,4,date x sessionSourceMedium only
+2024-10-02,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-10-03,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-10-04,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-10-09,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-10-11,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,410.0,410.0,2,2,date x sessionSourceMedium only
+2024-10-14,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,360.0,360.0,1,1,date x sessionSourceMedium only
+2024-10-16,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-10-19,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,360.0,360.0,1,1,date x sessionSourceMedium only
+2024-10-21,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-10-23,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-10-25,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,360.0,360.0,1,1,date x sessionSourceMedium only
+2024-10-27,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2024-10-27,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-10-30,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-10-31,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,410.0,410.0,2,2,date x sessionSourceMedium only
+2024-11-03,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-11-04,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),3,410.0,410.0,3,3,date x sessionSourceMedium only
+2024-11-09,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-11-14,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-11-15,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-11-18,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2024-11-19,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-11-20,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,565.0,565.0,2,2,date x sessionSourceMedium only
+2024-11-24,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-12-10,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2024-12-24,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,205.0,205.0,1,1,date x sessionSourceMedium only
+2025-01-01,google / organic,Organic Search,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2025-01-30,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2025-03-15,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,210.0,210.0,1,1,date x sessionSourceMedium only
+2025-04-03,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2025-04-20,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,210.0,210.0,1,1,date x sessionSourceMedium only
+2025-04-22,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,210.0,210.0,1,1,date x sessionSourceMedium only
+2025-05-08,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2025-06-03,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2025-06-09,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2025-06-10,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),3,0.0,0.0,3,3,date x sessionSourceMedium only
+2025-06-12,google / organic,Organic Search,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2025-06-17,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2025-06-23,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),3,0.0,0.0,3,3,date x sessionSourceMedium only
+2025-07-09,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),2,0.0,0.0,2,2,date x sessionSourceMedium only
+2025-07-30,google / organic,Organic Search,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2025-09-04,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2025-09-15,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2025-09-18,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2025-11-03,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2025-11-04,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2025-11-05,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2025-11-14,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,210.0,210.0,1,1,date x sessionSourceMedium only
+2025-11-18,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2025-11-18,app.acuityscheduling.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),2,0.0,0.0,2,2,date x sessionSourceMedium only
+2025-12-21,ig / social,Organic Social,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2026-01-06,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,225.0,225.0,1,1,date x sessionSourceMedium only
+2026-01-22,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2026-02-25,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,225.0,225.0,1,1,date x sessionSourceMedium only
+2026-03-02,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-03-24,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,400.0,400.0,1,1,date x sessionSourceMedium only
+2026-03-25,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-03-27,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-03-28,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-03-28,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-04-02,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,225.0,225.0,1,1,date x sessionSourceMedium only
+2026-04-03,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-04-06,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,855.0,855.0,2,2,date x sessionSourceMedium only
+2026-04-06,app.acuityscheduling.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-04-06,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,630.0,630.0,1,1,date x sessionSourceMedium only
+2026-04-07,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,225.0,225.0,1,1,date x sessionSourceMedium only
+2026-04-08,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,148.0,148.0,1,1,date x sessionSourceMedium only
+2026-04-09,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-04-10,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-04-10,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-04-12,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,225.0,225.0,1,1,date x sessionSourceMedium only
+2026-04-13,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,275.0,275.0,1,1,date x sessionSourceMedium only
+2026-04-14,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,225.0,225.0,1,1,date x sessionSourceMedium only
+2026-04-16,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-04-18,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-04-19,google / organic,Organic Search,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,0,1,date x sessionSourceMedium only
+2026-04-22,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),2,225.0,225.0,2,2,date x sessionSourceMedium only
+2026-04-24,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,225.0,225.0,1,1,date x sessionSourceMedium only
+2026-04-27,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),2,2.0,2.0,2,2,date x sessionSourceMedium only
+2026-04-27,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),12,225.0,225.0,12,12,date x sessionSourceMedium only
+2026-04-27,google / organic,Organic Search,(unavailable-see-notes),(unavailable-see-notes),(not set),1,1.0,1.0,1,1,date x sessionSourceMedium only
+2026-04-27,pankanaturalhealth.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-04-27,tagassistant.google.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),4,4.0,4.0,4,4,date x sessionSourceMedium only
+2026-04-28,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-04-28,google / organic,Organic Search,(unavailable-see-notes),(unavailable-see-notes),(not set),1,1.0,1.0,1,1,date x sessionSourceMedium only
+2026-04-29,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),3,400.0,400.0,3,3,date x sessionSourceMedium only
+2026-04-29,chatgpt.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,1.0,1.0,1,1,date x sessionSourceMedium only
+2026-04-29,google / organic,Organic Search,(unavailable-see-notes),(unavailable-see-notes),(not set),2,401.0,401.0,2,2,date x sessionSourceMedium only
+2026-04-30,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),4,225.0,225.0,2,4,date x sessionSourceMedium only
+2026-04-30,google / organic,Organic Search,(unavailable-see-notes),(unavailable-see-notes),(not set),2,226.0,226.0,2,2,date x sessionSourceMedium only
+2026-05-05,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,400.0,400.0,1,1,date x sessionSourceMedium only
+2026-05-05,google / organic,Organic Search,(unavailable-see-notes),(unavailable-see-notes),(not set),3,1200.0,1200.0,3,3,date x sessionSourceMedium only
+2026-05-06,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),4,675.0,675.0,4,4,date x sessionSourceMedium only
+2026-05-06,google / organic,Organic Search,(unavailable-see-notes),(unavailable-see-notes),(not set),2,226.0,226.0,2,2,date x sessionSourceMedium only
+2026-05-06,phr2.charmtracker.com / referral,Referral,(unavailable-see-notes),(unavailable-see-notes),(not set),1,225.0,225.0,1,1,date x sessionSourceMedium only
+2026-05-07,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,225.0,225.0,1,1,date x sessionSourceMedium only
+2026-05-07,google / organic,Organic Search,(unavailable-see-notes),(unavailable-see-notes),(not set),1,225.0,225.0,1,1,date x sessionSourceMedium only
+2026-05-11,(direct) / (none),Direct,(unavailable-see-notes),(unavailable-see-notes),(not set),1,1.0,1.0,1,1,date x sessionSourceMedium only
+2026-05-11,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),1,0.0,0.0,1,1,date x sessionSourceMedium only
+2026-05-13,(not set),Unassigned,(unavailable-see-notes),(unavailable-see-notes),(not set),3,400.0,400.0,3,3,date x sessionSourceMedium only
+2026-05-13,google / cpc,Paid Search,(unavailable-see-notes),(unavailable-see-notes),(not set),2,2.0,2.0,2,2,date x sessionSourceMedium only
+2026-05-18,google / organic,Organic Search,/commerce/orders/445817ff-7e04-4062-a5c0-b429348d5c58,6a0bbfbfad198c2b104e0f12,(not set),1,0.0,0.0,0,1,date x source x pagePath x transactionId
+2026-05-23,(direct) / (none),Direct,/schedule/0081d9d2/confirmation/cb468f6b7fb4b83d8393994b1436ceba?ref=email,5706000b1d3f0344ba515d989d5186f2,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-05-30,(not set),Unassigned,(not set),50c5e5c8ca634e18859167b177a878c2,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-05-31,(not set),Unassigned,(not set),47fb4bcf610e89afbe8d7b7b4264d304,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-05-31,google / organic,Organic Search,/schedule-an-appointment,pnh_1780281973679_ym6uveuvi,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-06-01,(direct) / (none),Direct,/schedule-an-appointment,pnh_1780349661421_kpyeru9rq,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-06-01,(not set),Unassigned,(not set),0be4bbb0e5bc4f93ef31f8a28750992d,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-06-01,(not set),Unassigned,(not set),162789302,USD,1,630.0,630.0,1,1,date x source x pagePath x transactionId
+2026-06-01,(not set),Unassigned,(not set),a6bd33a80924ab1a27de8b7488616181,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-01,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/?isInConfig=false&ref=sched_block,0be4bbb0e5bc4f93ef31f8a28750992d,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-06-04,(not set),Unassigned,(not set),5e93ca4848d991566fb26c302d6be8d4,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-04,(not set),Unassigned,(not set),9d92ccec144ac28f7b40041a8f3db9a0,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-04,tagassistant.google.com / referral,Referral,/schedule-an-appointment?gtm_debug=1780603273076,pnh_1780603360322_lqub72rmw,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-06-04,tagassistant.google.com / referral,Referral,/schedule-an-appointment?gtm_debug=1780603737192,pnh_1780603824885_feiq15i7j,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-06-06,(not set),Unassigned,(not set),2e12b1b076efecd86fcdc969c780981e,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-07,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,8327e6ef4fbfe07edf03d8647be061a4,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-08,(not set),Unassigned,(not set),162818269,USD,1,630.0,630.0,1,1,date x source x pagePath x transactionId
+2026-06-08,google / cpc,Paid Search,/schedule-an-appointment,pnh_1780937779977_fpxoqveu3,USD,1,630.0,630.0,1,1,date x source x pagePath x transactionId
+2026-06-10,(direct) / (none),Direct,/schedule/0081d9d2/?sh_update=2&ref=email,40ad283b3ae6b8d4a13bd3080c7b61cf,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-11,(not set),Unassigned,(not set),2ccb348ea1015d210c2b8bcff76a85c8,USD,1,148.0,148.0,1,1,date x source x pagePath x transactionId
+2026-06-11,(not set),Unassigned,(not set),e8c2c995e56a2255b59abb505b8fd299,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-06-11,duckduckgo / organic,Organic Search,/schedule-an-appointment,pnh_1781187677345_v41mmz4rv,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-06-11,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/?appointmentTypeIds[]=41826455,a59c7bc3ad3a5275f31ca378d886ba1f,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-13,(not set),Unassigned,(not set),297b8344f398a21ea02bd7f1e473d997,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-06-13,duckduckgo / organic,Organic Search,/schedule-an-appointment,pnh_1781394799142_wmcj0hhzl,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-06-15,(direct) / (none),Direct,/schedule-an-appointment,pnh_1781529492678_k2nhey107,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-06-15,(not set),Unassigned,(not set),0150c10dec6e4929627e9382d865f1be,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-15,(not set),Unassigned,(not set),1605184b2f20302dfdfd8e4d05272b37,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-15,(not set),Unassigned,(not set),39f9a216f0095126fcd43d9c339397a7,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-15,(not set),Unassigned,(not set),7256ea008931bca044e2074f5ec7ab77,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-15,(not set),Unassigned,(not set),909c6da16275dfea7654a166f5542a2a,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-15,(not set),Unassigned,(not set),a0e367def4fecd93c331241a68336b49,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-15,ads.google.com / referral,Referral,/schedule-an-appointment,pnh_1781545475812_i9q8t1jxc,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-06-15,ads.google.com / referral,Referral,/schedule-an-appointment,pnh_1781545525004_rrw0igb48,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-06-15,ads.google.com / referral,Referral,/schedule-an-appointment,pnh_1781545705291_vbyq9qo34,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-06-15,ads.google.com / referral,Referral,/schedule-an-appointment,pnh_1781545757540_lu11uxr2f,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-06-16,(not set),Unassigned,(not set),30f5ff520629db4595b3e8226b9e54e1,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-16,ads.google.com / referral,Referral,/schedule-an-appointment,pnh_1781647672100_tmtu6xg92,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-06-17,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,e551da7c468595201509978d26fc2886,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-18,(not set),Unassigned,(not set),35eacf827f7c923571d355eaac1c3e53,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-18,(not set),Unassigned,(not set),9580ed19f156cfcd1cd1004f0dd1ad11,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-18,ads.google.com / referral,Referral,/schedule-an-appointment,pnh_1781795110756_gifzdgx6h,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-06-18,ads.google.com / referral,Referral,/schedule-an-appointment,pnh_1781796728372_oqm82a7wy,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-06-20,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/?appointmentTypeIds[]=41826455,534267fd99100cc56fc858c8c4bde827,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-26,(not set),Unassigned,(not set),c476597ebcb68cf6f26fb356563a3280,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-06-26,google / cpc,Paid Search,/schedule-an-appointment,pnh_1782506671290_qmqnpxi5l,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-06-28,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,dd386082c26111acca7d2c58a939b467,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-06-30,(not set),Unassigned,(not set),ff4519c4508824468afe33c3528f864b,USD,1,300.0,300.0,1,1,date x source x pagePath x transactionId
+2026-06-30,bing / organic,Organic Search,/schedule-an-appointment,pnh_1782855870290_3oap2jbk9,USD,1,300.0,300.0,1,1,date x source x pagePath x transactionId
+2026-07-01,(not set),Unassigned,(not set),5839aa6b5577d088d14801fc51d61bd8,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-07-01,google / organic,Organic Search,/schedule-an-appointment,pnh_1782926903461_0km4lhdj5,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-07-01,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/?appointmentTypeIds[]=41826455,3fe2574ddce0721c080165414e1a9e0f,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-05,(direct) / (none),Direct,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,0a5347e48a8bab95fec4f8f4aa1cdfd4,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-07,(not set),Unassigned,(not set),e86f9ba063fcecaf220c2030e9a09502,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-07,google / cpc,Paid Search,/schedule-an-appointment,pnh_1783433070641_6nsa28dpu,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-07-08,(not set),Unassigned,(not set),b7a97712aa51fbccccaf7a03749d0bf9,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-07-08,google / cpc,Paid Search,/schedule-an-appointment,pnh_1783547202359_efah2r1de,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-07-09,(not set),Unassigned,(not set),58efc6631412626ccf9c228b5fa528f1,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-09,(not set),Unassigned,(not set),d5c529a61fb72da2477d4429d6108142,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-09,(not set),Unassigned,(not set),ed3d8178a82259fad611971ac5e62d12,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-09,google / organic,Organic Search,/schedule-an-appointment,pnh_1783605681644_kfhktucad,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-07-09,google / organic,Organic Search,/schedule-an-appointment,pnh_1783606765573_40v2tc9hf,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-07-09,google / organic,Organic Search,/schedule-an-appointment,pnh_1783607307465_e67r8dutj,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-07-09,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,768ab656d85c9e0b06048aa72cd3a955,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-10,(direct) / (none),Direct,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,0e7e1a3d497a2a187a677abd7803e565,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-13,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/?appointmentTypeIds[]=41826455,0e2bb7d6679ee93a45ed51edf208bacd,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-14,(direct) / (none),Direct,/schedule-an-appointment,pnh_1784047988760_8r15jrocp,USD,1,450.0,450.0,1,1,date x source x pagePath x transactionId
+2026-07-14,(not set),Unassigned,(not set),54c17f6af0daf6f0e134e04d7e418cc4,USD,1,450.0,450.0,1,1,date x source x pagePath x transactionId
+2026-07-20,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,fc2e0d58821660ae86a7513a6d6f1783,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-21,(direct) / (none),Direct,/schedule-an-appointment,pnh_1784672656030_93o4fziki,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-07-21,(not set),Unassigned,(not set),300f08605c4edfdd0115c635533f599e,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-21,(not set),Unassigned,(not set),69b33b23b3bc5b696d99a4fbe6e9a912,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-07-21,(not set),Unassigned,(not set),d50d9adcc466138cceaaa72257df9765,USD,1,450.0,450.0,1,1,date x source x pagePath x transactionId
+2026-07-22,(direct) / (none),Direct,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,ba68cacc9fc8fac46694f30a40acd0d4,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-22,(not set),Unassigned,(not set),e2d07efcd494478e1c0664d83746f810,USD,1,450.0,450.0,1,1,date x source x pagePath x transactionId
+2026-07-22,google / organic,Organic Search,/schedule-an-appointment,pnh_1784753034373_7comx2e9y,USD,1,450.0,450.0,1,1,date x source x pagePath x transactionId
+2026-07-23,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,09c6333f8225ca90702855e97a3260d2,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-24,(not set),Unassigned,(not set),44810c9836151a2becc4b1f72bc9f8e4,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-24,(not set),Unassigned,(not set),8af2066d09ed69ec924e3175616a833b,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-24,ads.google.com / referral,Referral,/schedule-an-appointment,pnh_1784906911126_s8fzomp1v,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-07-24,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,09206bd37f3f61034cae9723b5b8f366,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-24,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,d16ee9fe582877afe880c79cb1c62487,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-26,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/?appointmentTypeIds[]=41826455,6e17be603212ffacfc449e9a1fb1909b,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-28,(not set),Unassigned,(not set),252ccd791e9cf816497773b0b5942f49,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-28,google / organic,Organic Search,/schedule-an-appointment,pnh_1785268029875_3dyne1ujp,USD,1,1.0,1.0,1,1,date x source x pagePath x transactionId
+2026-07-29,(direct) / (none),Direct,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,5753801b7d34a5351ea877fee65bac80,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-07-30,(not set),Unassigned,(not set),9559e34b606e6579832b85b46acba9fd,USD,1,300.0,300.0,1,1,date x source x pagePath x transactionId
+2026-07-30,(not set),Unassigned,(not set),958f2dc669aaa279561d9c66a48483b2,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-03,(not set),Unassigned,(not set),04c115bd91f0beb0e6260afe9652fef1,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-04,(direct) / (none),Direct,/schedule/0081d9d2/appointment/41826455/calendar/7700282/datetime/2026-08-05T10:00:00-05:00?appointmentTypeIds%5B%5D=41826455,c6814680754ead4c8ae0784c7ba4f9c3,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-04,(not set),Unassigned,(not set),a20137e3cb93e5d300c0e28d80a0640f,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-06,(not set),Unassigned,(not set),4cd5d19159af95a51c6aeea4ace7fa1d,USD,1,450.0,450.0,1,1,date x source x pagePath x transactionId
+2026-08-06,(not set),Unassigned,(not set),589d98d1d449c49d1a5137190ff718d1,USD,1,700.0,700.0,1,1,date x source x pagePath x transactionId
+2026-08-09,(not set),Unassigned,(not set),3985f1198960ca8cc3f1abba2ab5cef5,USD,1,300.0,300.0,1,1,date x source x pagePath x transactionId
+2026-08-09,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455/calendar/7700282?appointmentTypeIds%5B%5D=41826455,216da4f5fc402c43767d850613b5df70,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-10,(direct) / (none),Direct,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,d70a1864641e6f2a86e762c4d2b9a6e2,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-10,(not set),Unassigned,(not set),855bbe7ce3a8a920be064c71c61c63dd,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-08-10,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,8b13992aa361f9b92cfb72983c0bd3dd,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-11,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,5e4c954a88e435288f8ff0b4a7d77418,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-15,(not set),Unassigned,(not set),905e3b7fda2e8db0cb8ebff6b4aa2bed,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-08-15,(not set),Unassigned,(not set),d448e8f0dfc5afc3fe4b5c29f09b2cf9,USD,1,148.0,148.0,1,1,date x source x pagePath x transactionId
+2026-08-16,(not set),Unassigned,(not set),477b1bb625805afae19796d4fab8bebc,USD,1,148.0,148.0,1,1,date x source x pagePath x transactionId
+2026-08-16,(not set),Unassigned,(not set),a79bf7b3ec44c34637acb2eb5972f105,USD,1,300.0,300.0,1,1,date x source x pagePath x transactionId
+2026-08-17,(not set),Unassigned,(not set),(not set),(not set),4,0.0,0.0,0,4,date x source x pagePath x transactionId
+2026-08-17,(not set),Unassigned,(not set),844ada0c45e5301f958760f66c12d8bc,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-18,(not set),Unassigned,(not set),e7b6202555a7aec0cdb1f5dd6d98e2d2,USD,1,450.0,450.0,1,1,date x source x pagePath x transactionId
+2026-08-18,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,543775d1e06cf03986279e2b67b74846,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-19,(not set),Unassigned,(not set),61644d39a07f52d210912fa225bd2c8b,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-08-19,(not set),Unassigned,(not set),eb3e9c36aa975c4404234faa491ed9df,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-19,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/?isInConfig=false&ref=sched_block,eb3e9c36aa975c4404234faa491ed9df,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-22,pankanaturalhealth.com / referral,Referral,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,40b3e1623dc20e580f348fec63d7dd2a,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-23,(not set),Unassigned,(not set),ae6fbe38bab1dee6a7adaa1796bd138b,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-08-25,(not set),Unassigned,(not set),da4112def04a8e773e170b1ddf89925c,USD,1,450.0,450.0,1,1,date x source x pagePath x transactionId
+2026-08-31,(not set),Unassigned,(not set),1230eade8a77715d5206f94ed4f018c0,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-08-31,(not set),Unassigned,(not set),22b9d27b385d220cf64aa7ee624b3d8c,USD,1,225.0,225.0,1,1,date x source x pagePath x transactionId
+2026-09-01,(direct) / (none),Direct,/schedule/0081d9d2/appointment/41826455/calendar/7700282/datetime/2026-09-04T14:25:00-05:00?appointmentTypeIds%5B%5D=41826455,67e2ee3f29d199a4d6b26719641d52ef,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-09-02,(not set),Unassigned,(not set),a5c567d2391e0b4ffc80d95d5b2aa03a,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-09-04,(not set),Unassigned,(not set),4eea03150e3a6ea37a271fedae4a43dc,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-09-06,(not set),Unassigned,(not set),49b1e0fab340a684d2e53ccf7278db35,USD,1,450.0,450.0,1,1,date x source x pagePath x transactionId
+2026-09-07,(not set),Unassigned,(not set),6d9b55407fb2b96498631b5165e534b7,USD,1,0.0,0.0,1,1,date x source x pagePath x transactionId
+2026-09-07,(not set),Unassigned,(not set),8d283cec4da1dc31cea082e99d46b448,USD,1,450.0,450.0,1,1,date x source x pagePath x transactionId

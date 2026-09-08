@@ -1,0 +1,392 @@
+# Supermetrics GA4 (ds_id="GAWA") — COMPLETE FIELD LIST
+# Captured 2026-09-08 via field_discovery(ds_id="GAWA", compress=true)
+# Property in use: 353828960 (PNH2). Total fields: 335 (85 metrics, 250 dimensions)
+# report_type_legend: 0=CohortDaily, 1=CohortMonthly, 2=CohortWeekly, 3=Default
+#   Fields with no report_types listed support ALL report types.
+#   GAWA has has_report_type_selection=false; is_date_range_required=true; has_account_list=true.
+# NOTE from source: some metrics are pre-aggregated (is_non_aggregatable) e.g. activeUsers,
+#   totalUsers, engagementRate. You may break them down by dimension/date in ONE query, but you
+#   must NOT sum or average them across rows yourself. For a coarser total, re-query at that grain.
+# Format: <field_id> | <display name> | [flags]
+
+=========================== METRICS (85) ===========================
+activeUsers | Active users | NON-AGGREGATABLE
+active7DayUsers | 7-day active users | NON-AGGREGATABLE
+active28DayUsers | 28-day active users | NON-AGGREGATABLE
+newUsers | New users
+totalUsers | Total users | NON-AGGREGATABLE
+sessions | Sessions
+sessionsPerUser | Sessions per user | NON-AGGREGATABLE
+engagedSessions | Engaged sessions
+engagementRate | Engagement rate | NON-AGGREGATABLE
+avgUserEngagementDuration | Average session length (sec) | NON-AGGREGATABLE
+userEngagementDuration | Total user engagement duration (sec)
+screenPageViews | Views
+crashAffectedUsers | Crash-affected users
+crashFreeUsersRate | Crash-free users rate | NON-AGGREGATABLE
+dauPerMau | DAU / MAU | NON-AGGREGATABLE
+dauPerWau | DAU / WAU | NON-AGGREGATABLE
+wauPerMau | WAU / MAU | NON-AGGREGATABLE
+screenPageViewsPerSession | Views per session | NON-AGGREGATABLE
+screenPageViewsPerUser | Views per user | NON-AGGREGATABLE
+scrolledUsers | Scrolled users
+averageSessionDuration | Average session duration | NON-AGGREGATABLE
+firstTimePurchaserConversionRate | First-time purchaser conversion | NON-AGGREGATABLE
+firstTimePurchasersPerNewUser | First-time purchasers per new user | NON-AGGREGATABLE
+purchaserConversionRate | Purchaser conversion | NON-AGGREGATABLE
+sessionConversionRate | Session conversion rate | NON-AGGREGATABLE
+transactionsPerPurchaser | Transactions per purchaser | NON-AGGREGATABLE
+userConversionRate | User conversion rate | NON-AGGREGATABLE
+conversions | Conversions
+conversionsFloat | Conversions (float)
+eventCount | Event count
+eventsPerUser | Events per user | NON-AGGREGATABLE
+eventsPerSession | Events per session | NON-AGGREGATABLE
+eventValue | Event value
+purchaseRevenue | Purchase revenue | MONETARY
+purchaseToViewRate | Purchase-to-view rate | NON-AGGREGATABLE
+returnOnAdSpend | Return on ad spend | NON-AGGREGATABLE
+averagePurchaseRevenue | Average purchase revenue | NON-AGGREGATABLE, MONETARY
+transactions | Transactions
+ARPU | Average revenue per user | NON-AGGREGATABLE, MONETARY
+ARPPU | Average revenue per paying user | MONETARY
+totalAdRevenue | Ad revenue | MONETARY
+totalRevenue | Revenue | MONETARY
+adUnitExposure | Ad unit exposure
+publisherAdClicks | Publisher ad clicks
+publisherAdImpressions | Publisher ad impressions
+addToCarts | Add-to-carts
+cartToViewRate | Cart-to-view rate | NON-AGGREGATABLE
+checkouts | Checkouts
+firstTimePurchasers | First time purchasers
+grossItemRevenue | Gross item revenue | MONETARY
+grossPurchaseRevenue | Gross purchase revenue | MONETARY
+itemListClickThroughRate | Item list click through rate | NON-AGGREGATABLE
+itemListClicks | Item list clicks
+itemListViews | Item list views
+itemPromotionClickThroughRate | Item promotion click through rate | NON-AGGREGATABLE
+itemPromotionClicks | Item promotion clicks
+itemPromotionViews | Item promotion views
+itemPurchaseQuantity | Item purchase quantity
+itemDiscountAmount | Item discount amount | MONETARY
+itemRefundAmount | Item refund amount | MONETARY
+itemRevenue | Item revenue | MONETARY
+itemViews | Item views
+itemsAddedToCart | Items added to cart
+itemsCheckedOut | Items checked out
+itemsClickedInList | Items clicked in list
+itemsClickedInPromotion | Items clicked in promotion
+itemsViewed | Items viewed
+itemsViewedInList | Items viewed in list
+itemsViewedInPromotion | Items viewed in promotion
+ecommercePurchases | Purchases
+refundAmount | Refund amount | MONETARY
+shippingAmount | Shipping amount | MONETARY
+taxAmount | Tax amount | MONETARY
+totalPurchasers | Total purchasers
+advertiserAdClicks | Ads clicks
+advertiserAdCost | Ads cost | MONETARY
+advertiserAdCostPerClick | Ads cost per click | NON-AGGREGATABLE, MONETARY
+advertiserAdCostPerConversion | Cost per conversion | NON-AGGREGATABLE, MONETARY
+advertiserAdImpressions | Ads impressions
+bounceRate | Bounce rate | NON-AGGREGATABLE
+bounces | Bounces
+organicGoogleSearchAveragePosition | Organic google search average position | NON-AGGREGATABLE
+organicGoogleSearchClickThroughRate | Organic google search click through rate | NON-AGGREGATABLE
+organicGoogleSearchClicks | Organic google search clicks
+organicGoogleSearchImpressions | Organic google search impressions
+
+========================= DIMENSIONS (250) =========================
+--- Account / property / stream ---
+dataSourceName | Data source
+accountName | Account name
+accountId | Account ID
+propertyName | GA4 property
+propertyID | GA4 property ID
+platform | Platform
+streamId | Stream ID
+streamName | Stream name
+measurementIds | Measurement IDs
+defaultUris | Default URIs
+webFirebaseAppIds | Firebase app IDs - Web
+iosFirebaseAppIds | Firebase app IDs - iOS
+androidFirebaseAppIds | Firebase app IDs - Android
+iosPackageNames | Package names - iOS
+androidPackageNames | Package names - Android
+appVersion | App version
+hostName | Host name
+testDataFilterName | Test data filter name
+testDataFilterId | Test data filter ID
+
+--- Time ---
+today | Today
+year | Year
+yearOfWeek | Year of week (Sun-Sat)
+yearOfWeekIso | Year of week (Mon-Sun)
+quarter | Quarter
+yearMonth | Year & month (e.g. 2017|06)
+month | Month
+yearWeek | Year & week (Sun-Sat)
+yearWeekIso | Year & week (Mon-Sun)
+week | Week (Sun-Sat)
+weekIso | Week (Mon-Sun)
+dayOfMonth | Day of month
+dayOfWeekName | Day of week (Sun-Sat)
+dayOfWeekNameIso | Day of week (Mon-Sun)
+date | Date
+dateHour | Date & hour
+hour | Hour
+minute | Minute
+nthYear | Nth year
+nthMonth | Nth month
+nthWeek | Nth week
+nthDay | Nth day
+nthHour | Nth hour
+nthMinute | Nth minute
+dateHourMinute | Date, hour & minute
+
+--- First-user (acquisition) attribution ---
+firstUserMedium | User medium
+firstUserCampaignName | User campaign name
+firstUserCampaignId | User campaign ID
+firstUserGoogleAdsAdGroupName | User campaign ad group name
+firstUserGoogleAdsAdNetworkType | User ad network type
+firstUserGoogleAdsAdGroupId | User campaign ad group ID
+firstUserCreativeId | User campaign creative ID
+firstUserGoogleAdsCampaignType | First user Google Ads campaign type
+firstUserDefaultChannelGrouping | First user default channel grouping
+firstUserGoogleAdsAccountName | First user Google Ads account name
+firstUserGoogleAdsCampaignId | First user Google Ads campaign ID
+firstUserGoogleAdsCampaignName | First user Google Ads campaign
+firstUserGoogleAdsCustomerId | First user Google Ads customer ID
+firstUserGoogleAdsKeyword | First user Google Ads keyword text
+firstUserGoogleAdsQuery | First user Google Ads query
+firstUserSource | First user source
+firstUserSourceMedium | First user source / medium
+firstUserSourcePlatform | First user source platform
+firstUserManualAdContent | First user manual ad content
+firstUserManualTerm | First user manual term
+
+--- Session-scoped attribution ---
+sessionGoogleAdsCampaignId | Session Google Ads campaign ID
+sessionGoogleAdsCampaignName | Session Google Ads campaign
+sessionGoogleAdsCreativeId | Session Google Ads creative ID
+sessionGoogleAdsCustomerId | Session Google Ads customer ID
+sessionMedium | Session medium
+sessionSource | Session source
+sessionSourceMedium | Session source / medium
+sessionSourcePlatform | Session source platform
+sessionDefaultChannelGrouping | Session default channel grouping
+sessionGoogleAdsAccountName | Session Google Ads account name
+sessionGoogleAdsAdNetworkType | Session ad network type
+sessionCampaignName | Session campaign name
+sessionCampaignId | Session campaign ID
+sessionGoogleAdsCampaignType | Session campaign type
+sessionGoogleAdsAdGroupName | Session ad group name
+sessionGoogleAdsAdGroupId | Session ad group ID
+sessionGoogleAdsKeyword | Session keyword
+sessionGoogleAdsQuery | Session Google Ads query
+sessionManualAdContent | Session manual ad content
+sessionManualCampaignId | Session manual campaign ID
+sessionManualCampaignName | Session manual campaign name
+sessionManualCreativeFormat | Session manual creative format
+sessionManualMarketingTactic | Session manual marketing tactic
+sessionManualMedium | Session manual medium
+sessionManualSource | Session manual source
+sessionManualSourceMedium | Session manual source / medium
+sessionManualSourcePlatform | Session manual source platform
+sessionManualTerm | Session manual term
+sessionSa360AdGroupName | Session SA360 ad group name
+sessionSa360CampaignId | Session SA360 campaign ID
+sessionSa360CampaignName | Session SA360 campaign
+sessionSa360CreativeFormat | Session SA360 creative format
+sessionSa360EngineAccountId | Session SA360 engine account ID
+sessionSa360EngineAccountName | Session SA360 engine account name
+sessionSa360EngineAccountType | Session SA360 engine account type
+sessionSa360Keyword | Session SA360 keyword text
+sessionSa360Medium | Session SA360 medium
+sessionSa360Query | Session SA360 query
+sessionSa360Source | Session SA360 source
+
+--- Event-scoped ("conversion") attribution ---
+campaignId | Event campaign ID
+campaignName | Event campaign name
+googleAdsAdNetworkType | Event ad network type
+googleAdsAccountName | Event Google Ads account name
+googleAdsCustomerId | Google Ads customer ID
+googleAdsCampaignId | Google Ads campaign ID
+googleAdsCampaignName | Google Ads campaign name
+googleAdsCampaignType | Google Ads campaign type
+googleAdsAdGroupId | Google Ads ad group ID
+googleAdsAdGroupName | Google Ads ad group name
+googleAdsKeyword | Google Ads keyword text
+googleAdsQuery | Google Ads query
+googleAdsCreativeId | Google Ads creative ID
+source | Event source
+medium | Event medium
+sourceMedium | Source / medium
+sourcePlatform | Source platform
+trafficOrigin | Event traffic origin
+defaultChannelGrouping | Conversion default channel grouping
+manualAdContent | Manual ad content
+manualTerm | Manual term
+pageReferrer | Page referrer (full referring URL incl. hostname)
+
+--- Device / tech ---
+deviceCategory | Device category
+platformDeviceCategory | Platform and device category
+deviceModel | Device model
+mobileDeviceBranding | Mobile device model (branding)
+mobileDeviceMarketingName | Mobile device marketing name
+mobileDeviceModel | Mobile device model
+screenResolution | Screen resolution
+browser | Browser
+operatingSystem | Operating system
+operatingSystemVersion | Operating system version
+operatingSystemWithVersion | Operating system with version
+language | Language
+languageCode | Language code
+
+--- Content / page ---
+contentGroup | Content group
+contentId | Content ID
+contentType | Content type
+pageLocation | Page location
+pagePath | Page path
+pagePathWithoutQueryString | Page path without query string
+pageTitle | Page title
+unifiedPageScreen | Page path, query string and screen class
+unifiedPagePathScreen | Page path and screen class
+unifiedScreenClass | Page title and screen class
+unifiedScreenName | Page title and screen name
+landingPage | Landing page
+landingPagePlusQueryString | Landing page + query string
+percentScrolled | Percent scrolled
+visible | Is content visible
+searchTerm | Search term
+fullPageUrl | Full page URL
+videoUrl | Video URL
+videoTitle | Video title
+videoProvider | Video provider
+
+--- Event ---
+eventName | Event name
+isConversionEvent | Is conversion event
+method | Method
+
+--- CM360 / DV360 (event-scoped) ---
+cm360PlacementCostStructure | CM360 placement cost structure
+cm360PlacementId | CM360 placement ID
+cm360PlacementName | CM360 placement name
+dv360InsertionOrderName | DV360 insertion order name
+dv360LineItemName | DV360 line item name
+dv360LineItemID | DV360 line item ID
+
+--- Geo ---
+country | Country
+countryIsoCode | Country code
+region | Region
+city | City
+cityId | City ID
+continent | Continent
+continentId | Continent ID
+
+--- User ---
+newVsReturning | New vs returning
+firstSessionDate | First session date
+userGender | User gender
+userAgeBracket | User age bracket
+signedInWithUserId | Signed in with user ID
+audienceId | Audience ID
+audienceName | Audience name
+brandingInterest | Branding interest
+
+--- Cohort (report-type restricted) ---
+dailyCohort | Daily cohort | report_types: CohortDaily
+cohortNthDay | Cohort day offset | report_types: CohortDaily
+weeklyCohort | Weekly cohort | report_types: CohortWeekly
+cohortNthWeek | Cohort week offset | report_types: CohortWeekly
+monthlyCohort | Monthly cohort | report_types: CohortMonthly
+cohortNthMonth | Cohort month offset | report_types: CohortMonthly
+
+--- Publisher ads ---
+adFormat | Ad format
+adSourceName | Ad source
+adUnitName | Ad unit
+
+--- Ecommerce / item ---
+currencyCode | Currency | IS_CURRENCY
+itemBrand | Item brand
+itemCategory | Item category
+itemCategory2 | Item category 2
+itemCategory3 | Item category 3
+itemCategory4 | Item category 4
+itemCategory5 | Item category 5
+itemId | Item ID
+itemListId | Item list ID
+itemListName | Item list name
+itemName | Item name
+itemPromotionCreativeName | Item promotion creative name
+itemPromotionId | Item promotion ID
+itemPromotionName | Item promotion name
+itemAffiliation | Item affiliation
+itemVariant | Item variant
+orderCoupon | Order coupon
+transactionId | Transaction ID
+shippingTier | Shipping tier
+itemListPosition | Item list position
+itemLocationID | Item location ID
+itemPromotionCreativeSlot | Item promotion creative slot
+
+--- Link / file / outbound ---
+linkText | Link text
+linkUrl | Link URL
+linkId | Link ID
+linkDomain | Link domain
+linkClasses | Link classes
+outbound | Is outbound link
+fileName | File name
+fileExtension | File extension
+
+--- Gaming ---
+achievementId | Achievement ID
+character | Character
+groupId | Player group ID
+level | Level
+virtualCurrencyName | Virtual currency name | IS_CURRENCY
+
+--- Session CM360 ---
+sessionCm360AccountId | Session CM360 account ID
+sessionCm360AccountName | Session CM360 account name
+sessionCm360AdvertiserId | Session CM360 advertiser ID
+sessionCm360AdvertiserName | Session CM360 advertiser name
+sessionCm360CampaignId | Session CM360 campaign ID
+sessionCm360CampaignName | Session CM360 campaign name
+sessionCm360PlacementId | Session CM360 placement ID
+sessionCm360PlacementName | Session CM360 placement name
+sessionCm360CreativeId | Session CM360 creative ID
+sessionCm360CreativeName | Session CM360 creative name
+sessionCm360SiteId | Session CM360 site ID
+sessionCm360SiteName | Session CM360 site name
+
+--- Session DV360 ---
+sessionDv360AdvertiserId | Session DV360 advertiser ID
+sessionDv360AdvertiserName | Session DV360 advertiser name
+sessionDv360CampaignId | Session DV360 campaign ID
+sessionDv360CampaignName | Session DV360 campaign name
+sessionDv360InsertionOrderId | Session DV360 insertion order ID
+sessionDv360InsertionOrderName | Session DV360 insertion order name
+sessionDv360LineItemId | Session DV360 line item ID
+sessionDv360LineItemName | Session DV360 line item name
+sessionDv360CreativeId | Session DV360 creative ID
+sessionDv360CreativeName | Session DV360 creative name
+sessionDv360ExchangeId | Session DV360 exchange ID
+sessionDv360ExchangeName | Session DV360 exchange name
+
+=========================== FIELDS THAT DO NOT EXIST ===========================
+# Checked and NOT present in GAWA (do not attempt):
+#   "pagePathPlusQueryString" (use unifiedPageScreen or pagePath)
+#   "keyEvents" / "keyEventRate"  (GA4 renamed conversions->key events in the UI, but
+#     Supermetrics still exposes them as "conversions" / "conversionsFloat")
+#   "purchaseRevenuePerUser"
+#   "linkDomain" IS present; "outboundLinkDomain" is NOT

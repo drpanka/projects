@@ -1,0 +1,88 @@
+Campaignname,CampaignID,SettingType,Key,Value,Detail
+Leads-Search-1,22767146837,campaign_setting,status,ENABLED,
+Leads-Search-1,22767146837,campaign_setting,campaign_type,SEARCH,
+Leads-Search-1,22767146837,campaign_setting,start_date,2025-07-08,
+Leads-Search-1,22767146837,campaign_setting,end_date,,
+Leads-Search-1,22767146837,campaign_setting,daily_budget,15,Leads-Search-1
+Leads-Search-1,22767146837,campaign_setting,bidding_strategy,MANUAL_CPC,
+Leads-Search-1,22767146837,campaign_setting,geo_target_type,PRESENCE,
+Leads-Search-1,22767146837,network,search,True,
+Leads-Search-1,22767146837,network,display,False,
+Leads-Search-1,22767146837,campaign_setting,languages,en,
+Leads-Search-1,22767146837,ad_schedule,MONDAY,07:00-10:00,
+Leads-Search-1,22767146837,ad_schedule,MONDAY,10:00-15:00,
+Leads-Search-1,22767146837,ad_schedule,MONDAY,15:00-17:00,
+Leads-Search-1,22767146837,ad_schedule,MONDAY,17:00-20:00,
+Leads-Search-1,22767146837,ad_schedule,TUESDAY,07:00-10:00,
+Leads-Search-1,22767146837,ad_schedule,TUESDAY,10:00-15:00,
+Leads-Search-1,22767146837,ad_schedule,TUESDAY,15:00-17:00,
+Leads-Search-1,22767146837,ad_schedule,TUESDAY,17:00-20:00,
+Leads-Search-1,22767146837,ad_schedule,WEDNESDAY,07:00-10:00,
+Leads-Search-1,22767146837,ad_schedule,WEDNESDAY,10:00-15:00,
+Leads-Search-1,22767146837,ad_schedule,WEDNESDAY,15:00-17:00,
+Leads-Search-1,22767146837,ad_schedule,WEDNESDAY,17:00-20:00,
+Leads-Search-1,22767146837,ad_schedule,THURSDAY,07:00-10:00,
+Leads-Search-1,22767146837,ad_schedule,THURSDAY,10:00-15:00,
+Leads-Search-1,22767146837,ad_schedule,THURSDAY,15:00-17:00,
+Leads-Search-1,22767146837,ad_schedule,THURSDAY,17:00-20:00,
+Leads-Search-1,22767146837,ad_schedule,FRIDAY,07:00-10:00,
+Leads-Search-1,22767146837,ad_schedule,FRIDAY,10:00-15:00,
+Leads-Search-1,22767146837,ad_schedule,FRIDAY,15:00-17:00,
+Leads-Search-1,22767146837,ad_schedule,FRIDAY,17:00-20:00,
+Leads-Search-1,22767146837,ad_schedule,SATURDAY,07:00-14:00,
+Leads-Search-1,22767146837,ad_schedule,SUNDAY,08:00-20:00,
+Leads-Search-1,22767146837,bid_adjustment_device,MOBILE,0.85,
+Leads-Search-1,22767146837,location,geo_target_constant,1019810,geoTargetConstants/1019810
+Leads-Search-1,22767146837,location,geo_target_constant,1019888,geoTargetConstants/1019888
+Leads-Search-1,22767146837,location,geo_target_constant,1019925,geoTargetConstants/1019925
+Leads-Search-1,22767146837,location,geo_target_constant,1020070,geoTargetConstants/1020070
+Leads-Search-1,22767146837,location,geo_target_constant,9051607,geoTargetConstants/9051607
+Leads-Search-1,22767146837,location,geo_target_constant,9051855,geoTargetConstants/9051855
+Leads-Search-1,22767146837,location,geo_target_constant,9052387,geoTargetConstants/9052387
+Leads-Search-1,22767146837,location,geo_target_constant,9052691,geoTargetConstants/9052691
+Leads-Search-1,22767146837,location,geo_target_constant,9189294,geoTargetConstants/9189294
+Leads-Search-1,22767146837,location,custom_radius,"44.924401,-93.41144",22 mile
+Leads-Search-1,22767146837,ad_group,Women's Health & Hormones,ENABLED,id=192679099330 type=SEARCH_STANDARD cpc_bid=2.6
+Leads-Search-1,22767146837,ad_group,Pediatrics,ENABLED,id=197488229277 type=SEARCH_STANDARD cpc_bid=2.4
+Leads-Search-1,22767146837,ad_group,Functional & Integrative Medicine,ENABLED,id=198432290338 type=SEARCH_STANDARD cpc_bid=1.9
+Leads-Search-1,22767146837,ad_group,Geo-Qualified — Hopkins & West Metro,ENABLED,id=200485717907 type=SEARCH_STANDARD cpc_bid=2.6
+Leads-Search-1,22767146837,ad_group,Naturopath Near Me — Core,ENABLED,id=201177654927 type=SEARCH_STANDARD cpc_bid=2.5
+Leads-Search-1,22767146837,ad_group,Men's Health,ENABLED,id=201177674047 type=SEARCH_STANDARD cpc_bid=1.3
+PNHdefense-Website traffic-Search-2,23888858069,campaign_setting,status,PAUSED,
+PNHdefense-Website traffic-Search-2,23888858069,campaign_setting,campaign_type,SEARCH,
+PNHdefense-Website traffic-Search-2,23888858069,campaign_setting,start_date,2026-05-28,
+PNHdefense-Website traffic-Search-2,23888858069,campaign_setting,end_date,,
+PNHdefense-Website traffic-Search-2,23888858069,campaign_setting,daily_budget,5,PNHdefense-Website traffic-Search-2
+PNHdefense-Website traffic-Search-2,23888858069,campaign_setting,bidding_strategy,TARGET_IMPRESSION_SHARE,
+PNHdefense-Website traffic-Search-2,23888858069,campaign_setting,geo_target_type,PRESENCE,
+PNHdefense-Website traffic-Search-2,23888858069,network,search,True,
+PNHdefense-Website traffic-Search-2,23888858069,network,display,False,
+PNHdefense-Website traffic-Search-2,23888858069,campaign_setting,languages,en,
+PNHdefense-Website traffic-Search-2,23888858069,location,geo_target_constant,21156,geoTargetConstants/21156
+PNHdefense-Website traffic-Search-2,23888858069,location,geo_target_constant,21182,geoTargetConstants/21182
+PNHdefense-Website traffic-Search-2,23888858069,ad_group,Ad group 1,ENABLED,id=196283052145 type=SEARCH_STANDARD cpc_bid=0.01
+Leads-PMax-Video-1,24032465476,campaign_setting,status,PAUSED,
+Leads-PMax-Video-1,24032465476,campaign_setting,campaign_type,PERFORMANCE_MAX,
+Leads-PMax-Video-1,24032465476,campaign_setting,start_date,2026-07-13,
+Leads-PMax-Video-1,24032465476,campaign_setting,end_date,,
+Leads-PMax-Video-1,24032465476,campaign_setting,daily_budget,10,Leads-PMax-Video-1
+Leads-PMax-Video-1,24032465476,campaign_setting,bidding_strategy,MAXIMIZE_CONVERSIONS,
+Leads-PMax-Video-1,24032465476,campaign_setting,geo_target_type,PRESENCE_OR_INTEREST,
+Leads-PMax-Video-1,24032465476,network,search,True,
+Leads-PMax-Video-1,24032465476,network,display,True,
+Leads-PMax-Video-1,24032465476,campaign_setting,languages,en,
+Leads-PMax-Video-1,24032465476,location,custom_radius,"44.924401,-93.41144",20 mile
+Leads-PMax-Video-1,24032465476,ad_group,A doctor who listens,ENABLED,id=6730142616 type=ASSET_GROUP cpc_bid=
+Leads-PMax-Video-1,24032465476,ad_group,Functional labs & prevention,ENABLED,id=6730142790 type=ASSET_GROUP cpc_bid=
+Campaign #1,22625352639,campaign_setting,status,PAUSED,
+Campaign #1,22625352639,campaign_setting,campaign_type,PERFORMANCE_MAX,
+Campaign #1,22625352639,campaign_setting,start_date,2025-06-02,
+Campaign #1,22625352639,campaign_setting,end_date,,
+Campaign #1,22625352639,campaign_setting,daily_budget,6,Campaign #1
+Campaign #1,22625352639,campaign_setting,bidding_strategy,MAXIMIZE_CONVERSIONS,
+Campaign #1,22625352639,campaign_setting,geo_target_type,PRESENCE_OR_INTEREST,
+Campaign #1,22625352639,network,search,True,
+Campaign #1,22625352639,network,display,True,
+Campaign #1,22625352639,campaign_setting,languages,en,
+Campaign #1,22625352639,location,custom_radius,"44.926374,-93.412098",40 mile
+Campaign #1,22625352639,ad_group,Asset Group 1,ENABLED,id=6582377332 type=ASSET_GROUP cpc_bid=

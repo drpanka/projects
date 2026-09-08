@@ -1,0 +1,79 @@
+yearMonth,pagePath,appointment_bucket,eventCount,purchaseRevenue,totalRevenue,transactions
+2023|12,/commerce/orders/93cddbd2-5217-48ed-8f59-1882654303c8,squarespace_commerce_order,0,0,0,0
+2023|12,/commerce/orders/e97701b0-7452-4d56-99c5-cf2a8cd107a5,squarespace_commerce_order,0,0,0,0
+2023|12,/commerce/orders/f251c711-62f8-4d55-a18d-c2e9f9096ecb,squarespace_commerce_order,0,0,0,0
+2024|01,(not set),page_unattributed,0,0,0,0
+2024|02,(not set),page_unattributed,0,0,0,0
+2024|02,/commerce/orders/ccd6d33a-a542-4e57-a7fb-18bdb20ca861,squarespace_commerce_order,0,0,0,0
+2024|03,(not set),page_unattributed,0,0,0,0
+2024|04,(not set),page_unattributed,0,0,0,0
+2024|05,(not set),page_unattributed,0,0,0,0
+2024|05,/commerce/orders/615538bb-4586-4b48-ad30-d6a6c8021557,squarespace_commerce_order,0,0,0,0
+2024|06,(not set),page_unattributed,0,0,0,0
+2024|07,(not set),page_unattributed,0,0,0,0
+2024|07,/commerce/orders/237c7a29-1a97-4f6f-9724-02fa496df0c8,squarespace_commerce_order,0,0,0,0
+2024|08,(not set),page_unattributed,0,0,0,0
+2024|09,(not set),page_unattributed,0,0,0,0
+2024|09,/commerce/orders/ca92298b-7ab5-44cf-8123-d857a627a9a7,squarespace_commerce_order,0,0,0,0
+2024|09,/commerce/orders/f107e042-db3e-483b-8e70-b7893eaebf5f,squarespace_commerce_order,0,0,0,0
+2024|10,(not set),page_unattributed,0,0,0,0
+2024|10,/commerce/orders/f7e81ba8-b50e-4f8c-a3b5-34d815da08b5,squarespace_commerce_order,0,0,0,0
+2024|11,(not set),page_unattributed,0,0,0,0
+2024|12,/schedule/0081d9d2,acuity_scheduler_other_type,0,0,0,0
+2024|12,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2025|01,/commerce/orders/bf7d2559-e8cb-4f82-b799-6dcdc36ec00d,squarespace_commerce_order,0,0,0,0
+2025|01,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2025|03,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2025|04,/catalog/0081d9d2/?categories=Follow-up%20Packages,other,0,0,0,0
+2025|04,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2025|05,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2025|06,/commerce/orders/4616e694-ba25-442f-849f-5c317c212489?referer=checkout,squarespace_commerce_order,0,0,0,0
+2025|06,/commerce/orders/b344c28a-9252-4519-94e4-0f9937119406,squarespace_commerce_order,0,0,0,0
+2025|06,/schedule/0081d9d2/category/First%20Appointment/appointment/41837463/calendar/8024328/datetime/2025-06-12T09:30:00-05:00/payment?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2025|06,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2025|07,/commerce/orders/a9e8cbd5-f5da-40b6-9449-b76c71c1b005?referer=checkout,squarespace_commerce_order,0,0,0,0
+2025|07,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2025|09,/schedule/0081d9d2/?sh_update=2,acuity_scheduler_other_type,0,0,0,0
+2025|09,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2025|11,/schedule/0081d9d2/?appointmentTypeIds[]=41839134,acuity_scheduler_other_type,0,0,0,0
+2025|11,/schedule/0081d9d2/?appointmentTypeIds[]=79221844,acuity_scheduler_other_type,0,0,0,0
+2025|11,/schedule/0081d9d2/?sh_update=2&ref=email,acuity_scheduler_other_type,0,0,0,0
+2025|11,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2025|12,/commerce/orders/2c55cd66-7f12-4473-8431-4dab182db508?referer=checkout,squarespace_commerce_order,0,0,0,0
+2026|01,/commerce/orders/da0f845c-5de3-4448-a33f-86ff5ffc7a36?referer=checkout,squarespace_commerce_order,0,0,0,0
+2026|01,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2026|02,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2026|03,(not set),page_unattributed,0,0,0,0
+2026|03,/schedule/0081d9d2/?sh_update=2&ref=email,acuity_scheduler_other_type,0,0,0,0
+2026|03,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2026|04,(not set),page_unattributed,0,0,0,0
+2026|04,/commerce/orders/3d1be98f-bc90-4faa-8886-b7b096f1eb20?referer=checkout,squarespace_commerce_order,0,0,0,0
+2026|04,/schedule-an-appointment,onsite_schedule_page,0,0,0,0
+2026|04,/schedule-an-appointment?gtm_debug=1777321224080,onsite_schedule_page,0,0,0,0
+2026|04,/schedule/0081d9d2/?isInConfig=false&ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2026|04,/schedule/0081d9d2/?sh_update=2,acuity_scheduler_other_type,0,0,0,0
+2026|04,/schedule/0081d9d2?ref=sched_block,acuity_scheduler_other_type,0,0,0,0
+2026|05,(not set),page_unattributed,2,225.0,225.0,2
+2026|05,/commerce/orders/445817ff-7e04-4062-a5c0-b429348d5c58,squarespace_commerce_order,1,0.0,0.0,0
+2026|05,/schedule-an-appointment,onsite_schedule_page,1,1.0,1.0,1
+2026|05,/schedule/0081d9d2/confirmation/cb468f6b7fb4b83d8393994b1436ceba?ref=email,acuity_scheduler_other_type,1,225.0,225.0,1
+2026|06,(not set),page_unattributed,21,2608.0,2608.0,21
+2026|06,/schedule-an-appointment,onsite_schedule_page,14,1838.0,1838.0,14
+2026|06,/schedule-an-appointment?gtm_debug=1780603273076,onsite_schedule_page,1,1.0,1.0,1
+2026|06,/schedule-an-appointment?gtm_debug=1780603737192,onsite_schedule_page,1,1.0,1.0,1
+2026|06,/schedule/0081d9d2/?appointmentTypeIds[]=41826455,free_intro_call_41826455,2,0.0,0.0,2
+2026|06,/schedule/0081d9d2/?isInConfig=false&ref=sched_block,acuity_scheduler_other_type,1,225.0,225.0,1
+2026|06,/schedule/0081d9d2/?sh_update=2&ref=email,acuity_scheduler_other_type,1,0.0,0.0,1
+2026|06,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,free_intro_call_41826455,3,0.0,0.0,3
+2026|07,(not set),page_unattributed,16,2325.0,2325.0,16
+2026|07,/schedule-an-appointment,onsite_schedule_page,11,1357.0,1357.0,11
+2026|07,/schedule/0081d9d2/?appointmentTypeIds[]=41826455,free_intro_call_41826455,3,0.0,0.0,3
+2026|07,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,free_intro_call_41826455,9,0.0,0.0,9
+2026|08,(not set),page_unattributed,22,4071.0,4071.0,18
+2026|08,/schedule/0081d9d2/?isInConfig=false&ref=sched_block,acuity_scheduler_other_type,1,0.0,0.0,1
+2026|08,/schedule/0081d9d2/appointment/41826455/calendar/7700282/datetime/2026-08-05T10:00:00-05:00?appointmentTypeIds%5B%5D=41826455,free_intro_call_41826455,1,0.0,0.0,1
+2026|08,/schedule/0081d9d2/appointment/41826455/calendar/7700282?appointmentTypeIds%5B%5D=41826455,free_intro_call_41826455,1,0.0,0.0,1
+2026|08,/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455,free_intro_call_41826455,5,0.0,0.0,5
+2026|09,,page_unattributed,0,0,0,0
+2026|09,(not set),page_unattributed,5,900.0,900.0,5
+2026|09,/schedule/0081d9d2/appointment/41826455/calendar/7700282/datetime/2026-09-04T14:25:00-05:00?appointmentTypeIds%5B%5D=41826455,free_intro_call_41826455,1,0.0,0.0,1

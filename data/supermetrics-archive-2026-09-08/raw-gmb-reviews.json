@@ -1,0 +1,76 @@
+{
+ "requested_field_ids": [
+  "review_create_date",
+  "review_create_time",
+  "review_id",
+  "location_name",
+  "review_star_rating",
+  "review_reviewer_name",
+  "review_comment",
+  "review_reply_comment",
+  "review_reply_update_time",
+  "review_update_time"
+ ],
+ "data": [
+  [
+   "Review creation date",
+   "Review creation time",
+   "Review ID",
+   "Location name",
+   "Star rating",
+   "Reviewer name",
+   "Review comment",
+   "Review reply comment",
+   "Review reply time",
+   "Review modification time"
+  ],
+  [
+   "2023-05-15",
+   "2023-05-15 21:55:35",
+   "AbFvOqnloefN7mZQviRYr2dwSAgmhEwxxFdouJBno9zqv2TNCYV0f5paxD2RlfWORiWneJNSrYiEDg",
+   "Panka Natural Health",
+   "\u2605\u2605\u2605\u2605\u2605",
+   "Laurie H.",
+   "I was very pleased to see that Dr. Panka had made a chart of my blood test levels over the years so that we could see when things improved so we could go back to doing some things that we'd discontinued.  It's been very helpful.  She always has some great tips, information, and ideas for me, which I really appreciate.",
+   "Thank you for sharing this. Tracking your labs over time is exactly the kind of approach we believe in: it lets us see what's actually working and make decisions based on real data rather than guesswork. We're so glad Dr. Panka's guidance has been helpful, and we look forward to continuing to support your health. Thank you for choosing Panka Natural Health!",
+   "2026-07-17 18:46:02",
+   "2026-07-04 19:31:27"
+  ],
+  [
+   "2025-04-28",
+   "2025-04-28 18:30:11",
+   "AbFvOqkaP9nE4v-WQ_lWQrzQ8G6H_2RWi0Uf6pvjogJlq05QazGgQjaufR8V0jW86EGkFK7NpvqTow",
+   "Panka Natural Health",
+   "\u2605\u2605\u2605\u2605\u2605",
+   "Miranda Piehler",
+   "Dr. Haley has been empathetic, validating, and willing to problem-solve since the first phone call I had with her! Mid-way through my pregnancy, my newly triggered eczema was so painful, that I went to urgent care twice and saw a dermatologist. The results led to worsening symptoms and then only treating the symptoms through prescription medications instead of finding the cause of the root problem. I reached out to Dr. Haley during my postpartum months, she listened to my concerns, and offered several routes I could choose by giving me the autonomy to make the best decisions for myself. After lab testing, food sensitivity testing, and food reintroductions, I was able to identify which foods were the trigger foods that were causing my symptoms and they were completely reversed without having to take any prescription medications. I not only recommend the importance of seeing naturopathic doctors to heal, but I specifically recommend Dr. Haley. She also took the time to support any other concerns I have had and the visit summaries have been so detailed and helpful. Now, over a year later, she continues to help problem-solve any of my concerns, and has supported my husband and I in our fertility prep. I can't recommend her enough!",
+   "Thank you for your wonderful review! We're pleased to hear how our natural approach helped resolve your eczema without medications. It's been a privilege supporting your health journey. We value the trust you've placed in our practice and look forward to continuing to support your wellness goals!",
+   "2025-04-29 15:30:14",
+   "2025-04-28 18:30:11"
+  ],
+  [
+   "2025-06-09",
+   "2025-06-09 18:03:15",
+   "AbFvOqk03ZQyKHKMJDpvMm9VcqwOKcUf4H67pZW2B-7LMGWbPXDBT2FmFeX91gyeoP03eYLucIPx",
+   "Panka Natural Health",
+   "\u2605\u2605\u2605\u2605\u2605",
+   "Kendra Hoffman",
+   "Dr Haley Panka has been my doctor for about 4 years now and I feel so supported. She always pays attention and takes great notes. She spends lots of time to make sure she understands all the nuances of what I'm describing. I've had so many OH! AHA! moments working with her. She also takes the time to explain things to me so that I can follow a test, a protocol, or a recommendation while being well-informed. I get the whole story and extraordinary care and respect from her. So glad that she's here!",
+   "Thank you for the thoughtful review!",
+   "2025-06-09 19:40:26",
+   "2025-06-09 18:03:15"
+  ],
+  [
+   "2025-12-02",
+   "2025-12-02 22:27:03",
+   "AbFvOqnh0cmDcWqEEMPcO1lnHEwT28JMenugFN5nw-BcdyNIvnMUEjtA6bIunTHfbC2rlHJO-3DMCw",
+   "Panka Natural Health",
+   "\u2605\u2605\u2605\u2605\u2605",
+   "Ariel",
+   "",
+   "Thank you so much for your review! ",
+   "2025-12-03 17:33:36",
+   "2025-12-02 22:27:03"
+  ]
+ ]
+}
