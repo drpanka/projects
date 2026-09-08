@@ -33,7 +33,7 @@ Panka Natural Health (PNH) — cash-pay, fee-for-service naturopathic clinic, 90
 | **Daily budget** | **$10.00** | ⚠️ was $12 on Sept 3, $17 in mid-Aug, ~$25–29 in July. **Trending down, not up.** |
 | Bidding | MANUAL_CPC | Google recommends Maximize Conversions — **declined on purpose**, see §6 |
 | Geo | PRESENCE only — 6 geo targets + 22-mile radius around 44.9244, −93.4114 | |
-| Ad schedule | Live since Aug 17: M–F 7–10a base / 10a–3p −25% / 3–5p base / 5–8p +15%; Sat 7a–2p; Sun 8a–8p | A Monday overnight-serving anomaly was flagged in early Sept and is unverified |
+| Ad schedule | Live since Aug 17, all 22 rows now carry per-row modifiers | Monday overnight anomaly RESOLVED 2026-09-08: all off-schedule impressions fall on 2026-08-17 only, the day the schedule was created (14 impr, 2 clicks, $5.11, before it took effect). Zero since. |
 | Ad groups (6, all enabled) | Women's Health & Hormones (34 kw) · Men's Health (31) · Functional & Integrative Medicine (17) · Naturopath Near Me — Core (15) · Geo-Qualified — Hopkins & West Metro (10) · Pediatrics (6) | |
 | Negative keywords | **451** at campaign level (445 phrase, 4 exact, 2 broad) | |
 **Impression share is pinned at the 9.99% floor with 81–89% of impressions lost to budget every single day since July.** Rank loss is only 4–16%. The auction will give this campaign roughly 8–9× its current volume at current bids; budget is the only constraint.
@@ -90,6 +90,29 @@ Also verified from `embed.js` source: the iframe-src builder reads the **parent 
 ## 7. Protect list — never add as negatives
 `test` · `testing` · `panel` · `labs` · `dutch` · `testosterone` · `low testosterone` · `adrenal fatigue` · `diabetes` · `cholesterol` · `weight loss` · `fertility` · `adhd` · `anxiety` · `depression` · `insomnia` · `sleep` · `menopause` · `perimenopause` · `pcos` · `hopkins` · bare `treatment` · `telehealth` · `virtual` · `primary care` · `estrogen` · `concierge` · `herbalist`
 Rationale: each maps to a live service line or produced a tracked conversion. "where to get hormones tested," "severe daytime sleepiness," and "adrenal fatigue doctor near me" all reached the schedule page.
+## 7b. SUPERSEDED BY THE 2026-09-08 DATA REVIEW
+
+Read `reports/leads-search-1-final-data-review-2026-09-08.md` before acting on section 4 or 8 below.
+The full dataset is archived at `data/supermetrics-archive-2026-09-08/` and needs no subscription.
+Corrections established there, with sources:
+
+- The "$11.57 CPA in 2025 vs $34.79 in 2026" comparison is INVALID. The 18-conversion July 2026
+  figure counts eleven days of one action; primary conversion actions were switched on 2026-07-12.
+  Like-for-like, July 2026 was the account's best month ever at $9.35 CPA versus $11.57 for
+  Jul-Aug 2025. The rebuild did not raise cost per outcome. (`ads-cpa-like-for-like-monthly.csv`)
+- The real problem is AUGUST 2026: same spend and clicks as July, half the outcomes. Undiagnosed.
+- The account was DARK 2025-09 through 2026-03. Cross-era comparisons span a seven-month gap.
+- Keywords that actually served: 14 (Jul 2025, one ad group) vs 102 (Jul 2026, seven ad groups) —
+  not 19 vs 83. (`ads-keyword-count-by-month.csv`)
+- Impression share of exactly 0.0999 is Google's floor, not a measurement. July 2025 did carry
+  genuine higher readings. The failure mode flipped from rank-loss to budget-loss; total share
+  captured barely moved (13.2% to 12.5%). (`ads-impression-share-floor-analysis.csv`)
+- Google Business Profile: bookings genuinely zero across all 550 days; a DUPLICATE LISTING exists
+  (10418367222074184209) sharing name/phone/website with the live one; 66% of profile search volume
+  is discovery intent, not brand; last review was 2025-12-02.
+- Profile views are not comparable to ad clicks. Like-for-like: profile 711 website clicks over
+  18 months (~39/mo) vs paid search 1,383 clicks over ~14 active months (~99/mo).
+
 ## 8. Open threads, ranked
 1. **Budget: $10/day and falling, in peak season, with 81–89% of impressions lost to budget.** The account's best CPA ($20.23) came at ~$29/day. This is the single largest unexploited lever and it has moved the wrong way three times. Decide deliberately or restore to $25.
 2. **Verify the Intro Call Click snippet actually fires** — manual test with Tag Assistant; confirm Secondary.
