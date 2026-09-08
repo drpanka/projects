@@ -72,9 +72,10 @@ Also verified from `embed.js` source: the iframe-src builder reads the **parent 
 ### Still open in the measurement stack
 - Bookings remain unattributable — the click fires on-domain, the *booking* still completes on Acuity's domain as a self-referral. Fix: repoint the 9 CTAs to `/schedule-an-appointment?appointmentType=41826455` (no new page needed).
 - `PNH2 (web) purchase` (id `7196843730`) is enabled but starved. It should become the primary conversion once attribution is repaired.
-- `generate_lead`: 95 events Jul–Sep, all on `/contact`, 26 from paid, none in Google Ads — **but only 33 `form_start` and 1 `form_submit`, so 95 real submissions is arithmetically impossible.** Identify what fires this before trusting it.
-- `tel:+16125688382` and the Chatbase "PNH Guide" chatbot have zero tracking.
+- ~~`generate_lead`: 95 events... identify what fires this~~ **RESOLVED 2026-09-08: it is a page-view trigger, not a lead.** `generate_lead` fires on page load of `/contact`. Ratio to `page_view` on that path is exactly 1.00 in all five months it has existed (170 of 170 events); `form_submit` on `/contact` is 0. The 54 lifetime paid-search events are contact-page views. **Never import it into Google Ads as a conversion.** See `data/supermetrics-archive-2026-09-08/NOTES-ga4-events.md` section 1.
+- ~~`tel:` and Chatbase have zero tracking~~ **HALF WRONG, corrected 2026-09-08.** Phone clicks ARE tracked in GA4 as outbound `click` events (two link formats exist: `tel:612.568.8382` and `tel:612-568-8382`), attributed by source including `google / cpc`; they were simply never imported into Google Ads. The Chatbase chatbot is genuinely untracked — it appears nowhere in outbound-link data.
 - `allow_enhanced_conversions: false` blocks Enhanced Conversions for Leads and general uplift.
+- **NEW 2026-09-08: GA4 holds ~2.5 years of Acuity booking revenue.** `ga4-purchases-detail.csv` reaches back to December 2023 with $51,890 across 429 purchase events (~$27,900 of it in calendar 2024, never examined). GA4 event history reaches February 2023. This is the longest online record of the business outside Acuity. Caveat: purchase events overcount real bookings, so treat revenue as indicative, not a ledger.
 ## 6. Decision log — settled, do not re-litigate
 | Decision | Rationale |
 |---|---|

@@ -181,3 +181,45 @@ zero-conversion keyword and dead-city lists against the post-September-7 live st
 tag-assistant pollution quantification, and a data-integrity cross-check of the archive's internal
 consistency. The conversion forensics, keyword counts, campaign history and all Business Profile
 findings above did complete and are sourced to named files.
+
+---
+
+## 7. Addendum, later on 2026-09-08: work that was stopped short, now finished
+
+The first workflow's GA4 agent wrote ten data files and was killed before writing its analysis. That
+analysis is now at `data/supermetrics-archive-2026-09-08/NOTES-ga4-events.md`. It produced four
+findings that correct standing documents.
+
+**`generate_lead` never measured a lead.** It fires on page load of `/contact`. The ratio to
+`page_view` on that path is exactly 1.00 in every one of the five months it has existed — 170 of 170
+events — while `form_submit` on `/contact` is 0. The 54 lifetime paid-search `generate_lead` events
+are contact-page views. This closes an open thread that had sat unexamined in the context reference
+since it was first flagged as "arithmetically impossible", and it independently reinforces the
+decision not to import that event into Google Ads: doing so would have imported page views as leads,
+the same error this engagement has spent a week unwinding.
+
+**GA4 holds about 2.5 years of Acuity booking revenue.** `ga4-purchases-detail.csv` reaches back to
+December 2023 and records $51,890 across 429 purchase events, roughly $27,900 of it in calendar 2024,
+a period no analysis in this engagement has touched. Earlier work looked only at a ten-week window and
+concluded "66 bookings, $7,753". Purchase events overcount real bookings, so this is an indicative
+series rather than a ledger, but it is now archived and it is the longest online record of the
+business outside Acuity itself. GA4 event history reaches February 2023.
+
+**The phone number is tracked; the chatbot is not.** The context reference states both have zero
+tracking. Phone clicks are recorded in GA4 as outbound `click` events under two link formats and are
+attributed by source including paid search. They were never imported into Google Ads, which is a
+different and much smaller problem than being unmeasured. Chatbase is genuinely absent from all
+outbound-link data.
+
+**A second corroborating signal on the August drop.** Paid-search clicks on the off-domain intro-call
+call-to-action fell from 9 in July to 2 in August, a 78% decline in the same window that like-for-like
+conversions halved on identical spend and clicks. The numbers are small enough to be noise on their
+own, but they move in the same direction and lean toward a real behavioural change rather than a pure
+measurement artefact. Worth weighing against the tagging hypothesis rather than treating either as
+settled.
+
+One incidental finding worth keeping. The two largest outbound destinations on the site, by a wide
+margin, are the patient portal (589 clicks) and the supplement dispensary (229). A large share of site
+traffic is existing patients doing administrative tasks. Any future "site conversion rate" computed
+against total sessions will understate performance for that reason and should use new-user sessions
+instead.

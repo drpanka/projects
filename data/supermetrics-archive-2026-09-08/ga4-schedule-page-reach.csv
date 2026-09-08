@@ -1,0 +1,188 @@
+grain,period,sessionDefaultChannelGrouping,channel_sessions_all_pages,schedpage_pageview_sessions,schedpage_pageview_events,schedule_appointment_sessions,schedule_appointment_events,schedpage_purchase_events,schedpage_session_start_sessions,reach_rate_sessions_pv_over_channel,pageviews_per_reaching_session,sched_appt_events_per_pageview
+month_all_channels,2023|02,(all),269,29,0,0,0,0,11,0.1078,,
+month_all_channels,2023|03,(all),1011,74,0,0,0,0,24,0.0732,,
+month_all_channels,2023|04,(all),829,69,0,0,0,0,19,0.0832,,
+month_all_channels,2023|05,(all),1198,96,0,57,0,0,29,0.0801,,
+month_all_channels,2023|06,(all),657,56,0,56,0,0,20,0.0852,,
+month_all_channels,2023|07,(all),692,60,0,59,0,0,19,0.0867,,
+month_all_channels,2023|08,(all),442,49,0,48,0,0,26,0.1109,,
+month_all_channels,2023|09,(all),324,67,0,67,0,0,38,0.2068,,
+month_all_channels,2023|10,(all),289,53,0,53,0,0,15,0.1834,,
+month_all_channels,2023|11,(all),209,34,0,34,0,0,5,0.1627,,
+month_all_channels,2023|12,(all),233,40,0,39,0,0,8,0.1717,,
+month_all_channels,2024|01,(all),383,61,0,61,0,0,21,0.1593,,
+month_all_channels,2024|02,(all),1769,83,0,83,0,0,24,0.0469,,
+month_all_channels,2024|03,(all),1052,103,0,101,0,0,31,0.0979,,
+month_all_channels,2024|04,(all),683,78,0,79,0,0,32,0.1142,,
+month_all_channels,2024|05,(all),547,62,0,61,0,0,19,0.1133,,
+month_all_channels,2024|06,(all),681,61,0,61,0,0,18,0.0896,,
+month_all_channels,2024|07,(all),476,68,0,66,0,0,34,0.1429,,
+month_all_channels,2024|08,(all),314,46,0,46,0,0,26,0.1465,,
+month_all_channels,2024|09,(all),720,75,0,75,0,0,33,0.1042,,
+month_all_channels,2024|10,(all),699,74,0,72,0,0,27,0.1059,,
+month_all_channels,2024|11,(all),692,73,0,72,0,0,33,0.1055,,
+month_all_channels,2024|12,(all),499,49,0,48,0,0,19,0.0982,,
+month_all_channels,2025|01,(all),528,117,0,116,0,0,71,0.2216,,
+month_all_channels,2025|02,(all),525,61,0,58,0,0,21,0.1162,,
+month_all_channels,2025|03,(all),537,85,0,81,0,0,45,0.1583,,
+month_all_channels,2025|04,(all),449,79,0,79,0,0,39,0.1759,,
+month_all_channels,2025|05,(all),437,57,0,57,0,0,26,0.1304,,
+month_all_channels,2025|06,(all),842,109,0,98,0,0,61,0.1295,,
+month_all_channels,2025|07,(all),3547,731,0,488,0,0,669,0.2061,,
+month_all_channels,2025|08,(all),698,101,0,100,0,0,35,0.1447,,
+month_all_channels,2025|09,(all),448,94,0,92,0,0,46,0.2098,,
+month_all_channels,2025|10,(all),1088,105,0,86,0,0,60,0.0965,,
+month_all_channels,2025|11,(all),605,141,0,110,0,0,82,0.2331,,
+month_all_channels,2025|12,(all),393,107,0,74,0,0,62,0.2723,,
+month_all_channels,2026|01,(all),640,140,0,108,0,0,84,0.2188,,
+month_all_channels,2026|02,(all),522,90,0,61,0,0,50,0.1724,,
+month_all_channels,2026|03,(all),638,101,0,72,0,0,48,0.1583,,
+month_all_channels,2026|04,(all),587,108,0,78,0,0,59,0.184,,
+month_all_channels,2026|05,(all),795,159,90,126,75,1,86,0.2,0.566,0.8333
+month_all_channels,2026|06,(all),847,113,150,110,147,16,57,0.1334,1.3274,0.98
+month_all_channels,2026|07,(all),1233,180,205,180,205,11,93,0.146,1.1389,1.0
+month_all_channels,2026|08,(all),1021,152,181,152,181,0,85,0.1489,1.1908,1.0
+month_all_channels,2026|09,(all),173,21,22,21,22,0,12,0.1214,1.0476,1.0
+month_by_channel,2026|05,Cross-network,2,0,0,0,0,0,0,0.0,,
+month_by_channel,2026|05,Direct,331,38,46,22,31,0,25,0.1148,1.2105,0.6739
+month_by_channel,2026|05,Organic Search,271,20,30,20,30,1,4,0.0738,1.5,1.0
+month_by_channel,2026|05,Organic Social,37,3,3,3,3,0,2,0.0811,1.0,1.0
+month_by_channel,2026|05,Paid Search,98,1,2,1,2,0,1,0.0102,2.0,1.0
+month_by_channel,2026|05,Referral,51,7,8,7,8,0,3,0.1373,1.1429,1.0
+month_by_channel,2026|05,Unassigned,4,1,1,1,1,0,0,0.25,1.0,1.0
+month_by_channel,2026|06,AI Assistant,2,0,0,0,0,0,0,0.0,,
+month_by_channel,2026|06,Direct,466,55,72,52,69,2,43,0.118,1.3091,0.9583
+month_by_channel,2026|06,Organic Search,215,31,38,31,38,3,8,0.1442,1.2258,1.0
+month_by_channel,2026|06,Organic Social,32,0,0,0,0,0,0,0.0,,
+month_by_channel,2026|06,Paid Search,53,6,10,6,10,2,0,0.1132,1.6667,1.0
+month_by_channel,2026|06,Referral,74,19,28,19,28,9,6,0.2568,1.4737,1.0
+month_by_channel,2026|06,Unassigned,0,2,2,2,2,0,0,,1.0,1.0
+month_by_channel,2026|07,AI Assistant,1,0,0,0,0,0,0,0.0,,
+month_by_channel,2026|07,Cross-network,5,0,0,0,0,0,0,0.0,,
+month_by_channel,2026|07,Direct,533,81,85,81,85,2,61,0.152,1.0494,1.0
+month_by_channel,2026|07,Organic Search,232,32,47,32,47,6,15,0.1379,1.4688,1.0
+month_by_channel,2026|07,Organic Social,13,1,1,1,1,0,0,0.0769,1.0,1.0
+month_by_channel,2026|07,Paid Search,351,56,61,56,61,2,14,0.1595,1.0893,1.0
+month_by_channel,2026|07,Referral,89,8,8,8,8,1,3,0.0899,1.0,1.0
+month_by_channel,2026|07,Unassigned,0,2,3,2,3,0,0,,1.5,1.0
+month_by_channel,2026|08,AI Assistant,2,0,0,0,0,0,0,0.0,,
+month_by_channel,2026|08,Cross-network,3,1,2,1,2,0,0,0.3333,2.0,1.0
+month_by_channel,2026|08,Direct,410,75,89,75,89,0,56,0.1829,1.1867,1.0
+month_by_channel,2026|08,Organic Search,248,48,53,48,53,0,23,0.1935,1.1042,1.0
+month_by_channel,2026|08,Organic Social,11,0,0,0,0,0,0,0.0,,
+month_by_channel,2026|08,Paid Search,292,20,23,20,23,0,6,0.0685,1.15,1.0
+month_by_channel,2026|08,Referral,51,7,13,7,13,0,0,0.1373,1.8571,1.0
+month_by_channel,2026|08,Unassigned,0,1,1,1,1,0,0,,1.0,1.0
+month_by_channel,2026|09,AI Assistant,3,0,0,0,0,0,0,0.0,,
+month_by_channel,2026|09,Direct,68,11,11,11,11,0,9,0.1618,1.0,1.0
+month_by_channel,2026|09,Organic Search,50,9,10,9,10,0,4,0.18,1.1111,1.0
+month_by_channel,2026|09,Organic Social,3,0,0,0,0,0,0,0.0,,
+month_by_channel,2026|09,Paid Search,35,3,3,3,3,0,0,0.0857,1.0,1.0
+month_by_channel,2026|09,Referral,7,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-05-11,Direct,56,3,3,2,3,0,1,0.0536,1.0,1.0
+week_by_channel,2026-05-11,Organic Search,60,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-05-11,Organic Social,6,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-05-11,Paid Search,31,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-05-11,Referral,8,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-05-11,Unassigned,2,1,1,1,1,0,0,0.5,1.0,1.0
+week_by_channel,2026-05-18,Cross-network,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-05-18,Direct,84,18,19,10,11,0,14,0.2143,1.0556,0.5789
+week_by_channel,2026-05-18,Organic Search,67,8,10,8,10,0,1,0.1194,1.25,1.0
+week_by_channel,2026-05-18,Organic Social,25,3,3,3,3,0,2,0.12,1.0,1.0
+week_by_channel,2026-05-18,Paid Search,1,0,0,0,0,0,1,0.0,,
+week_by_channel,2026-05-18,Referral,12,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-05-18,Unassigned,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-05-25,Direct,92,17,24,10,17,0,10,0.1848,1.4118,0.7083
+week_by_channel,2026-05-25,Organic Search,66,12,20,12,20,1,3,0.1818,1.6667,1.0
+week_by_channel,2026-05-25,Organic Social,3,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-05-25,Paid Search,9,1,2,1,2,0,0,0.1111,2.0,1.0
+week_by_channel,2026-05-25,Referral,22,7,8,7,8,0,3,0.3182,1.1429,1.0
+week_by_channel,2026-05-25,Unassigned,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-06-01,Direct,95,16,23,13,20,1,11,0.1684,1.4375,0.8696
+week_by_channel,2026-06-01,Organic Search,66,4,4,4,4,0,0,0.0606,1.0,1.0
+week_by_channel,2026-06-01,Organic Social,24,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-06-01,Paid Search,7,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-06-01,Referral,10,2,2,2,2,2,1,0.2,1.0,1.0
+week_by_channel,2026-06-08,AI Assistant,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-06-08,Direct,159,11,16,11,16,0,8,0.0692,1.4545,1.0
+week_by_channel,2026-06-08,Organic Search,52,14,20,14,20,2,3,0.2692,1.4286,1.0
+week_by_channel,2026-06-08,Organic Social,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-06-08,Paid Search,13,2,4,2,4,1,0,0.1538,2.0,1.0
+week_by_channel,2026-06-08,Referral,28,6,7,6,7,0,2,0.2143,1.1667,1.0
+week_by_channel,2026-06-08,Unassigned,0,2,2,2,2,0,0,,1.0,1.0
+week_by_channel,2026-06-15,Direct,112,14,17,14,17,1,10,0.125,1.2143,1.0
+week_by_channel,2026-06-15,Organic Search,37,8,9,8,9,0,3,0.2162,1.125,1.0
+week_by_channel,2026-06-15,Organic Social,2,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-06-15,Paid Search,14,3,4,3,4,0,0,0.2143,1.3333,1.0
+week_by_channel,2026-06-15,Referral,21,8,14,8,14,7,2,0.381,1.75,1.0
+week_by_channel,2026-06-22,AI Assistant,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-06-22,Direct,72,11,12,11,12,0,11,0.1528,1.0909,1.0
+week_by_channel,2026-06-22,Organic Search,44,3,3,3,3,0,2,0.0682,1.0,1.0
+week_by_channel,2026-06-22,Organic Social,2,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-06-22,Paid Search,15,1,2,1,2,1,0,0.0667,2.0,1.0
+week_by_channel,2026-06-22,Referral,9,2,4,2,4,0,1,0.2222,2.0,1.0
+week_by_channel,2026-06-29,Direct,79,8,9,8,9,0,8,0.1013,1.125,1.0
+week_by_channel,2026-06-29,Organic Search,37,5,5,5,5,2,2,0.1351,1.0,1.0
+week_by_channel,2026-06-29,Organic Social,3,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-06-29,Paid Search,32,5,5,5,5,0,2,0.1562,1.0,1.0
+week_by_channel,2026-06-29,Referral,20,2,2,2,2,0,2,0.1,1.0,1.0
+week_by_channel,2026-07-06,Direct,76,13,13,13,13,0,10,0.1711,1.0,1.0
+week_by_channel,2026-07-06,Organic Search,50,3,5,3,5,3,1,0.06,1.6667,1.0
+week_by_channel,2026-07-06,Organic Social,4,1,1,1,1,0,0,0.25,1.0,1.0
+week_by_channel,2026-07-06,Paid Search,81,19,21,19,21,2,3,0.2346,1.1053,1.0
+week_by_channel,2026-07-06,Referral,19,2,2,2,2,0,0,0.1053,1.0,1.0
+week_by_channel,2026-07-06,Unassigned,0,1,1,1,1,0,0,,1.0,1.0
+week_by_channel,2026-07-13,AI Assistant,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-07-13,Cross-network,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-07-13,Direct,132,29,30,29,30,1,23,0.2197,1.0345,1.0
+week_by_channel,2026-07-13,Organic Search,58,5,7,5,7,0,0,0.0862,1.4,1.0
+week_by_channel,2026-07-13,Organic Social,2,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-07-13,Paid Search,95,9,12,9,12,0,1,0.0947,1.3333,1.0
+week_by_channel,2026-07-13,Referral,14,1,1,1,1,0,0,0.0714,1.0,1.0
+week_by_channel,2026-07-13,Unassigned,0,1,2,1,2,0,0,,2.0,1.0
+week_by_channel,2026-07-20,Cross-network,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-07-20,Direct,192,20,22,20,22,1,12,0.1042,1.1,1.0
+week_by_channel,2026-07-20,Organic Search,54,8,8,8,8,1,3,0.1481,1.0,1.0
+week_by_channel,2026-07-20,Organic Social,3,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-07-20,Paid Search,78,12,12,12,12,0,6,0.1538,1.0,1.0
+week_by_channel,2026-07-20,Referral,31,4,4,4,4,1,1,0.129,1.0,1.0
+week_by_channel,2026-07-27,Cross-network,3,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-07-27,Direct,98,16,17,16,17,0,13,0.1633,1.0625,1.0
+week_by_channel,2026-07-27,Organic Search,62,14,25,14,25,1,9,0.2258,1.7857,1.0
+week_by_channel,2026-07-27,Organic Social,5,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-07-27,Paid Search,108,15,16,15,16,0,3,0.1389,1.0667,1.0
+week_by_channel,2026-07-27,Referral,11,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-08-03,Cross-network,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-08-03,Direct,117,28,34,28,34,0,23,0.2393,1.2143,1.0
+week_by_channel,2026-08-03,Organic Search,67,13,13,13,13,0,6,0.194,1.0,1.0
+week_by_channel,2026-08-03,Organic Social,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-08-03,Paid Search,101,8,8,8,8,0,5,0.0792,1.0,1.0
+week_by_channel,2026-08-03,Referral,17,4,9,4,9,0,0,0.2353,2.25,1.0
+week_by_channel,2026-08-10,Cross-network,2,1,2,1,2,0,0,0.5,2.0,1.0
+week_by_channel,2026-08-10,Direct,71,17,23,17,23,0,11,0.2394,1.3529,1.0
+week_by_channel,2026-08-10,Organic Search,50,13,14,13,14,0,11,0.26,1.0769,1.0
+week_by_channel,2026-08-10,Organic Social,4,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-08-10,Paid Search,70,4,6,4,6,0,0,0.0571,1.5,1.0
+week_by_channel,2026-08-10,Referral,19,2,3,2,3,0,0,0.1053,1.5,1.0
+week_by_channel,2026-08-10,Unassigned,0,1,1,1,1,0,0,,1.0,1.0
+week_by_channel,2026-08-17,AI Assistant,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-08-17,Direct,59,12,14,12,14,0,7,0.2034,1.1667,1.0
+week_by_channel,2026-08-17,Organic Search,54,15,18,15,18,0,6,0.2778,1.2,1.0
+week_by_channel,2026-08-17,Paid Search,43,3,3,3,3,0,0,0.0698,1.0,1.0
+week_by_channel,2026-08-17,Referral,7,1,1,1,1,0,0,0.1429,1.0,1.0
+week_by_channel,2026-08-24,Direct,137,14,14,14,14,0,12,0.1022,1.0,1.0
+week_by_channel,2026-08-24,Organic Search,48,3,4,3,4,0,0,0.0625,1.3333,1.0
+week_by_channel,2026-08-24,Organic Social,5,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-08-24,Paid Search,37,1,1,1,1,0,0,0.027,1.0,1.0
+week_by_channel,2026-08-24,Referral,5,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-08-31,AI Assistant,4,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-08-31,Direct,72,11,11,11,11,0,8,0.1528,1.0,1.0
+week_by_channel,2026-08-31,Organic Search,61,11,12,11,12,0,3,0.1803,1.0909,1.0
+week_by_channel,2026-08-31,Organic Social,2,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-08-31,Paid Search,34,1,1,1,1,0,0,0.0294,1.0,1.0
+week_by_channel,2026-08-31,Referral,8,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-09-07,Direct,6,2,2,2,2,0,2,0.3333,1.0,1.0
+week_by_channel,2026-09-07,Organic Search,5,1,1,1,1,0,1,0.2,1.0,1.0
+week_by_channel,2026-09-07,Organic Social,1,0,0,0,0,0,0,0.0,,
+week_by_channel,2026-09-07,Paid Search,3,2,2,2,2,0,0,0.6667,1.0,1.0
+week_by_channel,2026-09-07,Referral,2,0,0,0,0,0,0,0.0,,
