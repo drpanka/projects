@@ -70,40 +70,55 @@ platform limitation, not a settings mistake.
 
 There are exactly two ways out.
 
-### The clean fix: one action, two triggers (recommended)
+### The link is off-domain, which decides the design
 
-Consolidate into a single conversion action that fires on *either* scheduling surface. One ad click
-then produces at most one conversion, regardless of how many qualifying pages the visitor loads. It
-cannot double count by construction.
+You confirmed the intro-call link points to:
 
-1. **GA4 → Admin → Events → Create event.** Name it `booking_surface_reached`. Condition:
-   `page_location` contains `/schedule-an-appointment` **OR** `page_location` contains the path of
-   your intro-call destination. Mark it a key event.
-2. **Google Ads → Goals → Conversions → New → Import → GA4.** Import `booking_surface_reached`.
-   Set **Count: One**. Set **Primary**.
-3. Set everything else in the table above to **Secondary**: `schedule_appointment`, `Intro Call Click`,
-   `PNH2 (web) purchase`, `Lead form - Submit`.
+```
+https://app.acuityscheduling.com/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455
+```
 
-You keep the general scheduling-page signal, you gain the intro-call-link signal, and the headline
-number counts each ad click once. The secondary actions still show in "All conversions" so you can
-still see the intro-call route separately when you want it.
+That is `app.acuityscheduling.com`, not your domain. Two things follow, and together they settle it.
 
-**One thing I need from you to write step 1 precisely: the URL of the intro-call destination.** The
-archive cannot see it — no new scheduling path appears in GA4 after early August, which means the new
-links are either off-domain or untagged. If it is off-domain, the GA4 condition will not work and the
-fallback below applies instead.
+**The GA4 "one event, two triggers" approach I recommended earlier will not work.** Retracted. Your
+Google tag lives in Squarespace code injection on pankanaturalhealth.com only, so nothing on the
+Acuity page can fire a conversion. And now that you have disconnected the Acuity Analytics
+integration, GA4 cannot see that page either — the integration was the only thing putting
+`/schedule/0081d9d2/...` paths into your property.
 
-### The simple fix, if editing GA4 events is more trouble than it is worth
+**So the only measurable moment is the click itself, while the visitor is still on your site.** That
+is exactly what `Intro Call Click` (7747774028) does: a page-level tag that fires on the outbound
+click, before the visitor leaves. It is already primary, already counted, and it is the right and only
+mechanism available. Nothing needs building.
 
-Leave `schedule_appointment` primary. Set `Intro Call Click` to **Secondary**. The Conversions column
-then counts scheduling-page arrivals only, with no double count, and you read intro-call clicks from
-the "All conversions" column whenever you want them. Less elegant, thirty seconds, zero risk.
+**And the double-count risk is smaller than either of us feared.** The two actions fire on different
+pages in different journeys:
+
+| Action | Fires when | Where |
+|---|---|---|
+| `PNH2 (web) schedule_appointment` | the scheduling page loads | `/schedule-an-appointment` |
+| `Intro Call Click` | an intro-call link is clicked | homepage, `/naturopathic-medicine`, `/contact` |
+
+A visitor takes one path or the other. They only double count if someone loads the scheduling page
+*and* clicks an intro-call link in the same ad click, which requires the two to coexist on one page.
+
+**The one check that settles it:** open `/schedule-an-appointment` and look for a "Book an intro call"
+button that points at the Acuity URL above. If there is none, the paths are mutually exclusive and
+both actions can stay primary — you get both numbers with no meaningful overlap. If there is one,
+either remove it from that page (the embedded scheduler already offers the intro call) or set
+`Intro Call Click` to secondary. Two minutes, and it is the only thing standing between you and a
+clean setup.
 
 ### Housekeeping worth doing under either option
 
-- `Begin checkout (Page load .../schedule-an-appointment)` is enabled and already secondary, but it
-  fires on the identical page load as `schedule_appointment`. It is a guaranteed duplicate inside
-  "All conversions" — 976 lifetime events measuring nothing new. Remove it.
+- `Begin checkout (Page load .../schedule-an-appointment)` — **KEEP IT. I advised removing it earlier
+  today; that was wrong and I am retracting it.** It is the only conversion action in the account with
+  unbroken history across both campaign eras: 10 months of data from 2025-06 to 2026-09, spanning the
+  seven-month dark period. Every valid cross-era comparison in this engagement rests on it, including
+  the finding that July 2026 was the best month at $9.35 versus $11.57. Removing it ends that
+  continuity going forward. It is already secondary, so it does not touch your headline number. It
+  duplicates the scheduling-page load inside "All conversions" only, which is a column you can simply
+  choose not to read. Leave it enabled and secondary, and know what it is.
 - The three `Page view` actions on the doctor bios and `/whypnh` are already secondary. Leave them;
   they are harmless and occasionally informative.
 - The Google-hosted local actions (directions, website visits, calls) are primary for their own goal
@@ -136,7 +151,7 @@ from before September.
 
 1. **Set `PNH2 (web) purchase` to secondary or pause it.** It cannot fire again. Two minutes.
 2. **Fix the double count** — section 2, either the clean or the simple version.
-3. **Remove the `Begin checkout` action.** Duplicate of the same page load.
+3. **Check `/schedule-an-appointment` for an intro-call button** pointing at the Acuity URL. If absent, both conversion actions can stay primary. If present, set `Intro Call Click` to secondary. **Do not remove `Begin checkout`** — see section 2; it is the only continuous cross-era series.
 4. **Turn off Google search partners.** Campaigns → Leads-Search-1 → Settings → Networks. It took
    $121.20 in August, 18.6% of spend, at 2.4 times July's click price. One click, reversible, and it
    sits on a different axis from match type so it will not confound the September 21 readout.
@@ -183,9 +198,10 @@ your draft Legal Disclaimer already covers review solicitation.
 
 ## 5. What remains genuinely open
 
-- **The intro-call destination URL.** Needed to write the GA4 condition in section 2, and the reason
-  the new links are invisible in the data. Tagging them also prevents the next routing change from
-  arriving as a two-month mystery.
+- ~~The intro-call destination URL~~ **ANSWERED 2026-09-09.** It is
+  `app.acuityscheduling.com/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455` —
+  off-domain, which is why it is invisible in the data and why the click-time tag is the only
+  measurable moment. What remains open is verifying that tag actually fires.
 - **Intro calls fell 16 to 11 in August while total bookings held at 29 and 28.** Smaller and more
   interesting than the question originally asked. The intake answers will address it.
 - **The `Intro Call Click` tag has never been verified to fire.** Five minutes with Tag Assistant.
