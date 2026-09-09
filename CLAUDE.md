@@ -95,7 +95,7 @@ Also verified from `embed.js` source: the iframe-src builder reads the **parent 
 Rationale: each maps to a live service line or produced a tracked conversion. "where to get hormones tested," "severe daytime sleepiness," and "adrenal fatigue doctor near me" all reached the schedule page.
 ## 7a. CURRENT DOCUMENT
 
-**Read `reports/status-and-plan-2026-09-09.md` first.** It is the single current status and plan, and supersedes every other report including the Sept 9 handoff.
+**Read `reports/START-HERE-project-brief-2026-09-09.md` first.** It is self-contained, seeds a fresh conversation with no prior context, and supersedes every other report. Its section 4 is the implementation plan: repoint the off-domain intro-call links to `https://www.pankanaturalhealth.com/schedule-an-appointment?appointmentType=41826455`, which fixes the measurement gap and makes double counting structurally impossible.
 
 ## 7b. SUPERSEDED BY THE 2026-09-08 DATA REVIEW
 
