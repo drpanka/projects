@@ -348,3 +348,79 @@ All under `data/supermetrics-archive-2026-09-08/`:
 
 Method notes and the exact decomposition are in
 `data/supermetrics-archive-2026-09-08/NOTES-verify-august.md`.
+
+---
+
+# CORRECTION, 2026-09-09: the verdict above is overturned by booking data
+
+The diagnosis above was written without access to Acuity booking records. Dr. Panka subsequently
+supplied the deidentified schedule export and the explanation, and both change the verdict.
+
+**His account:** "I created several intro call booking links that send people to a different location
+to schedule intro calls around that time thinking it would make booking intro calls easier."
+
+## What the booking data shows
+
+Bookings did not fall. Counted by the date the booking was made:
+
+| Month booked | All bookings | Introductory phone calls |
+|---|---|---|
+| Jun 2026 | 21 | 6 |
+| **Jul 2026** | **29** | **16** |
+| **Aug 2026** | **28** | **11** |
+| Sep 2026 (to the 7th) | 2 | 2 |
+
+Total bookings fell 3% between July and August, from 29 to 28, while measured paid conversions fell
+58% and the paid conversion rate fell from 14.9% to 7.0%.
+
+Weekly, the week the analysis above pins as the break — ISO week 32, beginning 2026-08-03 — produced
+**9 bookings, the second-highest week of the entire summer.** Weeks 33 and 34 produced 8 each. The
+three weeks in which measured performance supposedly collapsed were among the strongest booking weeks
+on record.
+
+| ISO week | W30 | W31 | **W32** | W33 | W34 | W35 | W36 |
+|---|---|---|---|---|---|---|---|
+| Bookings | 13 | 3 | **9** | 8 | 8 | 1 | 4 |
+
+## Revised verdict
+
+**The business did not decline. The measurement did.** The conversion action fires on a page load of
+`/schedule-an-appointment`. New intro-call links routing people to a different destination bypass that
+page, so the event stops firing while the booking still happens. That is precisely the failure mode
+this engagement has documented three times now in different guises.
+
+Supporting evidence, all consistent with routing rather than demand:
+
+- Site-wide sessions reaching `/schedule-an-appointment` fell only 15% (188 to 159) while *paid*
+  sessions reaching it fell 64% (56 to 20). A collapse in traffic quality would not spare the other
+  channels so neatly.
+- The campaign's sitelinks were never repointed — all three still target
+  `/schedule-an-appointment` — so the ads themselves did not change destination. The new links are on
+  the site or in other channels.
+- No large new destination appears in GA4's outbound-link or page data, which means the new links are
+  either untagged or lead somewhere GA4 does not observe. That is itself worth fixing.
+
+## What remains true from the original analysis
+
+The paid conversion *rate* really did fall, and the statistics on that are sound. Two things can both
+be true: fewer paid visitors reached the tracked page, and the tracked page stopped being the place
+bookings happen. The ad-group rebuild spanning 2026-07-29 to 2026-08-10 (including the removal of
+"Ad group 1" on 07-31) may well have shifted click composition as the analysis argues. But that
+argument was carrying the weight of explaining a business decline that did not occur.
+
+One genuine signal survives and deserves watching: introductory phone calls specifically fell from 16
+to 11, a 31% decline, even as total bookings held flat. That is a smaller and more interesting
+question than the one originally posed, and a month of intake answers will address it better than any
+further analysis of this data.
+
+## Action
+
+1. **Do not act on the August drop as though it were a performance problem.** No budget cut, no
+   emergency restructure. The clinic booked 28 appointments in August.
+2. **Decide what the conversion action should measure**, now that `/schedule-an-appointment` is no
+   longer the only booking path. Under Manual CPC this changes no bidding, only reporting.
+3. **Tell whoever reads the Google Ads column next** that it undercounts by an unknown and now
+   larger margin. This is the fourth distinct way this account's conversion tracking has misled a
+   reader; `DATA-QUALITY.md` records them all.
+4. **Consider tagging the new intro-call links**, so the next routing change is visible rather than
+   arriving as a mystery two months later.
