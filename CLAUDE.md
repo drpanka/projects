@@ -97,6 +97,8 @@ Rationale: each maps to a live service line or produced a tracked conversion. "w
 
 **Read `reports/START-HERE-project-brief-2026-09-09.md` first.** It is self-contained, seeds a fresh conversation with no prior context, and supersedes every other report. Its section 4 is the implementation plan: repoint the off-domain intro-call links to `https://www.pankanaturalhealth.com/schedule-an-appointment?appointmentType=41826455`, which fixes the measurement gap and makes double counting structurally impossible.
 
+**The link list is `reports/intro-call-link-inventory-2026-09-09.md` (2026-09-09).** A full crawl of all 42 site pages found **21 intro-call CTAs, not 9**: the homepage's 6 are already repointed, and **15 remain off-domain across 9 pages** (`/naturopathic-medicine` x2, `/contact` x2, `/mens-health`, `/womens-health-services` x2, `/clinical-laboratory-tests` x2, `/cholesterol` x2, `/holistic-diabetes-care`, `/meet-dr-haley` x2, `/meet-dr-jacob`), each located by section and heading. The "homepage x5, /naturopathic-medicine x2, /contact x2" count in section 5 is superseded. Two further discoveries: the `Intro Call Click` snippet matches `appointmentType=41826455` but the newer share URL uses `appointmentTypeIds[]=`, so it never matched and its 0 conversions are explained; and the new-format URL appears nowhere on the site, so the August links live off-site (GBP, email signature, social bios).
+
 ## 7b. SUPERSEDED BY THE 2026-09-08 DATA REVIEW
 
 Read `reports/leads-search-1-final-data-review-2026-09-08.md` before acting on section 4 or 8 below.
