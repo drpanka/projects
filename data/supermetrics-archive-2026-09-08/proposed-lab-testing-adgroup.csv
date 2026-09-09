@@ -1,0 +1,40 @@
+# PROPOSED "Functional Lab Testing" KEYWORDS - Leads-Search-1 (campaign 22767146837)
+# Built 2026-09-08 from ads-search-terms-rollup.csv + gmb-search-keywords-classified.csv
+# STATUS: CONDITIONAL. See NOTES-verify-lab-gap.md. The honest verdict is DO NOT launch this as a
+# separate ad group at $10/day. Tier 1 = a low-risk 8-keyword addition to the EXISTING
+# "Functional & Integrative Medicine" ad group (adgroup 198432290338, max CPC already $1.90).
+# Tier 2 = hold until daily budget is >= $25/day AND Tier 1 has shown clicks; only then split
+# all 15 into their own ad group.
+# Every keyword below was checked against all 466 Leads-Search-1 campaign negatives: ZERO conflicts.
+# Max CPC anchor: realized CPC on the 15 lifetime lab-testing clicks in this account = $1.85
+# ($1.65 excluding the one $4.62 outlier). Functional & Integrative Medicine group max CPC = $1.90,
+# realized $2.08. Rank-lost impression share is only 5-25%; budget-lost is 67-90%. Bidding above
+# $1.90 buys nothing - the constraint is budget, not rank.
+tier,keyword,match_type,max_cpc,landing_page,evidence_source,observed_search_terms,observed_impressions,observed_clicks,observed_cost_usd,observed_conversions,negative_conflict,note
+T1,food sensitivity testing,PHRASE,1.90,/clinical-laboratory-tests,"ads search terms + GMB profile",3,7,2,3.42,0,none,"Strongest cross-source signal. GMB: 'food sensitivity test' (est 40 imp) + 'food sensitivity testing near me' (est 32) + 'food sensitivity testing' (est 8) = 80 of the 96 est impressions in the whole GMB lab bucket, across 6 distinct months."
+T1,food sensitivity test,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,2,6,2,3.42,0,none,"Singular form; keep both so close-variant matching is not relied on."
+T1,food allergy testing,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,6,9,0,0.00,0,none,"9 impressions, never clicked. Adjacent but weaker - true allergy testing is an allergist service; ad copy must say what PNH actually offers."
+T1,dutch test,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,16,35,1,0.55,0,none,"Highest-volume single lab term in the account: 16 distinct queries, 35 impressions. Brand-name test, high specificity, cheap ($0.55 for the one click)."
+T1,dutch hormone test,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,2,5,0,0.00,0,none,"Subset of 'dutch test'; add only if you want a separate ad-copy variant. Otherwise redundant."
+T1,hormone testing near me,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,3,9,3,4.97,0,none,"3 clicks / $4.97 / 0 conversions. Note the ONE lab-theme conversion in account history came from the sibling query 'where to get hormones tested' matched by Women's Health & Hormones - do NOT move hormone terms out of that group."
+T1,hormone testing for women,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,2,11,0,0.00,0,none,"11 impressions, 0 clicks. Overlaps Women's Health & Hormones; risk of internal competition."
+T1,functional lab testing,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,2,10,0,0.00,0,none,"10 impressions, 0 clicks across 2 queries. Exactly names the service line."
+T2,micronutrient testing,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,1,2,1,2.34,0,none,"'micronutrients testing' - 1 click at $2.34, no conversion. Single query, thin."
+T2,functional medicine testing,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,3,4,0,0.00,0,none,"4 impressions. Already reachable via existing phrase kw 'functional medicine'."
+T2,holistic lab testing,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,1,2,0,0.00,0,none,"2 impressions lifetime. Included only for theme completeness."
+T2,sibo testing,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,4,9,1,1.96,0,none,"Gut Health service line. 1 click $1.96, no conversion."
+T2,gi map test,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,3,4,0,0.00,0,none,"Gut Health. 4 impressions, 0 clicks."
+T2,mthfr testing,PHRASE,1.90,/clinical-laboratory-tests,ads search terms,1,2,0,0.00,0,none,"2 impressions lifetime. Weakest item on the list."
+T2,naturopathic lab testing,PHRASE,1.90,/clinical-laboratory-tests,invented,0,0,0,0.00,0,none,"NO OBSERVED DEMAND. Included transparently as an invented bridge term between 'naturopathic' (proven) and 'lab testing' (theme). Drop it if you want the list purely evidence-grounded."
+# ---------------------------------------------------------------------------------------------
+# COMPANION NEGATIVES to add at campaign level IF Tier 1 goes live. Checked: none of these blocks
+# any Tier 1/Tier 2 keyword above, and none is on the protect list.
+# tier,keyword,match_type,...
+NEG,test kit,PHRASE,,,rationale,,,,,,,"DIY kit shoppers are not patients. Existing 'home test' and 'self test' phrase negatives catch only the contiguous forms."
+NEG,order labs online,PHRASE,,,rationale,,,,,,,"Direct-to-consumer lab ordering, not clinical care."
+NEG,walk in lab,PHRASE,,,rationale,,,,,,,"Retail draw-station intent."
+NEG,quest diagnostics,PHRASE,,,rationale,,,,,,,"Companion to the existing 'labcorp' negative; same intent."
+# NOT proposed as negatives - protect list: test, testing, panel, labs, dutch, thyroid-condition
+# terms, pcos, hormone. All five testing-vocabulary negatives already live ('free testing',
+# 'self test', 'home test', 'nrt testing', 'naturopath muscle testing', 'labcorp', 'free labs')
+# are narrowly scoped and none of them blocks a real lab-testing patient query. Leave them alone.
