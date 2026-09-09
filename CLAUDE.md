@@ -101,7 +101,7 @@ Corrections established there, with sources:
   figure counts eleven days of one action; primary conversion actions were switched on 2026-07-12.
   Like-for-like, July 2026 was the account's best month ever at $9.35 CPA versus $11.57 for
   Jul-Aug 2025. The rebuild did not raise cost per outcome. (`ads-cpa-like-for-like-monthly.csv`)
-- The real problem is AUGUST 2026: same spend and clicks as July, half the outcomes. Undiagnosed.
+- ~~The real problem is AUGUST 2026: half the outcomes. Undiagnosed.~~ **RESOLVED 2026-09-09: a routing change, not a decline.** Jacob added intro-call booking links pointing to a different destination in early August. They bypass `/schedule-an-appointment`, where the conversion fires. Acuity confirms bookings held: 29 booked in July, 28 in August, and the pinned break week (beginning 2026-08-03) produced 9 bookings, the second-highest week of the summer. Measured conversions fell 58%; real bookings fell 3%. Do NOT treat August as a performance problem. See `reports/august-2026-conversion-drop-diagnosis.md` and read the CORRECTION at the end — the original verdict there is overturned. Open sub-question: intro calls specifically fell 16 to 11 while total bookings held.
 - The account was DARK 2025-09 through 2026-03. Cross-era comparisons span a seven-month gap.
 - Keywords that actually served: 14 (Jul 2025, one ad group) vs 102 (Jul 2026, seven ad groups) —
   not 19 vs 83. (`ads-keyword-count-by-month.csv`)
