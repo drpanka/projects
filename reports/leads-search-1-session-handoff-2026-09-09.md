@@ -145,15 +145,44 @@ calendar 2024) that no analysis had examined.
 - **The Women's Health ad is "Approved (limited)"** on your largest ad group. Still unexplained; the
   reason is only visible by hovering the status in the Ads interface.
 - **Calendar 2024 in GA4 has never been examined.** $27,900 of booking revenue sits there.
-- **Counsel questions** from the compliance memo: whether the Minnesota Health Records Act reaches a
-  registered ND, whether PNH is a HIPAA covered entity at all, and whether the Acuity account is
-  HIPAA-enabled. Note the memo's sharpest point: the **existing** Acuity-to-GA4 integration already
-  sends completed bookings with appointment type into Google. That is a bigger exposure than any
-  booking link, and it is live right now.
+- **Counsel questions** — ~~three of these were open~~ **largely answered 2026-09-09 by the draft policies** (see section 5b): MHRA applies, HIPAA-consistent safeguards are asserted, and the scheduler operates under a Business Associate Agreement. What remains, and is now the top compliance item, is the **existing** Acuity-to-Google Analytics booking signal, which carries appointment type and provider calendar and is live right now.
 
 **Structurally missed, worth naming:** this engagement twice produced a confident wrong diagnosis from
 the same dataset, and both times the error was trusting a conversion metric whose definition had
 changed underneath it. The archive now carries `DATA-QUALITY.md` specifically to stop a third.
+
+---
+
+## 5b. The legal drafts change the compliance ordering (added 2026-09-09)
+
+Jacob supplied September 8 publication-candidate drafts of the Privacy Policy and Legal Disclaimer.
+Full reconciliation against the archived data is in `reports/legal-drafts-vs-observed-data-2026-09-09.md`.
+Three things follow.
+
+**They answer three of my open counsel questions**, using PNH's own published position: the Minnesota
+Health Records Act applies; health information is safeguarded consistent with HIPAA; and the
+scheduling platform operates under a Business Associate Agreement. That last point vindicates keeping
+the booking source of truth inside Acuity.
+
+**They invalidate one item in CLAUDE.md.** `allow_enhanced_conversions: false` was listed as a gap
+blocking conversion uplift. It is not a gap — it is a deliberate privacy setting the draft policy
+publishes as such. Corrected. A related new constraint: the policy states "We do not use remarketing
+or personalized advertising," so the two paused Performance Max campaigns must **stay** paused, since
+PMax uses audience signals by design. That is now a compliance reason, not a performance one.
+
+**They raise the priority of the one exposure already running.** The policy says analytics tools are
+not configured to collect the contents of scheduling forms, which is true. But the archive shows
+Google Analytics receives booking-completion events whose page path carries the appointment type and
+the individual provider's calendar — 429 such events back to December 2023. Publishing a privacy
+policy turns that from an internal question into a public representation. It should be settled before
+the drafts go live, either by disconnecting Acuity's Google Analytics integration and pausing the
+scheduling-page conversion actions, or by adding a sentence to the Cookies section describing what is
+actually sent. Counsel decides which. **This now outranks the Business Profile booking link**, which
+is the smaller exposure and is better documented than the one already live.
+
+Two smaller notes: a testimonials disclaimer already exists, so the Business Profile review-request
+routine is safe to proceed; and neither draft mentions Google Business Profile, so if a booking link
+is added the third-party services list should name it.
 
 ---
 
