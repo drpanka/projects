@@ -50,7 +50,9 @@ Panka Natural Health (PNH) — cash-pay, fee-for-service naturopathic clinic, 90
 ### What Google Ads currently optimizes toward
 `PNH2 (web) schedule_appointment` (id `7635668327`, type `GOOGLE_ANALYTICS_4_CUSTOM`) — a **page-reach** event on `/schedule-an-appointment`. It counts interest, not bookings. Acuity exports are the only booking truth.
 ### What actually exists but isn't being used
-**Acuity's GA4 integration is already live and recording real completed bookings as `purchase` events.** Jul 1 – Sep 3: **66 bookings, $7,753 revenue.** Google Ads has counted **one**.
+**~~Acuity's GA4 integration is live~~ DISCONNECTED BY JACOB 2026-09-09.** No further booking events reach Google; `PNH2 (web) purchase` (7196843730) can never fire again and should be set secondary or paused. The top compliance exposure is CLOSED. Historical data is preserved in the archive. Acuity's own export is now the sole booking record. Historical figures below are retained for reference only:
+
+**Acuity's GA4 integration was recording real completed bookings as `purchase` events.** Jul 1 – Sep 3: **66 bookings, $7,753 revenue.** Google Ads has counted **one**.
 Attribution breakdown (GA4 `purchase`, Jul 1 – Sep 3):
 | Session source / medium | Bookings | Revenue |
 |---|---|---|
@@ -91,6 +93,10 @@ Also verified from `embed.js` source: the iframe-src builder reads the **parent 
 ## 7. Protect list — never add as negatives
 `test` · `testing` · `panel` · `labs` · `dutch` · `testosterone` · `low testosterone` · `adrenal fatigue` · `diabetes` · `cholesterol` · `weight loss` · `fertility` · `adhd` · `anxiety` · `depression` · `insomnia` · `sleep` · `menopause` · `perimenopause` · `pcos` · `hopkins` · bare `treatment` · `telehealth` · `virtual` · `primary care` · `estrogen` · `concierge` · `herbalist`
 Rationale: each maps to a live service line or produced a tracked conversion. "where to get hormones tested," "severe daytime sleepiness," and "adrenal fatigue doctor near me" all reached the schedule page.
+## 7a. CURRENT DOCUMENT
+
+**Read `reports/status-and-plan-2026-09-09.md` first.** It is the single current status and plan, and supersedes every other report including the Sept 9 handoff.
+
 ## 7b. SUPERSEDED BY THE 2026-09-08 DATA REVIEW
 
 Read `reports/leads-search-1-final-data-review-2026-09-08.md` before acting on section 4 or 8 below.
@@ -108,7 +114,7 @@ Corrections established there, with sources:
 - Impression share of exactly 0.0999 is Google's floor, not a measurement. July 2025 did carry
   genuine higher readings. The failure mode flipped from rank-loss to budget-loss; total share
   captured barely moved (13.2% to 12.5%). (`ads-impression-share-floor-analysis.csv`)
-- Google Business Profile: bookings genuinely zero across all 550 days; a DUPLICATE LISTING exists
+- Google Business Profile: ~~bookings genuinely zero~~ **CORRECTED 2026-09-09 — the zero is a red herring.** There IS a link and it routes to the website scheduling page. Google only populates `actions_bookings` for Reserve with Google style integrations; a plain website link never populates it however many people click through and book. Those clicks sit in `actions_website` (711 lifetime, ~39/mo). The profile is not missing a booking path, only measurement of it — UTM-tag the link. The booking-link compliance memo is moot for the same reason. A DUPLICATE LISTING exists
   (10418367222074184209) sharing name/phone/website with the live one; 66% of profile search volume
   is discovery intent, not brand; last review was 2025-12-02.
 - Profile views are not comparable to ad clicks. Like-for-like: profile 711 website clicks over
