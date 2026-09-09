@@ -103,3 +103,83 @@ mobile-only blocks are included. The site-wide header snippet was stripped befor
 so its own reference to `acuityscheduling.com` did not create false positives on all 42
 pages. Anchor counts per page ran 102–158, consistent with a full render rather than a
 truncated fetch.
+
+---
+
+# VERIFICATION PASS — 2026-09-09, after the edits
+
+Re-crawled every page that carried a link, plus the homepage, plus a live functional test
+of the replacement URL and of the Acuity scheduler behind it.
+
+## Link state: clean
+
+| | Links |
+|---|---|
+| Pointing to the correct new URL | **21** |
+| Still pointing off-domain to `acuityscheduling.com` | **0** |
+| Malformed, typo'd, or pointing anywhere else | **0** |
+
+All 21 are byte-identical to
+`https://www.pankanaturalhealth.com/schedule-an-appointment?appointmentType=41826455`
+— compared by exact string match, not by pattern, so a dropped `?`, a missing `www`, a
+stray space or a truncated ID would all have failed.
+
+Per page: `/` 6 · `/cholesterol` 2 · `/clinical-laboratory-tests` 2 · `/contact` 2 ·
+`/holistic-diabetes-care` 1 · `/meet-dr-haley` 2 · `/meet-dr-jacob` 1 · `/mens-health` 1 ·
+`/naturopathic-medicine` 2 · `/womens-health-services` 2.
+
+All 15 rows in the checklist above are done. Nothing was missed and nothing regressed.
+
+## Functional test: the links work
+
+**1. The page forwards the parameter into the scheduler.** Loading
+`/schedule-an-appointment?appointmentType=41826455` produces a scheduling block whose
+iframe is:
+
+```
+https://app.acuityscheduling.com/schedule.php?owner=27943652&ref=sched_block&isInConfig=false&appointmentType=41826455
+```
+
+Control test — the same page *without* the query string produces
+`...schedule.php?owner=27943652&ref=sched_block&isInConfig=false`, no appointment type.
+So the parameter is doing the work, not a coincidence of default behavior.
+
+**2. Acuity honors it.** Fetching that iframe URL directly returns a scheduler whose
+`appointmentTypes` list contains exactly one entry — `Introductory Phone Call`, id
+41826455, 10 minutes, $0.00, intake form 2309402. The rendered page asks only which
+doctor, Haley or Jacob. The visitor never sees the full appointment-type menu.
+
+**3. No UX regression versus the old off-domain link.** Acuity redirects
+`schedule.php?...&appointmentType=41826455` to
+`app.acuityscheduling.com/schedule/0081d9d2/appointment/41826455?appointmentTypeIds[]=41826455&isInConfig=false&ref=sched_block`
+— the exact destination the August links pointed at directly. Same scheduler, same
+preselection, same number of clicks to book. The only difference is that the visitor now
+passes through your domain first, where the tag can see them.
+
+## What this changes for measurement
+
+The booking now begins on `/schedule-an-appointment`, so `PNH2 (web) schedule_appointment`
+fires with the paid-search session still attached. The self-referral fingerprint —
+`pankanaturalhealth.com / referral` with $0.00 revenue — should decay from here. Give it
+about two weeks of data before judging.
+
+One consequence to act on: the `Intro Call Click` snippet in header injection fires only on
+hrefs containing `acuityscheduling.com`. Zero links now match, so that action
+(id 7747774028) can never record anything. It is not broken — it is obsolete. Set it
+Secondary or pause it so a future reader does not mistake its permanent zero for a
+tracking failure.
+
+## Incidental findings
+
+- The Acuity account has `isHipaa: true` set. Worth knowing when the compliance question
+  comes back up.
+- The intro-call intake form (2309402) already asks **"How did you find out about Panka
+  Natural Health?"** — optional, free text. That is the attribution question from the
+  Acuity addendum, already live on this appointment type. It is still absent from the
+  First Appointment forms, which remains open.
+
+## Scope of this pass
+
+Re-fetched live: the 9 pages that had links, the homepage, and the schedule page with and
+without the parameter. The other 31 pages were confirmed link-free in the crawl earlier
+the same day and were not edited since, so they were not re-fetched.
