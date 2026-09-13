@@ -1,0 +1,312 @@
+<title>Source Water Protection Application</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap">
+
+<style>
+  :root{
+    --ground:#F7F8F6; --surface:#FFFFFF; --surface-sunk:#EEF1EE;
+    --ink:#17201C; --ink-2:#3A453F; --muted:#5C6862;
+    --line:#D8DEDA; --line-soft:#E7ECE8;
+    --accent:#1C5D73; --accent-soft:#DCE9EE;
+    --urgent:#A8391F; --urgent-soft:#F6E3DE;
+    --soon:#8A5F09; --soon-soft:#F7ECD6;
+    --good:#3F6B4A; --good-soft:#E0EBE2;
+    --shadow:0 1px 2px rgba(23,32,28,.06),0 8px 24px -16px rgba(23,32,28,.28);
+    --f-display:"Newsreader",Georgia,serif;
+    --f-body:"Source Sans 3","Segoe UI",system-ui,sans-serif;
+    --f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --ground:#111613; --surface:#1A211D; --surface-sunk:#151B18;
+      --ink:#E9EEEA; --ink-2:#C2CCC6; --muted:#8D9A93;
+      --line:#2C3630; --line-soft:#232B27;
+      --accent:#77B6CB; --accent-soft:#1D3038;
+      --urgent:#E98D74; --urgent-soft:#3A211A;
+      --soon:#D9AE5A; --soon-soft:#332913;
+      --good:#8FBE9B; --good-soft:#1C2C21;
+      --shadow:0 1px 2px rgba(0,0,0,.5),0 8px 24px -16px rgba(0,0,0,.8);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ground:#111613; --surface:#1A211D; --surface-sunk:#151B18;
+    --ink:#E9EEEA; --ink-2:#C2CCC6; --muted:#8D9A93;
+    --line:#2C3630; --line-soft:#232B27;
+    --accent:#77B6CB; --accent-soft:#1D3038;
+    --urgent:#E98D74; --urgent-soft:#3A211A;
+    --soon:#D9AE5A; --soon-soft:#332913;
+    --good:#8FBE9B; --good-soft:#1C2C21;
+    --shadow:0 1px 2px rgba(0,0,0,.5),0 8px 24px -16px rgba(0,0,0,.8);
+  }
+  *{box-sizing:border-box}
+  body{background:var(--ground);color:var(--ink);font-family:var(--f-body);
+    font-size:16.5px;line-height:1.6;margin:0;padding-inline:20px;padding-block:0;
+    -webkit-font-smoothing:antialiased}
+  .wrap{max-width:880px;margin-inline:auto;padding-block:44px 72px}
+  a{color:var(--accent);text-underline-offset:2px}
+  a:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:3px}
+
+  .eyebrow{font-size:11.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--muted);margin:0 0 12px}
+  h1{font-family:var(--f-display);font-weight:600;font-size:clamp(2rem,5.2vw,2.85rem);
+    line-height:1.1;letter-spacing:-.015em;text-wrap:balance;margin:0 0 12px}
+  .standfirst{font-family:var(--f-display);font-style:italic;color:var(--ink-2);
+    font-size:clamp(1rem,2.2vw,1.16rem);max-width:60ch;margin:0 0 28px;line-height:1.5}
+
+  /* spec sheet */
+  .spec{background:var(--surface);border:1px solid var(--line);border-radius:3px;
+    box-shadow:var(--shadow);margin-bottom:14px;overflow:hidden}
+  .spec-head{padding:16px 20px;border-bottom:1px solid var(--line-soft);background:var(--surface-sunk)}
+  .spec-head h2{font-family:var(--f-body);font-size:1.1rem;font-weight:700;margin:0 0 3px;line-height:1.3}
+  .spec-head p{margin:0;font-size:13.5px;color:var(--muted)}
+  .spec-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(158px,1fr));gap:0}
+  .sf{padding:13px 20px;border-right:1px solid var(--line-soft);border-bottom:1px solid var(--line-soft)}
+  .sf .l{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:3px}
+  .sf .v{font-size:14px;color:var(--ink-2);font-variant-numeric:tabular-nums}
+  .sf .v.mono{font-family:var(--f-mono);font-size:12.5px}
+
+  .clock{display:flex;flex-wrap:wrap;align-items:center;gap:12px 18px;
+    background:var(--urgent-soft);border:1px solid var(--urgent);border-radius:3px;
+    padding:14px 18px;margin-bottom:38px}
+  .clock .big{font-family:var(--f-mono);font-size:1.6rem;font-weight:600;color:var(--urgent);line-height:1;
+    font-variant-numeric:tabular-nums}
+  .clock p{margin:0;font-size:14px;color:var(--ink-2);max-width:56ch}
+  .clock b{color:var(--ink)}
+
+  section{margin-bottom:46px}
+  h2.sec{font-family:var(--f-display);font-weight:600;font-size:1.5rem;letter-spacing:-.01em;
+    margin:0 0 6px;text-wrap:balance}
+  .sec-note{color:var(--muted);font-size:14px;margin:0 0 22px;max-width:66ch}
+
+  /* ledger */
+  .ledger{background:var(--surface);border:1px solid var(--line);border-radius:3px;
+    box-shadow:var(--shadow);overflow:hidden;max-width:520px}
+  .lrow{display:flex;justify-content:space-between;align-items:baseline;gap:16px;
+    padding:12px 18px;border-bottom:1px solid var(--line-soft);font-size:14.5px}
+  .lrow:last-child{border-bottom:none}
+  .lrow .lbl{color:var(--ink-2)}
+  .lrow .amt{font-family:var(--f-mono);font-variant-numeric:tabular-nums;white-space:nowrap;font-size:13.5px}
+  .lrow.credit{background:var(--good-soft)}
+  .lrow.credit .amt{color:var(--good);font-weight:600}
+  .lrow.total{background:var(--surface-sunk);font-weight:700}
+  .lrow.total .lbl{color:var(--ink)}
+  .lrow.total .amt{color:var(--accent);font-weight:600;font-size:15px}
+
+  /* steps */
+  ol.steps{list-style:none;counter-reset:s;padding:0;margin:0;display:flex;flex-direction:column;gap:18px}
+  ol.steps>li{counter-increment:s;display:grid;grid-template-columns:30px 1fr;gap:15px;align-items:start}
+  ol.steps>li::before{content:counter(s);font-family:var(--f-mono);font-size:12px;font-weight:600;
+    color:var(--accent);background:var(--accent-soft);width:30px;height:30px;border-radius:50%;
+    display:grid;place-items:center;margin-top:2px}
+  .step h3{font-family:var(--f-body);font-size:1rem;font-weight:700;margin:4px 0 6px;line-height:1.35}
+  .step p{margin:0 0 10px;font-size:14.5px;color:var(--ink-2);line-height:1.58;max-width:64ch}
+  .step p:last-child{margin-bottom:0}
+  .step b{color:var(--ink)}
+
+  .quote{background:var(--surface-sunk);border-left:2px solid var(--accent);
+    padding:11px 15px;margin:10px 0;border-radius:0 3px 3px 0;
+    font-size:13.5px;color:var(--ink-2);line-height:1.55}
+  .quote code{font-family:var(--f-mono);font-size:12.5px;color:var(--ink)}
+
+  .draft{background:var(--surface);border:1px solid var(--line);border-radius:3px;
+    padding:16px 18px;margin-top:10px;font-size:14px;line-height:1.6;color:var(--ink-2);
+    box-shadow:var(--shadow)}
+  .draft .dh{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);
+    margin:0 0 10px;font-weight:600}
+  .draft p{margin:0 0 10px;max-width:none}
+  .draft p:last-child{margin-bottom:0}
+
+  /* glossary */
+  dl.gloss{margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px}
+  dl.gloss>div{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:14px 16px}
+  dt{font-family:var(--f-mono);font-size:12.5px;font-weight:600;color:var(--accent);margin-bottom:5px}
+  dd{margin:0;font-size:13.5px;color:var(--ink-2);line-height:1.5}
+
+  ul.plain{margin:0;padding-left:19px}
+  ul.plain li{font-size:14.5px;color:var(--ink-2);line-height:1.55;margin-bottom:7px;max-width:64ch}
+  ul.plain li:last-child{margin-bottom:0}
+  ul.plain b{color:var(--ink)}
+
+  .flag{border:1px dashed var(--line);border-radius:3px;padding:16px 18px;
+    font-size:14px;color:var(--ink-2);line-height:1.58;max-width:72ch}
+  .flag b{color:var(--ink)}
+
+  .pair{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:16px 18px;
+    box-shadow:var(--shadow)}
+  .card h4{font-family:var(--f-body);font-size:14.5px;font-weight:700;margin:0 0 6px}
+  .card p{margin:0 0 4px;font-size:13.5px;color:var(--ink-2);line-height:1.5}
+  .card .mono{font-family:var(--f-mono);font-size:12.5px;color:var(--ink-2)}
+
+  footer{margin-top:50px;padding-top:18px;border-top:1px solid var(--line);
+    font-size:12.5px;color:var(--muted)}
+
+  @media (max-width:600px){
+    .wrap{padding-block:32px 54px}
+    .sf{border-right:none}
+  }
+  @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+
+<div class="wrap">
+
+  <p class="eyebrow">Application brief · MDH Environmental Health</p>
+  <h1>Source Water Protection</h1>
+  <p class="standfirst">Everything needed to put in a credible application for Job ID 95688 before it closes — the qualification arithmetic, the one question to settle first, and what the work actually is.</p>
+
+  <div class="spec">
+    <div class="spec-head">
+      <h2>Planner Principal State — Source Water Protection, Metro District</h2>
+      <p>Minnesota Department of Health · Environmental Health Division · Job Class Option: Water Quality</p>
+    </div>
+    <div class="spec-grid">
+      <div class="sf"><span class="l">Job ID</span><span class="v mono">95688</span></div>
+      <div class="sf"><span class="l">Salary</span><span class="v mono">$68,841–$101,476</span></div>
+      <div class="sf"><span class="l">Hourly</span><span class="v mono">$32.97–$48.60</span></div>
+      <div class="sf"><span class="l">Closes</span><span class="v mono">18 Sep 2026</span></div>
+      <div class="sf"><span class="l">Location</span><span class="v">St. Paul</span></div>
+      <div class="sf"><span class="l">Telework</span><span class="v">Up to 50%</span></div>
+      <div class="sf"><span class="l">Travel</span><span class="v">Up to 25%</span></div>
+      <div class="sf"><span class="l">Hours</span><span class="v">M–F, 8:00–4:30</span></div>
+      <div class="sf"><span class="l">Status</span><span class="v">Classified · Unlimited</span></div>
+      <div class="sf"><span class="l">Union</span><span class="v">MAPE, unit 214</span></div>
+      <div class="sf"><span class="l">FLSA</span><span class="v">Nonexempt</span></div>
+      <div class="sf"><span class="l">Who may apply</span><span class="v">All job seekers</span></div>
+    </div>
+  </div>
+
+  <div class="clock">
+    <span class="big">5 days</span>
+    <p>Posted 25 July, closing <b>18 September 2026</b>. It is a <b>repost</b> — if you'd already applied you would be auto-considered, but you haven't, so this is a fresh application. Minimum qualifications aren't screened until <b>after</b> the posting closes, so a late-but-complete application is not penalized. A rushed, wrongly-formatted one is.</p>
+  </div>
+
+  <section>
+    <h2 class="sec">The qualification arithmetic</h2>
+    <p class="sec-note">This is the whole game. State HR screens minimum qualifications mechanically before a hiring manager sees anything, so the only question that matters up front is whether the numbers add up on paper.</p>
+    <div class="ledger">
+      <div class="lrow"><span class="lbl">Experience required</span><span class="amt">3 yrs</span></div>
+      <div class="lrow credit"><span class="lbl">Credit — doctorate degree</span><span class="amt">− 2 yrs</span></div>
+      <div class="lrow total"><span class="lbl">Left for you to evidence</span><span class="amt">1 yr</span></div>
+    </div>
+    <div class="quote">The posting's exact wording: three years <code>in program planning, water protection and conservation, or public health/environmental program coordination</code>. Those are three separate doors — you only need to get through one, and the third is the one to aim at.</div>
+  </section>
+
+  <section>
+    <h2 class="sec">Settle this before you write a word</h2>
+    <p class="sec-note">There is a real ambiguity in the substitution clause, and it decides whether you need one year of experience or three.</p>
+
+    <div class="flag">
+      Read the three substitution sentences in order. A bachelor's degree counts <b>“in public health, environmental science, or a closely related field.”</b> A master's counts <b>“in these fields.”</b> Then the third sentence says only: <b>“A doctorate degree may substitute for two years of experience”</b> — with no field named at all.<br><br>
+      Taken literally, any doctorate qualifies. Taken in context, the field restriction carries down from the sentences above it. <b>Which reading the screener applies is the difference between needing one year and needing three.</b> Don't guess, and don't let it be decided by someone else's default reading after the posting closes. Ask.
+    </div>
+
+    <div class="draft">
+      <p class="dh">Email to send today — Laura Jones, laura.m.jones@state.mn.us</p>
+      <p>Subject: Job ID 95688 — question on the doctorate substitution</p>
+      <p>Hello Laura,</p>
+      <p>I'm preparing an application for the Planner Principal State position in Source Water Protection (Job ID 95688) and wanted to confirm one point on the minimum qualifications before I submit.</p>
+      <p>The posting states that a doctorate degree may substitute for two years of experience. The bachelor's and master's substitutions specify public health, environmental science, or a closely related field; the doctorate sentence doesn't name a field. I hold a clinical doctorate in a health discipline — could you confirm whether that satisfies the doctorate substitution as written?</p>
+      <p>I'd also be glad to hear whether the Drinking Water Protection unit expects to post similar planning roles later this year.</p>
+      <p>Thank you — Jacob Panka</p>
+    </div>
+
+    <p class="sec-note" style="margin-top:14px;margin-bottom:0">That last line is not filler. <b>Laura Jones is also the hiring contact for the DWP Geospatial Research Specialist (Job ID 95954)</b>, which closes five days after this one. One conversation covers both roles in the same unit, and asking about the pipeline is how you end up on a shortlist for the next posting rather than starting cold again.</p>
+  </section>
+
+  <section>
+    <h2 class="sec">How to apply</h2>
+    <ol class="steps">
+      <li><div class="step">
+        <h3>Create your account and find the posting</h3>
+        <p>Go to <a href="https://mn.gov/careers">mn.gov/careers</a>, choose <b>View all Jobs</b>, and search Job ID <b>95688</b>. Under Agency, selecting <b>Health Department</b> filters to MDH. Apply through the <b>Apply for Job</b> button on the posting itself — there is no email application route. Stuck in the system: Careers Help Desk, <span class="mono">651-259-3637</span>.</p>
+      </div></li>
+
+      <li><div class="step">
+        <h3>Write the resume to the state's format, not to a normal standard</h3>
+        <p>The posting says it twice, in italics, because it is the most common reason good applicants get screened out: <b>describe your experience in the areas listed, and give the beginning and ending month and year for every job held.</b> “2019–2023” is not enough. “March 2019 – November 2023” is. Years of service are credited by arithmetic on those dates.</p>
+        <p>Mirror the posting's own nouns — program planning, program coordination, stakeholder assistance, data analysis, reporting. A screener is matching language, not inferring capability.</p>
+      </div></li>
+
+      <li><div class="step">
+        <h3>Claim the doctorate substitution in writing</h3>
+        <p>Put the degree in the education section with its conferral date, then state the arithmetic plainly somewhere the screener will see it: the doctorate substitutes for two of the three required years. Don't assume it gets applied automatically — make it impossible to miss.</p>
+      </div></li>
+
+      <li><div class="step">
+        <h3>Build the remaining year out of what you've actually done</h3>
+        <p>Target the <b>“public health/environmental program coordination”</b> door, not the water one. Running a clinical practice genuinely involves coordinating health programs, regulatory and licensure compliance, patient and community education, and tracking outcomes for reporting — that is program coordination in a health context, and it should be described in those terms rather than as clinical care.</p>
+        <p><b>Be honest with yourself about the strength of this.</b> State HR often reads “public health program coordination” as population-level work rather than individual patient care, so this is the part of your application most likely to draw a challenge. That's exactly why the email in the previous section matters, and why the appeal right below is worth knowing about.</p>
+      </div></li>
+
+      <li><div class="step">
+        <h3>Prepare one concrete story for each interview-assessed criterion</h3>
+        <p>Three further minimum qualifications are judged at interview, not on the resume. Have a specific example ready for each:</p>
+        <ul class="plain">
+          <li><b>Helping stakeholders prepare and implement a plan</b> — someone you walked through a document or protocol they then had to carry out.</li>
+          <li><b>Working across multiple internal and external partners</b> — agencies, local government, community organizations, referral networks.</li>
+          <li><b>Planning and coordinating program activities, analyzing data, and applying the findings</b> to program improvement, policy, or regulatory and funding reporting. <b>This is where your Python and analysis work belongs</b> — it is the only criterion of the three that explicitly asks for data, so lead with something you actually built and what changed because of it.</li>
+        </ul>
+      </div></li>
+
+      <li><div class="step">
+        <h3>Address the preferred qualifications too</h3>
+        <p>If a lot of applicants clear the minimums, the pool gets narrowed on <b>preferred</b> qualifications — so they function as the real filter. The five listed are: applying public health or environmental planning to drinking water work; knowledge of state and federal drinking water regulations; managing complex multi-stakeholder projects; professional writing and presenting; and building collaborative relationships across agencies and communities. You can speak credibly to the last three today. The first two are readable in an afternoon (see the primer below).</p>
+      </div></li>
+    </ol>
+  </section>
+
+  <section>
+    <h2 class="sec">What happens after you submit</h2>
+    <p class="sec-note">The state publishes its own process, and one step in it is worth knowing about in advance.</p>
+    <ul class="plain">
+      <li>The agency first reviews applications against statute and <b>bargaining unit contract requirements</b> — current state employees and union bid rights can take precedence before open applicants are reached.</li>
+      <li><b>After the posting closes</b>, resumes and screening questions are reviewed to determine who meets the minimum qualifications.</li>
+      <li>If you're found not to meet them, you get an email — and, in the state's own words, <b>“applicants have the opportunity to appeal this qualification determination.”</b> Given the ambiguity in the doctorate clause, this is a genuine second chance rather than a formality. Note the date if it happens and respond promptly.</li>
+      <li>Those who clear go to the hiring manager, who may narrow further on preferred qualifications, then interview.</li>
+      <li>An offer is discussed by phone first, then issued online, <b>contingent on background and reference checks</b> — both are required for this position.</li>
+      <li>You can track status any time under <b>My Job Applications</b> in your account.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="sec">A primer on the actual work</h2>
+    <p class="sec-note">Enough to write a credible application and hold an interview conversation. Source Water Protection sits in MDH's Environmental Health Division, under the Drinking Water Protection program.</p>
+    <p style="max-width:66ch;margin:0 0 16px;color:var(--ink-2)">Minnesotans drink from groundwater, lakes, and rivers. SWP works with communities to identify what threatens those sources and prevent problems before treatment is the only option. MDH names the risks specifically: <b>unused wells, urban pollutants, agricultural nutrients, storage tanks, lawn chemicals, hazardous waste, and uncontrolled land development.</b> In the Metro District, that means helping public water suppliers write and carry out <b>wellhead protection plans</b> and <b>surface water intake plans</b>, feeding into watershed and groundwater planning with state and local partners, and representing drinking water interests in Twin Cities regional water supply planning.</p>
+    <div class="pair">
+      <div class="card">
+        <h4>Worth an hour before you write</h4>
+        <p><a href="https://www.health.state.mn.us/communities/environment/water/swp/reqrec.html">Requirements &amp; Recommendations for Public Water Suppliers</a> — the inner wellhead management zone, wellhead protection plans, surface water intake plans. This is the substance of the job.</p>
+        <p><a href="https://www.health.state.mn.us/communities/environment/water/docs/swpstaffmap.pdf">SWP Unit Contacts and Districts (PDF)</a> — who currently staffs the Metro District, i.e. the team you'd join.</p>
+      </div>
+      <div class="card">
+        <h4>Specifics that show you looked</h4>
+        <p>The <a href="https://www.health.state.mn.us/communities/environment/water/swp/mapviewer.html">SWP Web Map Viewer</a> and the <a href="https://www.health.state.mn.us/communities/environment/water/cwf/grants/dashboard.html">Clean Water Fund grants dashboard</a> — both are public-facing data products, and a natural opening for your analysis background.</p>
+        <p><b>GRAPS</b> (Groundwater Restoration and Protection Strategies), the <b>Drinking Water Action Plan</b>, the statewide <b>nitrate report</b>, and the wellhead protection plan <b>implementation audit</b>.</p>
+      </div>
+      <div class="card">
+        <h4>Contacts</h4>
+        <p class="mono">Laura Jones — position &amp; Connect 700<br>laura.m.jones@state.mn.us<br>651-201-4842</p>
+        <p class="mono" style="margin-top:8px">Drinking Water Protection — program background<br>health.drinkingwater@state.mn.us<br>651-201-4700</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec">Decoding the posting</h2>
+    <p class="sec-note">Terms that carry real consequences and aren't obvious coming from private practice.</p>
+    <dl class="gloss">
+      <div><dt>Classified</dt><dd>Civil service. Competitive appointment, a probationary period, and meaningful job protection plus step-based salary progression once you're through it.</dd></div>
+      <div><dt>Unlimited</dt><dd>Permanent and ongoing — not grant-funded or time-limited. Worth noting, since a lot of public health roles are the opposite.</dd></div>
+      <div><dt>MAPE, unit 214</dt><dd>Minnesota Association of Professional Employees. Your pay, steps, and terms come from their contract rather than individual negotiation.</dd></div>
+      <div><dt>Nonexempt</dt><dd>Overtime-eligible, which is unusual at this salary and means hours past 40 are paid rather than absorbed.</dd></div>
+      <div><dt>Telework up to 50%</dt><dd>Requires living in Minnesota, or within 50 miles of the work location in a bordering state. Hopkins clears this comfortably.</dd></div>
+      <div><dt>Connect 700</dt><dd>A program for applicants with disabilities: apply online, then email the Job ID, working title, and your Proof of Eligibility Certificate to Laura Jones before the closing date. It routes you through a demonstration period rather than standard screening.</dd></div>
+    </dl>
+  </section>
+
+  <footer>
+    Compiled 13 September 2026 from the live posting for Job ID 95688, the State of Minnesota hiring process and applicant help pages, and MDH's Source Water Protection program documentation. Verify the closing date on the posting before relying on it — state postings can close early or be pulled.
+  </footer>
+
+</div>
