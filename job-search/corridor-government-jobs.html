@@ -1,0 +1,405 @@
+<title>Corridor Public Health Jobs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap">
+
+<style>
+  :root{
+    --ground:#F7F8F6;
+    --surface:#FFFFFF;
+    --surface-sunk:#EEF1EE;
+    --ink:#17201C;
+    --ink-2:#3A453F;
+    --muted:#5C6862;
+    --line:#D8DEDA;
+    --line-soft:#E7ECE8;
+    --accent:#1C5D73;
+    --accent-soft:#DCE9EE;
+    --urgent:#A8391F;
+    --urgent-soft:#F6E3DE;
+    --soon:#8A5F09;
+    --soon-soft:#F7ECD6;
+    --rolling:#3F6B4A;
+    --rolling-soft:#E0EBE2;
+    --shadow:0 1px 2px rgba(23,32,28,.06),0 8px 24px -16px rgba(23,32,28,.28);
+
+    --f-display:"Newsreader",Georgia,"Times New Roman",serif;
+    --f-body:"Source Sans 3","Segoe UI",system-ui,-apple-system,sans-serif;
+    --f-mono:"JetBrains Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --ground:#111613;
+      --surface:#1A211D;
+      --surface-sunk:#151B18;
+      --ink:#E9EEEA;
+      --ink-2:#C2CCC6;
+      --muted:#8D9A93;
+      --line:#2C3630;
+      --line-soft:#232B27;
+      --accent:#77B6CB;
+      --accent-soft:#1D3038;
+      --urgent:#E98D74;
+      --urgent-soft:#3A211A;
+      --soon:#D9AE5A;
+      --soon-soft:#332913;
+      --rolling:#8FBE9B;
+      --rolling-soft:#1C2C21;
+      --shadow:0 1px 2px rgba(0,0,0,.5),0 8px 24px -16px rgba(0,0,0,.8);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ground:#111613;
+    --surface:#1A211D;
+    --surface-sunk:#151B18;
+    --ink:#E9EEEA;
+    --ink-2:#C2CCC6;
+    --muted:#8D9A93;
+    --line:#2C3630;
+    --line-soft:#232B27;
+    --accent:#77B6CB;
+    --accent-soft:#1D3038;
+    --urgent:#E98D74;
+    --urgent-soft:#3A211A;
+    --soon:#D9AE5A;
+    --soon-soft:#332913;
+    --rolling:#8FBE9B;
+    --rolling-soft:#1C2C21;
+    --shadow:0 1px 2px rgba(0,0,0,.5),0 8px 24px -16px rgba(0,0,0,.8);
+  }
+
+  *{box-sizing:border-box}
+  body{
+    background:var(--ground);
+    color:var(--ink);
+    font-family:var(--f-body);
+    font-size:16.5px;
+    line-height:1.6;
+    margin:0;
+    padding-inline:20px;
+    padding-block:0;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:920px;margin-inline:auto;padding-block:48px 72px}
+  a{color:var(--accent);text-underline-offset:2px;text-decoration-thickness:1px}
+  a:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:3px}
+
+  /* ---------- masthead ---------- */
+  .eyebrow{
+    font-size:11.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--muted);font-family:var(--f-body);margin:0 0 14px
+  }
+  h1{
+    font-family:var(--f-display);font-weight:600;font-size:clamp(2.1rem,5.6vw,3.1rem);
+    line-height:1.08;letter-spacing:-.015em;text-wrap:balance;margin:0 0 14px
+  }
+  .standfirst{
+    font-family:var(--f-display);font-size:clamp(1.02rem,2.3vw,1.2rem);font-style:italic;
+    color:var(--ink-2);max-width:60ch;margin:0 0 26px;line-height:1.5
+  }
+  .meta-rule{
+    display:flex;flex-wrap:wrap;gap:8px 22px;align-items:baseline;
+    border-block:1px solid var(--line);padding-block:12px;margin-bottom:34px;
+    font-size:13px;color:var(--muted)
+  }
+  .meta-rule b{color:var(--ink-2);font-weight:600}
+
+  /* ---------- finding ---------- */
+  .finding{
+    background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--accent);
+    border-radius:3px;padding:22px 24px;margin-bottom:30px;box-shadow:var(--shadow)
+  }
+  .finding h2{
+    font-family:var(--f-body);font-size:12px;font-weight:700;letter-spacing:.13em;
+    text-transform:uppercase;color:var(--accent);margin:0 0 10px
+  }
+  .finding p{margin:0 0 12px;max-width:66ch}
+  .finding p:last-child{margin-bottom:0}
+
+  .tiles{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);
+    border:1px solid var(--line);border-radius:3px;overflow:hidden;margin-bottom:44px}
+  .tile{background:var(--surface);padding:18px 20px}
+  .tile .n{font-family:var(--f-mono);font-size:1.95rem;font-weight:600;line-height:1;
+    letter-spacing:-.02em;font-variant-numeric:tabular-nums;display:block;margin-bottom:8px}
+  .tile .k{font-size:12px;color:var(--muted);line-height:1.4}
+  .tile.hot .n{color:var(--urgent)}
+
+  /* ---------- sections ---------- */
+  section{margin-bottom:48px}
+  h2.sec{
+    font-family:var(--f-display);font-weight:600;font-size:1.55rem;letter-spacing:-.01em;
+    margin:0 0 6px;text-wrap:balance
+  }
+  .sec-note{color:var(--muted);font-size:14px;margin:0 0 22px;max-width:66ch}
+
+  /* ---------- job rows ---------- */
+  .jobs{display:flex;flex-direction:column;gap:14px}
+  .job{
+    background:var(--surface);border:1px solid var(--line);border-radius:3px;
+    padding:18px 20px 18px 22px;position:relative;box-shadow:var(--shadow)
+  }
+  .job::before{content:"";position:absolute;inset:0 auto 0 0;width:3px;background:var(--line)}
+  .job.u::before{background:var(--urgent)}
+  .job.s::before{background:var(--soon)}
+  .job.r::before{background:var(--rolling)}
+
+  .job-top{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:baseline;justify-content:space-between;margin-bottom:6px}
+  .job h3{font-family:var(--f-body);font-size:1.06rem;font-weight:700;line-height:1.3;margin:0;max-width:52ch}
+  .job h3 a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--accent)}
+  .job h3 a:hover{color:var(--accent)}
+  .employer{font-size:13.5px;color:var(--muted);margin:0 0 12px}
+  .employer b{color:var(--ink-2);font-weight:600}
+
+  .chip{
+    font-family:var(--f-mono);font-size:11px;font-weight:600;letter-spacing:.02em;
+    padding:3px 8px;border-radius:2px;white-space:nowrap;flex:none
+  }
+  .chip.u{background:var(--urgent-soft);color:var(--urgent)}
+  .chip.s{background:var(--soon-soft);color:var(--soon)}
+  .chip.r{background:var(--rolling-soft);color:var(--rolling)}
+
+  .facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px 18px;
+    border-top:1px solid var(--line-soft);padding-top:12px;margin-top:4px}
+  .fact .l{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:2px}
+  .fact .v{font-size:13.5px;color:var(--ink-2);font-variant-numeric:tabular-nums}
+  .fact .v.mono{font-family:var(--f-mono);font-size:12.5px}
+
+  .gate{margin:12px 0 0;padding:10px 13px;background:var(--surface-sunk);border-radius:3px;
+    font-size:13.5px;color:var(--ink-2);line-height:1.5}
+  .gate b{color:var(--ink);font-weight:700}
+  .gate.win{background:var(--rolling-soft);color:var(--ink-2)}
+
+  /* ---------- corridor strip ---------- */
+  .corridor{border:1px solid var(--line);border-radius:3px;overflow-x:auto;background:var(--surface)}
+  table{border-collapse:collapse;width:100%;min-width:560px;font-size:13.5px}
+  th,td{text-align:left;padding:10px 14px;border-bottom:1px solid var(--line-soft)}
+  th{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:600;
+     background:var(--surface-sunk)}
+  tr:last-child td{border-bottom:none}
+  td.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums;text-align:right;width:1%;white-space:nowrap}
+  td.zero{color:var(--muted)}
+  td.has{color:var(--rolling);font-weight:600}
+
+  /* ---------- channels ---------- */
+  .channels{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+  .ch{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:16px 18px}
+  .ch h4{font-family:var(--f-body);font-size:14.5px;font-weight:700;margin:0 0 6px;line-height:1.3}
+  .ch p{margin:0;font-size:13.5px;color:var(--ink-2);line-height:1.5}
+
+  /* ---------- steps ---------- */
+  ol.steps{list-style:none;counter-reset:s;padding:0;margin:0;display:flex;flex-direction:column;gap:14px}
+  ol.steps li{counter-increment:s;display:grid;grid-template-columns:28px 1fr;gap:14px;align-items:start}
+  ol.steps li::before{
+    content:counter(s);font-family:var(--f-mono);font-size:12px;font-weight:600;color:var(--accent);
+    background:var(--accent-soft);width:28px;height:28px;border-radius:50%;
+    display:grid;place-items:center;margin-top:1px
+  }
+  ol.steps p{margin:0;font-size:14.5px;line-height:1.55;color:var(--ink-2)}
+  ol.steps b{color:var(--ink)}
+
+  .caveat{
+    border:1px dashed var(--line);border-radius:3px;padding:16px 18px;
+    font-size:13.5px;color:var(--muted);line-height:1.55;max-width:74ch
+  }
+  .caveat b{color:var(--ink-2)}
+
+  footer{margin-top:52px;padding-top:18px;border-top:1px solid var(--line);
+    font-size:12.5px;color:var(--muted);display:flex;flex-wrap:wrap;gap:6px 18px}
+
+  @media (max-width:640px){
+    .tiles{grid-template-columns:1fr}
+    .wrap{padding-block:34px 56px}
+    .job-top{flex-direction:column;gap:6px}
+  }
+  @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+
+<div class="wrap">
+
+  <p class="eyebrow">Government · Public Health &amp; Data · MN–WI</p>
+  <h1>Southwest Metro to Prairie du Chien</h1>
+  <p class="standfirst">Every government opening in public health, epidemiology, and health data between Hopkins and the Wisconsin river towns — swept, verified, and ranked by what you can actually get.</p>
+
+  <div class="meta-rule">
+    <span>Swept <b>13 September 2026</b></span>
+    <span><b>12</b> job boards checked</span>
+    <span>Corridor span <b>~230 mi</b></span>
+    <span>MN + WI, county · state · federal · tribal</span>
+  </div>
+
+  <div class="finding">
+    <h2>The finding</h2>
+    <p>Right now there is <b>not a single government job posted anywhere in your search area</b> with “epidemiologist,” “data scientist,” or “health data analyst” in the title. I checked every county board in the corridor — Carver, Scott, Dakota, Hennepin, Rice, Goodhue, Olmsted, Winona, Houston, and La Crosse — plus both state systems and USAJOBS. The county boards are genuinely thin: Carver has 7 openings total, Bloomington 7, Olmsted 4, and none touch this lane.</p>
+    <p>The work is real, but it sits one level up. <b>The Minnesota Department of Health is the only employer within reach actively hiring in public health right now</b> — and critically, MDH runs hybrid roles out of district offices that include <b>Rochester</b>, which puts a state job physically inside your corridor.</p>
+  </div>
+
+  <div class="tiles">
+    <div class="tile"><span class="n">5</span><span class="k">Live openings worth your time, all at MDH</span></div>
+    <div class="tile hot"><span class="n">2</span><span class="k">Days until the nearest deadline closes</span></div>
+    <div class="tile"><span class="n">0</span><span class="k">County-level epi or data roles open in the corridor</span></div>
+  </div>
+
+  <section>
+    <h2 class="sec">Apply now — ordered by deadline</h2>
+    <p class="sec-note">All four are Minnesota Department of Health, classified, MAPE bargaining unit 214, and all designate the Connect 700 program. Apply at <a href="https://mn.gov/careers">mn.gov/careers</a> by Job ID.</p>
+
+    <div class="jobs">
+
+      <article class="job u">
+        <div class="job-top">
+          <h3><a href="https://www.publichealthcareers.org/job/health-improvement-strategic-support-coordinator-state-program-administrator-coordi-project-program-manageme-us-mn-st-paul-96838-925/">Health Improvement Strategic Support Coordinator</a></h3>
+          <span class="chip u">CLOSES SEP 15 · 2 DAYS</span>
+        </div>
+        <p class="employer"><b>MDH Executive Office</b> — Health Improvement Bureau · State Program Administrator, Coordinator</p>
+        <div class="facts">
+          <div class="fact"><span class="l">Job ID</span><span class="v mono">96838</span></div>
+          <div class="fact"><span class="l">Salary</span><span class="v mono">$79,156–$117,742</span></div>
+          <div class="fact"><span class="l">Location</span><span class="v">St. Paul · hybrid 50%</span></div>
+          <div class="fact"><span class="l">Travel</span><span class="v">Up to 25%</span></div>
+        </div>
+        <p class="gate"><b>The gate:</b> four years of strategic coordination — performance measures, a strategic dashboard, <b>Power BI / Excel</b>, risk assessment, grants. A master's substitutes two years. This is the most data-forward of the four and the closest thing to “public health plus analytics” on the board.</p>
+      </article>
+
+      <article class="job u">
+        <div class="job-top">
+          <h3><a href="https://www.publichealthcareers.org/job/health-system-performance-planner-planner-principal-state-project-program-manageme-us-mn-st-paul-96963-925/">Health System Performance Planner</a></h3>
+          <span class="chip u">CLOSES SEP 16 · 3 DAYS</span>
+        </div>
+        <p class="employer"><b>MDH Public Health Strategy &amp; Partnership</b> — System Transformation Unit · Planner Principal State</p>
+        <div class="facts">
+          <div class="fact"><span class="l">Job ID</span><span class="v mono">96963</span></div>
+          <div class="fact"><span class="l">Salary</span><span class="v mono">$68,841–$101,476</span></div>
+          <div class="fact"><span class="l">Location</span><span class="v">Hybrid — your nearest district office</span></div>
+          <div class="fact"><span class="l">Travel</span><span class="v">None required</span></div>
+        </div>
+        <p class="gate win"><b>Why this one matters geographically:</b> the posting says the location is set by the top candidate, and MDH district offices include <b>Rochester</b> — squarely in your corridor. The gate is three years managing public health performance or QI work, and it explicitly wants experience working <em>for</em> state, local, or tribal public health. That last clause is the hard part if you're coming from private practice.</p>
+      </article>
+
+      <article class="job s">
+        <div class="job-top">
+          <h3><a href="https://www.publichealthcareers.org/job/planner-principal-state-project-program-manageme-us-mn-st-paul-95688-925/">Planner Principal State — Source Water Protection</a></h3>
+          <span class="chip s">CLOSES SEP 18 · 5 DAYS</span>
+        </div>
+        <p class="employer"><b>MDH Environmental Health</b> — Source Water Protection, Metro District · Job Class Option: Water Quality</p>
+        <div class="facts">
+          <div class="fact"><span class="l">Job ID</span><span class="v mono">95688</span></div>
+          <div class="fact"><span class="l">Salary</span><span class="v mono">$68,841–$101,476</span></div>
+          <div class="fact"><span class="l">Location</span><span class="v">St. Paul · telework eligible</span></div>
+          <div class="fact"><span class="l">Travel</span><span class="v">Up to 25%</span></div>
+        </div>
+        <p class="gate win"><b>Your best odds of the four.</b> It asks three years in program planning or public health/environmental program coordination — and states plainly that <b>a doctorate substitutes for two years</b>. That leaves a single year to evidence. The interview criteria ask for exactly one analytical thing: coordinating program activities, analyzing data, and applying findings to program improvement and reporting. Nothing here requires an MPH.</p>
+      </article>
+
+      <article class="job s">
+        <div class="job-top">
+          <h3><a href="https://www.publichealthcareers.org/job/dwp-geospatial-research-specialist-research-scientist-3-academic-research-us-mn-st-paul-95954-925/">DWP Geospatial Research Specialist — Research Scientist 3</a></h3>
+          <span class="chip s">CLOSES SEP 23 · 10 DAYS</span>
+        </div>
+        <p class="employer"><b>MDH Environmental Health</b> — Drinking Water Protection / Technical Services</p>
+        <div class="facts">
+          <div class="fact"><span class="l">Job ID</span><span class="v mono">95954</span></div>
+          <div class="fact"><span class="l">Salary</span><span class="v mono">$79,156–$117,742</span></div>
+          <div class="fact"><span class="l">Location</span><span class="v">St. Paul · up to 50% telework</span></div>
+          <div class="fact"><span class="l">Contact</span><span class="v">Laura Jones · 651-201-4842</span></div>
+        </div>
+        <p class="gate"><b>The truest public-health-plus-data-science role on this list — and the hardest gate.</b> Four years of research experience that must include GIS work, geoprocessing workflows in <b>Python (ArcPy)</b>, and technical training of stakeholders. A doctorate covers two of the four years, but the ArcPy requirement is specific and not something a general Python background satisfies. Preferred qualifications name health informatics, statistics, epidemiology, and public health degrees. Worth applying if you have any real GIS history; worth reading closely either way, because this is the exact job description to aim at.</p>
+      </article>
+
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec">In the corridor itself</h2>
+    <p class="sec-note">One posting inside your geography is worth taking seriously — not for the pay, but for where it puts you.</p>
+    <div class="jobs">
+      <article class="job s">
+        <div class="job-top">
+          <h3><a href="https://www.governmentjobs.com/careers/olmsted/jobs/5472475/community-health-worker-disease-prevention-control">Community Health Worker — Disease Prevention &amp; Control</a></h3>
+          <span class="chip s">CLOSES SEP 18 · 5 DAYS</span>
+        </div>
+        <p class="employer"><b>Olmsted County Public Health Services</b> — Rochester, MN</p>
+        <div class="facts">
+          <div class="fact"><span class="l">Salary</span><span class="v mono">$24.40–$40.77/hr</span></div>
+          <div class="fact"><span class="l">Start range</span><span class="v mono">$24.40–$32.59</span></div>
+          <div class="fact"><span class="l">Requires</span><span class="v">HS/GED + 3 yrs · CHW cert in 6 mo</span></div>
+          <div class="fact"><span class="l">Setting</span><span class="v">On-site, Rochester</span></div>
+        </div>
+        <p class="gate"><b>A deliberate step down that buys position.</b> Olmsted County Public Health holds the Minnesota Department of Health infrastructure funds to build data capacity <b>across the entire Southeast region</b> — it is the only genuine epidemiology and health-data shop inside your corridor, and it periodically posts Epidemiologist 1/2 and Public Health Strategist roles. If the corridor is where you want to land, being inside that department when the next analyst req opens is worth more than another year of applying cold.</p>
+      </article>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec">Where the postings actually are</h2>
+    <p class="sec-note">Live in-scope openings by corridor segment, counting only public health, epidemiology, health data, and analysis roles. This is what “thin” looks like in numbers.</p>
+    <div class="corridor">
+      <table>
+        <thead>
+          <tr><th>Segment</th><th>Counties &amp; jurisdictions swept</th><th class="num">In scope</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>SW Metro</td><td>Carver, Scott, SW Hennepin, Bloomington, Edina, Eden Prairie, Minnetonka</td><td class="num zero">0</td></tr>
+          <tr><td>St. Paul / state seat</td><td>Minnesota Department of Health, MN Merit System</td><td class="num has">5</td></tr>
+          <tr><td>Dakota &amp; Rice</td><td>Hastings, West St. Paul, Northfield, Faribault</td><td class="num zero">0</td></tr>
+          <tr><td>River bluffs</td><td>Goodhue (Red Wing), Wabasha, Winona, Houston</td><td class="num zero">0</td></tr>
+          <tr><td>Rochester</td><td>Olmsted County Public Health, City of Rochester</td><td class="num has">1</td></tr>
+          <tr><td>Wisconsin corridor</td><td>La Crosse, Monroe, Vernon, Crawford, Grant, Trempealeau</td><td class="num zero">0</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec">Channels, not postings</h2>
+    <p class="sec-note">Four of these don't list a job today but are how corridor openings actually surface. Set them up once and the next cycle comes to you.</p>
+    <div class="channels">
+      <div class="ch">
+        <h4>CHS Mailbag</h4>
+        <p>MDH's weekly digest of every Minnesota local and tribal health department opening, delivered to your inbox. The single highest-yield subscription for county public health work in this corridor.</p>
+      </div>
+      <div class="ch">
+        <h4>Minnesota Merit System</h4>
+        <p>The shared civil-service register for county human services. Continuous “future vacancies” exams place you on a list that Houston, Rice, Wabasha, and Olmsted counties hire from directly.</p>
+      </div>
+      <div class="ch">
+        <h4>Olmsted County job alerts</h4>
+        <p>Epidemiologist 1/2 and Public Health Strategist recur here and nowhere else in the corridor. Alerts are worth setting even while nothing is posted.</p>
+      </div>
+      <div class="ch">
+        <h4>wisc.jobs</h4>
+        <p>Carries Wisconsin <em>county</em> postings alongside state ones — Sauk and Jefferson counties both appear there now. It is the one board to watch for La Crosse, Vernon, and Crawford.</p>
+      </div>
+      <div class="ch">
+        <h4>Shakopee Mdewakanton Sioux Community</h4>
+        <p>Tribal government in Prior Lake and Shakopee, hiring health and behavioral health roles in the southwest metro. Sovereign employer, separate board, frequently overlooked.</p>
+      </div>
+      <div class="ch">
+        <h4>Tomah VA &amp; Minneapolis VA</h4>
+        <p>Federal health roles at both ends of the corridor. Currently clinical rather than analytic, but VA data and informatics reqs post through the same USAJOBS announcements.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec">What I'd do this week</h2>
+    <ol class="steps">
+      <li><p><b>Apply to Planner Principal State (95688) first.</b> The doctorate substitution takes the three-year requirement down to one, and it's the only one of the four where no clause quietly requires prior government employment. Five days left.</p></li>
+      <li><p><b>Then 96838, today if possible.</b> It closes in two days and it is the one that names dashboards and Power BI outright — the closest match to where you're taking your analytics work.</p></li>
+      <li><p><b>Write the resume to the State of Minnesota's rules, not to a normal resume standard.</b> Every one of these postings repeats the same warning: list <b>beginning and ending month and year</b> for each role, and describe experience in the exact areas listed. State HR screens minimum qualifications mechanically before a hiring manager ever reads it. A resume that would impress a private employer routinely fails this filter.</p></li>
+      <li><p><b>Claim the doctorate substitution explicitly.</b> Don't assume the screener infers it. Name the degree, name the clause, and state the arithmetic — two years of the requirement, satisfied by the doctorate.</p></li>
+      <li><p><b>Subscribe to the CHS Mailbag and set Olmsted alerts.</b> Both are free and both cover the gap that this week's sweep exposed: the corridor hires in bursts, and you want to hear about the next one before it's on a job board.</p></li>
+    </ol>
+  </section>
+
+  <section>
+    <h2 class="sec">The honest gap</h2>
+    <p class="caveat">Most epidemiologist and health-analyst roles in this corridor gate on an <b>MPH or demonstrated applied analytics in a public health setting</b> — Olmsted's own Epidemiologist 1 posting asks for an MPH, or a bachelor's plus a year of applied epidemiology in a community setting. A clinical doctorate plus a data science certificate is a genuinely strong combination, but it reads to a government screener as neither credential. Two things close that gap faster than a second degree: the <b>doctorate-for-experience substitutions</b> the State of Minnesota writes into nearly every posting, and <b>any position inside a governmental public health agency</b>, which converts the recurring “experience working for state, local, or tribal public health” clause from a barrier into a checked box. That is the real argument for the Olmsted community health worker role despite the pay.<br><br><b>One assumption to correct if I have it wrong:</b> I inferred your background — naturopathic doctorate, clinical practice in Hopkins, and self-directed data science work — from this repository and your email domain rather than from a resume. If you have an MPH, GIS or ArcPy experience, or prior public sector employment, the ranking above changes materially, and the geospatial Research Scientist 3 role moves to the top.</p>
+  </section>
+
+  <footer>
+    <span>Swept 13 Sep 2026</span>
+    <span>Boards: mn.gov/careers · governmentjobs.com (Olmsted, Carver, Dakota, Hennepin, Bloomington, Rice, Houston, La Crosse, MN Merit) · wisc.jobs · USAJOBS · mncounties.org · publichealthcareers.org</span>
+    <span>Deadlines change without notice — verify on the posting before you rely on one.</span>
+  </footer>
+
+</div>
