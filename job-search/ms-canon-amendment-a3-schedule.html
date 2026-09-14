@@ -1,0 +1,332 @@
+<title>Canon Amendment A3</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap">
+
+<style>
+  :root{
+    --ground:#F7F8F6; --surface:#FFFFFF; --sunk:#EEF1EE;
+    --ink:#17201C; --ink-2:#3A453F; --muted:#5C6862;
+    --line:#D8DEDA; --line-soft:#E7ECE8;
+    --accent:#1C5D73; --accent-soft:#DCE9EE;
+    --stop:#A8391F; --stop-soft:#F6E3DE;
+    --warn:#8A5F09; --warn-soft:#F7ECD6;
+    --go:#3F6B4A; --go-soft:#E0EBE2;
+    --shadow:0 1px 2px rgba(23,32,28,.06),0 8px 24px -16px rgba(23,32,28,.28);
+    --f-display:"Newsreader",Georgia,serif;
+    --f-body:"Source Sans 3","Segoe UI",system-ui,sans-serif;
+    --f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+  }
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+    --ground:#111613; --surface:#1A211D; --sunk:#151B18;
+    --ink:#E9EEEA; --ink-2:#C2CCC6; --muted:#8D9A93;
+    --line:#2C3630; --line-soft:#232B27;
+    --accent:#77B6CB; --accent-soft:#1D3038;
+    --stop:#E98D74; --stop-soft:#3A211A;
+    --warn:#D9AE5A; --warn-soft:#332913;
+    --go:#8FBE9B; --go-soft:#1C2C21;
+    --shadow:0 1px 2px rgba(0,0,0,.5),0 8px 24px -16px rgba(0,0,0,.8);
+  }}
+  :root[data-theme="dark"]{
+    --ground:#111613; --surface:#1A211D; --sunk:#151B18;
+    --ink:#E9EEEA; --ink-2:#C2CCC6; --muted:#8D9A93;
+    --line:#2C3630; --line-soft:#232B27;
+    --accent:#77B6CB; --accent-soft:#1D3038;
+    --stop:#E98D74; --stop-soft:#3A211A;
+    --warn:#D9AE5A; --warn-soft:#332913;
+    --go:#8FBE9B; --go-soft:#1C2C21;
+    --shadow:0 1px 2px rgba(0,0,0,.5),0 8px 24px -16px rgba(0,0,0,.8);
+  }
+  *{box-sizing:border-box}
+  body{background:var(--ground);color:var(--ink);font-family:var(--f-body);
+    font-size:16.5px;line-height:1.62;margin:0;padding-inline:20px;padding-block:0;
+    -webkit-font-smoothing:antialiased}
+  .wrap{max-width:900px;margin-inline:auto;padding-block:44px 72px}
+  a{color:var(--accent);text-underline-offset:2px}
+  a:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:3px}
+
+  .eyebrow{font-family:var(--f-mono);font-size:11px;font-weight:600;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--muted);margin:0 0 12px}
+  h1{font-family:var(--f-display);font-weight:600;font-size:clamp(2rem,5.4vw,2.9rem);
+    line-height:1.08;letter-spacing:-.015em;margin:0 0 12px;text-wrap:balance}
+  .standfirst{font-family:var(--f-display);font-style:italic;color:var(--ink-2);
+    font-size:clamp(1rem,2.2vw,1.16rem);max-width:62ch;margin:0 0 24px;line-height:1.5}
+  .status{display:flex;flex-wrap:wrap;gap:8px 20px;border-block:1px solid var(--line);
+    padding-block:12px;margin-bottom:34px;font-size:13px;color:var(--muted);font-family:var(--f-mono)}
+  .status b{color:var(--ink-2);font-weight:600}
+
+  h2.sec{font-family:var(--f-body);font-size:12px;font-weight:700;letter-spacing:.13em;
+    text-transform:uppercase;color:var(--accent);margin:0 0 4px}
+  h3.hd{font-family:var(--f-display);font-weight:600;font-size:1.42rem;letter-spacing:-.01em;
+    margin:0 0 14px;text-wrap:balance}
+  section{margin-bottom:44px}
+  p{max-width:68ch}
+
+  .key{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--accent);
+    border-radius:3px;padding:20px 22px;box-shadow:var(--shadow)}
+  .key p{margin:0 0 12px}
+  .key p:last-child{margin-bottom:0}
+  .key b{color:var(--ink)}
+
+  /* week grid */
+  .gridwrap{overflow-x:auto;border:1px solid var(--line);border-radius:3px;background:var(--surface)}
+  table.week{border-collapse:collapse;width:100%;min-width:660px;font-size:13px}
+  table.week th,table.week td{border:1px solid var(--line-soft);padding:9px 10px;text-align:left;vertical-align:top}
+  table.week thead th{background:var(--sunk);font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;
+    color:var(--muted);font-weight:600}
+  table.week th.rowhd{background:var(--sunk);font-family:var(--f-mono);font-size:11px;
+    color:var(--ink-2);font-weight:600;white-space:nowrap;width:1%}
+  td.job{background:var(--accent-soft);color:var(--ink-2);font-weight:600}
+  td.ms{background:var(--go-soft);color:var(--ink);font-weight:700}
+  td.free{color:var(--muted)}
+
+  table.plain{border-collapse:collapse;width:100%;font-size:14px;min-width:520px}
+  .tblwrap{overflow-x:auto;border:1px solid var(--line);border-radius:3px;background:var(--surface)}
+  table.plain th,table.plain td{padding:10px 14px;text-align:left;border-bottom:1px solid var(--line-soft)}
+  table.plain th{background:var(--sunk);font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;
+    color:var(--muted);font-weight:600}
+  table.plain tr:last-child td{border-bottom:none}
+  td.num,th.num{text-align:right;font-family:var(--f-mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+
+  ol.items{list-style:none;counter-reset:it;padding:0;margin:0;display:flex;flex-direction:column;gap:20px}
+  ol.items>li{counter-increment:it;display:grid;grid-template-columns:30px 1fr;gap:14px;align-items:start}
+  ol.items>li::before{content:"A3." counter(it);font-family:var(--f-mono);font-size:10.5px;font-weight:600;
+    color:var(--accent);background:var(--accent-soft);padding:4px 0;width:44px;border-radius:2px;
+    text-align:center;margin-top:2px}
+  ol.items>li{grid-template-columns:44px 1fr}
+  .it h4{font-family:var(--f-body);font-size:1rem;font-weight:700;margin:0 0 6px;line-height:1.35}
+  .it p{margin:0 0 9px;font-size:14.5px;color:var(--ink-2)}
+  .it p:last-child{margin-bottom:0}
+  .it b{color:var(--ink)}
+  code{font-family:var(--f-mono);font-size:.88em;background:var(--sunk);padding:1px 5px;border-radius:2px}
+
+  .gate{background:var(--stop-soft);border:1px solid var(--stop);border-radius:3px;padding:20px 22px}
+  .gate h3{font-family:var(--f-body);font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--stop);margin:0 0 10px}
+  .gate p{margin:0 0 12px;color:var(--ink-2)}
+  .gate p:last-child{margin-bottom:0}
+  .gate b{color:var(--ink)}
+  .gate ul{margin:0 0 12px;padding-left:20px}
+  .gate li{font-size:14.5px;color:var(--ink-2);margin-bottom:6px}
+
+  .win{background:var(--go-soft);border:1px solid var(--go);border-radius:3px;padding:18px 20px}
+  .win h3{font-family:var(--f-body);font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--go);margin:0 0 10px}
+  .win p{margin:0 0 10px;color:var(--ink-2);font-size:14.5px}
+  .win p:last-child{margin-bottom:0}
+  .win b{color:var(--ink)}
+
+  .opts{display:flex;flex-direction:column;gap:14px}
+  .opt{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:16px 18px;
+    box-shadow:var(--shadow);border-left:3px solid var(--line)}
+  .opt.pick{border-left-color:var(--go)}
+  .opt-top{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:baseline;justify-content:space-between;margin-bottom:4px}
+  .opt h4{font-family:var(--f-body);font-size:1.02rem;font-weight:700;margin:0;line-height:1.3}
+  .opt .pay{font-family:var(--f-mono);font-size:12.5px;color:var(--accent);font-weight:600;white-space:nowrap}
+  .opt .sched{font-family:var(--f-mono);font-size:12px;color:var(--muted);margin:0 0 8px}
+  .opt p{margin:0;font-size:14px;color:var(--ink-2);max-width:none}
+  .opt .cost{margin-top:8px;padding-top:8px;border-top:1px solid var(--line-soft);font-size:13.5px}
+  .opt .cost b{color:var(--ink)}
+
+  ul.open{margin:0;padding-left:20px}
+  ul.open li{font-size:14.5px;color:var(--ink-2);margin-bottom:9px;max-width:66ch}
+  ul.open b{color:var(--ink)}
+
+  footer{margin-top:50px;padding-top:18px;border-top:1px solid var(--line);
+    font-size:12.5px;color:var(--muted);max-width:74ch}
+
+  @media (max-width:620px){.wrap{padding-block:32px 54px}ol.items>li{grid-template-columns:1fr}
+    ol.items>li::before{width:44px}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+
+<div class="wrap">
+
+  <p class="eyebrow">MS_CANON_v4_AMENDMENT_A3 · proposed · not yet canon</p>
+  <h1>Canon Amendment A3</h1>
+  <p class="standfirst">Delivery cadence rebuilt around a paid position, using a split that already exists in the protocol: fasting is a per-service requirement, not a per-session one.</p>
+
+  <div class="status">
+    <span>Drafted <b>14 Sep 2026</b></span>
+    <span>Status <b>PROVISIONAL</b></span>
+    <span>Amends <b>canon v4 §2, §4</b></span>
+    <span>Governs over <b>A1, A2</b> on cadence only</span>
+  </div>
+
+  <section>
+    <h2 class="sec">A3.0 — Why this exists</h2>
+    <h3 class="hd">The premise changed</h3>
+    <div class="key">
+      <p>Canon v4 assumes Metabolic Suite is the primary weekday commitment. It isn't going to be. A paid position has to sit alongside it, and the family is on Medical Assistance, so income has to arrive on a schedule rather than in bursts.</p>
+      <p>Canon's locked cadence — three mornings, Tue/Thu/Sat — makes that impossible, because it occupies the three most employable blocks in the week. <b>But it occupies them for a reason that only applies to two of the three services.</b></p>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec">A3.1 — The load-bearing change</h2>
+    <h3 class="hd">Pre-test state is per-service, not per-session</h3>
+    <div class="key">
+      <p><b>RMR and Full Suite require the fasted protocol.</b> That is a real physiological constraint and it locks those services to the morning. Nothing here touches it.</p>
+      <p><b>VO₂-only carries no fasting requirement.</b> You do not want a fasted subject going to volitional exhaustion — a fed state is the correct pre-test condition for a maximal ramp, not a compromise on one. Canon has been treating the whole operation as though it inherits RMR's constraint, and it never did.</p>
+      <p>Canon §2 should carry this as an explicit lock, because the entire schedule below rests on it and it will otherwise get re-litigated by whoever reads the RMR protocol first.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec">A3.2 — New delivery cadence</h2>
+    <h3 class="hd">One fasted block, two evening blocks</h3>
+    <div class="gridwrap">
+      <table class="week">
+        <thead>
+          <tr><th class="rowhd">Block</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th><th>Sun</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th class="rowhd">7:00–10:30a</th>
+            <td class="free">MS admin<br>reports</td><td class="free">MS admin<br>reports</td><td class="free">MS admin<br>reports</td>
+            <td class="free">MS admin<br>reports</td><td class="free">MS admin<br>reports</td>
+            <td class="ms">FASTED<br>RMR · Full Suite</td><td class="free">—</td>
+          </tr>
+          <tr>
+            <th class="rowhd">11:00a–5:30p</th>
+            <td class="job">Position</td><td class="job">Position</td><td class="job">Position</td>
+            <td class="job">Position</td><td class="job">Position</td><td class="free">—</td><td class="free">—</td>
+          </tr>
+          <tr>
+            <th class="rowhd">6:15–9:00p</th>
+            <td class="free">—</td><td class="ms">VO₂ only</td><td class="free">—</td>
+            <td class="ms">VO₂ only</td><td class="free">—</td><td class="free">—</td><td class="free">—</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p style="margin-top:14px;color:var(--ink-2);font-size:14.5px">Saturday holds the fasted block at its canon durations — RMR 60, Full Suite 150, one Full Suite per four-hour morning. Tuesday and Thursday evenings hold VO₂-only at 80 minutes plus the scripted 10-minute readout. Sunday is unclaimed, deliberately.</p>
+  </section>
+
+  <section>
+    <h2 class="sec">A3.3 — Capacity</h2>
+    <h3 class="hd">What this costs in ceiling</h3>
+    <div class="tblwrap">
+      <table class="plain">
+        <thead><tr><th>Block</th><th>Services</th><th class="num">At full booking</th></tr></thead>
+        <tbody>
+          <tr><td>Saturday morning</td><td>Full Suite + RMR (fasted)</td><td class="num">$500–525</td></tr>
+          <tr><td>Tuesday evening</td><td>VO₂-only × 1–2</td><td class="num">$175–390</td></tr>
+          <tr><td>Thursday evening</td><td>VO₂-only × 1–2</td><td class="num">$175–390</td></tr>
+          <tr><td><b>Weekly</b></td><td>—</td><td class="num"><b>$850–1,305</b></td></tr>
+          <tr><td>Canon v4 (three mornings)</td><td>—</td><td class="num">~$1,500</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p style="margin-top:14px;color:var(--ink-2);font-size:14.5px">Roughly a 15–40% haircut on theoretical ceiling, against a position paying on a schedule. Given the founding 25 are unfilled and the Google Business Profile recorded zero views last month, <b>ceiling is not the binding constraint right now — demand is.</b> Trading unbookable capacity for a paycheck is not a real loss this year.</p>
+  </section>
+
+  <section>
+    <h2 class="sec">A3.4 — What this fixes for free</h2>
+    <div class="win">
+      <h3>Three open items partially close</h3>
+      <p><b>The venue collision (§14, structural).</b> Evening and Saturday use means the clinic is closed. No patients in the waiting room, no cycling kit beside naturopathic patients, no overlap with Haley's schedule. The brand collision you flagged is largely an artifact of operating during clinic hours — outside them it mostly dissolves.</p>
+      <p><b>The sublease (gate 5, no movement since Aug 10).</b> A Saturday-morning and two-evening footprint is a materially smaller ask than three weekday mornings. Cheaper at FMV, easier to paper, and an easier conversation to open.</p>
+      <p><b>Report turnaround.</b> The old cadence left Friday and Monday to write reports. This one frees <b>every weekday morning</b> — roughly 17 hours a week for reports, the VO₂ block library that doesn't exist yet, and demand work. Canon's "within three business days" gets easier to hold, not harder.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec">A3.5 — Hard gate</h2>
+    <div class="gate">
+      <h3>⛔ Evening solo maximal testing — do not start on this</h3>
+      <p>This amendment moves the <b>maximal-effort</b> test to weekday evenings, alone, in a closed building. Canon §14 already carries solo maximal testing as one of three structural risks, and the carrier question sits unanswered in the Reily draft that has not been sent since Sept 3.</p>
+      <p>The schedule change makes that risk worse, not neutral. It raises three existing open items from "before Oct 15" to <b>"before the first evening VO₂":</b></p>
+      <ul>
+        <li><b>Reily's answer on solo maximal testing</b> — and whether an evening, single-operator pattern changes the carrier's position at all</li>
+        <li><b>The AED actually purchased</b> — gates sweep shows no evidence of an order; canon §5 has the correct $1,194 set</li>
+        <li><b>EAP reconciled with the termination criteria</b>, and SC-1's "physician clearance" squared against PAR-Q+'s "medical clearance"</li>
+      </ul>
+      <p>Until all three close: <b>run VO₂ in the Saturday block alongside the fasted services, not in the evening.</b> Capacity is lower and the schedule is tighter, but nothing is uninsured and nobody is alone on a bike at 8pm. The evening blocks open when the gates close.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec">A3.6 — Canon and artifacts this changes</h2>
+    <ol class="items">
+      <li><div class="it">
+        <h4>§2 delivery row — a deliberate reopening of a LOCKED decision</h4>
+        <p>Replace the Tue/Thu/Sat morning cadence with the block structure in A3.2. Record it as a reopening with its reason, so it doesn't read later as drift.</p>
+      </div></li>
+      <li><div class="it">
+        <h4>§2 — add the pre-test state lock</h4>
+        <p>State per-service: RMR and Full Suite fasted, morning-bound. VO₂-only has no fasting requirement and may be scheduled at any hour. This is the sentence the whole amendment rests on.</p>
+      </div></li>
+      <li><div class="it">
+        <h4>§4 capacity table — rebuild</h4>
+        <p>The runbook already found the existing table wrong (the "2 × Full Suite + 1 × RMR … $675 morning" does not exist). It has to be rewritten regardless; write it to A3.3 rather than to the old cadence.</p>
+      </div></li>
+      <li><div class="it">
+        <h4>§2 report delivery — recompute the promise</h4>
+        <p>"Within three business days" still holds, but the processing blocks move: Saturday tests land Wednesday, Tuesday evening lands Friday, Thursday evening lands Tuesday. Weekday mornings are the writing time.</p>
+      </div></li>
+      <li><div class="it">
+        <h4>MS_ACUITY_BUILD_v1 — rebuild before standing up the account</h4>
+        <p>It is configured for Tue/Thu/Sat with a 240-minute cap and four appointment types, and it carries 22 TODOs. <b>The account does not exist yet, so this change is nearly free today and expensive in three weeks.</b> Do it before the build, not after.</p>
+      </div></li>
+      <li><div class="it">
+        <h4>Website v1.1 — fix before deploying</h4>
+        <p>The zip says three mornings. It is not on GitHub or Cloudflare yet. Same argument: change it while nothing is live.</p>
+      </div></li>
+    </ol>
+  </section>
+
+  <section>
+    <h2 class="sec">A3.7 — The position</h2>
+    <h3 class="hd">Three that fit the block structure</h3>
+    <div class="opts">
+
+      <div class="opt pick">
+        <div class="opt-top">
+          <h4>Preschool Care Assistant — Family Learning Center</h4>
+          <span class="pay">$22.66/hr · ~$38,300/yr</span>
+        </div>
+        <p class="sched">Mon–Fri 11:00am–5:30pm · YEAR-ROUND · open until filled</p>
+        <p>32.5 hrs/week with no summer gap, which is the only one of the three that pays through July. Benefits per the MSEA agreement, overtime and comp time eligible, $500 bonus after 120 days. Leaves every morning free including Saturday, and every evening. Contact Megan Stromley, <span style="font-family:var(--f-mono);font-size:12.5px">StromleyM@District112.org</span>.</p>
+        <p class="cost"><b>What it costs:</b> you are unavailable to PNH during clinic hours, five days a week. Support has to come out of the same weekday mornings as MS admin. That is the real squeeze in this option.</p>
+      </div>
+
+      <div class="opt">
+        <div class="opt-top">
+          <h4>Bus Driver — District Wide</h4>
+          <span class="pay">$24.54 → $25.14/hr</span>
+        </div>
+        <p class="sched">Mon–Fri split shift · paid CDL training · school year + optional summer</p>
+        <p>Roughly 6 hrs/day across a morning and afternoon route, about $27k over the school year, benefits per the drivers' contract. Buses don't run Saturday, so zero collision with the fasted block.</p>
+        <p class="cost"><b>The trade:</b> split shifts are hard on a household, but the gap between routes leaves <b>9am–2pm open for PNH</b> — the thing the preschool role costs you.</p>
+      </div>
+
+      <div class="opt">
+        <div class="opt-top">
+          <h4>Club Care Paraprofessional — Bluff Creek</h4>
+          <span class="pay">$20.99/hr · ~$16,000/yr</span>
+        </div>
+        <p class="sched">Mon–Fri 2:45–5:45pm · student contact days only</p>
+        <p>15 hrs/week, $500 bonus after 120 days, needs first aid and a year with elementary-age kids. Preserves weekday daytime entirely for PNH and MS.</p>
+        <p class="cost"><b>Two unresolved conditions, both one phone call to Megan Stromley:</b> whether 3 hrs/day clears the benefits threshold, and whether staff can enroll their own child in the program. It also ends at 5:45, which makes a 6:15 VO₂ tight.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec">A3.8 — Open, for Jacob</h2>
+    <ul class="open">
+      <li><b>Which position</b> — the choice is really how load-bearing weekday PNH support is. Only you know that.</li>
+      <li><b>Saturday-only VO₂ until the safety gates close</b> — confirm, because it changes what Acuity gets built with this week.</li>
+      <li><b>Does the wire still move?</b> Nothing in A3 changes the analyzer, the note, or the Sept 23 decision gate. Income arriving on a schedule may change how much principal you want.</li>
+      <li><b>Oct 15 or Oct 22</b> — A3 doesn't rescue the date by itself. The five unsent drafts still do.</li>
+      <li><b>MNsure</b> — $38k against a household of three lands you near the MA boundary and into MinnesotaCare, which is $0–80 per adult per month, not a cliff. Worth the free call before you sign anything.</li>
+    </ul>
+  </section>
+
+  <footer>
+    Proposed, not canon. Fold into v5 with the six runbook corrections and the Mayo review's seven proposals, or supersede if the position decision goes another way. Nothing here overrides the §14 risk register or the safety flag on coverage dates — A3.5 tightens both rather than relaxing them.
+  </footer>
+
+</div>
